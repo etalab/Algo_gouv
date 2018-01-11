@@ -1,0 +1,484 @@
+Délibération du 3 février 2016 portant décision relative aux règles de
+commercialisation des capacités de transport à la liaison entre les zones Nord
+et Sud de GRTgaz | Legifrance Legifrance - Le service public de l'accès au
+droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération du 3 février 2016
+portant décision relative aux règles de commercialisation des capacités de
+transport à la liaison entre les zones Nord et Sud de GRTgaz Délibération du 3
+février 2016 portant décision relative aux règles de commercialisation des
+capacités de transport à la liaison entre les zones Nord et Sud de GRTgaz
+Masquer le panneau de navigation Imprimer Navigation Délibération du 3 février
+2016 Version initiale Informations sur ce texte JORF n°0043 du 20 février 2016
+texte n° 76 Délibération du 3 février 2016 portant décision relative aux
+règles de commercialisation des capacités de transport à la liaison entre les
+zones Nord et Sud de GRTgaz NOR: CREE1604576X ELI: Non disponible
+Participaient à la séance : Christine CHAUVET, Catherine EDWIGE, Hélène
+GASSIN, Yann PADOVA et Jean-Pierre SOTURA, commissaires.La présente
+délibération, prise sur le fondement de l'article L.134-2 (4°) du code de
+l'énergie ainsi que sur le règlement (UE) n° 984/2013 de la Commission du 14
+octobre 2013 relatif à l'établissement d'un code de réseau sur les mécanismes
+d'attribution des capacités (« code CAM »), a pour objet de préciser les
+règles de commercialisation des capacités de transport à la liaison entre les
+zones Nord et Sud de GRTgaz. 1\. Contexte1.1. Contexte européen : le code de
+réseau CAM Le code de réseau européen sur les règles d'allocation des
+capacités de transport (code de réseau CAM) prévoit que les capacités aux
+points d'interconnexion au sein de l'Union européenne sont allouées aux
+enchères, sous la forme de produits groupés de durées standardisées et selon
+un calendrier commun. Les capacités annuelles sont commercialisées en mars ;
+les capacités trimestrielles en juin ; les capacités mensuelles le mois
+précédent. Le code prévoit également que 10 % au moins des capacités
+techniques doivent être commercialisées à court terme, sous la forme de
+produits dont la durée est inférieure à l'année.Afin de commercialiser les
+capacités de transport aux enchères, la plateforme PRISMA a été créée
+conjointement par 20 gestionnaires de réseau de transport, issus de sept pays
+membres de l'Union européenne. Cette plateforme, accessible depuis le 1er
+avril 2013, est aujourd'hui utilisée par 37 des 43 gestionnaires de réseau de
+transport (GRT) européens. 1.2. Contexte national1.2.1. Les décisions de la
+CRE pour créer une place de marché unique en France A l'issue des travaux
+menés en Concertation gaz, la CRE, par ses délibérations des 19 juillet 2012
+(1), 13 décembre 2012 (2) et 7 mai 2014 (3), a décidé de :- la création d'une
+place de marché (Trading Region South, TRS) commune aux zones d'équilibrage
+GRTgaz Sud et TIGF le 1er avril 2015 ;- la création d'un PEG unique au plus
+tard le 1er novembre 2018, après la réalisation des projets Val de Saône et
+Gascogne-Midi, pour un budget de 823 M€. La délibération du 30 octobre 2014
+(4) a défini la régulation incitative applicable au respect des délais et des
+coûts associés à ces investissements. 1.2.2. Les décisions de la CRE portant
+sur l'allocation aux enchères des capacités Nord-Sud Entre 2012 et 2014, les
+écarts de prix significatifs entre les points d'échange de gaz (PEG) Nord et
+Sud ont provoqué une forte demande de capacité à la liaison Nord-Sud. L'ancien
+système d'attribution des capacités au prorata des demandes n'était plus
+adapté. La CRE a décidé de le remplacer de manière anticipée par le système
+d'enchères ascendantes prévu par le code CAM. Les règles de commercialisation
+des capacités à la liaison Nord-Sud ont été fixées par la délibération de la
+CRE du 13 février 2014 (5).Dès 2014, les capacités Nord-Sud ont été mises en
+vente aux enchères pour la période de 2015 à 2018.La différence entre le prix
+d'adjudication et le tarif régulé des capacités vendues aux enchères est
+intégralement redistribuée aux expéditeurs des clients du sud de la France, au
+prorata de leur consommation. 1.2.3. Evolution de la congestion à la liaison
+Nord-Sud \- 2012-2014 : augmentation du prix du gaz naturel liquéfié (GNL),
+écarts de prix Nord-Sud prononcés et congestion de la liaison Nord-Sud Le
+marché mondial du GNL a connu un bouleversement lié à la forte demande
+asiatique. Les méthaniers étaient en effet massivement acheminés vers les
+marchés asiatiques, où le prix du gaz (GNL EAX) a dépassé les 48 €/MWh en
+février 2014. L'approvisionnement de la zone Sud de GRTgaz et de la zone TIGF
+dépendant à 40 % des arrivées de GNL, les prix du gaz y ont fortement augmenté
+à partir du 1er semestre 2012. Des écarts significatifs (jusqu'à 14 €/MWh)
+sont apparus entre les prix constatés aux PEG Nord et Sud, le prix au sud
+étant plus élevé et plus volatil.En conséquence, le prix d'adjudication des
+premières enchères, tenues en mars 2014 pour les capacités annuelles du 1er
+octobre 2014 au 30 septembre 2015, a atteint 3,54 €/MWh/j. \- 2014-2015 :
+baisse du prix du GNL, réduction de l'écart de prix Nord-Sud et de la demande
+à la liaison Nord-Sud A compter de novembre 2014, le différentiel des prix
+mondiaux du GNL s'est réduit, favorisant l'acheminement de GNL en Europe. En
+conséquence, l'écart de prix entre le PEG Nord et le PEG Sud, devenu TRS à la
+suite de la fusion des zones PEG Sud et TIGF au 1er avril 2015, s'est résorbé
+: entre novembre 2014 et novembre 2015, il a été en moyenne de 0,37 €/MWh.Lors
+des dernières enchères de capacités réalisées en mars 2015, pour les capacités
+annuelles disponibles entre le 1er octobre 2015 et le 30 septembre 2016, la
+demande a été nettement moins prononcée que lors des enchères antérieures. Le
+prix d'adjudication a été de 0,72 €/MWh/j, alors que l'année précédente, les
+expéditeurs avaient souscrit le même produit au prix de 2,96 €/MWh/j. 20,9
+GWh/j de capacités interruptibles sont restées invendues.Au cours des enchères
+portant sur les produits trimestriels réalisées en juin 2015 pour la période
+d'octobre 2015 à septembre 2016, les capacités n'ont pas été intégralement
+souscrites. Ainsi pour la période allant du 1er octobre 2015 au 30 septembre
+2016, plus de 12 GWh/j de capacités fermes proposées à la vente n'ont pas été
+souscrites. 2\. Evolution des modalités de commercialisation des capacités à
+la liaison Nord-Sud Les règles de commercialisation des capacités de transport
+font l'objet de travaux réguliers en Concertation Gaz. Il ressort de ces
+travaux que le dispositif actuel d'enchères et de redistribution des excédents
+d'enchères fonctionne de manière satisfaisante. GRTgaz souhaite maintenir le
+système en place et y apporter certaines évolutions, détaillées dans la
+proposition transmise à la CRE le 20 novembre 2015.La CRE a procédé à une
+consultation publique du 11 décembre 2015 au 11 janvier 2016 sur les
+propositions d'évolution de GRTgaz.15 contributions ont été adressées à la CRE
+:3 proviennent d'industriels ou d'associations d'industriels : Petroineos,
+Solvay Energy Services, UNIDEN ;10 proviennent d'expéditeurs : Antargaz,
+Direct Energie, EDF, ENGIE, Gazprom, et 4 expéditeurs confidentiels ;1
+provient d'une association : UPRIGAZ ;1 provient d'un opérateur de plateforme
+boursière : Powernext.Les réponses non confidentielles sont publiées sur le
+site internet de la CRE (6). 2.1. Commercialisation de capacités à la liaison
+Nord-Sud au-delà du 1er octobre 20182.1.1. Proposition de GRTgaz La création
+d'une zone de marché unique du gaz en France doit intervenir au plus tard le
+1er novembre 2018. GRTgaz propose néanmoins de commercialiser en mars 2016 les
+capacités annuelles pour la période du 1er octobre 2018 au 30 septembre
+2019.GRTgaz souligne qu'aucun retard n'est à signaler concernant la
+réalisation des ouvrages nécessaires à la fusion des zones. Néanmoins, les
+travaux en Concertation Gaz ont montré que les acteurs de marché attachent une
+grande importance à la visibilité sur les conditions d'accès au Sud du
+territoire. Ils demandent, en majorité, que les capacités Nord-Sud soient
+commercialisées sur plusieurs années.Par ailleurs, la fusion des zones PEG
+Nord et TRS est prévue pour le 1er novembre 2018 alors que la
+commercialisation des capacités est aujourd'hui arrêtée au 30 septembre 2018.
+GRTgaz considère donc que cette commercialisation permettrait d'anticiper la
+vente des capacités pour le mois d'octobre 2018. 2.1.2. Synthèse des réponses
+à la consultation publique La majorité des acteurs ayant répondu à la
+consultation publique se sont exprimés en faveur de la commercialisation de
+capacités annuelles pour l'année gazière 2018-2019, afin de sécuriser leur
+acheminement a minima au cours du mois d'octobre 2018 et de se prémunir en cas
+de retard de mise en service des ouvrages nécessaires à la fusion des
+zones.Deux acteurs estiment cependant qu'il serait préférable de déroger au
+calendrier CAM et de ne commercialiser que le mois d'octobre 2018 ou le
+dernier trimestre de 2018, afin de limiter l'engagement financier des
+expéditeurs.Enfin, un acteur estime qu'il n'est pas nécessaire de
+commercialiser dès mars 2016 la capacité permettant de couvrir la fin de
+l'année 2018. 2.1.3. Analyse de la CRE Bien qu'aucun retard dans la fusion des
+zones ne soit anticipé à ce jour, il demeure que la réalisation d'une place de
+marché unique n'est prévue qu'au 1er novembre 2018, créant une incertitude
+pour les expéditeurs, qui ne pourront souscrire de capacités pour le mois
+d'octobre 2018 qu'un mois avant.La CRE considère donc, comme la majorité des
+acteurs ayant répondu à la consultation publique, qu'il est souhaitable de
+commercialiser la capacité à la liaison Nord-Sud pour une année gazière
+supplémentaire, jusqu'au 30 septembre 2019.Les capacités souscrites n'étant
+facturées pour chaque mois qu'a posteriori, en M + 2, cette commercialisation
+anticipée sera sans conséquence si la fusion des zones intervenait au 1er
+novembre 2018, conformément au calendrier prévu. En effet, au moment de la
+fusion, la liaison Nord Sud disparaîtra ainsi que les capacités associées, qui
+cesseront donc d'être facturées aux expéditeurs. Cette commercialisation
+apportera donc aux expéditeurs une couverture pour le mois d'octobre 2018 et
+au-delà, en cas de retard dans la réalisation des ouvrages.La CRE est donc
+favorable à la proposition de GRTgaz. 2.2. Calendrier de commercialisation des
+capacités Nord-Sud pour la période du 1er octobre 2018 au 30 septembre
+20192.2.1. Proposition de GRTgaz GRTgaz propose que les capacités annuelles à
+la liaison Nord-Sud pour la période du 1er octobre 2018 au 30 septembre 2019
+soient commercialisées, comme les capacités des périodes précédentes,
+conformément aux modalités déterminées par le code de réseau CAM : vente aux
+enchères sur la plateforme PRISMA, selon le calendrier CAM en fonction des
+différentes maturités.Conformément à l'article 8 du code CAM, GRTgaz prévoit
+de réserver 10 % de la capacité totale à la commercialisation des capacités
+trimestrielles lors de l'enchère dédiée en 2018.GRTgaz propose de
+commercialiser toutes les capacités annuelles Nord-Sud disponibles d'octobre
+2017 à septembre 2019 dès les enchères de 2016.Le tableau ci-dessous présente
+le mode de commercialisation des capacités annuelles proposé par GRTgaz. Par
+souci de simplification, ce tableau exclut les 10 % réservés aux capacités
+trimestrielles. PROPOSITION DE GRTGAZ OCT. 2017-SEPT. 2018 OCT. 2018-SEPT.
+2019 Enchères 2014 25 % 0 % Enchères 2015 25 % 0 % Enchères 2016 50 % 100 %
+Enchères 2017 0 % 0 % Enchères 2018 0 % Dans le cadre de la consultation
+publique qu'elle a menée, la CRE proposait de commercialiser 50 % des
+capacités disponibles lors des enchères de 2016, 25 % lors des enchères de
+2017 et 25 % lors des enchères de 2018. PROPOSITION DE LA CRE OCT. 2017-SEPT.
+2018 OCT. 2018-SEPT. 2019 Enchères 2014 25 % 0 % Enchères 2015 25 % 0 %
+Enchères 2016 25 % 50 % Enchères 2017 25 % 25 % Enchères 2018 25 % 2.2.2.
+Synthèse des réponses à la consultation publique La totalité des acteurs ayant
+répondu à la consultation publique se sont exprimés en faveur d'une vente
+lissée des capacités Nord Sud pour l'année 2018-2019.Un acteur s'exprime en
+faveur d'une répartition différente des quantités de capacité vendues chaque
+année. Il souhaite en effet que 25 % soient vendus en 2016, 25 % en 2017 et 50
+% en 2018. 2.2.3. Analyse de la CRE La CRE a souhaité, dans le cadre de la
+consultation publique, proposer un calendrier autre que celui proposé par
+GRTgaz pour la commercialisation des capacités annuelles à la liaison Nord-
+Sud. Elle estimait en effet que la proposition de GRTgaz aurait pu conduire à
+figer les souscriptions de capacités à la liaison Nord-Sud, alors que les
+portefeuilles de chaque expéditeur sont susceptibles d'évoluer et qu'un
+éventuel nouvel entrant pourrait vouloir acheter des capacités après les
+enchères de mars 2016. Dans cette logique, la CRE avait décidé, dans sa
+délibération du 17 octobre 2013 (7), que les capacités à la liaison Nord-Sud
+seraient commercialisées de façon progressive. Au vu des réponses à la
+consultation publique, la CRE maintient son analyse préliminaire. Ainsi, la
+CRE demande à GRTgaz que hors les 10 % réservés pour la commercialisation au
+pas de temps inférieur à l'annuel, 50 % des capacités disponibles pour l'année
+gazière 2018-2019 soient proposées à la vente lors des enchères de 2016, 25 %
+lors des enchères de 2017 et 25 % lors des enchères de 2018. De même, 25 % des
+capacités disponibles pour l'année gazière 2017-2018 seront proposées à la
+vente lors des enchères de 2016 et 25 % lors des enchères de 2017. 2.3.
+Modalités de commercialisation des capacités Nord-Sud interruptibles2.3.1.
+Capacité annuelle2.3.1.1. Proposition de GRTgaz Depuis 2013, GRTgaz ne
+commercialise les capacités interruptibles que si au moins 98 % des capacités
+fermes proposées lors de l'enchère sont souscrites. Or, l'algorithme défini à
+l'article 16 du code de réseau CAM, utilisé pour la vente aux enchères
+ascendantes, ne permet pas toujours d'atteindre ce seuil, même lorsque la
+demande est supérieure à l'offre lors du premier tour d'enchères.GRTgaz
+propose d'abaisser le seuil de commercialisation de l'interruptible à 95 % de
+souscription des capacités fermes proposées à la vente. 2.3.1.2. Synthèse des
+réponses à la consultation publique La majorité des acteurs ayant répondu à la
+consultation publique se sont exprimés en faveur de l'abaissement du seuil de
+commercialisation de l'interruptible à 95 %.Trois acteurs ont exprimé des
+réserves :Deux acteurs estiment en effet que 95 % reste un seuil trop élevé.
+Ils s'expriment en faveur d'un seuil entre 90 et 92 %. Un de ces acteurs
+souhaite que cette baisse soit accompagnée d'une diminution des grands
+incréments d'enchères.Enfin, un acteur souhaite que les capacités
+interruptibles soient vendues y compris lorsque l'ensemble des capacités
+fermes ne sont pas vendues. Il estime que les capacités interruptibles sont
+des produits différents des capacités fermes. 2.3.1.3. Analyse de la CRE La
+CRE constate que le mécanisme d'enchères, composé de grands et de petits
+incréments, conduit à des invendus résiduels qui peuvent être supérieurs à 2
+%.De façon générale, la CRE considère qu'il n'est pas souhaitable que de la
+capacité interruptible soit vendue si la capacité ferme mise en vente n'est
+pas intégralement souscrite. La seule exception acceptable à cette règle est
+le cas où les invendus résultent du fonctionnement des enchères, la demande
+ayant été supérieure à l'offre.La CRE estime que, combiné à des incréments
+d'enchères pertinents, le seuil de 95 % est un seuil suffisant pour déclencher
+la vente des capacités interruptibles dès lors que la demande pour les
+capacités fermes est supérieure à l'offre.La CRE est donc favorable à la
+proposition de GRTgaz. 2.3.2. Capacité trimestrielle et mensuelle2.3.2.1.
+Proposition de GRTgaz Sur le fondement de l'article 24 du code CAM, les
+capacités interruptibles sont interrompues en fonction de leur maturité. Les
+capacités mensuelles étant interrompues avant les trimestrielles, et les
+trimestrielles avant les annuelles, les capacités de maturité inférieure à
+l'annuelle se trouvent dévalorisées par l'application de cette règle.GRTgaz a
+donc décidé, en 2015, de ne plus commercialiser de capacités interruptibles de
+maturité trimestrielle et mensuelle à la liaison Nord-Sud. GRTgaz propose de
+maintenir cette position jusqu'en 2018. 2.3.2.2. Synthèse des réponses à la
+consultation publique La majorité des acteurs ayant répondu à la consultation
+publique se sont exprimés en faveur de la proposition de GRTgaz de ne plus
+commercialiser de capacités interruptibles trimestrielles et mensuelles.Deux
+expéditeurs ont exprimé un avis défavorable sur cette proposition. L'un d'eux
+estime que ceci conduit à reporter une partie des ventes de capacité sur le
+très court terme. Un deuxième expéditeur estime qu'il devrait être du ressort
+des expéditeurs d'acheter ou non de la capacité interruptible trimestrielle ou
+mensuelle.Deux expéditeurs expriment des réserves sur cette proposition. Un
+premier considère que dans une situation de faible demande lors des enchères
+annuelles, cela conduirait à ne pas vendre de capacité interruptible ni en
+annuel, ni en trimestriel et ni en journalier. Un deuxième expéditeur demande
+un suivi de cette décision en concertation afin de pouvoir l'adapter en cas de
+fort « spread » entre les zones Nord et Sud. 2.3.2.3. Analyse de la CRE La CRE
+constate que l'application de l'article 24 du code CAM a pour conséquence de
+réduire la disponibilité et donc la valeur des produits interruptibles
+mensuels et trimestriels. En outre, la capacité non proposée en produits
+interruptibles trimestriels et mensuels sera proposée à la vente par GRTgaz
+sous forme de capacité ferme J + 1 (day-ahead). La proposition de GRTgaz
+n'induit donc pas de diminution de l'offre de capacité à la liaison Nord-
+Sud.En conséquence, la CRE est favorable à la proposition de GRTgaz de ne pas
+commercialiser de capacités interruptibles mensuelles et trimestrielles. 2.4.
+Séquence de mise à disposition des capacités quotidiennes2.4.1. Proposition de
+GRTgaz Pour allouer efficacement les capacités restées invendues à partir du
+1er octobre 2015, GRTgaz a proposé une séquence de mise à disposition des
+capacités quotidiennes en Concertation gaz. Cette solution est appliquée
+depuis le 8 octobre 2015 : \- les capacités fermes souscrites sont par défaut
+assurées.- la quantité des capacités fermes invendues à commercialiser est
+déterminée.- puis le taux d'interruption des capacités interruptibles est
+déterminé.- les capacités interruptibles souscrites sont servies en priorité,
+dans la limite de ce taux d'interruption.- dans le même temps, les capacités
+interruptibles dédiées au couplage de marché (au maximum 30 GWh/j lorsque le
+taux d'interruption est de 0 %) sont mises en vente.- enfin, la quantité des
+capacités interruptibles non souscrites à proposer à la vente sous forme de
+capacités fermes est déterminée en fonction du taux d'interruption
+précédemment calculé. Cette part de capacité interruptible n'est mise en vente
+que lorsque l'intégralité des capacités interruptibles souscrites ont été
+affermies. Vous pouvez consulter l'image dans le fac-similé du JOnº 0043 du
+20/02/2016, texte nº 76 GRTgaz propose de reconduire cette méthode jusqu'à la
+fusion des zones. Cette séquence, établie en concertation avec les
+expéditeurs, permet à la fois de garantir une bonne disponibilité des
+capacités interruptibles souscrites en produits long terme et d'assurer à
+l'ensemble des expéditeurs un accès à des capacités court terme le jour pour
+le lendemain. 2.4.2. Synthèse des réponses à la consultation publique Les
+participants sont majoritairement favorables au maintien du mode de
+commercialisation jusqu'en 2018.Un fournisseur, bien que favorable au maintien
+du mécanisme actuel, souhaite qu'il puisse être modifié avant 2018, si les
+conditions de marché changeaient radicalement.Le seul participant opposé à la
+séquence proposée par GRTgaz considère que ce mécanisme favorise les produits
+court terme au détriment de l'affermissement des capacités annuelles
+interruptibles souscrites. 2.4.3. Analyse de la CRE La séquence proposée par
+GRTgaz et présentée en Concertation permet de concilier d'une part, la
+disponibilité des capacités interruptibles pour les expéditeurs en ayant
+souscrit sur le long terme, et d'autre part, la commercialisation de capacités
+en court terme, permettant aux expéditeurs d'ajuster leur portefeuille en
+fonction de leur besoin du lendemain.Afin de donner de la visibilité aux
+expéditeurs, la CRE ne souhaite pas que ce mécanisme soit modifié trop
+fréquemment en fonction des conditions de marché.En conséquence, la CRE est
+favorable au maintien de ce mécanisme jusqu'en 2018. 2.5. Canaux de
+commercialisation des produits court terme, journaliers et infra-
+journaliers2.5.1. Proposition de GRTgaz En théorie, les capacités court terme
+sont commercialisables sous la forme de 4 produits différents (day-ahead
+ferme, couplage [8], JTS [9], UBI -Use it and buy it [10]), au moyen de trois
+canaux (PRISMA [11], TRANS@ctions [12] et Powernext [13]). \- les capacités
+fermes J - 1 (day-ahead) et les capacités interruptibles affermies sont
+commercialisées sur PRISMA en J - 1 à 16 h 30.- les capacités JTS sont
+commercialisées sur PRISMA en J - 1 à 16 h 30.- le couplage de marché est
+commercialisé sur Powernext en J - 1 entre 15 h 30 et 17 heures.- les
+expéditeurs utilisent TRANS@ctions pour soumettre leur programme de
+nomination. Ils peuvent souscrire des capacités UBI en surnominant, à partir
+de 19 heures en J - 1. Il ressort du travail en Concertation Gaz qu'une
+simplification et une mise en cohérence des produits de capacité court terme
+et des canaux de commercialisation sont souhaitables. GRTgaz propose deux
+options possibles de modification de l'accès aux capacités court terme,
+applicables à compter du 1er octobre 2016 : \- Option 1 « Chemin vers la
+fusion ». Les capacités journalières seraient intégrées au couplage de marché
+et vendues en enchères implicites sur Powernext, sans prix de réserve. Comme
+aujourd'hui, le JTS serait commercialisé sur PRISMA et les capacités restant
+invendues seraient commercialisées en UBI, sur la plateforme TRANS@ctions, à
+partir de 19 heures la veille de la journée gazière. \- Option 2 « 100 %
+Prisma » Cette option consiste à commercialiser le journalier, le JTS et
+l'infrajournalier sur PRISMA, aux enchères avec comme prix de réserve le tarif
+régulé. Il n'y aurait plus d'enchères implicites sur la base du couplage de
+marché : les 30 GWh/j de capacités interruptibles qui lui sont dédiées
+seraient proposées aux enchères quotidiennes en fonction du taux
+d'interruption calculé chaque jour pour le lendemain. L'UBI serait quant à lui
+supprimé et remplacé par la vente de capacité infrajournalière sur PRISMA.
+2.5.2. Synthèse des réponses à la consultation publique L'intégralité des
+participants considère qu'il est nécessaire de faire évoluer le mode de
+commercialisation des produits journaliers et infra-journaliers, pour les
+simplifier et les rendre plus cohérents. En revanche, les avis sont partagés
+quant à l'option à privilégier. \- Une majorité des participants est
+favorable, comme la CRE, à l'option 1 « chemin vers la fusion ». Ils
+soulignent que cette option est plus favorable au développement de la
+liquidité de la zone TRS et qu'elle contribuera à faire converger les prix
+entre les zones Nord et Sud.L'un d'entre eux considère que cette option est
+adaptée aux conditions de marché, la valeur marché des capacités étant
+inférieure au tarif de réserve.Deux expéditeurs indiquent que l'ergonomie de
+Powernext est bien mieux adaptée au court terme que celle de PRISMA et que
+l'option 1 « chemin vers la fusion » permettrait d'optimiser les ventes de
+capacités, au profit de l'ensemble des utilisateurs du réseau. Un expéditeur
+insiste sur l'intérêt de cette option d'un point de vue opérationnel, la
+grande majorité des acteurs souscrivant de la capacité Nord-Sud utilisant en
+continu au cours de la journée les écrans Powernext.Enfin, plusieurs acteurs
+considèrent qu'il faut conserver le mécanisme UBI jusqu'à la fusion. \- Une
+minorité de participants privilégie l'option 2, « 100 % PRISMA ». Un client
+industriel considère que l'option 1 « chemin vers la fusion » ferait cohabiter
+deux offres de capacités, avec et sans prix de réserve, créant ainsi une «
+iniquité entre deux marchés ».Trois acteurs estiment que l'option 1 « chemin
+vers la fusion » provoquerait une baisse des souscriptions de capacités long
+terme, dont l'impact tarifaire serait répercuté sur l'ensemble des clients de
+GRTgaz, y compris ceux qui détiennent déjà des capacités de long terme à la
+liaison Nord-Sud.Par ailleurs, contrairement à ce qu'indiquait la CRE dans sa
+consultation, un expéditeur indique qu'il n'est pas membre de Powernext. Il
+considère à ce titre que l'option 1 « chemin vers la fusion » pourrait être
+assimilée à de la vente forcée. 2.5.3. Analyse de la CRE La CRE constate que
+l'ensemble des acteurs partagent son analyse sur la nécessité de simplifier et
+de rendre cohérents les mécanismes de commercialisation de la capacité Nord-
+Sud de court terme.La CRE considère que la commercialisation des capacités
+journalières à la liaison Nord-Sud sur Powernext sans prix de réserve, dans le
+cas spécifique de la liaison Nord-Sud, présente trois principaux avantages :
+\- la suppression du tarif de réserve peut augmenter l'attrait du produit
+journalier, et ainsi enrayer la baisse des souscriptions aujourd'hui observée
+lorsque le différentiel de prix Nord-Sud est faible. Il est à noter que les
+recettes générées par le couplage de marché sont prises en compte à 100 % au
+CRCP. La maximisation de la vente des produits court terme est donc dans
+l'intérêt de la communauté des utilisateurs du réseau ;- le couplage de marché
+à la liaison Nord-Sud est un mécanisme de commercialisation implicite de la
+capacité qui est de nature à accroître la liquidité des marchés de gros en
+zone TRS ;- enfin, l'allégement de la contrainte de transport du Nord au Sud
+préfigure la fin du terme de liaison prévue en 2018 en permettant dès à
+présent de réduire l'écart de prix entre le PEG Nord et la TRS. En effet, même
+si les volumes disponibles resteront contraints jusqu'à la réalisation des
+ouvrages Val de Saône et Gascogne-Midi, la commercialisation des capacités aux
+enchères sans tarif de réserve permettrait aux expéditeurs d'optimiser
+l'utilisation de la liaison existante, y compris lorsque l'écart des prix
+entre le Nord et le Sud est inférieur à 0,57 €/MWh (prix actuel du terme de
+liaison) Concernant la coexistence de produits long terme avec un prix de
+réserve et de produits court terme sans prix de réserve, la CRE considère que
+: \- le risque de dévalorisation des capacités de long terme et donc de baisse
+des souscriptions annuelles et trimestrielles est limité dans le temps,
+puisque la création de la place de marché unique est prévue à fin 2018 ;- les
+produits long terme et court terme n'ont, par nature, pas le même usage. Les
+capacités court terme présentent un intérêt d'arbitrage des sources
+d'approvisionnement et d'équilibrage du portefeuille, alors que les capacités
+long terme permettent aux fournisseurs de structurer leur approvisionnement,
+notamment en vue de réaliser des offres commerciales pour les consommateurs de
+gaz. Concernant le recours privilégié à Powernext pour la commercialisation
+des capacités court terme, la CRE constate que trois expéditeurs n'ayant pas
+souscrit à Powernext ne pourraient y accéder directement aujourd'hui.
+Toutefois : \- la très grande majorité des expéditeurs ont d'ores et déjà
+accès à Powernext. Les expéditeurs qui n'ont pas accès directement à Powernext
+et ne souhaitent pas entreprendre les démarches nécessaires peuvent avoir
+recours à un intermédiaire ;- les expéditeurs sont nombreux à signaler que
+l'ergonomie de PRISMA n'incite pas à la souscription de court terme,
+particulièrement pour les produits intra-journaliers, alors que l'utilisation
+de Powernext simplifierait les opérations quotidiennes. De même, le mécanisme
+UBI, disponible en surnominant sur TRANS@ctions, offre une réelle souplesse
+d'utilisation ;- les capacités JTS, permettant d'acquérir de la capacité en J
+- 1 (avec prix de réserve), continueront d'être offertes sur PRISMA. De même,
+le mécanisme d'UBI sera maintenu. Enfin, les expéditeurs peuvent bien sûr
+vendre du gaz au PEG Nord et en acheter à la TRS. Les expéditeurs ne sont donc
+aucunement captifs de Powernext pour s'équilibrer à la maille journalière ;-
+enfin, le couplage de marché a démontré son utilité pour développer la
+liquidité à la TRS, réduire l'écart entre les prix au Nord et au Sud, et
+maximiser l'utilisation de la liaison Nord-Sud. Etendre ce mécanisme en
+ajoutant aux 30 GWh/j de capacités interruptibles qui lui sont dédiées les
+capacités journalières autrefois proposées à la vente sur PRISMA permet de
+rationaliser les guichets de vente et de concentrer la liquidité. La CRE
+considère que les inconvénients analysés ci-dessus ont des conséquences
+limitées, alors que les avantages de l'option 1 « chemin vers la fusion », en
+termes de fonctionnement du marché et d'optimisation des ventes et de l'usage
+des capacités Nord-Sud, sont très importants. En conséquence, la CRE est
+favorable à la proposition de GRTgaz de commercialiser les capacités J + 1
+selon l'option 1, « chemin vers la fusion », à compter du 1er octobre 2016.
+C'est-à-dire : \- en J - 1 de 15h30 à 17 h : les capacités disponibles sont
+commercialisées de manière implicite en couplage de marché sur Powernext sans
+prix de réserve ;- en J - 1 de 16h30 à 17 h : le JTS est commercialisé aux
+enchères sur PRISMA avec un prix de réserve égal au tarif régulé ;- en J,
+l'UBI est disponible par surnomination sur TRANS@ctions, au tarif régulé. 2.6.
+Maintien du produit JTS GRTgaz souhaite maintenir la vente du JTS sur PRISMA,
+dans les deux options. Le JTS a permis de proposer à la vente 6 TWh
+supplémentaires en 2014, et 5,4 TWh en 2015, dont le niveau de souscription a
+fortement varié en fonction de l'écart des prix entre PEG Nord et TRS.La
+fourniture de ce service engendre des coûts dépendant des capacités
+souscrites, d'environ 950 K€ pour l'année 2015, couverts par le tarif de
+transport de GRTgaz (14).En 2015, seul 1,1 TWh de capacité JTS a été souscrit,
+générant des recettes de souscriptions estimées à 700 k€, ce qui ne permet pas
+de couvrir entièrement le coût du dispositif.Au vu des conditions de marché
+actuelles, la CRE a interrogé les acteurs sur l'opportunité de reconduire ou
+non le service JTS. 2.6.1. Synthèse des réponses à la consultation publique La
+majorité des participants est favorable au maintien du JTS jusqu'en 2018. Deux
+acteurs souhaitent que le JTS soit commercialisé sur Powernext, tout en
+conservant un tarif régulé. Un fournisseur considère qu'il est prématuré de se
+prononcer sur son maintien jusqu'à la fusion des zones. Un autre souhaite que
+le volume dédié au JTS soit limité à 1 TWh.Plusieurs expéditeurs y sont
+opposés. Ils considèrent qu'il s'agit d'un dispositif coûteux, qui ne se
+justifie plus dans les conditions de marché actuelles. 2.6.2. Analyse de la
+CRE En situation de tension du marché au sud, quelle qu'en soit la raison, la
+capacité supplémentaire mise à disposition des expéditeurs grâce au JTS permet
+de réduire ces tensions et de limiter la volatilité des prix au sud. La CRE
+considère que le coût de ce service est faible au regard du bénéfice potentiel
+pour le marché du Sud de la France.De plus, les fluctuations de la
+souscription du JTS suivent fidèlement l'évolution de l'écart entre les prix
+du nord et du sud de la France. Lorsque cet écart est marqué, l'intégralité de
+la capacité est souscrite. Il ne semble donc pas pertinent de limiter le
+volume proposé.Enfin, la commercialisation sur Powernext est exclue à ce
+stade, afin de préserver un volume de capacité accessible sur PRISMA, et par
+souci de continuité : la vente du JTS, initialement menée sur TRANS@ctions,
+n'a lieu sur PRISMA que depuis le 1er avril 2015.La CRE décide de reconduire
+le JTS jusqu'en 2018 et demande à GRTgaz de présenter un bilan des coûts et
+des souscriptions à la fin de l'année 2016. 3\. Décision La CRE approuve la
+proposition de GRTgaz en date du 20 novembre 2015, sous réserve que : \- le
+calendrier de commercialisation des capacités soit modifié pour que les
+capacités à la liaison Nord-Sud pour la période d'octobre 2017 à septembre
+2019 soient commercialisées progressivement chaque année et selon le
+calendrier défini par la présente délibération ;- GRTgaz commercialise les
+capacités J + 1 selon l'option 1 « chemin vers la fusion », à compter du 1er
+octobre 2016. 4\. Publication La présente délibération sera publiée au Journal
+officiel de la République française. Fait à Paris, le 3 février 2016. Pour la
+Commission de régulation de l'énergie : Un commissaire, C Chauvet (1)
+Délibération de la CRE du 19 juillet 2012 portant orientations sur l'évolution
+des places de marché de gaz en France (2 )Délibération de la CRE du 13
+décembre 2012 portant décision sur le tarif d'utilisation des réseaux de
+transport de gaz naturel (3) Délibération de la CRE du 7 mai 2014 portant
+orientations relatives à la création d'une place de marché unique en France en
+2018 (4) Délibération de la CRE du 30 octobre 2014 portant décision relative
+au mécanisme de régulation incitative des projets Val de Saône et
+Gascogne/Midi (5) Délibération de la CRE du 13 février 2014 portant décision
+relative à la mise en œuvre progressive du code de réseau européen sur
+l'attribution des capacités de transport de gaz aux points d'interconnexion
+entre zones entrée-sortie (6) www.cre.fr (7) Délibération de la CRE du 17
+octobre 2013 portant décision relative aux règles de commercialisation des
+capacités de transport à la liaison entre les zones Nord et Sud de GRTgaz, à
+l'interface entre GRTgaz et TIGF et aux interconnexions avec l'Espagne (8)
+Créé par la délibération du 19 avril 2011, le couplage de marché consiste à
+vendre de la capacité et de la molécule aux enchères sur Powernext. Ce
+mécanisme s'appuie sur un produit de type « spread PEG Sud - PEG Nord » qui
+correspond à un échange (« swap ») de gaz entre les deux zones (achat de gaz
+dans une zone et vente du même volume de gaz dans l'autre). (9) Joint
+Transport Storage : Dans sa délibération du 23 mai 2013, la CRE a autorisé
+GRTgaz à commercialiser, à titre expérimental, des capacités Nord vers Sud
+additionnelles lors de l'été 2013 (JTS « été »). Depuis le mois de février
+2014, 20 GWh/j de JTS sont proposés à la vente aux enchères sur PRISMA. (10)
+L'UBI permet à un expéditeur de nominer de la capacité au-delà de ses
+souscriptions. Si la capacité surnominée est disponible (soit en invendue soit
+parce qu'elle a été souscrite mais n'est pas utilisée par son primo-
+détenteur), elle lui est allouée et l'expéditeur est facturé si cette capacité
+dépasse sa souscription primaire. (11) Plateforme européenne de
+commercialisation des capacités aux interconnexions entre pays membres. (12)
+TRANS@ctions est le portail client de GRTgaz, par lequel les expéditeurs
+souscrivent et nominent des capacités. (13) Powernext opère la bourse du gaz
+Pegas, qui est un marché réglementé fonctionnant sous le contrôle de l'AMF.
+(14) Délibération de la Commission de régulation de l'énergie du 23 mai 2013
+portant décision relative aux règles de commercialisation par GRTgaz de
+capacités de transport additionnelles à la liaison entre les zones Nord et Sud
+à titre expérimental Télécharger le document en RTF (poids < 1Mo) Extrait du
+Journal officiel électronique authentifié (format: pdf, poids : 0.33 Mo)
+Masquer le panneau de navigation Imprimer À propos de l'ordre juridique
+français Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

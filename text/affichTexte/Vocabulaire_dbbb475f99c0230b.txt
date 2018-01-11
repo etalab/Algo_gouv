@@ -1,0 +1,286 @@
+Vocabulaire des télécommunications (liste de termes, expressions et
+définitions adoptés) | Legifrance Legifrance - Le service public de l'accès au
+droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Vocabulaire des
+télécommunications (liste de termes, expressions et définitions adoptés)
+Vocabulaire des télécommunications (liste de termes, expressions et
+définitions adoptés) Masquer le panneau de navigation Imprimer Navigation
+Vocabulaire du Version initiale Informations sur ce texte JORF n°0184 du 9
+août 2013 page 13612 texte n° 135 Vocabulaire des télécommunications (liste de
+termes, expressions et définitions adoptés) NOR: CTNX1318083K ELI: Non
+disponible I. ― Termes et définitions captation, n.f. Domaine :
+Télécommunications/Services. Voir : détournement.carte SIM Domaine :
+Télécommunications/Radiocommunications. Définition : Carte à puce insérée dans
+un terminal, qui est utilisée pour stocker les informations relatives à un
+abonnement souscrit auprès d'un opérateur de radiocommunication mobile. Voir
+aussi : déverrouillage SIM. Équivalent étranger : SIM card, subscriber
+identification module (SIM).communication en champ proche Abréviation : CCP.
+Domaine : Télécommunications/Radiocommunications. Définition : Technique
+d'échange de données par radiofréquence, qui se fonde sur la production d'un
+champ électromagnétique à faible puissance permettant d'établir, au voisinage
+d'une antenne, une liaison sans fil de courte distance. Note : La liaison
+établie est le plus souvent de l'ordre de quelques centimètres. Voir aussi :
+radio-identification. Équivalent étranger : near field communication
+(NFC).déblocage, n.m. Domaine : Télécommunications/Radiocommunications.
+Définition : Opération qui permet de remettre en fonction un terminal de
+radiocommunication qui a été rendu inutilisable par plusieurs tentatives
+d'identification infructueuses. Note : Le terme « déblocage » ne doit pas être
+confondu avec les termes « débridage » et « déverrouillage SIM ». Voir aussi :
+débrider, déverrouillage SIM. Équivalent étranger : unlocking.desserte par
+fibre Abréviation : DF. Domaine : Télécommunications/Réseaux. Définition :
+Mise en place d'un réseau d'accès utilisant une ou plusieurs fibres optiques ;
+par extension, le réseau lui-même. Note : 1. La desserte par fibre permet des
+débits numériques très élevés, de l'ordre de plusieurs dizaines de mégabits
+par seconde dans les deux sens. 2. Le réseau d'accès mis en place est
+également désigné par le terme « boucle locale optique ». Voir aussi :
+desserte par fibre de l'abonné, desserte par fibre de l'immeuble, réseau
+d'accès. Équivalent étranger : fiber in the loop (FITL), fiber to the ...
+(FTTx).desserte par fibre de l'abonné Abréviation : DFA. Domaine :
+Télécommunications/Réseaux. Synonyme : fibre jusqu'à l'abonné (langage
+professionnel). Définition : Desserte par fibre d'un point de terminaison
+situé dans les locaux de l'abonné. Voir aussi : desserte par fibre. Équivalent
+étranger : fiber to the home (FTTH), fiber to the office (FTTO), fiber to the
+premises (FTTP).desserte par fibre de l'immeuble Abréviation : DFI. Domaine :
+Télécommunications/Réseaux. Synonyme : fibre jusqu'à l'immeuble (langage
+professionnel). Définition : Desserte par fibre d'un local technique situé
+dans l'immeuble de l'abonné ou à proximité immédiate. Voir aussi : desserte
+par fibre. Équivalent étranger : fiber to the building (FTTB), fiber to the
+curb (FTTC).détournement, n.m. Domaine : Télécommunications/Services. Synonyme
+: captation, n.f. Définition : Pratique abusive par laquelle un fournisseur de
+services soustrait, sans avoir obtenu son consentement explicite, un client à
+un autre fournisseur. Note : On emploie aussi, dans le langage professionnel,
+le terme « écrasement », parce que les services du fournisseur précédent sont
+remplacés par d'autres et ne sont donc plus accessibles. Équivalent étranger :
+slamming.déverrouillage SIM Forme abrégée : déverrouillage, n.m. Domaine :
+Télécommunications/Radiocommunications. Définition : Opération qui permet
+d'utiliser, avec une carte SIM de n'importe quel opérateur de
+radiocommunication mobile, un terminal qui ne fonctionnait initialement
+qu'avec une carte SIM de l'opérateur d'origine. Note : 1. Le terme «
+déverrouillage SIM » ne doit pas être confondu avec les termes « débridage »
+et « déblocage ». 2. Le terme « désimlockage », dérivé de l'anglais, est à
+proscrire. Voir aussi : carte SIM, déblocage, débrider. Équivalent étranger :
+SIM unlocking.droit irrévocable d'usage (langage professionnel) Abréviation :
+DIU. Domaine : Télécommunications. Définition : Droit d'usage exclusif de tout
+ou partie de la capacité de transmission d'une infrastructure de
+télécommunication, non résiliable pendant la durée fixée par le contrat,
+généralement de plusieurs années. Note : L'infrastructure de télécommunication
+est le plus souvent un câble sous-marin. Équivalent étranger : indefeasible
+right of use (IRU).femtocellule, n.f. Domaine :
+Télécommunications/Radiocommunications. Définition : Zone peu étendue dans
+laquelle un terminal peut se connecter au réseau cellulaire de l'opérateur au
+moyen d'un émetteur-récepteur relié par l'internet à ce même réseau ; par
+extension, l'émetteur-récepteur lui-même. Note : 1. Les femtocellules
+permettent, par exemple, d'améliorer la couverture à l'intérieur des bâtiments
+ou d'accéder à un service de communications illimitées. 2. Le préfixe femto-
+n'est pas pris ici dans l'acception mathématique qu'il possède en métrologie
+(10-¹5). Voir aussi : système cellulaire. Équivalent étranger :
+femtocell.fibre jusqu'à l'abonné (langage professionnel) Domaine :
+Télécommunications/Réseaux. Voir : desserte par fibre de l'abonné.fibre
+jusqu'à l'immeuble (langage professionnel) Domaine :
+Télécommunications/Réseaux. Voir : desserte par fibre de l'immeuble.fonction
+modem Domaine : Télécommunications/Services. Synonyme : mode modem. Définition
+: Fonction d'un dispositif connecté à un réseau, le plus souvent un téléphone
+mobile, qui permet à un autre dispositif, par exemple un ordinateur, d'accéder
+à ce réseau. Note : 1. Le dispositif connecté au réseau joue alors le rôle de
+modem. 2. La liaison entre les deux dispositifs peut être filaire ou non. Voir
+aussi : modem. Équivalent étranger : tethering [dans le cas d'un téléphone
+mobile].identification radio Domaine : Télécommunications/Radiocommunications.
+Voir : radio-identification. Attention : Cette publication annule et remplace
+celle du terme « radio-identification » au Journal officiel du 9 septembre
+2006.mode modem Domaine : Télécommunications/Services. Voir : fonction
+modem.radio-étiquette, n.f. Domaine : Télécommunications/Radiocommunications.
+Voir : radio-identifiant. Attention : Cette publication annule et remplace
+celle du terme « étiquette radio » au Journal officiel du 9 septembre
+2006.radio-étiquette active Domaine : Télécommunications/Radiocommunications.
+Voir : radio-identifiant actif.radio-étiquette passive Domaine :
+Télécommunications/Radiocommunications. Voir : radio-identifiant passif.radio-
+étiquette semi-active Domaine : Télécommunications/Radiocommunications. Voir :
+radio-identifiant semi-actif.radio-identifiant, n.m. Abréviation : RID.
+Domaine : Télécommunications/Radiocommunications. Synonyme : radio-étiquette,
+n.f. Définition : Dispositif électronique, porté par une personne ou un animal
+ou fixé sur un véhicule ou un objet, qui transmet par radiofréquence des
+informations préenregistrées à un lecteur qui l'interroge. Note : Le radio-
+identifiant permet l'identification et le suivi à distance. Voir aussi :
+radio-identifiant actif, radio-identifiant passif, radio-identifiant semi-
+actif, radio-identification. Équivalent étranger : radio frequency
+identification tag, RFID tag. Attention : Cette publication annule et remplace
+celle du terme « étiquette radio » au Journal officiel du 9 septembre
+2006.radio-identifiant actif Abréviation : RIDA. Domaine :
+Télécommunications/Radiocommunications. Synonyme : radio-étiquette active.
+Définition : Radio-identifiant qui possède sa propre source d'énergie,
+généralement une pile ou un accumulateur, lui permettant d'émettre un signal
+et éventuellement d'enregistrer ou de traiter des informations. Voir aussi :
+radio-identifiant, radio-identifiant passif, radio-identifiant semi-actif.
+Équivalent étranger : active RFID tag, active tag.radio-identifiant passif
+Abréviation : RIDP. Domaine : Télécommunications/Radiocommunications. Synonyme
+: radio-étiquette passive. Définition : Radio-identifiant qui utilise
+l'énergie des ondes radioélectriques émises par un lecteur pour transmettre
+des informations à ce lecteur. Voir aussi : radio-identifiant, radio-
+identifiant actif, radio-identifiant semi-actif. Équivalent étranger : passive
+RFID tag, passive tag.radio-identifiant semi-actif Abréviation : RIDSA.
+Domaine : Télécommunications/Radiocommunications. Synonyme : radio-étiquette
+semi-active. Définition : Radio-identifiant passif qui possède sa propre
+source d'énergie, généralement une pile ou un accumulateur, lui permettant
+d'améliorer l'efficacité de la transmission, d'enregistrer des informations ou
+de les traiter. Note : On trouve aussi les termes « radio-identifiant semi-
+passif » et « radio-étiquette semi-passive ». Équivalent étranger : BAP tag,
+battery-assisted passive tag, semi-passive tag.radio-identification, n.f.
+Abréviation : RID. Domaine : Télécommunications/Radiocommunications. Synonyme
+: identification radio. Définition : Technique qui permet d'identifier et de
+suivre des objets, des véhicules, des animaux ou des personnes au moyen d'un
+radio-identifiant. Voir aussi : radio-identifiant. Équivalent étranger : radio
+frequency identification (RFID). Attention : Cette publication annule et
+remplace celle du Journal officiel du 9 septembre 2006.radio intelligente
+Abréviation : RI. Domaine : Télécommunications/Radiocommunications. Définition
+: Technique de communication radioélectrique qui consiste à optimiser
+automatiquement certains paramètres d'émission et de réception en fonction de
+l'environnement, en utilisant notamment des algorithmes d'apprentissage et de
+prise de décision fondés sur l'intelligence artificielle. Note : 1. La radio
+intelligente permet notamment d'utiliser au mieux le spectre radioélectrique.
+2. La radio intelligente peut recourir à la radio logicielle pour reconfigurer
+les paramètres. 3. On trouve aussi l'expression « radio cognitive », qui n'est
+pas recommandée. Voir aussi : radio logicielle. Équivalent étranger :
+cognitive radio.radio logicielle Abréviation : RL. Domaine :
+Télécommunications/Radiocommunications. Définition : Technique qui consiste à
+remplacer, dans des émetteurs et récepteurs radioélectriques, des dispositifs
+matériels par des logiciels. Note : 1. La radio logicielle permet une
+adaptation plus facile aux normes d'émission et de réception ainsi qu'à leur
+évolution. 2. La radio logicielle est un moyen de mettre en œuvre la radio
+intelligente. Voir aussi : radio intelligente. Équivalent étranger : software-
+defined radio (SDR), software radio.radio par fibre Abréviation : RPF. Domaine
+: Télécommunications/Techniques. Définition : Transmission par fibre dans
+laquelle la porteuse optique est modulée directement par un signal
+radiofréquence. Voir aussi : porteuse. Équivalent étranger : radio-on-fiber
+(RoF), radio-over-fiber (RoF), wireless-on-fiber.renifleur, n.m. Domaine :
+Télécommunications/Réseaux. Définition : Logiciel ou équipement matériel qui
+balaie l'environnement radioélectrique à la recherche d'un réseau ou qui
+observe le trafic d'un réseau pour détecter et analyser certaines
+informations. Note : Les informations analysées peuvent concerner certains
+paramètres des communications comme la taille des paquets et les adresses
+d'émission ou de destination, ou encore le contenu des échanges. Équivalent
+étranger : sniffer.réseautique domestique Domaine : Bâtiment-
+Télécommunications/Services. Définition : Ensemble des activités et des
+techniques destinées à créer, gérer et utiliser des réseaux qui relient les
+appareils électriques et électroniques d'un lieu de résidence. Voir aussi :
+réseautique. Équivalent étranger : home networking.tête radio distante
+Abréviation : TRD. Domaine : Électronique-
+Télécommunications/Radiocommunications. Définition : Partie d'une station de
+base comprenant les circuits à radiofréquence et des convertisseurs de
+signaux, située à proximité de l'antenne mais séparée du reste de la station,
+auquel elle est connectée par une liaison filaire. Voir aussi : station de
+base. Équivalent étranger : remote radio head (RRH).transport du numéro
+Domaine : Télécommunications/Services. Définition : Ensemble d'opérations
+techniques et administratives réalisées par les opérateurs de
+télécommunication pour permettre à un abonné de conserver son numéro d'appel
+lorsqu'il change d'opérateur. Note : L'expression « portage du numéro » est
+déconseillée. Voir aussi : conservation du numéro. Équivalent étranger :
+number porting. II. - Table d'équivalenceA. ― Termes étrangers TERME ÉTRANGER
+(1) DOMAINE/SOUS-DOMAINE ÉQUIVALENT FRANÇAIS (2) active RFID tag, active tag.
+Télécommunications/Radiocommunications. radio-identifiant actif (RIDA), radio-
+étiquette active. BAP tag, battery-assisted passive tag, semi-passive tag.
+Télécommunications/Radiocommunications. radio-identifiant semi-actif (RIDSA),
+radio-étiquette semi-active. cognitive radio.
+Télécommunications/Radiocommunications. radio intelligente (RI). femtocell.
+Télécommunications/Radiocommunications. femtocellule, n.f. fiber in the loop
+(FITL), fiber to the ... (FTTx). Télécommunications/Réseaux. desserte par
+fibre (DF). fiber to the building (FTTB), fiber to the curb (FTTC).
+Télécommunications/Réseaux. desserte par fibre de l'immeuble (DFI), fibre
+jusqu'à l'immeuble (langage professionnel). fiber to the home (FTTH), fiber to
+the office (FTTO), fiber to the premises (FTTP). Télécommunications/Réseaux.
+desserte par fibre de l'abonné (DFA), fibre jusqu'à l'abonné (langage
+professionnel). home networking. Bâtiment-Télécommunications/Services.
+réseautique domestique. indefeasible right of use (IRU). Télécommunications.
+droit irrévocable d'usage (langage professionnel) (DIU). near field
+communication (NFC). Télécommunications/Radiocommunications. communication en
+champ proche (CCP). number porting. Télécommunications/Services. transport du
+numéro. passive RFID tag, passive tag. Télécommunications/Radiocommunications.
+radio-identifiant passif (RIDP), radio-étiquette passive. radio frequency
+identification (RFID). Télécommunications/Radiocommunications. radio-
+identification, n.f. (RID), identification radio. radio frequency
+identification tag, RFID tag. Télécommunications/Radiocommunications. radio-
+identifiant, n.m. (RID), radio-étiquette, n.f. radio-on-fiber (RoF), radio-
+over-fiber (RoF), wireless-on-fiber. Télécommunications/Techniques. radio par
+fibre (RPF). remote radio head (RRH). Électronique-
+Télécommunications/Radiocommunications. tête radio distante (TRD). RFID tag,
+radio frequency identification tag. Télécommunications/Services. radio-
+identifiant, n.m. (RID), radio-étiquette, n.f. semi-passive tag, BAP tag,
+battery-assisted passive tag. Télécommunications/Radiocommunications. radio-
+identifiant semi-actif (RIDSA), radio-étiquette semi-active. SIM card,
+subscriber identification module (SIM).
+Télécommunications/Radiocommunications. carte SIM. SIM unlocking.
+Télécommunications/Radiocommunications. déverrouillage SIM, déverrouillage,
+n.m. slamming. Télécommunications/Services. détournement, n.m., captation,
+n.f. sniffer. Télécommunications/Réseaux. renifleur, n.m. software-defined
+radio (SDR), software radio. Télécommunications/Radiocommunications. radio
+logicielle (RL). subscriber identification module (SIM), SIM card.
+Télécommunications/Radiocommunications. carte SIM. tethering [dans le cas d'un
+téléphone mobile]. Télécommunications/Services. fonction modem, mode modem.
+unlocking. Télécommunications/Radiocommunications. déblocage, n.m. wireless-
+on-fiber, radio-on-fiber (RoF), radio-over-fiber (RoF).
+Télécommunications/Techniques. radio par fibre (RPF). (1) Il s'agit de termes
+anglais, sauf mention contraire.(2) Les termes en caractères gras se trouvent
+dans la partie I (Termes et définitions). B. ― Termes français TERME FRANÇAIS
+(1) DOMAINE/SOUS-DOMAINE ÉQUIVALENT ÉTRANGER (2) captation, n.f.,
+détournement, n.m. Télécommunications/Services. slamming. carte SIM.
+Télécommunications/Radiocommunications. SIM card, subscriber identification
+module (SIM). communication en champ proche (CCP).
+Télécommunications/Radiocommunications. near field communication (NFC).
+déblocage, n.m. Télécommunications/Radiocommunications. unlocking. desserte
+par fibre (DF). Télécommunications/Réseaux. fiber in the loop (FITL), fiber to
+the ... (FTTx). desserte par fibre de l'abonné (DFA), fibre jusqu'à l'abonné
+(langage professionnel). Télécommunications/Réseaux. fiber to the home (FTTH),
+fiber to the office (FTTO), fiber to the premises (FTTP). desserte par fibre
+de l'immeuble (DFI), fibre jusqu'à l'immeuble (langage professionnel).
+Télécommunications/Réseaux. fiber to the building (FTTB), fiber to the curb
+(FTTC). détournement, n.m., captation, n.f. Télécommunications/Services.
+slamming. déverrouillage SIM, déverrouillage, n.m.
+Télécommunications/Radiocommunications. SIM unlocking. droit irrévocable
+d'usage (langage professionnel) (DIU). Télécommunications. indefeasible right
+of use (IRU). femtocellule, n.f. Télécommunications/Radiocommunications.
+femtocell. fibre jusqu'à l'abonné (langage professionnel), desserte par fibre
+de l'abonné (DFA). Télécommunications/Réseaux. fiber to the home (FTTH), fiber
+to the office (FTTO), fiber to the premises (FTTP). fibre jusqu'à l'immeuble
+(langage professionnel), desserte par fibre de l'immeuble (DFI).
+Télécommunications/Réseaux. fiber to the building (FTTB), fiber to the curb
+(FTTC). fonction modem, mode modem. Télécommunications/Services. tethering
+[dans le cas d'un téléphone mobile]. identification radio, radio-
+identification, n.f. (RID). Télécommunications/Services. radio frequency
+identification (RFID). mode modem, fonction modem.
+Télécommunications/Services. tethering [dans le cas d'un téléphone mobile].
+radio-étiquette, n.f., radio-identifiant, n.m. (RID).
+Télécommunications/Radiocommunications. radio frequency identification tag,
+RFID tag. radio-étiquette active, radio-identifiant actif (RIDA).
+Télécommunications/Radiocommunications. active RFID tag, active tag. radio-
+étiquette passive, radio-identifiant passif (RIDP).
+Télécommunications/Radiocommunications. passive RFID tag, passive tag. radio-
+étiquette semi-active, radio-identifiant semi-actif (RIDSA).
+Télécommunications/Radiocommunications. BAP tag, battery-assisted passive tag,
+semi-passive tag. radio-identifiant, n.m. (RID), radio-étiquette, n.f.
+Télécommunications/Radiocommunications. radio frequency identification tag,
+RFID tag. radio-identifiant actif (RIDA), radio-étiquette active.
+Télécommunications/Radiocommunications. active RFID tag, active tag. radio-
+identifiant passif (RIDP), radio-étiquette passive.
+Télécommunications/Radiocommunications. passive RFID tag, passive tag. radio-
+identifiant semi-actif (RIDSA), radio-étiquette semi-active.
+Télécommunications/Radiocommunications. BAP tag, battery-assisted passive tag,
+semi-passive tag. radio-identification, n.f. (RID), identification radio.
+Télécommunications/Radiocommunications. radio frequency identification (RFID).
+radio intelligente (RI). Télécommunications/Radiocommunications. cognitive
+radio. radio logicielle (RL). Télécommunications/Radiocommunications.
+software-defined radio (SDR), software radio. radio par fibre (RPF).
+Télécommunications/Techniques. radio-on-fiber (RoF), radio-over-fiber (RoF),
+wireless-on-fiber. renifleur, n.m. Télécommunications/Réseaux. sniffer.
+réseautique domestique. Bâtiment-Télécommunications/Services. home networking.
+tête radio distante (TRD). Électronique-
+Télécommunications/Radiocommunications. remote radio head (RRH). transport du
+numéro. Télécommunications/Services. number porting. (1) Les termes en
+caractères gras se trouvent dans la partie I (Termes et définitions).(2) Il
+s'agit d'équivalents anglais, sauf mention contraire. Télécharger le document
+en RTF (poids < 1Mo) Extrait du Journal officiel électronique authentifié
+(format: pdf, poids : 0.33 Mo) Masquer le panneau de navigation Imprimer À
+propos de l'ordre juridique français Licences Quoi de neuf sur le site ? À
+propos du site Plan du site Accessibilité Aide générale Nous écrire Établir un
+lien
+

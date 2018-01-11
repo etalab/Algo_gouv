@@ -1,0 +1,256 @@
+Délibération n° 2016-244 du 21 juillet 2016 portant avis sur un projet
+d'arrêté relatif à la mise en œuvre, par la direction de l'animation de la
+recherche, des études et des statistiques (DARES) d'un traitement automatisé
+de données à caractère personnel dénommé « TRAJAM » (Demande d'avis n°
+1950423) | Legifrance Legifrance - Le service public de l'accès au droit Aller
+au contenu Aller à la navigation générale mardi 4 juillet 2017 Informations de
+mise à jour Accueil Droit français Droit européen Droit international
+Traductions Bases de données Vous êtes dans : Accueil> Rechercher un numéro du
+JO depuis 1990> Délibération n° 2016-244 du 21 juillet 2016 portant avis sur
+un projet d'arrêté relatif à la mise en œuvre, par la direction de l'animation
+de la recherche, des études et des statistiques (DARES) d'un traitement
+automatisé de données à caractère personnel dénommé « TRAJAM » (Demande d'avis
+n° 1950423) Délibération n° 2016-244 du 21 juillet 2016 portant avis sur un
+projet d'arrêté relatif à la mise en œuvre, par la direction de l'animation de
+la recherche, des études et des statistiques (DARES) d'un traitement
+automatisé de données à caractère personnel dénommé « TRAJAM » (Demande d'avis
+n° 1950423) Masquer le panneau de navigation Retour au sommaire du JO \-
+Imprimer Informations sur ce texte JORF n°0242 du 16 octobre 2016 texte n° 53
+Délibération n° 2016-244 du 21 juillet 2016 portant avis sur un projet
+d'arrêté relatif à la mise en œuvre, par la direction de l'animation de la
+recherche, des études et des statistiques (DARES) d'un traitement automatisé
+de données à caractère personnel dénommé « TRAJAM » (Demande d'avis n°
+1950423) NOR: CNIX1629475X ELI: Non disponible La Commission nationale de
+l'informatique et des libertés,Saisie par la direction de l'animation de la
+recherche, des études et des statistiques d'une demande d'avis sur un projet
+d'arrêté concernant un traitement automatisé de données à caractère personnel
+dénommé « TRAJAM » ;Vu la convention n° 108 du Conseil de l'Europe pour la
+protection des personnes à l'égard du traitement automatisé des données à
+caractère personnel ;Vu la directive 95/46/CE du Parlement européen et du
+Conseil du 24 octobre 1995 relative à la protection des personnes physiques à
+l'égard du traitement des données à caractère personnel et à la libre
+circulation de ces données ;Vu la recommandation n° 2013/C120/01 du Conseil du
+22 avril 2013 sur l'établissement d'une garantie pour la jeunesse ;Vu la loi
+n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et
+aux libertés, notamment son article 27-II (2°) ;Vu le décret n° 2005-1309 du
+20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;Vu le
+dossier et ses compléments ;Sur la proposition de Mme Marie-France MAZARS,
+commissaire, et après avoir entendu les observations de M. Jean-Alexandre
+SILVY, commissaire du Gouvernement,Formule les observations suivantes :La
+Commission nationale de l'informatique et des libertés a été saisie, par la
+direction de l'animation de la recherche, des études et des statistiques
+(DARES), d'une demande d'avis sur un projet d'arrêté relatif à la mise en
+œuvre d'un traitement de données à caractère personnel dénommé « TRAJAM »
+(TRAjectoires des Jeunes Appariés aux Mesures actives du marché du travail)
+visant à élaborer une base de données statistiques permanente afin de mieux
+suivre les trajectoires professionnelles des jeunes et leur participation à
+des mesures actives du marché du travail.Ce traitement, en ce qu'il implique
+la collecte du numéro d'inscription des personnes au répertoire national
+d'identification des personnes physiques (NIR), qu'il ne porte sur aucune
+donnée sensible au sens des articles 8 et 9 de la loi du 6 janvier 1978
+modifiée, qu'il n'implique aucune interconnexion de fichiers correspondant à
+des intérêts publics différents et qu'il est mis en œuvre par des services
+ayant pour mission d'établir des statistiques, est soumis à une demande d'avis
+sur un arrêté, en application des dispositions de l'article 27-11 (2°) de la
+loi du 6 janvier 1978 modifiée.Sur les finalités du traitement :La DARES est
+un service statistique ministériel, chargé d'assurer la production régulière
+et fiable de statistiques et d'analyses pour le ministère en charge du
+travail, de l'emploi et de la formation professionnelle et pour les acteurs
+sociaux.La commission est informée que le projet TRAJAM (TRAjectoire des
+Jeunes Appariés au Mesures actives du marché du travail) s'inscrit dans le
+cadre de la mise en œuvre du plan de la Garantie européenne pour la jeunesse
+(GEJ). Ce plan a été adopté par les Etats membres de l'Union européenne en
+2013, sur proposition de la Commission européenne, et incite les Etats à
+mettre en place un système d'accompagnement des jeunes qui ne sont ni en
+emploi ni inscrits dans le système éducatif ou en formation.Le plan français a
+inscrit l'ensemble de son système institutionnel d'insertion des jeunes dans
+la GEJ afin notamment de renforcer la coordination des opérateurs partenaires
+intervenant dans l'accompagnement des jeunes vers l'emploi ou la formation.Un
+suivi au niveau communautaire est opéré quant au déploiement des plans
+nationaux pris pour l'application de la GEJ. Ainsi, la Commission européenne
+attend de chaque Etat qu'il réalise un compte-rendu indiquant le devenir des
+jeunes après l'entrée dans une solution d'emploi ou de formation.Le traitement
+dont a été saisie la commission pour avis, tel que précisé par le projet
+d'arrêté, vise à créer une base de données statistiques permanente qui permet
+de suivre les trajectoires professionnelles des jeunes (18-25 ans voire les
+18-30 ans) ayant participé à des mesures actives du marché du travail
+(accompagnement, formation et contrats aidés).Le traitement est réalisé en
+plusieurs étapes : \- la DARES reçoit communication des informations relatives
+aux jeunes ayant bénéficié de mesures d'accompagnement, auprès des organismes
+partenaires, dont la liste est fixée en annexe de l'arrêté. Ces informations
+composent le fichier DISPOSITIFS ;- la DARES sélectionne 1/12e des jeunes du
+fichier DISPOSITIFS, ce qui correspond à la proportion que représente le panel
+TOUS SALARIES de l'Institut national de la statistique et des études
+économiques (INSEE) par rapport au fichier des Déclarations annuelles des
+données sociales (DADS). C'est précisément le panel TOUS SALARIES qui sera
+utilisé pour le projet TRAJAM soumis au présent avis, et notamment pour
+obtenir les données des jeunes entrés dans le monde du travail ;- la DARES
+envoie les données d'état civil du 1/12e des jeunes sélectionnés dans le
+fichier DISPOSITIF à l'INSEE, étant précisé que chaque jeune se voit attribuer
+un identifiant jeune ; \- l'INSEE, le cas échéant, met à jour les informations
+d'état civil des jeunes et complète le fichier des NIR qui n'auraient pas été
+communiqués par les organismes partenaires à la DARES ;- l'INSEE procède
+ensuite au hachage du NIR et crée une table de passage entre le NIR et
+l'identifiant jeune, qu'il transmet à la DARES. La DARES, qui aura supprimé
+les informations directement identifiantes de sa base de travail (dont le
+NIR), ne disposera plus, à ce stade, que d'une table de passage entre le NIR
+haché et l'identifiant jeune, ainsi que des informations fournies par les
+organismes partenaires, reliées à l'identifiant jeune ;- l'INSEE crée
+également une table de passage entre le NIR haché et un identifiant attribué à
+chaque salarié du panel TOUS SALARIES, qu'il transmet à la DARES ;- la DARES
+disposera alors de deux tables de passage dont l'élément commun est le NIR
+haché. Ces deux tables de passage permettront d'apparier les données issues du
+fichier DISPOSITIFS et celles issues du panel TOUS SALARIES (lui-même issu du
+fichier DADS). Le recours à l'INSEE a pour objectif d'éviter à la DARES de
+traiter le NIR dans le cadre de l'appariement pour privilégier le NIR haché
+par l'INSEE.La base de données ainsi constituée permettra de disposer de
+nouvelles informations et ainsi, d'approfondir les travaux d'évaluation des
+politiques d'emploi et de formation. Elle permettra, par exemple, d'identifier
+et d'exploiter les aléas qui exposent différemment, aux mesures évaluées, des
+publics pourtant similaires ou identiques.La commission considère que ces
+finalités sont déterminées, explicites et légitimes au regard de la mission de
+la DARES.Sur la nature des données traitées :Les données collectées sont les
+suivantes :Concernant l'identification des personnes, servant à l'appariement
+des extraits des bases de données de suivi des mesures actives du marché du
+travail des opérateurs partenaires : nom de famille et nom marital, prénoms,
+sexe, date et lieu de naissance complet, NIR (le cas échéant) ;Concernant les
+programmes relatifs aux mesures actives du marché du travail mis en œuvre par
+les opérateurs partenaires : \- nom du programme, nature de la mesure, date
+d'entrée, date de début, date de renouvellement, date de fin théorique, date
+de sortie effective, niveau de formation, niveau des allocations perçues,
+diplôme détenu, situation familiale ;- d'autres informations souhaitées (si
+elles sont disponibles) : commune de résidence, prise de connaissance du
+dispositif, motif de sortie, obligation d'emploi (le cas échéant) ;- pour
+certains programmes : informations qualitatives. La DARES a indiqué à la
+commission que les « autres informations souhaitées » constituaient une
+catégorie de données distinctes en ce qu'elles ne sont pas systématiquement
+renseignées par les partenaires. Si ces derniers disposent des informations,
+ils peuvent décider de les transmettre à la DARES.En outre, les « informations
+qualitatives » devraient renvoyer à des données portant sur l'intensité et le
+contenu du programme telles que le type d'atelier suivi par un jeune en mesure
+d'accompagnement, le nombre d'entretiens individuels ou encore le nombre
+d'heures de formation. Mais cette catégorie n'est pas encore définitivement
+fixée. La commission estime que le projet d'arrêté devrait être complété pour
+préciser les données qualitatives une fois celles-ci-arrêtées.Concernant les
+données issues du panel TOUS SALARIES : données relatives à la catégorie et à
+l'identité de l'employeur, à la situation professionnelle et à la situation
+économique et financière du salarié.La liste des données issues de ce panel
+est fixée par la convention conclue entre l'INSEE et la DARES. La commission
+relève le silence du projet d'arrêté sur ces données et recommande au
+responsable de traitement de préciser, dans l'acte, les liste ou catégories de
+données collectées via le panel TOUS SALARIES, par exemple en annexant la
+liste des données au projet d'arrêté.Ce point n'appelle pas d'observation de
+la part de la commission, sous réserve que la catégorie des « informations
+qualitatives » ne contienne pas d'autres informations que celles relatives à
+l'intensité et au contenu du programme.Sur l'origine des données :La base de
+données, rendue anonyme, est obtenue à partir du rapprochement entre le panel
+TOUS SALARIES, issu du fichier DADS détenu par l'INSEE et des extraits des
+bases de données de suivi des mesures actives du marché du travail, détenus
+par les opérateurs partenaires dont la liste est précisée en annexe du projet
+d'arrêté.La commission est informée que s'agissant de la communication du
+fichier TOUS SALARIES, elle se fera par le biais d'une convention de mise à
+disposition des données, spécifique au projet TRAJAM, après avis favorable du
+Conseil national de l'information statistique (CNIS), sur le fondement de
+l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la
+coordination et le secret en matière de statistiques. Cette convention fixera
+également l'ensemble des modalités techniques en matière de sécurité
+informatique pour la transmission des données entre l'INSEE et la DARES.Par
+ailleurs, dans le cadre de la convention n° 16/2004 signée entre l'INSEE et la
+DARES et relative à la transmission, par l'INSEE à la DARES, à des fins
+statistiques, d'informations individuelles contenues dans les fichiers issus
+des DADS, la DARES reçoit lesdites informations à des fins exclusivement
+statistiques.Sur la durée de conservation des données :Le projet d'arrêté
+portant création du traitement TRAJAM indique que les données, à l'exception
+des données d'identification, sont conservées pendant vingt ans à compter de
+l'enregistrement des données par la DARES.La DARES souhaite étudier la
+trajectoire professionnelle des personnes au minimum cinq ans après leur
+sortie du dispositif. Or, certains dispositifs sont proposés aux 18-30 ans et
+les données des personnes sont collectées de l'âge de 18 ans à l'âge de 35
+ans. Puis ces données sont conservées pendant vingt ans, durée que la DARES
+considère nécessaire et suffisante pour avoir le recul nécessaire pour
+exploiter lesdites données.La commission relève que la durée de conservation
+de vingt ans a déjà été retenue pour de précédentes études statistiques
+nécessitant une étude sur le long terme, telles que l'étude sur les
+statistiques mensuelles sur le marché du travail.S'agissant des informations
+d'identification nécessaires à l'appariement, le projet d'arrêté indique
+qu'elles ne sont conservées que le temps nécessaires au chiffrement de
+l'ensemble des données identifiantes des personnes concernées (par le hachage
+du NIR réalisé par l'INSEE). La commission rappelle la nécessité de supprimer
+les données d'identification, une fois le chiffrement réalisé, dès lors que
+celles-ci n'apparaissent plus nécessaires au traitement.Sous ces réserves, la
+commission considère que les données sont conservées sous une forme permettant
+l'identification des personnes concernées pendant une durée qui apparaît
+proportionnée aux finalités du traitement.Sur les destinataires des données
+:La commission rappelle que les données du traitement sont accessibles aux
+personnes habilitées listées ci-après, dans la stricte limite des informations
+dont elles ont à connaître au regard de leurs fonctions.Le projet d'arrêté
+liste les personnes habilitées à accéder aux données, dans la stricte limite
+des informations dont elles ont à connaître au regard de leurs fonctions. Ces
+personnes sont : \- la DARES (direction de l'animation de la recherche, des
+études et des statistiques) s'agissant de l'intégralité des données ;- le pôle
+RNIPP de l'INSEE s'agissant des données d'identification enregistrées pour
+effectuer l'appariement, afin de réaliser l'enrichissement du NIR, le cas
+échéant, et le chiffrement des données ;- les chercheurs associés à TRAJAM et
+légalement habilités par la DARES, dans le cadre de leur mission de recherche,
+qui auront accès aux informations anonymisées, comme cela a été confirmé par
+la DARES lors de l'instruction du dossier. La commission est informée que pour
+être habilités à avoir accès aux données, les chercheurs doivent voir leur
+projet être sélectionné et validé à l'unanimité par le comité de pilotage du
+projet TRAJAM, et obtenir un avis du Comité du secret. Les chercheurs
+passeront alors une convention avec le Groupe des écoles nationales d'économie
+et statistique (GENES) pour accéder au fichier TRAJAM via le Centre d'accès
+sécurisé aux données.La commission considère que ces destinataires présentent
+un intérêt légitime à accéder aux données du présent traitement, sous réserve
+que les données effectivement accessibles présentent un lien direct et
+nécessaire avec leurs fonctions et leurs missions.Sur l'information des
+personnes :Les personnes concernées sont informées de la réalisation de
+statistiques de manière indirecte, via la publication de l'arrêté informant de
+la création et de la réalisation du traitement.Sur les droits d'accès, de
+rectification et d'opposition des personnes :Les droits d'accès et de
+rectification s'exercent auprès de la DARES, par voie postale ou par voie
+électronique.Le droit d'opposition prévu à l'article 38 de la loi susvisée ne
+trouve pas à s'appliquer au présent traitement, ainsi que le prévoit le projet
+d'arrêté, en application des dispositions de l'article 38-III de la loi du 6
+janvier 1978 modifiée.La commission est informée du fait que, dans la mesure
+où l'anonymisation des données ne permet plus de répondre précisément
+lorsqu'est exercé un droit d'accès, l'information communiquée en réponse à
+l'exercice de ce droit, portera notamment sur la nature des variables
+recueillies dans le cadre de ce projet.Sur la sécurité des données et la
+traçabilité des actions :La commission observe que la construction des bases
+de données statistiques permanentes implique de nombreux échanges avec les
+plateformes partenaires, soit au travers de canaux de communication soit par
+échange de clés USB. Elle observe en outre que les informations échangées
+entre les partenaires et la DARES peuvent comporter de nombreuses données
+personnelles sur les individus, dont certaines seront directement associées à
+leur NIR.La commission considère ainsi que des mesures de sécurité appropriées
+devront être prises en conséquence, telles que le chiffrement des données
+échangées par un algorithme réputé fort utilisant des clés de taille
+suffisante, afin de garantir la confidentialité des échanges. Elle recommande
+en outre que la transmission de ces clés se fasse via un canal de
+communication distinct des données. Enfin, elle recommande que l'échange de
+données par clé USB, leur intégration au sein des bases ainsi que la
+destruction de ces données sur le support fassent l'objet de procédures
+formalisées, validées par le responsable de traitement et portées à la
+connaissance des utilisateurs.La commission observe que le traitement implique
+que le NIR soit conservé dans les bases de données après la construction des
+bases statistiques, notamment sous une forme hachée au sein des tables de
+passage (NIR0). La commission considère qu'aucun NIR ne devrait être conservé
+par la DARES après ce traitement, qu'il soit stocké en clair ou sous sa forme
+hachée. La commission considère en effet que le croisement des multiples
+informations détaillées de ces bases, notamment en vue de leur enrichissement,
+pourrait permettre une identification directe des individus et de leur NIR,
+qu'il soit stocké sous forme hachée ou non. Elle recommande ainsi que
+l'identification des données au moyen des tables de passage se réalise au
+moyen de clés uniques n'ayant aucune relation avec le NIR.La commission relève
+enfin qu'un module d'analyse de données permet une exploitation statistique.
+Elle recommande que l'outil de requête ne permette que des restitutions
+anonymes et réduise également le risque de réidentification des personnes en
+limitant les interrogations ciblées et le niveau de détail des rapports. Pour
+la présidente : Le vice-président délégué, M.-F. Mazars Télécharger le
+document en RTF (poids < 1Mo) Extrait du Journal officiel électronique
+authentifié (format: pdf, poids : 0.21 Mo) Masquer le panneau de navigation
+Retour au sommaire du JO \- Imprimer À propos de l'ordre juridique français
+Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

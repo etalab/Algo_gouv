@@ -1,0 +1,1019 @@
+Avis n° 2015-1316 du 12 novembre 2015 relatif au projet de loi pour une
+République numérique | Legifrance Legifrance - Le service public de l'accès au
+droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Avis n° 2015-1316 du 12 novembre
+2015 relatif au projet de loi pour une République numérique Avis n° 2015-1316
+du 12 novembre 2015 relatif au projet de loi pour une République numérique
+Masquer le panneau de navigation Imprimer Informations sur ce texte JORF
+n°0235 du 8 octobre 2016 texte n° 56 Avis n° 2015-1316 du 12 novembre 2015
+relatif au projet de loi pour une République numérique NOR: ARTJ1620467V ELI:
+Non disponible L'Autorité de régulation des communications électroniques et
+des postes,Vu le code des postes et des communications électroniques,
+notamment son article L. 36-5 ;Vu le courrier de la secrétaire d'Etat chargée
+du numérique en date du 6 octobre 2015 ;Vu le projet de loi pour une
+République numérique transmis au Conseil d'Etat et publié le 6 novembre 2015 ;
+Après en avoir délibéré le 12 novembre 2015,L'article L. 36-5 du code des
+postes et des communications électroniques (« CPCE ») prévoit que l'Autorité
+de régulation des communications électroniques et des postes (« l'Autorité »
+ou « l'ARCEP ») est consultée sur les projets de loi, de décret ou de
+règlement relatifs au secteur des communications électroniques, et participe à
+leur mise en œuvre.Par un courrier en date du 6 octobre 2015, la secrétaire
+d'Etat chargée du numérique a sollicité l'avis de l'Autorité sur un projet de
+loi pour une République numérique.De façon inédite, ce projet a été mis en
+consultation publique, du 26 septembre au 18 octobre 2015, afin de recueillir
+les avis et propositions des internautes - qu'ils soient professionnels,
+représentants d'associations ou citoyens - et ainsi d'enrichir et de
+perfectionner le projet de loi. Le 6 novembre 2015, un projet de loi modifié a
+ainsi été publié sur le site internet mis en place pour la consultation
+publique.Il comporte des mesures visant à favoriser la circulation des données
+et du savoir, à œuvrer pour la protection des individus dans la société
+numérique et à garantir l'accès au numérique pour tous.L'Autorité, qui salue
+l'exercice d'élaboration participative du projet, souhaite formuler les
+observations suivantes. Le présent avis porte sur la version du projet de loi
+mise en ligne le 6 novembre 2015. I. -Tirer toutes les conséquences de la
+réorientation importante que constitue pour l'ARCEP sa nouvelle mission de
+gardien de la neutralité de l'internet L'ARCEP, qui s'est saisie très tôt de
+la question de la neutralité de l'internet, a développé jusqu'à présent une
+approche progressive, essentiellement basée sur le droit souple au travers de
+préconisations adressées aux acteurs en 2010 (1) et 2012 (2).A l'occasion de
+la transposition du troisième « paquet télécom » par l'ordonnance n° 2011-1012
+du 24 août 2011 (3), le cadre a été complété en matière de neutralité de
+l'internet en vue de renforcer les obligations pesant sur les opérateurs en
+matière de transparence et de qualité de service (4). En outre, les
+compétences de l'ARCEP en matière d'enquête et de recueil d'information, d'une
+part, et de règlement de différend, d'autre part, ont été étendues aux
+conditions techniques et tarifaires d'acheminement du trafic appliquées aux
+fournisseurs de services de communication au public en ligne (5).Jusqu'à
+présent, c'est donc une logique d'autorégulation par la transparence et de
+règlement a posteriori des éventuels litiges entre acteurs qui avait prévalu
+en matière de neutralité de l'internet.Néanmoins, compte tenu de l'importance
+sociale et économique d'internet, devenu un véritable bien commun, le
+législateur européen a estimé indispensable de définir un cadre a priori, en
+consacrant un droit d'accès à l'internet ouvert et en encadrant les pratiques
+susceptibles d'être mises en œuvre par les opérateurs dans la gestion de leurs
+réseaux (voir le document « Neutralité de l'internet - Etat des lieux du cadre
+de régulation » publié par l'Autorité en septembre 2015 pour une présentation
+des dispositions du règlement) (6).Si le règlement européen établissant des
+mesures relatives à l'accès à un internet ouvert et modifiant la directive
+2002/22/CE concernant le service universel et les droits des utilisateurs au
+regard des réseaux et services de communications électroniques et le règlement
+(UE) n° 531/2012 concernant l'itinérance sur les réseaux publics de
+communications mobiles à l'intérieur de l'Union (ci-après « règlement
+établissant des mesures relatives à l'accès à un internet ouvert »), qui a été
+adopté par le Parlement européen le 27 octobre 2015, est d'application
+directe, l'intervention du législateur est nécessaire pour permettre à l'ARCEP
+de contrôler le respect par les opérateurs des dispositions du règlement.A
+cette fin, l'article 16 du projet de loi, dans sa version issue de la
+consultation publique, prévoit, tout d'abord, de compléter l'article L. 33-1
+du CPCE en ajoutant une obligation pour les opérateurs de respecter « p) la
+neutralité de l'Internet, garantie, conformément au règlement n° … du
+Parlement européen et du Conseil du ... établissant des mesures relatives à
+l'internet ouvert et modifiant la directive 2002/22/CE sur le service
+universel et les droits de l'utilisateur concernant les réseaux de
+communication et les services et le règlement (UE) n° 531/2012 concernant
+l'itinérance sur les réseaux publics de communications mobiles à l'intérieur
+de l'Union, par : \- le traitement de façon égale et sans discrimination de
+tout trafic par les opérateurs dans la fourniture des services d'accès à
+Internet sans restriction ou interférence, quels que soient l'expéditeur et le
+destinataire, les contenus consultés ou diffusés, les applications ou les
+services utilisés ou fournis ou les équipements terminaux utilisés ;- ainsi
+que par le droit des utilisateurs finals, y compris les personnes fournissant
+des services de communication au public en ligne d'accéder et de contribuer à
+Internet. Des services autres que des services d'accès à internet optimisés
+pour des contenus, applications ou services spécifiques ou une combinaison de
+ceux-ci, peuvent également être fournis dans les conditions prévues par le
+même règlement. »Le projet de loi complète également les articles L. 36-7 et
+L. 36-11 pour confier à l'ARCEP le pouvoir de sanctionner les manquements des
+opérateurs à leurs obligations au titre du règlement établissant des mesures
+relatives à l'accès à un internet ouvert.Afin d'assurer l'effectivité des
+dispositions du CPCE relatives aux pouvoirs de règlement de différend (7) et
+de recueil d'information (8) de l'ARCEP à l'égard des fournisseurs de services
+de communication au public en ligne, le projet de loi prévoit en outre que les
+manquements de ces acteurs aux dispositions du CPCE peuvent, à l'instar de
+ceux imputables aux opérateurs de communications électroniques, donner lieu à
+des sanctions pécuniaires.Si les modifications du CPCE prévues par l'article
+16 du projet de loi sont de nature à contribuer à la mise en œuvre effective
+du règlement établissant des mesures relatives à l'accès à un internet ouvert,
+l'ARCEP invite le Gouvernement et le Parlement à envisager d'autres
+adaptations pour tirer toutes les conséquences de la réorientation importante
+de la régulation des communications électroniques que constitue pour l'ARCEP
+sa nouvelle mission de gardien de la neutralité de l'internet.La régulation
+des communications électroniques a été pensée, il y a bientôt vingt ans, avec
+pour objectif principal l'ouverture du secteur à la concurrence et le maintien
+des garanties attachées alors au service public. Ces missions restent bien
+évidemment au cœur des travaux du Gouvernement et de l'ARCEP, qui mettent tous
+deux en œuvre la fonction de régulation au niveau national. Pour autant, avec
+les nouveaux principes et outils définis au niveau européen en matière de
+neutralité de l'internet, c'est bien une nouvelle orientation de la régulation
+qui se dessine : assurer, au-delà du caractère concurrentiel des marchés et de
+la mise en œuvre du service universel des communications électroniques, le
+droit de tout utilisateur (consommateur ou acteur de l'internet) de diffuser
+et d'accéder aux informations et contenus de son choix et le plein et entier
+respect de la neutralité dans l'acheminement du trafic correspondant.En
+premier lieu, si le projet de loi prévoit de consacrer, à l'article L. 33-1 du
+CPCE, une obligation pour les opérateurs de respecter « la neutralité de
+l'internet », il serait cohérent que cette évolution se traduise dans les
+objectifs assignés au régulateur dans l'exercice de ses missions. Il pourrait
+ainsi être ajouté, au II de l'article L. 32-1 du CPCE, que, parmi les
+objectifs poursuivis, dans le cadre de leurs attributions respectives, par le
+ministre chargé des communications électroniques et l'ARCEP, figure : « 6° bis
+Le caractère ouvert et neutre d'internet […] ».En deuxième lieu, l'ARCEP note
+que les règles en matière de neutralité de l'internet marquent le passage à
+une régulation plus « horizontale » ou « symétrique », dans laquelle
+l'ensemble des fournisseurs d'accès à internet sont soumis aux mêmes règles.
+Dans une telle situation, il existe un risque accru d'asymétrie d'information
+du régulateur vis-à-vis des opérateurs. Face à ce risque, au-delà des
+informations qui pourraient être recueillies auprès des personnes fournissant
+des services de communication au public en ligne concernant les conditions
+d'acheminement du trafic appliquées à leur service (cf. supra), il est
+nécessaire de veiller à l'effectivité du pouvoir d'enquête de l'ARCEP et du
+ministre chargé des communications électroniques. A cet égard, l'ARCEP estime
+que la rédaction actuelle des articles L. 32-4 et L. 32-5 du CPCE devrait être
+adaptée afin de préciser les conditions dans lesquelles les enquêteurs peuvent
+intervenir dans les locaux professionnels des opérateurs, à l'instar des
+dispositions applicables à d'autres autorités administratives indépendantes
+(CNIL, Autorité de la concurrence). Il conviendrait également de clarifier les
+cas dans lesquels une autorisation préalable du juge des libertés et de la
+détention est obligatoire, notamment lorsque les lieux sont affectés au
+domicile privé ou lorsqu'il est procédé à une saisie de documents. Une
+proposition de rédaction figure en annexe au présent avis.En troisième lieu,
+l'Autorité invite le législateur et le Gouvernement à étudier un élargissement
+du champ de compétence de la Commission supérieure du service public des
+postes et des communications électroniques aux questions relatives à la
+neutralité de l'internet. Cette commission parlementaire est en effet amenée à
+se prononcer largement sur le bon fonctionnement des secteurs des
+communications électroniques et des postes, ainsi que sur l'action de l'ARCEP,
+et il serait cohérent d'adapter son champ d'intervention pour tenir compte des
+nouveaux enjeux attachés à la neutralité de l'internet.L'ARCEP souhaite
+également formuler les observations complémentaires suivantes :Il convient
+tout d'abord de souligner que, s'il peut être opportun que le législateur
+national consacre à l'article 16 du projet de loi un principe de neutralité de
+l'internet, celui-ci ne pourra être interprété qu'en cohérence avec les
+dispositions du règlement européen.De même, l'ARCEP relève que l'article 17 du
+projet de loi issu de la consultation publique prévoit d'introduire à
+l'article L. 33-1 du CPCE de nouvelles dispositions destinées, selon l'exposé
+des motifs, à permettre à tout utilisateur d'héberger ses propres données.
+L'ARCEP s'interroge sur la rédaction de cet article, dont la portée paraît
+dépasser la question de l'auto-hébergement, et note que le règlement européen
+consacre précisément le droit de tout utilisateur « d'accéder aux informations
+et aux contenus et de les diffuser, d'utiliser et de fournir des applications
+et des services et d'utiliser les équipements terminaux de leur choix ». S'il
+peut paraître peu opportun d'introduire des dispositions spécifiques en ce qui
+concerne l'auto-hébergement, il pourrait en revanche être souhaitable de
+préciser, au p) du I de l'article L. 33-1 ajouté par le projet de loi, que le
+droit des utilisateurs d'accéder aux informations et d'utiliser les terminaux
+de leurs choix se traduit notamment par le droit reconnu à tout utilisateur
+d'héberger ses propres données et de permettre aux tiers d'y accéder.L'article
+22 du projet de loi vise à modifier l'article L. 121-83 du code de la
+consommation (qui régit le contenu des contrats conclus par les opérateurs de
+communications électroniques avec les consommateurs) en vue de reprendre une
+partie des dispositions de l'article 4 du règlement établissant des mesures
+relatives à l'accès à un internet ouvert. Dans le prolongement des
+dispositions du troisième « paquet télécom » (9), le règlement vient en effet
+renforcer les obligations de transparence pesant sur les opérateurs (en
+particulier en ce qui concerne la qualité des services fournis et l'impact des
+mesures de gestion de trafic éventuellement mises en œuvre).A cet égard,
+l'Autorité relève que, conformément au troisième paragraphe de l'article 4 du
+règlement, les Etats membres restent libres « de maintenir ou d'instaurer des
+exigences supplémentaires en matière de surveillance, d'information et de
+transparence, y compris celles qui concernent le contenu, la forme et la
+méthode de publication des informations », dès lors que ces exigences
+respectent les dispositions communautaires. Si le droit national peut venir
+préciser, sur ce point, la portée des obligations prévues par le règlement, il
+convient là encore de veiller à la pleine cohérence des dispositions du code
+de la consommation avec celles du règlement.Par ailleurs, l'article 16 du
+projet de loi vise à clarifier que les dispositions du CPCE relatives aux
+pouvoirs d'enquête et de règlement de différend de l'ARCEP en ce qui concerne
+les conditions d'acheminement appliquées aux services de communication au
+public en ligne (cf. supra) s'étendent notamment aux pratiques de gestion de
+trafic susceptibles d'être mises en œuvre par les opérateurs sur leurs
+réseaux. A cet égard, l'ARCEP note que la modification proposée en ce qui
+concerne l'article L. 32-4 du CPCE paraît distinguer « acheminement du trafic
+» et « gestion de trafic », au contraire de celle prévue pour l'article L.
+36-8, qui vise les « conditions techniques et tarifaires d'acheminement,
+notamment de gestion, du trafic » (soulignement ajouté). L'ARCEP invite donc
+le Gouvernement à retenir pour ces deux articles la rédaction prévue pour
+l'article L. 36-8 du CPCE, afin de clarifier le fait que les pratiques de
+gestion de trafic sont d'ores et déjà inclues dans les « conditions
+d'acheminement du trafic » (v. annexe).Enfin, le projet de loi insère par
+ailleurs au I de l'article L. 36-11 du CPCE un nouvel alinéa prévoyant que
+l'Autorité peut prononcer une mise en demeure « anticipée », c'est-à-dire
+mettre en demeure un opérateur de se conformer à une obligation s'il existe un
+risque caractérisé que celle-ci soit méconnue à l'échéance initialement fixée.
+Une telle faculté est nécessaire pour permettre d'assurer l'effectivité
+d'obligations s'inscrivant dans la durée et assorties d'échéances, notamment
+en matière de respect par les opérateurs mobiles de leurs obligations de
+couverture du territoire. Comme l'Autorité l'avait souligné dans son avis n°
+2014-0191, « Une telle mise en demeure semblait déjà pouvoir être prononcée en
+vertu de la jurisprudence du Conseil d'Etat, de telle sorte que l'ajout de cet
+alinéa, en prévoyant de façon expresse cette faculté́, contribue à sécuriser
+le pouvoir de sanction de l'ARCEP » (CE, 10 juillet 1995, Sté TF1, n°
+141726).L'Autorité accueille favorablement une telle clarification et invite
+le Gouvernement et le Parlement à en prévoir par cohérence le pendant à
+l'article L. 5-9 du CPCE, qui régit le pouvoir de sanction de l'ARCEP en
+matière postale. II. - Favoriser l'accès du public à l'information dans le
+secteur des communications électroniques L'article 3 du projet de loi prévoit
+de modifier les dispositions de la loi n° 78-753 du 17 juillet 1978 qui seront
+codifiées, au 1er janvier 2016, à l'article L. 312-1 du nouveau code des
+relations entre le public et l'administration (10), afin de substituer à une
+simple faculté l'obligation pour les administrations de publier en ligne,
+lorsqu'ils sont disponibles sous forme électronique et sous réserve notamment
+des secrets protégés par l'article L. 311-6 (dont le secret en matière
+commerciale et industrielle), qui codifie en partie l'article 6 de la loi du
+17 juillet 1978, plusieurs catégories de documents administratifs, en
+particulier les documents communiqués en application du droit de communication
+prévu par cette loi, les bases de données qu'elles produisent ou reçoivent
+ainsi que les données dont la publication présente un intérêt économique,
+social ou environnemental.L'Autorité, dont certaines bases de données sont
+d'ores et déjà publiées en ligne, salue l'instauration, prévue par cet
+article, du principe d'ouverture et de publication des données publiques («
+open data »).L'Autorité estime souhaitable d'aller plus loin, dans une
+démarche d'Etat-plateforme, en favorisant la mise à disposition d'informations
+par des tiers concernant le secteur des communications électroniques.En
+complément des dispositions prévues par le projet de loi et de l'article 12 de
+la loi du 17 juillet 1978, relatif aux conditions de réutilisation des
+informations publiques, et afin de favoriser l'accès du public à des
+informations claires, comparables et actualisées dans les secteurs des
+communications électroniques et des postes, l'Autorité propose ainsi
+d'introduire dans le CPCE des dispositions permettant à des tiers qui le
+souhaiteraient de se prévaloir, sous certaines conditions, de son approbation
+lorsqu'ils élaborent et publient des études et informations présentant un
+intérêt particulier pour les utilisateurs (v. proposition en annexe du présent
+avis). Les initiatives approuvées par l'Autorité, qu'elles recourent à des
+données publiques ou issues de la production participative (« crowdsourcing
+»), bénéficieraient ainsi d'une visibilité accrue permettant de les distinguer
+au sein de l'ensemble des informations disponibles sur internet et
+représenteraient un gage de qualité pour les utilisateurs.Par ailleurs,
+l'article 33 prévoit que l'ARCEP mette à disposition du public, par voie
+électronique, sous un standard ouvert aisément réutilisable et sous réserve
+d'en mentionner la source, les cartes numériques de couverture en services
+fixe et mobile que les opérateurs doivent publier sur leur site internet,
+ainsi que les données servant à établir ces cartes. La disposition en cause
+vise à mettre à disposition, sur le site de l'ARCEP, notamment dans le cadre
+de son observatoire sur la couverture et la qualité des services mobiles, des
+informations enrichies, réutilisables et comparables quant à la réalité de la
+couverture des services dont les utilisateurs bénéficient. Ce dispositif
+permettra, d'une part, aux utilisateurs de s'assurer que les cartes
+correspondent au mieux à la réalité de leur expérience et, d'autre part, à
+d'éventuels tiers, de développer des applications innovantes en réutilisant
+les données publiées. L'ARCEP accueille ainsi avec grande satisfaction ce
+dispositif, qui apparaît pertinent pour enrichir l'information des
+utilisateurs qu'ils soient, par exemple, particuliers ou collectivités
+territoriales.L'ARCEP souhaite également formuler les observations
+complémentaires suivantes :L'Autorité relève que les dispositions de l'article
+3 du projet de loi prévoient l'obligation de publier les bases de données et
+leur contenu ainsi que les données dont la publication présente un intérêt
+économique, social ou environnemental. En pratique, compte tenu de la
+difficulté inhérente à la manipulation et à l'interprétation de données
+brutes, il apparaît que la publication d'avertissements méthodologiques,
+précisant par exemple les modalités d'élaboration des données et les
+éventuelles réserves d'interprétation liées à ces modalités, pourrait
+utilement accompagner la publication de ces informations, afin de conserver
+l'intérêt économique, social ou environnemental qu'elles présentent et de
+favoriser leur appropriation et leur compréhension par les acteurs. III. -
+Accompagner la réussite de la République numérique Le projet de loi propose
+d'introduire des règles nouvelles s'appliquant aux acteurs du numérique,
+destinées à protéger les utilisateurs et à favoriser leur confiance.
+L'Autorité souscrit pleinement à la volonté du Gouvernement de se situer en
+anticipation par rapport à la révolution numérique et à ses conséquences pour
+notre économie et nos concitoyens. Pour autant, le numérique étant un
+phénomène par nature innovant, pervasif et international, il apparaît
+primordial de définir des textes de portée suffisamment générale afin
+d'assurer leur cohérence avec les règles qui pourraient être fixées au niveau
+européen et d'éviter une rigidité ou une obsolescence prématurée des textes
+nationaux. Au regard de son expertise de régulateur sectoriel des réseaux du
+numérique, l'Autorité soumet les observations suivantes. 1\. Loyauté des
+plateformes Le projet de loi, dans sa version issue de la consultation
+publique, prévoit d'introduire une définition des « plateformes en ligne » et
+de préciser les obligations qui s'imposent à elles en matière de loyauté, de
+clarté et de transparence de l'information vis-à-vis des consommateurs. Les «
+plateformes en ligne » sont définies par référence à leur rôle de mise en
+relation de tiers mais également par leur fonction de classement et de
+référencement des contenus, biens ou services proposés par des tiers. En
+outre, il est confié aux ministres chargés de l'économie et du numérique la
+faculté notamment de procéder à des enquêtes auprès des plateformes en ligne
+et de publier la liste des plateformes ne respectant par leurs obligations.A
+l'heure où le principe du caractère ouvert d'internet vient d'être consacré en
+droit européen, l'Autorité estime qu'il est légitime de s'intéresser à la
+question de la transparence et de la loyauté des plateformes en ligne, dont
+certaines ont acquis un rôle majeur dans le fonctionnement de l'économie et de
+la société numériques. En effet, comme l'Autorité l'avait noté dès 2010, «
+l'exercice effectif par les utilisateurs de leur liberté de choix entre les
+prestations (services/applications/contenus) rendues disponibles par les PSI
+via l'internet implique que ces derniers respectent […] des principes
+d'objectivité et de transparence vis-à-vis de l'utilisateur en ce qui concerne
+les règles utilisées, dans le cas où les [prestataires de la société de
+l'information] exercent un rôle de sélection ou de classement de contenus
+tiers, ce qui est notamment le cas des moteurs de recherche » (11). En ce
+sens, l'Autorité avait indiqué, dans le cadre de la concertation numérique
+menée par le Conseil national du numérique, qu'elle était favorable à
+l'introduction dans le droit positif d'un principe de loyauté des plateformes
+(12).Toutefois, l'Autorité considère qu'une solution pérenne, pertinente et
+globale aux questions posées par le rôle et l'importance des plateformes en
+ligne dans leurs relations tant avec les consommateurs qu'avec les
+professionnels doit être d'abord recherchée au niveau européen.Comme l'a
+souligné le Conseil d'Etat dans son étude annuelle de 2014 portant sur « Le
+numérique et les droits fondamentaux », l'introduction de dispositions
+nationales visant à définir un régime juridique applicable aux plateformes est
+de nature à soulever des difficultés juridiques, au regard du cadre
+communautaire, et pratiques (13). A cet égard, si la directive 2000/31/CE du 8
+juin 2000 sur le commerce électronique n'interdit pas d'imposer aux acteurs
+proposant un service de la société de l'information, dont les plateformes en
+ligne, des obligations nécessaires et proportionnées pour assurer la
+protection des consommateurs, l'extension de ces obligations à la protection
+des professionnels impliquerait un examen plus approfondi vis-à-vis du cadre
+communautaire.Or, compte tenu du rôle d'intermédiaire joué par les plateformes
+et du caractère biface des marchés sur lesquels elles interviennent, il est
+indispensable d'aborder la question de la loyauté des plateformes de manière
+globale, en garantissant cette loyauté tant vis-à-vis des consommateurs que
+des professionnels, dont les contenus ou services sont susceptibles d'être
+référencés par les plateformes et à l'égard desquels les pratiques mises en
+œuvre par les plateformes peuvent avoir des conséquences très importantes. De
+manière très concrète, de nombreuses startups et PME souhaitant accéder aux
+marchés numériques via des magasins d'applications, des liens sponsorisés ou
+encore des interfaces de programmation sont aujourd'hui soumises aux
+comportements, parfois unilatéraux, des grandes plateformes en ligne. Cet
+enjeu, essentiel pour la compétitivité de l'économie française, ne saurait
+être omis.En outre, l'adoption de mesures contraignantes au seul niveau
+national soulèvera des difficultés de mise en œuvre à l'égard des principaux
+acteurs internationaux, et risque d'affecter principalement les acteurs
+établis en France.Si l'adoption de dispositions nationales prévoyant des
+obligations contraignantes apparaît prématurée, il apparaît cependant
+souhaitable de mener dès à présent un travail de recueil et de diffusion de
+l'information nécessaire pour recenser, analyser et comparer les pratiques des
+plateformes en ligne, y compris à l'égard des utilisateurs professionnels.
+Cette information, dont les éléments devraient être déterminés après
+concertation avec le secteur, pourrait notamment concerner les principales
+caractéristiques des algorithmes de classement ou encore les questions
+d'ouverture des interfaces de programmation (« API ») de ces services.A cet
+égard, l'Autorité a noté avec intérêt la proposition du Conseil national du
+numérique dans son rapport remis au Premier ministre en juin 2015 (14),
+consistant à promouvoir un système de notation des plateformes s'appuyant sur
+un réseau ouvert de contributeurs. Un tel système permettrait d'enrichir et de
+rendre aisément accessibles et comparables les informations rassemblées par
+les observateurs et outils d'ores et déjà existants et de proposer un espace
+permettant aux utilisateurs de signaler les pratiques qui leur semblent
+contraires à la loyauté des plateformes. En outre, comme le souligne le
+Conseil, la France pourrait avoir un rôle moteur dans la mise en place d'un
+tel dispositif de notation en l'instaurant d'ores et déjà dans un cadre
+national tout en portant des initiatives plus larges au niveau européen. 2\.
+Secret des correspondances L'article 30 du projet de loi prévoit d'introduire
+à l'article L. 32-3 du CPCE des dispositions imposant aux « éditeurs de
+services de communication au public en ligne » le respect du secret des
+correspondances, à l'instar de l'obligation déjà prévue pour les opérateurs de
+communications électroniques (15).Le secret des correspondances fait en effet
+partie intégrante du cadre actuel de régulation des postes et des
+communications électroniques.Compte tenu de l'évolution massive des usages,
+l'Autorité estime qu'il peut être légitime et utile de compléter les
+obligations en matière de secret des correspondances opposables à ce jour aux
+échanges par téléphone et par SMS afin qu'elles concernent plus largement les
+échanges sur les réseaux numériques.Dans ce cadre, l'Autorité invite le
+Gouvernement à veiller à la définition d'un cadre juridique solide et
+cohérent, permettant une prévention et une répression effectives des atteintes
+au secret des correspondances.En effet, les dispositions de l'article 30 du
+projet de loi font peser les nouvelles obligations sur les « éditeurs de
+services de communication au public en ligne permettant aux utilisateurs de
+ces services d'échanger des correspondances ». Or, la définition de la
+communication au public en ligne au sens des dispositions de la loi n°
+2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (« LCEN
+») exclut toute communication ayant le caractère d'une correspondance privée
+(16). Il semble nécessaire de lever cette contradiction afin de conférer à
+l'article 30 sa pleine portée utile.Si l'appréhension cohérente de ces
+diverses notions nécessite une analyse approfondie, il apparaît en revanche
+qu'une partie des services en ligne permettant l'échange de communications
+ayant le caractère de correspondance privée est susceptible de relever de la
+catégorie des services de communications électroniques. Il s'agit en
+particulier des services de courrier électronique (17) qui, au regard
+notamment du cadre communautaire, semblent pouvoir être considérés comme des
+services de communications électroniques (18).Si les implications d'une telle
+qualification des services de courrier électronique sont jusqu'ici apparus
+limitées, le projet de loi montre qu'il pourrait désormais exister un réel
+enjeu, pouvant justifier de clarifier le statut de ces acteurs.Par ailleurs,
+s'agissant des services permettant l'échange de correspondances autres que
+ceux susceptibles d'être qualifiés de services de communications
+électroniques, l'Autorité note que la question de l'inclusion des services
+numériques permettant l'échange de correspondances dans le champ de la
+régulation des communications électroniques constitue précisément l'un des
+principaux enjeux de la révision du cadre qui s'engage (19).L'ARCEP souhaite
+également formuler les observations complémentaires suivantes :L'article 30 du
+projet de loi, dans sa rédaction issue de la consultation publique, modifie la
+rédaction de l'article L. 32-3 du CPCE en vigueur pour préciser que
+l'obligation de respecter le secret des correspondances s'applique, non plus
+aux « opérateurs » mais aux « opérateurs de réseaux et fournisseurs de
+services de communications électroniques ». Compte tenu de la définition de la
+notion d'opérateur prévue au 15° de l'article L. 32 du CPCE, qui inclut les
+exploitants de réseaux ouverts au public et les fournisseurs de services de
+communications électroniques au public (20), l'Autorité suggère de conserver
+la rédaction en vigueur. 3\. Portabilité des courriers électroniques et des
+données L'article 18 du projet de loi prévoit l'introduction d'une nouvelle
+section relative à la récupération et à la portabilité des données et des
+courriers électroniques au sein du code de la consommation. Comme le
+préciserait le nouvel article L. 121-123 de ce code, les dispositions ainsi
+introduites auraient toutefois vocation à s'appliquer au bénéfice tant des
+consommateurs que des professionnels.Plus précisément, un nouvel article L.
+121-121 du code de la consommation viendrait imposer l'obligation à tout
+fournisseur d'un service de courrier électronique comprenant la mise à
+disposition d'une adresse de courrier électronique de proposer gratuitement à
+son utilisateur une fonctionnalité permettant de transférer les messages de sa
+boîte ainsi que sa liste de contacts vers un autre fournisseur de service de
+courrier électronique, sous réserve de la capacité de stockage du service
+fourni par ce dernier. A cet effet, les dispositions de cet article prévoient
+l'obligation pour le fournisseur de transmettre à tout autre fournisseur les
+informations nécessaires à la mise en place de la fonctionnalité gratuite et
+notamment celles relatives aux règles techniques et standards applicables. Cet
+article prévoit en outre d'introduire une obligation similaire à celle que
+l'article L. 44-1 du CPCE impose aux fournisseurs d'accès à internet, à savoir
+l'obligation pour le fournisseur de service de courrier électronique de
+permettre à ses utilisateurs de consulter gratuitement leurs courriers
+électroniques pendant une durée de six mois à compter de la résiliation ou de
+la désactivation du service.Par ailleurs, un nouvel article L. 121-122 du code
+de la consommation imposerait aux fournisseurs de services de communication au
+public en ligne, d'une part, de proposer aux utilisateurs une fonctionnalité
+gratuite permettant la récupération des fichiers mis en ligne ainsi que les
+données associées au compte utilisateur et, d'autre part, de fournir aux
+utilisateurs une information précontractuelle et contractuelle concernant la
+possibilité ou l'impossibilité de récupérer les données ayant fait l'objet
+d'un traitement et, le cas échéant, des modalités de récupération des
+données.L'Autorité note que les difficultés à transférer leurs messages et
+leurs données peuvent constituer un frein au changement de fournisseur de
+services pour les consommateurs et les professionnels. Aussi l'Autorité
+accueille-t-elle favorablement l'objectif poursuivi par ces dispositions, qui
+visent à réduire la viscosité du marché des services numériques, notamment de
+courrier électronique ou de cloud computing.Au-delà des questions
+d'articulation avec le cadre communautaire - et tout particulièrement des
+dispositions relatives à la récupération des données stockées en ligne avec la
+proposition de règlement européen sur les données personnelles (21) -
+l'Autorité estime qu'il convient de ne pas sous-estimer la complexité
+technique et opérationnelle liée à la mise en œuvre des dispositifs de
+récupération et de portabilité des données prévus par le projet de loi.A cet
+égard, s'agissant notamment de la récupération des courriers électroniques,
+l'exemple tiré de la mise en œuvre de l'obligation de portabilité des numéros
+fixes et mobiles imposée aux opérateurs de communications électroniques peut
+permettre de tirer certains enseignements et points d'attention.Initiés il y a
+plus de dix ans, les travaux de mise en œuvre de la portabilité des numéros
+mobiles et fixes ont nécessité : \- la définition de processus opérationnels
+communs décrivant les différentes étapes nécessaires à la conservation d'un
+numéro avec, pour chacune d'elles, les rôles et responsabilités des opérateurs
+impliqués, et des impacts parfois structurants sur la relation client (ex.
+notion de « simple guichet » dans laquelle le client peut mettre en œuvre
+l'ensemble du processus de portabilité en sollicitant uniquement l'opérateur
+cible, par opposition à un système de « double guichet » nécessitant une
+première étape auprès de l'opérateur initial) ;- l'élaboration de protocoles
+informatiques communs permettant les échanges d'informations nécessaires entre
+opérateurs et leur traitement efficace ;- le développement d'outils
+informatiques par chaque opérateur pour intégrer ces protocoles aux
+spécificités de leurs systèmes d'information. Bien qu'il existe des
+différences, en termes de périmètres et de contraintes opérationnelles, avec
+le dispositif prévu par le projet de loi (22), l'exemple de la portabilité des
+numéros montre que la mise en place de telles mesures, s'appliquant à
+l'ensemble d'un secteur, doit s'appuyer tant sur la co-régulation (le
+développement d'outils communs et leur exploitation ont été rendus possibles
+grâce au regroupement des opérateurs au sein de structures dédiées (23), sous
+l'égide de l'ARCEP) que sur l'utilisation d'outils contraignants (les
+protocoles de portabilité sont élaborés sur la base de décisions de l'ARCEP
+(24), qui veille à leur respect au travers des pouvoirs de contrôle prévus par
+le CPCE).En particulier, en ce qui concerne la fonctionnalité de transfert
+s'imposant aux fournisseurs de courrier électronique, les dispositions du
+deuxième alinéa de l'article L. 121-121 font référence aux informations
+relatives « aux règles techniques et aux standards applicables » qui doivent
+être fournies à tout autre fournisseur de courrier électronique. L'expérience
+de la portabilité des numéros montre que l'harmonisation de ces règles et
+standards constitue un facteur clé de succès et réduit les coûts de mise en
+œuvre. En lien avec les observations précédemment formulées dans la partie
+relative au secret des correspondances, l'Autorité souligne que les
+obligations qui seraient imposées aux fournisseurs de courrier électronique en
+matière de portabilité, pourraient logiquement être incluses dans le champ de
+la régulation des communications électroniques.Enfin, il conviendra, en tout
+état de cause, de veiller à ce que le dispositif ne créée pas de barrière à
+l'entrée pour les petits acteurs, pour lesquels la gestion de la complexité
+administrative d'une portabilité généralisée pourrait créer une charge
+disproportionnée.L'ARCEP souhaite également formuler les observations
+complémentaires suivantes :Si les dispositions du premier alinéa de l'article
+L. 121-121 précisent que la fonctionnalité proposée est gratuite pour son
+utilisateur, il pourrait être utile que la loi encadre expressément les
+conditions tarifaires dans lesquelles un fournisseur de service de courrier
+électronique peut accéder aux informations mentionnées au deuxième alinéa de
+l'article (en précisant si cette mise à disposition d'information doit être
+gratuite ou en encadrant le niveau tarifaire de cette prestation [25]).En
+outre, concernant les caractéristiques de cette fonctionnalité, l'Autorité
+remarque que la possibilité de transférer individuellement chaque message émis
+ou reçu vers l'adresse de courrier électronique d'un autre fournisseur fait
+partie des fonctionnalités de base proposées par tout service de courrier
+électronique. Afin d'éviter toute ambigüité, il conviendrait de préciser que
+cette fonctionnalité doit permettre de transférer « directement et simplement
+» l'ensemble des messages émis ou reçus « dans leur globalité » et non pas
+individuellement comme pourrait le laisser penser la rédaction actuelle. 4\.
+Dispositions relatives à l'entretien des réseaux de communications
+électroniques et de leurs abords L'article 35 du projet de loi porte sur
+l'entretien des réseaux fixes et reprend en grande partie les dispositions de
+la proposition de loi relative à l'entretien et au renouvellement du réseau
+des lignes téléphoniques, adoptée en première lecture par l'Assemblée
+nationale le 7 mai 2015.Le projet de loi prévoit d'imposer à l'opérateur
+chargé de fournir la composante relative à l'accès et au service téléphonique
+fixe du service universel l'obligation de remettre à l'ARCEP un rapport
+présentant un état des lieux détaillé de son réseau fixe, ce rapport pouvant
+le cas échéant être complété par une analyse à l'échelle de l'arrondissement
+en cas de méconnaissance par l'opérateur des obligations prévues par le cahier
+des charges.Il est par ailleurs prévu de modifier l'article L. 36-11 du CPCE
+relatif au pouvoir de sanction de l'ARCEP afin, d'une part, de prévoir que les
+maires peuvent saisir l'ARCEP d'une demande de sanction et, d'autre part,
+d'alourdir la sanction pécuniaire maximum pouvant être prononcée à l'encontre
+d'un opérateur lorsque ce dernier est prestataire de service universel et a
+méconnu les obligations pesant sur lui à ce titre.L'Autorité relève que le
+réseau de cuivre demeurera, à court et moyen termes, le principal réseau de
+communications électroniques pour de nombreux territoires. A cet égard, elle
+estime que la qualité de ce réseau doit faire l'objet d'une attention
+particulière afin de ne pas aggraver la fracture numérique sur certains
+territoires.Le cadre en vigueur prévoit des obligations générales en matière
+de permanence, de continuité et de qualité du service (articles L. 33-1 et D.
+98-4 du CPCE). Des obligations spécifiques, définies par le ministre chargé
+des communications électroniques, pèsent par ailleurs sur l'opérateur chargé
+de la fourniture de la composante relative à l'accès et au service
+téléphonique fixe. A ce titre, le cahier des charges annexé à l'arrêté du 31
+octobre 2013 définit les objectifs de qualité de service qu'Orange doit
+respecter.Le cadre réglementaire privilégie ainsi une approche fondée sur
+l'atteinte d'objectifs et confie à l'ARCEP la mission de contrôler le respect
+de ces obligations. Ce contrôle s'effectue au travers de l'obligation pour le
+prestataire du service universel de lui transmettre des informations de
+manière périodique ou ponctuelle, mais peut aussi être mené dans le cadre
+d'enquêtes administratives.Ainsi, l'ARCEP, alertée sur la dégradation de la
+qualité constatée dans plusieurs territoires, a lancé deux enquêtes
+administratives sur ce sujet dans le courant de l'année 2014, en application
+du cadre réglementaire rappelé ci-dessus. Des engagements ont été pris par
+Orange et l'Autorité s'attache actuellement à en évaluer le respect et la
+portée.L'Autorité estime qu'il convient de maintenir une approche fondée sur
+les objectifs à atteindre et leur contrôle. A cet égard, devrait être examiné
+en priorité un éventuel renforcement des obligations de service universel par
+voie réglementaire, compte tenu de l'importance des enjeux attachés à la
+qualité du service universel. Au niveau législatif, les modifications
+apportées en ce qui concerne le pouvoir de sanction de l'Autorité peuvent
+également contribuer à un meilleur respect du cahier des charges.L'ARCEP
+souhaite également formuler les observations complémentaires suivantes :En ce
+qui concerne l'élaboration par le prestataire du service universel d'un
+rapport présentant un état des lieux détaillé de son réseau fixe, l'ARCEP
+s'interroge sur la proportionnalité de l'obligation qui pèserait sur ce
+prestataire de mener une analyse, à l'échelle de l'arrondissement, de l'état
+du réseau lorsque les obligations prévues par le cahier des charges ne sont
+pas respectées. En effet, eu égard notamment à la maille retenue, cette
+obligation est susceptible de faire peser sur l'opérateur une charge très
+importante qui risque d'être in fine répercutée sur les usagers.Le projet de
+loi prévoit par ailleurs de qualifier d'utilité publique les travaux
+d'entretien des réseaux fixes de communications électroniques et de leurs
+abords (article L. 35 du CPCE) et de préciser les règles applicables à
+l'entretien des abords des réseaux fixes de communications électroniques
+(article L. 50 du CPCE).Sur ce point, l'ARCEP invite le Gouvernement et le
+Parlement à clarifier le régime applicable aux opérations d'entretien des
+abords des réseaux mentionnées au I de l'article L. 50 du CPCE lorsqu'elles
+sont menées sur le domaine public (routier et non routier). 5\. Lettre
+recommandée électronique L'article 36 du projet de loi porte sur la lettre
+recommandée électronique.D'une part, cet article crée dans le CPCE un article
+L. 5-11 régissant ce service et prévoyant qu'il a les mêmes effets juridiques
+que la lettre recommandée papier ou hybride ; il modifie également l'article
+L. 5-1 relatif aux modalités d'attribution des autorisations des prestataires
+de services postaux.Le projet d'article L. 5-11 dispose ainsi que « la lettre
+recommandée électronique est distribuée par un prestataire postal disposant
+d'une autorisation de l'Autorité de régulation des communications
+électroniques et des postes en vertu de l'article L. 5-1 » (soulignement
+ajouté). A cet effet, une disposition est insérée dans l'article L. 5-1 du
+CPCE prévoyant que l'Autorité délivre une autorisation aux prestataires de
+lettre recommandée électronique, pour une durée de trois ans, dans les mêmes
+conditions que l'autorisation postale.L'article L. 5-11 prévoit également que
+« la lettre recommandée électronique est distribuée par un prestataire dûment
+reconnu comme prestataire de service de confiance qualifié pour les services
+d'envoi recommandé électronique au sens du Règlement (UE) n° 910/2014 du
+Parlement européen et du Conseil du 23 juillet 2014 » sur l'identification
+électronique et les services de confiance pour les transactions électroniques
+au sein du marché intérieur (eIDAS).D'autre part, l'article 36 du projet de
+loi complète l'article L. 5-3 du CPCE en prévoyant que l'Autorité est
+compétente pour prononcer des sanctions à l'encontre des prestataires de
+lettre recommandée électronique en cas de manquement aux obligations
+législatives et réglementaires afférentes à leur activité.La lettre
+recommandée électronique constitue un outil essentiel pour l'économie
+numérique en contribuant à la sécurité des échanges dématérialisés et un
+vecteur de modernisation des relations entre l'Etat et les citoyens. Un cadre
+juridique sécurisé garantissant la même valeur juridique à la lettre
+recommandée électronique qu'à la lettre recommandée traditionnelle
+favoriserait l'essor de ce service.A cet égard, l'adoption du règlement
+européen eIDAS a permis de poser les bases d'une mise en œuvre sécurisée du
+service de lettre recommandée électronique en Europe, en précisant les
+exigences techniques applicables afin de garantir la sécurité des échanges par
+voie électronique. Il convient désormais, au niveau national, de veiller à la
+mise en place d'une législation claire, adaptée et harmonisée pour accompagner
+le développement du service de recommandé électronique.Toutefois, en l'état
+actuel, le dispositif proposé par l'article 36 du projet de loi n'apparaît pas
+suffisamment abouti pour permettre l'atteinte d'un tel objectif. A cet égard
+l'Autorité souhaite formuler les observations suivantes.En premier lieu, la
+lettre recommandée électronique se voit appliquer une partie du régime
+applicable aux envois postaux du fait de l'inscription des dispositions y
+relatives dans la partie postale du CPCE et des modalités d'autorisation
+prévues, identiques à celles des prestataires de service postaux, et ce, alors
+même qu'elle n'entre pas dans le champ des envois postaux tels que définis par
+l'article L. 1 du CPCE : « Constitue un envoi postal tout objet destiné à être
+remis à l'adresse indiquée par l'expéditeur sur l'objet lui-même ou sur son
+conditionnement, y compris sous forme de coordonnées géographiques codées, et
+présenté dans la forme définitive dans laquelle il doit être acheminé. Sont
+notamment considérés comme des envois postaux les livres, les catalogues, les
+journaux, les périodiques et les colis postaux contenant des marchandises avec
+ou sans valeur commerciale. »Le texte prévoit également que la lettre
+recommandée soit distribuée par un « prestataire postal » disposant d'une
+autorisation de l'ARCEP. La formulation retenue pourrait laisser penser que
+seuls les prestataires autorisés par l'Autorité à fournir des services postaux
+pourraient prétendre offrir un service de lettre recommandée électronique, ce
+qui serait une restriction considérable à l'exercice de cette activité et
+n'apparaît pas justifié. La référence au statut postal des prestataires
+concernés ne paraît pas pertinente.En deuxième lieu, on peut s'interroger sur
+l'articulation entre la procédure visant à la qualification de « prestataire
+de service de confiance qualifié » au sens du règlement européen susmentionné
+et celle correspondant à l'autorisation qui serait délivrée par l'ARCEP ainsi
+que sur la valeur ajoutée de cette dernière. Cette contrainte supplémentaire
+d'autorisation pour les prestataires souhaitant offrir un service de lettre
+recommandée électronique présente le risque d'être considérée, au regard du
+cadre communautaire, comme une restriction aux libertés d'établissement et de
+prestation de services garanties par les articles 49 et 56 du Traité sur le
+fonctionnement de l'Union européenne (« TFUE ») et par l'article 4 du
+règlement eIDAS (26).En troisième lieu, la lettre recommandée électronique
+fait déjà l'objet de dispositions juridiques en droit national. La possibilité
+d'utiliser le service de lettre recommandée électronique en lieu et place de
+la Lettre recommandée traditionnelle est ainsi prévue en France par : \-
+l'article 1369-8 du le code civil pour la conclusion et de l'exécution des
+contrats : les caractéristiques et conditions d'utilisation de ce service sont
+encadrées par le décret n° 2011-144 du 2 février 2011 ;- l'ordonnance n°
+2014-1330 du 6 novembre 2014, relative au droit des usagers de saisir
+l'administration par voie électronique (modifiant l'ordonnance du 8 décembre
+2005) dans le cadre des relations entre l'administration et ses usagers. Les
+dispositions de l'article 36 du projet de loi ne permettent pas d'harmoniser
+les règles applicables à la lettre recommandée électronique mais viennent
+créer un régime distinct, ce qui vient complexifier le paysage juridique
+existant et pourrait au final être source de confusion à la fois pour les
+utilisateurs et pour les prestataires.Par ailleurs, le projet de loi prévoit
+de reconnaître à la lettre recommandée électronique les mêmes effets juridique
+que ceux de la lettre recommandée papier ou hybride. Or, cette dernière se
+voit attacher des caractéristiques obligatoires prévues par la directive
+postale (27) et par le droit interne (remise d'une preuve de dépôt et de
+distribution, indemnisation forfaitaire en cas de « perte », avis de
+réception, délai de mise en instance de quinze jours) qui ne sont pas
+retranscrites par l'article 36 du projet de loi pour la lettre recommandée
+électronique.En conclusion, l'Autorité émet un avis très réservé sur les
+dispositions de l'article 36 du projet de loi. Elle suggère la constitution
+d'une mission pour mener les travaux techniques et juridiques nécessaires
+préalablement à la rédaction d'un texte législatif relatif à la lettre
+recommandée électronique. L'Autorité est prête à y apporter toute contribution
+utile. 6\. Accessibilité des personnes handicapées L'article 28 du projet de
+loi comporte des dispositions destinées à renforcer de manière significative
+l'accessibilité des services téléphoniques pour les personnes handicapées et
+ce au travers de trois axes : \- en premier lieu, une obligation pour les
+services publics et les associations reconnues d'utilité publique de rendre
+gratuitement accessibles leurs « services d'accueil téléphonique destinés à
+recevoir les appels des usagers » ;- en deuxième lieu, une obligation pour les
+entreprises de rendre accessibles les « numéro(s) de téléphone destiné(s) à
+recueillir l'appel d'un consommateur en vue d'obtenir la bonne exécution d'un
+contrat conclu avec un professionnel ou le traitement d'une réclamation » et
+ce « dans les mêmes conditions » qu'elles le fournissent aux autre
+consommateurs ;- en troisième lieu, une obligation pour les opérateurs de
+communications électroniques de proposer aux utilisateurs handicapés « une
+offre de services de communications électroniques, incluant la fourniture, à
+un tarif abordable, d'un service de traduction écrite simultanée et visuelle
+». Cette évolution permet de renforcer les actions déjà mises en place (28)
+pour faciliter l'accès des personnes sourdes et malentendantes aux
+communications électroniques et constitue ainsi une avancée importante pour
+l'accès de l'ensemble des utilisateurs aux services numériques.Les modalités
+de mise en œuvre de ces obligations seront précisées par décret. A cet égard,
+il conviendra notamment de veiller à ce que les conditions de mise en œuvre
+assurent la proportionnalité de l'obligation reposant sur les opérateurs de
+communications électroniques. En particulier, compte tenu des coûts de mise en
+place de telles solutions, il est important que les décrets d'application
+offrent la possibilité pour les services publics, les entreprises et les
+opérateurs de communications électroniques de mutualiser leurs solutions ou de
+recourir à des prestataires externes. Il semble par ailleurs nécessaire que la
+nouvelle obligation pesant sur les opérateurs de communications électroniques
+soit dans un premier temps applicable uniquement aux principaux opérateurs
+présents sur les marchés résidentiels.L'Autorité note enfin que la mise en
+œuvre des dispositifs prévus par le projet de loi impliquera de former au
+cours des prochaines années un nombre important de personnes à la
+transcription et à l'interprétation. A cet égard, et au-delà des actions
+d'accompagnement de cette filière qui devraient être mises en œuvre par les
+pouvoirs publics, il conviendra de s'assurer que les délais de mise en œuvre
+de ces obligations soient compatibles avec ces nécessités. IV. - Autres pistes
+d'évolution L'ARCEP souhaite enfin soumettre au Gouvernement deux autres
+pistes d'évolution législative qui pourraient être insérées dans le projet de
+loi. 1\. IPv6 L'adressage sur internet repose aujourd'hui sur deux formats
+d'adresses IP : IPv4 et IPv6. Ces adresses sont attribuées en pratique par
+l'ICANN via 5 registres régionaux (le RIPE pour l'Europe).Il existe un peu
+plus de 4 milliards d'adresses IPv4 différentes, ce qui était largement
+suffisant aux débuts de l'internet. Aujourd'hui, néanmoins, la quasi-totalité
+des blocs d'adresses IPv4 ont déjà été attribués par les registres
+régionaux.IPv6 est une version plus avancée du protocole IP développée par
+l'IETF et finalisée en 1998, qui utilise des adresses d'une longueur de 128
+bits au lieu de 32 bits (pour IPv4). Le nombre d'adresses disponibles est donc
+considérablement plus important ( Vous pouvez consulter l'image dans le fac-
+similé du JOnº 0235 du 08/10/2016, texte nº 56 soit environ Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0235 du 08/10/2016, texte nº 56
+fois plus d'adresses) et de nature à couvrir l'ensemble des besoins futurs.Or,
+le déploiement d'IPv6 est plus lent que ce qui avait été espéré. Au début de
+l'année 2015, la proportion d'utilisateurs en IPv6 était estimée à environ 5 %
+par Google, l'un des promoteurs d'IPv6. Certains considèrent que les
+difficultés et les coûts de la migration ont été sous-estimés, notamment avec
+la nécessité de changer un certain nombre d'équipements anciens ;
+l'indifférence des utilisateurs et l'absence de bénéfices clairs liés à la
+migration sont d'autres freins fréquemment cités.En outre, les adresses IPv4
+et IPv6 ne sont pas compatibles, la communication entre un équipement ne
+supportant qu'IPv4 et un équipement ne supportant qu'IPv6 pose donc des
+difficultés. Deux approches sont possibles pour permettre la communication :
+mettre en place des systèmes de « traduction » ou un double adressage
+IPv4/IPv6.L'Autorité propose que des dispositions du projet de loi incluent
+dans le champ de la régulation des communications électroniques assurée par le
+ministre et l'Autorité la mission de suivre et d'inciter les acteurs du
+secteur à la transition vers l'IPv6. 2\. Parité L'ordonnance n° 2015-948 du 31
+juillet 2015 a introduit de nouvelles règles de désignation des membres des
+autorités administratives indépendantes (« AAI ») et autorités publiques
+indépendantes (« API ») de manière à favoriser l'égal accès des femmes et des
+hommes au sein du collège de ces instances. Ces règles concernent les AAI et
+API qualifiées comme telles par le législateur à la date d'examen de la loi
+d'habilitation par le Conseil constitutionnel.L'Autorité n'étant pas qualifiée
+d'AAI par la loi, bien que le Conseil constitutionnel lui ait reconnu ce
+statut (29), elle n'est pas au nombre des AAI et API concernées par
+l'ordonnance du 31 juillet 2015.L'Autorité, dont la composition actuelle
+respecte en pratique le principe de parité, propose ainsi d'introduire dans le
+projet de loi des dispositions garantissant de façon pérenne la parité en son
+sein. 3\. Favoriser l'inter-régulation entre l'ARCEP et la CNIL Dans son
+rapport au Gouvernement de juin 2015, le Conseil national du numérique (30)
+relevait que les problématiques liées aux enjeux numériques étaient de plus en
+plus susceptibles de relever de la compétence et/ou de l'expertise de
+plusieurs régulateurs, ce qui pourrait appeler à décloisonner les approches et
+à favoriser l'inter-régulation entre ces autorités.A cet égard, l'ARCEP note
+qu'un nombre croissant de problématiques se pose quant aux enjeux de respect
+de la vie privée dans le secteur des communications électroniques. Ainsi,
+l'article 3 du règlement établissant des mesures relatives à l'accès à un
+internet ouvert, qui encadre les exceptions au principe selon lequel les
+fournisseurs d'accès à internet doivent traiter l'ensemble du trafic de
+manière égale et non discriminatoire, prévoit que les mesures de gestion de
+trafic susceptibles d'être mises en œuvre ne « peuvent donner lieu au
+traitement de données à caractère personnel que si ce traitement est
+nécessaire et proportionné à la réalisation des objectifs fixés [par le
+règlement] », et dans le respect des dispositions du droit de l'Union
+protégeant la vie privée et les données personnelles. Dans un autre registre,
+les questions de respect du secret des correspondances peuvent, tout en
+relevant de la régulation des communications électroniques, soulever des
+questions dépassant le strict cadre technico-économique habituel.Afin
+d'assurer le contrôle effectif de ces dispositions et, plus généralement, de
+favoriser la coopération entre la CNIL et l'ARCEP, il serait pertinent que le
+projet de loi introduise des dispositions permettant à chacune de ces
+autorités de saisir l'autre pour avis dans son domaine de compétence.
+Conclusion Le projet de loi pour une République numérique comporte des mesures
+ambitieuses en vue de renforcer la protection des personnes et de développer
+leur confiance dans l'économie et la société numériques.Concernant la
+neutralité de l'internet, l'Autorité accueille favorablement les mesures du
+projet de loi permettant la mise en œuvre du règlement établissant des mesures
+relatives à l'accès à un internet ouvert. Elle invite néanmoins le
+Gouvernement à tirer toutes les conséquences de la réorientation importante
+que constitue pour l'ARCEP sa nouvelle mission de gardien du principe de
+neutralité de l'internet, notamment en consacrant le caractère ouvert et
+neutre d'internet parmi les objectifs auxquels l'ARCEP et le ministre chargé
+des communications électroniques doivent veiller et en renforçant
+l'effectivité de leurs pouvoirs d'enquête et d'investigation à cette fin.Le
+projet de loi vise par ailleurs à définir des règles relatives à certaines
+activités numériques. Si l'ARCEP souscrit pleinement aux objectifs visés, elle
+appelle l'attention du Gouvernement sur le caractère fortement innovant et la
+dimension internationale de ces activités. A l'heure où s'engage la révision
+du cadre européen (quatrième « paquet télécom », marché unique numérique,
+règlement général sur la protection des données personnelles), il convient de
+ne pas affaiblir la capacité d'innovation des acteurs du marché, ni d'isoler
+la France au plan européen. Aussi l'Autorité invite-t-elle le Gouvernement à
+privilégier, autant que possible, les solutions fondées sur le droit souple et
+la régulation, plutôt que sur la définition de nouvelles réglementations
+sectorielles, lesquelles risquent, face aux évolutions permanentes du marché,
+de s'avérer trop rigides et rapidement obsolètes.S'agissant des services de
+lettre recommandée électronique, l'Autorité émet un avis très réservé sur les
+dispositions de l'article 36 du projet de loi et estime que des travaux
+techniques et juridiques préalables sont indispensables afin de définir un
+cadre cohérent pour ces services. L'ARCEP suggère que ces travaux soient menés
+dans le cadre d'une mission, à laquelle elle pourra apporter toute
+contribution utile. En tout état de cause, si ces dispositions du projet de
+loi devaient être adoptées, l'ARCEP souligne que, faute de concertation avec
+le Gouvernement, elle n'a pas été en mesure d'anticiper les nouvelles missions
+qui pourraient lui échoir et ne pourra assurer leur pleine mise en œuvre sans
+moyens supplémentaires.Enfin, l'Autorité salue l'introduction de mesures, tant
+générales que sectorielles, en faveur de l'ouverture des données publiques.
+Elle propose, selon la logique d'Etat-plateforme promue par le Gouvernement
+dans le cadre de sa stratégie numérique, de mettre en place un dispositif
+facultatif d'approbation par l'Autorité favorisant la diffusion d'informations
+claires et comparables concernant les secteurs dont l'autorité a la charge.
+Annexe Annexe MODIFICATIONS PROPOSÉES PAR L'ARCEP Ajouts en grasSuppressions
+barrées Article 16 - Neutralité de l'internetI. - […]II. - Au 2° du I de
+l'article L. 32-4 du code des postes et des communications électroniques,
+après les mots : « les conditions techniques et tarifaires d'acheminement »
+sont ajoutés les mots : « , et notamment de gestion, ».[…]VI. - Après le 6° du
+II de l'article L. 32-1 du code des postes et des communications
+électroniques, il est inséré un alinéa ainsi rédigé :« 6° bis Le caractère
+ouvert et neutre d'internet ; »VII. - L'article L. 32-4 du code des postes et
+des communications électroniques est ainsi modifié :1° Au début du premier
+alinéa, il est inséré : « I. - » ;2° Les cinquième et sixième alinéas sont
+remplacés par un alinéa ainsi rédigé : « Ces enquêtes sont menées dans les
+conditions prévues au présent article et à l'article L. 32-5. » ;3° L'article
+L. 32-4 est complété par neuf alinéas ainsi rédigés :« II. - Les
+fonctionnaires et agents du ministère chargé des communications électroniques
+et de l'Autorité de régulation des communications électroniques et des postes,
+habilités à cet effet par le ministre chargé des communications électroniques
+et assermentés dans des conditions fixées par décret en Conseil d'Etat,
+peuvent, pour l'exercice de leurs missions, opérer sur la voie publique,
+pénétrer entre 6 heures et 21 heures dans tous lieux utilisés à des fins
+professionnelles par les personnes mentionnées aux 1° et 2° du I du présent
+article, à l'exclusion des parties de ceux-ci affectés au domicile privé,
+ainsi qu'accéder à tous moyens de transport à usage professionnel.« Les
+fonctionnaires et agents mentionnés à l'alinéa précédent peuvent demander la
+communication de tous documents nécessaires à l'accomplissement de leur
+mission, quel qu'en soit le support, et obtenir ou prendre copie de ces
+documents par tout moyen et sur tout support. Ils peuvent recueillir, sur
+place ou sur convocation, tout renseignement, document ou toute justification
+utiles. Ils peuvent accéder aux logiciels, aux programmes informatiques et aux
+données stockées ainsi qu'en demander la transcription par tout traitement
+approprié dans des documents directement utilisables pour les besoins du
+contrôle.« Ils peuvent recourir à toute personne compétente. Cette personne
+peut les accompagner lors de leurs contrôles et prendre connaissance de tout
+document ou élément nécessaire à la réalisation de sa mission ou de son
+expertise. Elle ne peut effectuer aucun acte de procédure pénale ou
+administrative. Elle ne peut pas utiliser les informations dont elle prend
+connaissance à cette occasion pour la mise en œuvre des pouvoirs de contrôle
+dont elle dispose, le cas échéant, en application d'autres dispositions
+législatives ou réglementaires. Elle ne peut, sous les peines prévues à
+l'article 226-13 du code pénal, divulguer les informations dont elle a eu
+connaissance dans ce cadre. Ils peuvent procéder à des visites conjointes avec
+des agents, désignés par l'autorité administrative dont ils dépendent,
+appartenant à d'autres services de l'Etat ou de ses établissements publics.«
+Les visites et auditions donnent lieu à procès-verbal. Copie en est transmise
+aux personnes intéressées. Ils font foi jusqu'à preuve contraire.« En dehors
+des contrôles sur place et auditions sur convocation, les fonctionnaires et
+agents mentionnés au premier alinéa du présent II peuvent procéder à toute
+constatation utile. Ils peuvent notamment, à partir d'un service de
+communication au public en ligne, consulter les données librement accessibles
+ou rendues accessibles, y compris par imprudence, par négligence ou par le
+fait d'un tiers. Ils peuvent retranscrire les données par tout traitement
+approprié dans des documents directement utilisables pour les besoins du
+contrôle. Ils peuvent également faire usage d'une identité d'emprunt sans en
+être pénalement responsables. Un décret en Conseil d'Etat précise les
+conditions dans lesquelles ils procèdent à ces constatations.« III. - Les
+visites conduites en application du II du présent article peuvent être
+préalablement autorisées dans les conditions prévues à l'article L. 32-5.«
+Lorsque ces visites n'ont pas été préalablement autorisées dans les conditions
+définies à l'article L. 32-5, le responsable de locaux professionnels privés
+est informé de son droit d'opposition à la visite. Lorsqu'il exerce ce droit,
+la visite ne peut se dérouler qu'après l'autorisation du juge des libertés et
+de la détention du tribunal de grande instance dans les conditions prévues à
+l'article L. 32-5.« Lorsque les lieux sont affectés au domicile privé, lorsque
+le responsable de locaux professionnels privés exerce le droit d'opposition
+prévu au présent article ou lorsqu'il est procédé à une saisie, les visites
+sont autorisées dans les conditions définies à l'article L. 32-5.« IV. - Dans
+le cadre des contrôles et enquêtes mentionnés au présent article et à
+l'article L. 32-5, le secret professionnel ne peut être opposé aux
+fonctionnaires et agents mentionnés au II. Ces mêmes personnes peuvent, sans
+se voir opposer le secret professionnel, accéder à tout document ou élément
+d'information détenu par les services et établissements de l'Etat et des
+autres collectivités publiques. » ;VIII. - L'article L. 32-5 du code des
+postes et des communications électroniques est ainsi modifié :1° Le premier
+alinéa du I est remplacé par deux alinéas ainsi rédigés :« I. - Les mesures
+d'enquête mentionnées au III de l'article L. 32-4 sont autorisées par
+ordonnance du juge des libertés et de la détention du tribunal de grande
+instance dans le ressort duquel sont situés les lieux à visiter. Lorsque ces
+lieux sont situés dans le ressort de plusieurs juridictions et qu'une action
+simultanée doit être menée dans chacun d'eux, une ordonnance unique peut être
+délivrée par l'un des juges des libertés et de la détention compétents.« Le
+juge doit vérifier que la demande d'autorisation qui lui est soumise est
+fondée ; cette demande doit comporter tous les éléments d'information en
+possession du demandeur de nature à justifier la visite et la saisie. »2° Le
+premier alinéa du II est complété par une phrase ainsi rédigée : «
+L'ordonnance comporte la mention de la faculté pour l'occupant des lieux ou
+son représentant de faire appel à un conseil de son choix. L'exercice de cette
+faculté n'entraîne pas la suspension des opérations de visite et de saisie.
+»3° Le IV est ainsi modifié :a) Au premier alinéa, les mots « de l'avocat »
+sont remplacés par les mots : « par le conseil » ;b) Le troisième alinéa est
+complété par une phrase ainsi rédigée : « Si l'inventaire sur place présente
+des difficultés, les pièces et documents saisis sont placés sous scellés.
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à
+l'ouverture des scellés ; l'inventaire est alors établi. » L'article L. 135
+est complété par un alinéa ainsi rédigé :« L'Autorité favorise l'élaboration
+et la publication d'informations claires, comparables et actualisées dans les
+secteurs des communications électroniques et des postes. A cet effet, elle
+peut autoriser des tiers à se prévaloir de son approbation quand ceux-ci
+publient des informations qui présentent un intérêt particulier pour les
+utilisateurs et sont élaborées dans des conditions garantissant l'indépendance
+de leur auteur et leur fiabilité. Le cas échéant, l'Autorité approuve au
+préalable la méthodologie retenue et le format de publication des
+informations. Elle retire son approbation lorsqu'elle constate, par tout
+moyen, que les conditions qui ont permis sa délivrance ne sont plus
+satisfaites. Dans ce cas, le tiers concerné cesse de s'en prévaloir. » Fait à
+Paris, le 12 novembre 2015. Le président,S. Soriano (1) ARCEP, " Neutralité de
+l'internet et des réseaux - Propositions et recommandations ", septembre 2010.
+(2) ARCEP, " Rapport au Parlement et au Gouvernement sur la neutralité de
+l'internet ", septembre 2012. (3) Ordonnance n° 2011-1012 du 24 août 2011
+relative aux communications électroniques. (4) Pour une présentation des
+dispositions issues de l'ordonnance n° 2011-1012 du 24 août 2011, voir le
+rapport de l'ARCEP au Parlement et au Gouvernement sur la neutralité de
+l'internet publié en septembre 2012 (notamment page 78 et suivantes). (5) La
+notion d'entreprise fournissant des services de communication au public en
+ligne renvoie à celle de services de communication au public en ligne, qui est
+elle-même définie par l'article 1er de la loi du 21 juin 2004 pour la
+confiance dans l'économie numérique comme " toute transmission, sur demande
+individuelle, de données numériques n'ayant pas un caractère de correspondance
+privée, par un procédé de communication électronique permettant un échange
+réciproque d'informations entre l'émetteur et le récepteur ". Sur cette
+notion, cf. infra la partie III.2 du présent avis. (6)
+http://www.arcep.fr/uploads/tx_gspublication/net-neutralite_etat-lieux-
+regul-0915.pdf (7) Compétence prévue à l'article L. 36-8 du CPCE. (8)
+Compétence prévue à l'article L. 32-4 du CPCE. (9) Articles 20 et 21 de la
+directive 2002/22/CE concernant le service universel et les droits des
+utilisateurs au regard des réseaux et services de communications
+électroniques, modifiée par la directive 2009/136/CE du Parlement européen et
+du Conseil du 25 novembre 2009. (10) Ordonnance n° 2015-1341 du 23 octobre
+2015 relative aux dispositions législatives du code des relations entre le
+public et l'administration et décret n° 2015-1342 du 23 octobre 2015 relatif
+aux dispositions réglementaires du code des relations entre le public et
+l'administration (Décrets en Conseil d'Etat et en conseil des ministres,
+décrets en Conseil d'Etat et décrets). (11) ARCEP, " Neutralité de l'internet
+et des réseaux - Propositions et recommandations ", septembre 2010. (12) Voir
+la contribution de l'ARCEP à la consultation publique du CNNum du 17 février
+2015 relative au thème de la loyauté entre les acteurs économiques :
+http://www.arcep.fr/index.php?id=8571&amp;L=0&amp;tx_gsactualite_pi1%5Buid%5D=1731&amp;tx_gsactualite_pi1%5BbackID%5D=26&amp;cHash=93ca8f417d7cb72afb65fc48f8db3d5c
+(13) V. notamment pages 272 à 274. (14) Conseil national du numérique, "
+Ambition numérique - Pour une politique française et européenne de la
+transition numérique ", juin 2015. (15) L'article L. 32-3 du CPCE en vigueur
+dispose que " Les opérateurs, ainsi que les membres de leur personnel, sont
+tenus de respecter le secret des correspondances ". (16) Ainsi que le rappelle
+le Conseil d'Etat dans son étude de 2014 portant sur " Le numérique et les
+droits fondamentaux ", il ressort des dispositions de la loi du 30 septembre
+1986 que, " au sein des " communications électroniques ", catégorie la plus
+large, on distingue la " communication au public par voie électronique " des
+communications qui ont le caractère d'une correspondance privée (courriel,
+téléphone) ; au sein des communications au public par voie électronique, on
+distingue la " communication au public en ligne " (qui correspond au web),
+caractérisée par la possibilité d'un " échange réciproque d'informations entre
+l'émetteur et le récepteur ", de la communication audiovisuelle, qui comprend
+notamment les services de radio et de télévision ". (17) Conformément à
+l'article 1er de la LCEN, " On entend par courrier électronique tout message,
+sous forme de texte, de voix, de son ou d'image, envoyé par un réseau public
+de communication, stocké sur un serveur du réseau ou dans l'équipement
+terminal du destinataire, jusqu'à ce que ce dernier le récupère ". (18) Voir
+notamment le considérant 10 de la directive 2002/21/CE du 7 mars 2002 dite
+directive " cadre " : " La définition du " service de la société de
+l'information ", qui figure à article 1er de la directive 98/34/CE du
+Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure
+d'information dans le domaine des normes et réglementations techniques et des
+règles relatives aux services de la société de l'information, se rapporte à
+une large gamme d'activités économiques se déroulant en ligne ; la plupart de
+ces activités ne sont pas couvertes par le champ d'application de la présente
+directive, car elles ne consistent pas entièrement ou principalement en la
+transmission de signaux sur des réseaux de communications électroniques ; les
+services de téléphonie vocale et de transmission de courrier électronique sont
+couverts par la présente directive. La même entreprise, par exemple un
+prestataire de services Internet, peut proposer à la fois un service de
+communications électroniques, tel que l'accès à Internet, et des services non
+couverts par la présente directive, tels que la fourniture de contenus sur la
+toile " (soulignement ajouté). V. également le projet de rapport de l'ORECE "
+Report on OTT services " précité. (19) Voir à cet égard le projet de rapport
+de l'ORECE " Report on OTT services " mis en consultation sur le site de
+l'ORECE. (20) " On entend par opérateur toute personne physique ou morale
+exploitant un réseau de communications électroniques ouvert au public ou
+fournissant au public un service de communications électroniques ". (21) V.
+l'article 18 de la proposition de la Commission européenne en date du 25
+janvier 2012 de règlement relatif à la protection des personnes physiques à
+l'égard du traitement des données à caractère personnel et à la libre
+circulation de ces données (règlement général sur la protection des données).
+(22) L'utilisateur ne conserverait pas son adresse de courrier électronique,
+mais l'historique de ses messages envoyés et reçus. En outre, la portabilité
+du numéro exige une synchronisation précise entre l'ancien et le nouvel
+opérateur pour éviter la coupure de service, ce que ne requerrait a priori pas
+le transfert des courriers électroniques. (23) Groupement d'intérêt économique
+" Entité de Gestion de la Portabilité " (EGP) pour le mobile et association
+des plates-formes de normalisation des flux inter-opérateurs (APNF) pour le
+fixe. (24) Décision n° 2012-0576 en date du 10 mai 2012 précisant les
+modalités d'application de la conservation des numéros mobiles, décision n°
+2013-0830 en date du 25 juin 2013 précisant les modalités d'application de la
+conservation des numéros fixes. (25) A l'instar des dispositions du III et du
+IV de l'article D. 406-19 du CPCE et des décisions de l'ARCEP prises pour son
+application (décision n° 2008-0513 en date du 27 mai 2008 précisant les
+méthodes de comptabilisation, de recouvrement et de tarification des coûts
+liés aux demandes de conservation des numéros mobiles en métropole et décision
+n° 2011-1470 du 20 décembre 2011 précisant les méthodes de comptabilisation,
+de recouvrement et de tarification des coûts liés aux demandes de conservation
+des numéros fixes). (26) L'article 4 du règlement eIDAS rappelle à cet égard :
+" Il n'y a pas de restriction à la fourniture de services de confiance, sur le
+territoire d'un Etat membre, par un prestataire de services de confiance
+établi dans un autre Etat membre pour des raisons qui relèvent des domaines
+couverts par le présent règlement. […] ". (27) Directive 97/67/CE du Parlement
+européen et du Conseil du 15 décembre 1997 modifiée concernant des règles
+communes pour le développement du marché intérieur des services postaux de la
+Communauté et l'amélioration de la qualité du service. (28) L'article D. 98-13
+du CPCE fixe l'obligation pour les opérateurs de communications électroniques
+de rendre accessible à l'ensemble des handicaps les éléments leur permettant
+de souscrire un abonnement (factures, service clients, boutiques…). (29)
+Décision n° 96-378 DC du 23 juillet 1996, Loi de réglementation des
+télécommunications. (30) Voir à cet égard les préconisations du Conseil
+national du numérique dans le rapport " Ambition numérique - Pour une
+politique française et européenne de la transition numérique " susmentionné de
+juin 2015. Télécharger le document en RTF (poids < 1Mo) Extrait du Journal
+officiel électronique authentifié (format: pdf, poids : 0.34 Mo) Masquer le
+panneau de navigation Imprimer À propos de l'ordre juridique français Licences
+Quoi de neuf sur le site ? À propos du site Plan du site Accessibilité Aide
+générale Nous écrire Établir un lien
+

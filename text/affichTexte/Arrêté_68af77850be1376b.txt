@@ -1,0 +1,758 @@
+Arrêté du 22 février 2008 relatif au recueil et au traitement des données
+d'activité médicale et des données de facturation correspondantes, produites
+par les établissements de santé publics ou privés ayant une activité en
+médecine, chirurgie, obstétrique et odontologie, et à la transmission
+d'informations issues de ce traitement dans les conditions définies à
+l'article L. 6113-8 du code de la santé publique | Legifrance Legifrance - Le
+service public de l'accès au droit Aller au contenu Aller à la navigation
+générale mardi 4 juillet 2017 Informations de mise à jour Accueil Droit
+français Droit européen Droit international Traductions Bases de données Vous
+êtes dans : Accueil> Les autres textes législatifs et réglementaires> Arrêté
+du 22 février 2008 relatif au recueil et au traitement des données d'activité
+médicale et des données de facturation correspondantes, produites par les
+établissements de santé publics ou privés ayant une activité en médecine,
+chirurgie, obstétrique et odontologie, et à la transmission d'informations
+issues de ce traitement dans les conditions définies à l'article L. 6113-8 du
+code de la santé publique Arrêté du 22 février 2008 relatif au recueil et au
+traitement des données d'activité médicale et des données de facturation
+correspondantes, produites par les établissements de santé publics ou privés
+ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la
+transmission d'informations issues de ce traitement dans les conditions
+définies à l'article L. 6113-8 du code de la santé publique Masquer le panneau
+de navigation Imprimer Navigation Arrêté du 22 février 2008 (Dernière
+modification : 1 mars 2017) Version initiale Version abrogée le 1 mars 2017
+Version consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier Février Mars
+Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre Année Ex: 2017
+Sommaire Article 1 Article 2 Article 3 Article 4 Article 5 Article 6 Article 7
+Article 8 Article 9 Article 10 Annexes Annexe I Annexe II Annexe III Version
+consolidée résultant des modifications suivantes : Arrêté du 8 janvier 2014
+Arrêté du 21 décembre 2012 Arrêté du 21 décembre 2015 ARRÊTÉ du 16 décembre
+2014 Arrêté du 23 décembre 2016 Arrêté du 20 décembre 2011 Arrêté du 7 février
+2011 Arrêté du 20 janvier 2009 Arrêté du 22 février 2008 relatif au recueil et
+au traitement des données d'activité médicale et des données de facturation
+correspondantes, produites par les établissements de santé publics ou privés
+ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la
+transmission d'informations issues de ce traitement dans les conditions
+définies à l'article L. 6113-8 du code de la santé publique NOR: SJSH0804977A
+La ministre de la santé, de la jeunesse et des sports, Vu le code de la santé
+publique et notamment les articles L. 1112-1, L. 2212-4, L. 2212-7, L. 6112-1,
+R. 4127-1 à R. 4127-367, R. 6113-1 à R. 6113-11 ; Vu le code de la sécurité
+sociale et notamment ses articles L. 162-1-7, L. 162-22-1, L. 162-22-6, L.
+162-22-7, L. 165-1, R. 162-32, R. 162-52, D. 132-1 à D. 132-5 ; Vu le code
+pénal, notamment l'article 226-13 ; Vu la loi n° 78-17 du 6 janvier 1978
+modifiée relative à l'informatique, aux fichiers et aux libertés, notamment
+son article 11 ; Vu la loi n° 2003-1199 du 18 décembre 2003 de financement de
+la sécurité sociale pour 2004 ; Vu l'arrêté du 31 décembre 2003 relatif au
+recueil et au traitement des données d'activité médicale des établissements de
+santé publics ou privés ayant une activité en médecine chirurgie ou
+obstétrique et à la transmission d'informations issues de ce traitement dans
+les conditions définies à l'article L. 6113-8 du code de la santé publique ;
+Vu l'avis favorable de la Commission nationale de l'informatique et des
+libertés dans sa délibération du 21 février 2008, Décrète : Article 1 En
+savoir plus sur cet article... L'arrêté du 31 décembre 2003 susvisé est
+abrogé, à l'exception de ses annexes II, III et IV qui deviennent
+respectivement les annexes II, III et I du présent arrêté. Article 2 (abrogé
+au 1 mars 2017) En savoir plus sur cet article... Abrogé par Arrêté du 23
+décembre 2016 - art. 10 Les établissements de santé publics et privés ayant
+une activité en médecine, chirurgie, obstétrique et odontologie, à l'exception
+de l'activité d'hospitalisation à domicile, produisent et traitent des données
+d'activité médicale, en vue de procéder à l'analyse médico-économique de
+l'activité de soins réalisée en leur sein et de permettre la facturation de
+cette activité. Article 3 En savoir plus sur cet article... I. ― Les
+informations produites concernent : 1. Les prestations de séjours et de soins
+mentionnées au 1° de l'article R. 162-32 du code de la sécurité sociale et
+nécessitant une hospitalisation, y compris les prestations relatives à
+l'activité d'alternative à la dialyse en centre ; 2. Les spécialités
+pharmaceutiques et les produits et prestations mentionnés à l'article L.
+162-22-7 du code de la sécurité sociale ; 3. Les prestations de prélèvement
+d'organe ou de tissus ; 4. Les prestations ne nécessitant pas
+l'hospitalisation du patient, mentionnées aux 2°, 4° et 5° de l'article R.
+162-32 du code de la sécurité sociale. Celles-ci concernent les soins
+dispensés dans les services et les unités d'accueil et de traitement des
+urgences, les soins nécessitant le recours à l'utilisation de matériel de
+petite chirurgie ou d'immobilisation, ainsi que les soins nécessitant le
+recours à un environnement hospitalier ; 5. Les prestations relatives à
+l'interruption volontaire de grossesse ; 6. Les actes et consultations
+externes mentionnés à l'article L. 162-26 du code de la sécurité sociale. II.
+― Les informations d'activité sont produites dans les conditions suivantes :
+1. S'agissant des prestations de séjours et de soins avec ou sans hébergement,
+ainsi que des interruptions volontaires de grossesse : un résumé de sortie
+standardisé (RSS), constitué d'un ou plusieurs résumés d'unité médicale (RUM),
+est produit pour chaque patient admis dans les unités médicales
+d'hospitalisation, ainsi que pour les nouveau-nés. 2. S'agissant des autres
+prestations mentionnées au I, un recueil standardisé est produit pour les
+spécialités pharmaceutiques et les produits et prestations, pour les
+prestations de prélèvement d'organe ou de tissus qui ne peuvent figurer dans
+le RUM et pour les prestations, actes et consultations externes réalisés au
+sein de l'établissement. III. ― Les informations de facturation sont produites
+pour chacune des prestations mentionnées au I, sous forme d'un résumé
+standardisé de facturation (RSF). Article 4 En savoir plus sur cet article...
+Outre l'identification de l'établissement et les caractéristiques
+administratives du patient, les catégories d'information faisant l'objet de
+ces différents recueils sont les suivantes. I. ― Le RUM ou le RSS comporte
+notamment des informations concernant : ― le parcours du patient dans
+l'établissement, depuis son admission jusqu'à sa sortie ; ― les motifs de
+soins, dits « diagnostics », et les actes réalisés au cours du séjour. Les
+informations recueillies dans ces résumés sont conformes au contenu du dossier
+médical du patient. Les diagnostics portés dans les RUM sont codés selon la
+plus récente mise à jour de la dixième révision de la classification
+internationale des maladies de l'Organisation mondiale de la santé (CIM 10) et
+selon les extensions y afférentes prévues dans le document figurant en annexe
+I du présent arrêté, dans le respect des consignes de codage données dans le
+guide mentionné au V du présent article. Les actes portés dans les RUM sont
+codés selon la classification commune des actes médicaux (CCAM) figurant en
+annexe II du présent arrêté. Les informations du RSS donnent lieu à
+l'affectation du séjour à une catégorie d'information synthétique, dénommée
+groupe homogène de malade (GHM), produite selon un algorithme de groupage
+défini par l'Etat. Ces GHM sont répertoriés et décrits selon la classification
+figurant en annexe I du présent arrêté. II. ― Le RSF comporte les informations
+contenues dans le bordereau de facturation transmis à l'assurance maladie pour
+chaque prestation mentionnée au I de l'article 3 du présent arrêté : ―
+situation du patient à l'égard de l'assurance maladie ; ― nature des
+prestations facturées ; ― taux et montant de la prise en charge par
+l'assurance maladie. III. ― Pour les prestations de séjours et de soins
+nécessitant une hospitalisation, ainsi que pour les prestations d'interruption
+volontaire de grossesse, le RSF, support de l'information de facturation est
+distinct du RSS, support de l'information d'activité. Le RSS et le RSF sont
+couplés. Pour les autres prestations mentionnées au I de l'article 3 du
+présent arrêté, le RSF supporte les deux types d'informations : activité et
+facturation. IV. ― Les spécialités pharmaceutiques ainsi que les produits et
+prestations sont codés selon les listes établies en application de l'article
+L. 162-22-7 du code de la sécurité sociale, les actes et consultations
+externes sont codés selon la CCAM et la nomenclature générale des actes
+professionnels des médecins, chirurgiens-dentistes, sages-femmes et
+auxiliaires médicaux. V. ― Les catégories d'informations mentionnées aux I,
+II, III et IV du présent article ainsi que leur modalités de production et de
+codage sont décrites dans le guide figurant en annexe III du présent arrêté.
+Article 5 En savoir plus sur cet article... I. ― La mise en œuvre des
+traitements automatisés auxquels donne lieu la production des informations
+définies à l'article 3 du présent arrêté est soumise aux dispositions de la
+loi du 6 janvier 1978 susvisée. II. ― Les établissements de santé prennent
+toutes les dispositions utiles afin de permettre aux patients d'exercer,
+auprès du médecin responsable de l'information médicale, leurs droits d'accès
+et de rectification, tels que prévus au chapitre V de la loi du 6 janvier 1978
+susvisée. III. ― Après avoir été rendues anonymes, certaines des informations
+contenues dans les fichiers d'activité et les fichiers de facturation sont
+communiquées, selon des modalités décrites à l'article 7 ci-dessous, à
+l'agence régionale de l'hospitalisation concernée. Article 6 En savoir plus
+sur cet article... I. ― En application des articles R. 6113-1 à R. 6113-11 du
+code de la santé publique, le médecin responsable de l'information médicale
+pour l'établissement de santé constitue, à partir des données qui lui sont
+transmises, les fichiers de données à caractère personnel suivants : 1. Des
+fichiers de résumés de séjour (RUM, RSS) ; 2. Des fichiers de résumés
+standardisés de facturation (RSF) pour l'ensemble des prestations mentionnées
+au I de l'article 3 du présent arrêté ; 3. Des fichiers de résumés anonymes
+(RSA, RSFA) produits à partir des fichiers précédents. Ces fichiers sont
+affectés d'une clé de chaînage anonyme permettant de lier les séjours ou les
+prestations non suivies d'hospitalisation. Les modalités d'anonymisation des
+fichiers sont énoncées au I de l'article 7 du présent arrêté et décrites ainsi
+que les modalités de construction de la clé de chaînage anonyme dans le guide
+figurant en annexe III du présent arrêté. II. ― Le médecin responsable de
+l'information médicale sauvegarde les fichiers de RSS, ou RSF qui sont à la
+source des fichiers de RSA, ou RSFA, ainsi que l'ensemble des fichiers créés
+par les programmes informatiques générateurs des résumés anonymes. Il assure
+la conservation de l'ensemble des copies produites. La durée de conservation
+de tous les fichiers d'activité ou de facturation constitués au titre d'une
+année est de cinq ans. III. ― Le médecin responsable de l'information médicale
+met en œuvre le groupage en GHM, produit les prestations ainsi que les
+éléments de facturation liés aux résumés de séjours et les éléments permettant
+leur contrôle. En outre, il effectue le traitement des données médicales à
+caractère personnel nécessaires à l'analyse de l'activité. Selon des modalités
+arrêtées après avis de la commission médicale ou de la conférence médicale de
+l'établissement, il assure la diffusion des informations issues de ces
+traitements auprès de la direction de l'établissement de santé et du président
+de la commission médicale ou de la conférence médicale de l'établissement,
+ainsi qu'aux praticiens ayant dispensé les soins, dans des conditions
+garantissant la confidentialité des données et l'anonymat des patients. Le
+directeur et le président de la commission médicale ou de la conférence
+médicale de l'établissement sont destinataires de statistiques agrégées par
+unité médicale et pour l'ensemble de l'établissement ou, sur leur demande, de
+données extraites des fichiers mentionnés au I du présent article. IV. ― Le
+médecin responsable de l'information médicale est informé de l'objectif des
+traitements de l'information qui lui sont demandés et participe à
+l'interprétation de leurs résultats. Il veille à la qualité des données qui
+lui sont transmises et conseille les structures médicales et médico-techniques
+quant à leur production. V. ― Pour la réalisation des contrôles prévus au VI
+du présent article, le médecin responsable de l'information médicale effectue
+le rapprochement entre le dossier médical du patient et le numéro de RSS et de
+RSF y afférent. VI. ― Dans les conditions prévues à l'article L. 1112-1 du
+code de la santé publique, les médecins inspecteurs de santé publique et les
+médecins conseils des organismes d'assurance maladie ont accès, par
+l'intermédiaire du médecin responsable de l'information médicale, aux fichiers
+concernant les informations d'activité et de facturation mentionnés au I du
+présent article. Dans le cadre des procédures de contrôle et de validation des
+données qu'ils mettent en œuvre, ils préviennent les praticiens responsables
+des structures médicales concernées, préalablement à toute confrontation d'un
+enregistrement de fichier avec un dossier médical. Article 7 En savoir plus
+sur cet article... I. ― L'établissement transmet mensuellement à l'agence
+régionale de l'hospitalisation, par une méthode de télétransmission agréée par
+les services de l'Etat concernés, les fichiers anonymes mentionnés au I de
+l'article 6 du présent arrêté. Ces fichiers de données cumulatives à
+périodicité de transmission mensuelle sont relatifs aux séjours ou passages
+des patients sortis, d'une part, pendant le mois et, d'autre part, au cours du
+ou des mois précédents de l'année civile en cours, ou, le cas échéant, au
+cours de l'année précédente. Ils sont transmis un mois au plus tard après la
+fin du mois civil considéré. Les fichiers sont issus de la plus récente
+version des programmes informatiques générateurs des résumés anonymes cités à
+l'article 6 du présent arrêté, mis à disposition des établissements par
+l'Etat, et dont celui-ci reste propriétaire. II. ― Chaque agence régionale de
+l'hospitalisation transmet tout ou partie de ces données à ceux des organismes
+d'assurance maladie ou des services de l'Etat dans la région qui apportent
+leur concours à son activité, dans le respect des modalités autorisées par la
+Commission nationale de l'informatique et des libertés dans les lettres
+susvisées. En vue de la constitution, par l'Agence technique de l'information
+sur l'hospitalisation, de bases nationales de données mensuelles cumulatives,
+l'agence régionale de l'hospitalisation valide, au plus tard six semaines
+après le mois considéré, les données constituées de l'ensemble des
+informations que lui ont transmises les établissements de santé de la région
+au titre du mois ou des mois précédents de l'année civile. En vue de la
+constitution de bases nationales de données annuelles, l'agence régionale de
+l'hospitalisation valide, au plus tard au 1er mars de l'année en cours, les
+fichiers constitués de l'ensemble des informations que lui ont transmises les
+établissements de santé de la région au cours de l'année civile précédente.
+L'Etat peut communiquer ces fichiers à tout organisme d'assurance maladie,
+sous réserve que celui-ci ait été autorisé à les traiter par la Commission
+nationale de l'informatique et des libertés, dans le cadre des dispositions du
+chapitre X de la loi du 6 janvier 1978 susvisée. III. ― Sur demande motivée de
+l'établissement, l'agence régionale de l'hospitalisation peut décider le
+remplacement complet du fichier relatif aux mois considérés. Dans ce cas, une
+copie du fichier initial et une copie du fichier modifié sont conservées par
+l'établissement émetteur. S'il y a lieu, le bordereau de facturation établi
+sur la base de l'activité ainsi modifiée est lui-même modifié, dans le respect
+des règles de facturation. Lorsque les informations du bordereau de
+facturation sont modifiées à l'issue de la liquidation par l'assurance
+maladie, les établissements intègrent les modifications qui en résultent dans
+leurs fichiers de données d'activité. Les fichiers de données d'activité
+cumulés transmis à l'agence régionale de l'hospitalisation le mois suivant
+intègrent alors ces modifications. Article 8 En savoir plus sur cet article...
+I. ― Pour les établissements de santé mentionnés aux a, b et c de l'article L.
+162-22-6 du code de la sécurité sociale, les dispositions relatives à la
+production des résumés de facturation des prestations de séjours et de soins
+ainsi que des prestations d'interruption volontaire de grossesse, prévues au
+III de l'article 3 et au II de l'article 4 entrent en vigueur à la date prévue
+au II de l'article 33 de la loi de financement de la sécurité sociale pour
+2004 susvisée. II. ― A titre transitoire, et jusqu'à la même date, les
+établissements de santé concernés produisent : 1. Un fichier supplémentaire
+dénommé FICHSUP, destiné à recueillir le prix d'achat moyen des spécialités
+pharmaceutiques et produits et prestations mentionnés à l'article L. 162-22-7
+du code de la sécurité sociale ; 2. Les fichiers suivants, permettant de
+recueillir les informations d'activité et de facturation des prestations
+mentionnées au I de l'article 3 du présent arrêté : ― un fichier dénommé VID
+HOSP, comportant les informations permettant de connaître la situation du
+patient au regard de l'assurance maladie, décrites dans le guide figurant à
+l'annexe III du présent arrêté ; ― un fichier dénommé FICHCOMP, comportant les
+informations d'activité pour les spécialités pharmaceutiques et produits et
+prestations, ainsi que pour les prestations de prélèvement d'organe ou de
+tissus qui ne peuvent figurer dans le RUM ; ― un fichier dénommé RSF-ACE
+comportant les informations d'activité et de facturation concernant les
+prestations mentionnées aux 4 et 6 du I de l'article 3 du présent arrêté. Les
+fichiers anonymes correspondant aux fichiers comportant des informations à
+caractère personnel sont respectivement dénommés FICHCOMPA, s'agissant de
+FICHCOMP, et RAFAEL, s'agissant de RSF-ACE. III. ― Les fichiers mentionnés au
+II du présent article sont produits dans le respect des dispositions énoncées
+dans les articles 5 et 6 du présent arrêté. Article 9 (abrogé au 1 mars 2017)
+En savoir plus sur cet article... Abrogé par Arrêté du 23 décembre 2016 - art.
+10 I. ― Par dérogation aux dispositions du III de l'article 3 et du II de
+l'article 4 du présent arrêté, les établissements publics de santé mentionnés
+à l'article L. 162-22-16 du code de la sécurité sociale ainsi que les
+établissements publics de santé de Saint-Pierre-et-Miquelon et de Mayotte ne
+produisent et ne transmettent que les informations d'activité mentionnées au
+II de l'article 3. II. ― Par dérogation aux dispositions du II de l'article 3
+du présent arrêté, les établissements de santé mentionnés aux d et e de
+l'article L. 162-22-6 du code de la sécurité sociale, ayant une activité de
+traitement de l'insuffisance rénale chronique par épuration extrarénale à
+domicile ou en autodialyse, ne produisent et ne transmettent que les
+informations de facturation mentionnées au III du même article. Article 10 En
+savoir plus sur cet article... La directrice de l'hospitalisation et de
+l'organisation des soins au ministère de la santé, de la jeunesse et des
+sports est chargée de l'exécution du présent arrêté, qui sera publié au
+Journal officiel de la République française. Annexes Annexe I En savoir plus
+sur cet article... MODIFICATIONS APPORTÉES PAR LA VERSION 10cDE LA
+CLASSIFICATION DES GROUPES HOMOGÈNES DE MALADES Cette annexe expose les
+modifications apportées au manuel des groupes homogènes de malades depuis la
+version 10 b publié au fascicule spécial n° 2007/5 bis du Bulletin officiel. B
+2 - Manuel des groupes homogènes de malades Version 10 b 5 bis Les
+modifications dues à la version 10c des groupes homogènes de malades (GHM)
+portent sur : \- la création de nouveaux GHM ; \- la modification des listes
+d'exclusions des complications ou morbidités associées (CMA) ; \-
+l'introduction de nouvelles extensions de la 10e révision de la Classification
+internationale des maladies (CIM-10) ; et sur quelques points particuliers.
+1\. Les nouveaux GHM Dans la CMD. 01, création de six nouveaux groupes : \-
+01M22Z Migraines et céphalées ; \- 01M23Z Convulsions hyperthermiques ; \-
+01M24V Épilepsies, âge inférieur à dix-huit ans sans CMA ; \- 01M24W
+Épilepsies, âge inférieur à dix-huit ans avec CMA ; \- 01M25V Épilepsies, âge
+de dix-huit à soixante-neuf sans CMA ; \- 01M25W Épilepsies, âge de dix-huit à
+soixante-neuf ans avec CMA ou âge supérieur à soixante-neuf ans. Par
+conséquent, suppression des GHM 01M02Z, 01M03V et 01M03W. De façon réciproque
+dans la catégorie majeure (CM) no 24, création de trois nouveaux GHM : \-
+24M41Z Migraines et céphalées : séjours de moins de deux jours ; \- 24M42Z
+Convulsions hyperthermiques : séjours de moins de deux jours ; \- 24M43Z
+Épilepsies : séjours de moins de deux jours. Par conséquent, suppression du
+GHM 24M01Z. L'ensemble des diagnostics qui orientaient dans la liste D-083
+"Convulsions et céphalées" sont de ce fait répartis dans trois nouvelles
+listes : \- liste D- 115 Migraines et céphalées : F07.2, G43. -, G44. -,
+G93.2, G97.1, R. 51 ; \- liste D- 116 Convulsions hyperthermiques comportant
+un seul code : R. 56.0 ; \- liste D- 117 Épilepsies comportant les codes
+F80.3, G40. -, G41. -, R. 56.8. Dans la catégorie majeure de diagnostic (CMD)
+n° 05, création de deux nouveaux groupes par segmentation du GHM 05K08Z sur
+l'âge : \- 05K12Z Actes thérapeutiques par voie vasculaire sauf endoprothèses,
+sans pathologie cardiovasculaire sévère, âge inférieur à dix-huit ans ; \-
+05K13Z Actes thérapeutiques par voie vasculaire sauf endoprothèses, sans
+pathologie cardiovasculaire sévère, âge supérieur à dix-sept ans. Par
+conséquent, suppression du GHM 05K08Z Dans la CM 27, création d'un nouveau GHM
+: \- 27C07Z Autres transplantations. Il ne contient, pour le moment, que la
+transplantation d'intestin grêle : liste A-265. Dans la CMD. 28, création d'un
+nouveau GHM : \- 28Z16Z Aphérèses sanguines, en séances. Le classement dans ce
+groupe nécessite en position de diagnostic principal un nouveau code de motif
+de séances : Z51.31 (voir ci-dessous) (liste D-118). 2\. Modification des
+listes d'exclusions Les démences (codes des catégories F00 à F03 de la CIM-10
+et leurs extensions) et les extensions des codes de psychiatrie ajoutées à la
+liste des CMA dans la V10b ont fait l'objet d'une mise à jour de leurs listes
+d'exclusions dans la V10c. 3\. Modifications de la CIM-10 De nouvelles
+créations et extensions de codes ont été nécessaires. Certaines permettent
+l'orientation en GHM pour cette version 10c, d'autres sont sans conséquence
+sur le groupage. 3.1. Extensions permettant l'orientation en GHM Z51.30. -
+Séance de transfusion de produit sanguin labile Séance de transfusion de : \-
+concentré de globules rouges ; \- plasma frais congelé ; \- préparation
+leucocytaire ; \- préparation plaquettaire ; Z51.31 - Séance d'aphérèse
+sanguine Le code Z51.31 oriente dans le GHM 28Z16Z Aphérèses sanguines, en
+séances. Le code Z51.30 oriente dans le même GHM que Z51.3 : Transfusions
+sanguines, en séances. 3.2. Modifications préparatoires à la version 11 de la
+classification des GHM Création d'une catégorie U90 Autres formes de
+pharmacorésistance et de deux sous-catégories : \- U90.0 Résistance aux
+antiépileptiques ; \- U90.9 Résistances à un traitement, autres et sans
+précision. La catégorie U90 étant subdivisée, son code ne peut pas être
+employé. Seuls les codes U90.0 et U90.9 sont utilisables. Leur recueil a pour
+but de déterminer s'ils sont ou non des marqueurs d'une lourdeur plus
+importante de prise en charge. 4\. Autres modifications La restriction de la
+liste D-026 Surveillance de grossesse aux seuls codes Z35. - dans la version
+10 de la classification des GHM a conduit à une aberration du codage des
+séjours de l'ante partum de moins de 2 jours consistant à mentionner en DP un
+code Z35. -, alors que ce code doit être saisi en DAS. Cette erreur a été
+corrigée dans cette version de façon à ce qu'un code Z35. - en DAS oriente
+désormais correctement les séjours dans le GHM 24M24Z. L'acte JKND. 001
+Destruction de la muqueuse utérine par thermocontact, par voie vaginale a été
+rendu classant opératoire et intégrée à la liste A-114 Dilatations et
+curetages, ou conisations dans les CMD. 13 et 24. Annexe II En savoir plus sur
+cet article... MISES À JOUR DE LA CLASSIFICATION COMMUNEDES ACTES MÉDICAUX
+(CCAM) Le tableau fourni dans ce document retrace les modifications les plus
+importantes intervenues entre la version initiale (version 1) et la version
+actuelle (version 10) de la classification commune des actes médicaux (CCAM) :
+il liste les créations et suppressions de codes et de libellés d'actes et de
+gestes complémentaires des chapitres 01 à 18 opérées pendant cette période. La
+colonne de gauche indique le numéro de la subdivision dans laquelle est rangée
+le libellé sur lequel a porté la modification (code hiérarchique). La deuxième
+et la troisième colonnes fournissent respectivement le code et le libellé de
+l'acte modifié. Le type de modification (création ou suppression) et la
+version au cours de laquelle elle a été effectuée sont dans les colonnes de
+droite. POSITION hiérarchique CODE LIBELLÉ TYPE de modification MODIFICATION
+introduite 02.05.02.01 BJLB001 Injection unilatérale ou bilatérale de toxine
+botulique dans les muscles oculomoteurs suppression version 10 02.05.02.01
+BJLB901 Injection unilatérale ou bilatérale de toxine botulique dans les
+muscles oculomoteurs création version 10 04.03.12.01 EDCC015 Suture de plaie
+d'artère digestive, par cœlioscopie création version 2 04.04.07.02 EGED001
+Réduction de procidence hémorroïdaire interne par agrafage circulaire, par
+voie anale création version 10 05.02.01.02 FAFA003 Amygdalectomie à
+l'amygdalotome, avec adénoïdectomie et myringotomie unilatérale ou bilatérale
+suppression version 10 05.02.01.02 FAFA004 Amygdalectomie à l'amygdalotome,
+avec adénoïdectomie suppression version 10 05.02.01.02 FAFA009 Amygdalectomie
+à l'amygdalotome, avec adénoïdectomie et pose bilatérale d'aérateur
+transtympanique suppression version 10 05.02.01.02 FAFA011 Amygdalectomie à
+l'amygdalotome suppression version 10 05.02.01.02 FAFA012 Amygdalectomie à
+l'amygdalotome, avec adénoïdectomie et pose unilatérale d'aérateur
+transtympanique suppression version 10 06.01.08.04 GEQE011 Bronchoscopie au
+tube rigide, avec lavage bronchioloalvéolaire à visée diagnostique suppression
+version 10 06.04.02 GLJF001 Epuration extracorporelle du dioxyde de carbone
+[CO2] par voie veinoveineuse, par 24 heures suppression version 10 06.04.02
+GLJF002 Epuration extracorporelle du dioxide de carbone [CO2] par voie
+veinoartérielle, par 24 heures suppression version 10 06.04.02 GLJF010
+Epuration extracorporelle du dioxyde de carbone [CO2], par 24 heures création
+version 10 06.04.02 GLLD010 Ventilation liquide, par 24 heures suppression
+version 10 06.04.02 GLLD011 Ventilation à fréquence supérieure à 80 par minute
+[Ventilation à haute fréquence] [VHF], par 24 heures suppression version 10
+11.05.02 HBLD057 Pose d'une plaque-base en résine pour guide radiologique
+préimplantaire dentaire création version 9 11.05.02 HBMP001 Transformation
+d'un guide radiologique préimplantaire dentaire en guide chirurgical création
+version 9 07.03.02.06 HFCC022 Gastrojéjunostomie de dérivation [gastro-
+entéroanastomose sans résection gastrique], par cœlioscopie création version 2
+07.03.02.11 HFFC012 Gastrectomie partielle inférieure avec anastomose
+gastroduodénale, par cœlioscopie création version 2 07.03.02.11 HFFC017
+Gastrectomie totale avec rétablissement de la continuité, par cœlioscopie
+création version 2 07.03.04.12 HGAC010 Plastie d'élargissement unique ou
+multiple de l'intestin grêle, par cœlioscopie création version 2 07.03.04.06
+HGCC003 Entéroentérostomie de dérivation, par cœlioscopie création version 2
+07.03.04.06 HGCC015 Iléocolostomie de dérivation [Anastomose iléocolique sans
+exérèse intestinale], par cœlioscopie création version 2 07.03.04.05 HGCC026
+Entérostomie cutanée, par cœlioscopie création version 2 07.03.04.08 HGEC009
+Réduction d'invagination intestinale aigüe, par cœlioscopie création version 2
+07.03.04.09 HGFC014 Résection segmentaire unique de l'intestin grêle sans
+rétablissement de la continuité, en dehors de l'occlusion, par cœlioscopie
+création version 2 07.03.04.09 HGFC016 Résection segmentaire multiple de
+l'intestin grêle, par cœlioscopie création version 2 07.03.04.09 HGFC021
+Résection segmentaire unique de l'intestin grêle avec rétablissement de la
+continuité, en dehors de l'occlusion, par cœlioscopie création version 2
+07.06.02 HGPC005 Ablation d'un cathéter de dialyse péritonéale, par
+cœlioscopie création version 2 07.03.04.07 HGPC006 Entérotomie à visée
+thérapeutique, par cœlioscopie création version 2 07.06.07 HGPC015 Libération
+étendue de l'intestin grêle [entérolyse étendue] pour occlusion aigüe, par
+cœlioscopie création version 2 07.03.06.07 HHCC007 Colostomie cutanée, par
+cœlioscopie création version 2 07.03.06.08 HHCC011 Colocolostomie de
+dérivation [anastomose colocolique sans exérèse colique], par cœlioscopie
+création version 2 18.02.08 HHFA032 Kystectomie ovarienne par abord vaginal,
+au cours d'une intervention par abord vaginal création version 2 07.03.06.02
+HHGE010 Ablation d'une endoprothèse du côlon, par coloscopie création version
+10 07.03.06.02 HHLE005 Pose d'une endoprothèse du côlon, par coloscopie
+création version 10 07.03.06.07 HHMC005 Réfection de stomie cutanée
+intestinale, par cœlioscopie création version 2 07.03.07.06 HJFC023
+Proctectomie secondaire par cœlioscopie avec anastomose iléoanale par voie
+transanale, après colectomie totale initiale création version 2 07.03.07.06
+HJFC031 Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans
+rétablissement de la continuité, par cœlioscopie création version 2 07.04.13
+HLFC027 Bisegmentectomie hépatique, par cœlioscopie création version 2
+07.04.13 HLFC032 Trisegmentectomie hépatique, par cœlioscopie création version
+2 07.04.13 HLFC037 Hépatectomie gauche, par cœlioscopie création version 2
+07.04.15 HLSC012 Hémostase de lésion du foie, par cœlioscopie création version
+2 07.04.07 HMCC013 Cholédochoduodénostomie avec gastrojéjunostomie, par
+cœlioscopie création version 2 07.05.04 HNCC021 Anastomose entre un faux kyste
+du pancréas et l'estomac [Kystogastrostomie], par cœlioscopie création version
+2 07.05.04 HNCC033 Anastomose entre un faux kyste du pancréas et le jéjunum
+[Kystojéjunostomie], par cœlioscopie création version 2 07.05.07 HNFC027
+Nécrosectomie pancréatique, par cœlioscopie création version 2 07.05.07
+HNFC028 Pancréatectomie gauche avec conservation de la rate, par cœlioscopie
+création version 2 07.06.09 HPFC007 Résection ou cloisonnement du cul-de-sac
+recto-utérin [de Douglas], par cœlioscopie création version 2 07.06.02 HPKC014
+Changement d'un cathéter de dialyse péritonéale, par cœlioscopie création
+version 2 07.06.02 HPLC035 Pose ou repositionnement d'un cathéter
+intrapéritonéal pour dialyse péritonéale, par cœlioscopie création version 2
+08.02.01.07 JAPC018 Section de l'isthme d'un rein en fer à cheval, par
+cœlioscopie création version 2 08.02.02.05 JCEC006 Réimplantation
+urétérovésicale unilatérale avec création de montage antireflux, par
+cœlioscopie création version 2 08.02.02.05 JCEC011 Réimplantation
+urétérovésicale bilatérale avec création de montage antireflux, par
+cœlioscopie création version 2 08.02.03.09 JDCC016 Suture de plaie ou de
+rupture de vessie, par cœlioscopie création version 2 08.02.03.06 JDFC023
+Cystectomie partielle, par cœlioscopie création version 2 08.02.03.10 JDSC024
+Fermeture de fistule vésicovaginale acquise, par cœlioscopie création version
+2 08.03.01.03 JGFC045 Exérèse des vésicules séminales, par cœlioscopie
+création version 2 08.03.01.01 JGNE003 Destruction d'une hypertrophie de la
+prostate avec courant de radiofréquence, par urétrocystoscopie avec guidage
+échographique création version 10 08.03.01.01 JGNJ001 Destruction d'une
+hypertrophie de la prostate par microondes [Thermothérapie de la prostate]
+suppression version 10 08.04.01.04 JJFA050 Salpingoovariectomie
+[annexectomie], par abord vaginal création version 2 08.04.03.10 JKDA042
+Hystéropexie antérieure, par laparotomie création version 2 08.04.03.10
+JKDC015 Hystéropexie antérieure, par cœlioscopie création version 2
+08.04.04.03 JLDC015 Suspension du dôme du vagin [promontofixation du dôme
+vaginal], par cœlioscopie création version 2 09.01.02 JQQJ037 Mesure
+échographique de la longueur du canal cervical du col de l'utérus, par voie
+vaginale création version 2 12.02.02.01 LHNH002 Destruction d'un disque
+intervertébral par injection d'agent pharmacologique [chémonucléolyse], par
+voie transcutanée avec guidage scanographique suppression version 10
+12.02.02.01 LHNH003 Destruction d'un disque intervertébral par injection
+d'agent pharmacologique [chémonucléolyse], par voie transcutanée avec guidage
+radiologique suppression version 10 12.02.02.01 LHPH001 Exérèse d'un disque
+intervertébral, par voie transcutanée avec guidage radiologique [nucléotomie
+transcutanée] suppression version 10 12.02.02.01 LHPH907 Exérèse d'un disque
+intervertébral, par voie transcutanée avec guidage radiologique [nucléotomie
+transcutanée] création version 10 12.04.02.03 LLMC019 Plastie d'une coupole du
+diaphragme pour éventration, par cœlioscopie création version 2 12.04.03.03
+LMMC020 Cure de hernie de la paroi abdominale antérieure après l'âge de 16 ans
+avec pose de prothèse, par cœlioscopie création version 2 13.02.02.03 MBAA001
+Allongement osseux extemporané de l'humérus, avec autogreffe osseuse
+suppression version 10 13.05.01 MGMP002 Confection d'un appareil rigide
+d'immobilisation du poignet et/ou de la main suppression version 10 13.05.01
+MHMP005 Confection d'un appareil rigide d'immobilisation des doigts
+suppression version 10 13.02.07.03 MZMP002 Confection d'un appareil rigide
+thoracobrachial pour immobilisation initiale de fracture du membre supérieur,
+sans réduction création version 10 13.02.07.03 MZMP004 Confection d'un
+appareil rigide au poignet et/ou à la main pour immobilisation initiale de
+fracture du membre supérieur, sans réduction création version 10 13.05.01
+MZMP006 Confection d'un appareil rigide d'immobilisation de l'avant-bras, du
+poignet et/ou de la main ne prenant pas le coude création version 10
+13.02.07.03 MZMP007 Confection d'un appareil rigide brachio-
+antébrachiopalmaire pour immobilisation initiale de fracture du membre
+supérieur, sans réduction création version 10 13.05.01 MZMP011 Confection d'un
+appareil rigide d'immobilisation du membre supérieur prenant le coude création
+version 10 13.02.07.03 MZMP013 Confection d'un appareil rigide
+antébrachiopalmaire pour immobilisation initiale de fracture du membre
+supérieur, sans réduction création version 10 13.05.01 MZMP015 Confection d'un
+appareil rigide thoracobrachial d'immobilisation du membre supérieur création
+version 10 14.02.07.01 NBAA002 Allongement osseux extemporané du fémur ou du
+tibia, avec autogreffe osseuse suppression version 10 14.02.07.01 NBAA006
+Allongement osseux extemporané du fémur, avec autogreffe osseuse création
+version 10 14.05.01 NZMP003 Confection d'un appareil rigide d'immobilisation
+de la jambe, de la cheville et/ou du pied ne prenant pas le genou création
+version 10 14.02.07.04 NZMP006 Confection d'un appareil rigide fémorocrural
+[fémorojambier] ou fémoropédieux pour immobilisation initiale de fracture du
+membre inférieur, sans réduction création version 10 14.05.01 NZMP007
+Confection d'un appareil rigide fémorocrural [fémorojambier] ou fémoropédieux
+d'immobilisation du membre inférieur création version 10 14.02.07.04 NZMP008
+Confection d'un appareil rigide pelvifémoral, pelvicrural [pelvijambier] ou
+pelvipédieux pour immobilisation initiale de fracture du membre inférieur,
+sans réduction création version 10 14.05.01 NZMP012 Confection d'un appareil
+rigide pelvifémoral, pelvicrural [pelvijambier] ou pelvipédieux
+d'immobilisation du membre inférieur création version 10 14.02.07.04 NZMP014
+Confection d'un appareil rigide cruropédieux [jambopédieux] pour
+immobilisation initiale de fracture du membre inférieur, sans réduction
+création version 10 16.02.05 QEHH015 Macrobiopsie sous vide de lésion de la
+glande mammaire sur système accessoire, par voie transcutanée avec guidage
+mammographique création version 10 13.05.01 ZDMP013 Confection d'un appareil
+rigide d'immobilisation thoracobrachial suppression version 10 13.05.01
+ZDMP014 Confection d'un appareil rigide d'immobilisation antébrachiopalmaire
+suppression version 10 13.05.01 ZDMP017 Confection d'un appareil rigide
+d'immobilisation brachio-antébrachio-palmaire suppression version 10 14.05.01
+ZEMP005 Confection d'un appareil rigide d'immobilisation fémorocrural
+[fémorojambier], fémoropédieux ou cruropédieux [jambopédieux] suppression
+version 10 14.05.01 ZEMP010 Confection d'un appareil rigide d'immobilisation
+pelvifémoral, pelvicrural [pelvijambier] ou pelvipédieux suppression version
+10 18.01 ZZLP008 Anesthésie générale ou locorégionale complémentaire niveau 5
+création version 2 18.01 ZZLP012 Anesthésie générale ou locorégionale
+complémentaire niveau 6 création version 2 Annexe III (abrogé au 1 mars 2015)
+En savoir plus sur cet article... Abrogé par ARRÊTÉ du 16 décembre 2014 - art.
+2 MODIFICATIONS DU GUIDE MÉTHODOLOGIQUE DE PRODUCTION DES RÉSUMÉS DE SÉJOUR DU
+PMSI EN MÉDECINE, CHIRURGIE, OBSTÉTRIQUE EN RAPPORT AVEC LA VERSION 10c DES
+GHM APPLICABLE À PARTIR DU 1er MARS 2008 Cette annexe expose les modifications
+du guide méthodologique de production des résumés de séjour du PMSI en
+médecine, chirurgie et obstétrique (fascicule spécial n° 2007/4 bis du
+Bulletin officiel). I. - MODIFICATIONS DES INFORMATIONS DU RÉSUMÉ D'UNITÉ
+MÉDICALE Numéro de résumé d'unité médicale (RUM) Cette information nouvelle
+apparaît dans le format 013 du RUM. Son recueil est obligatoire. Le numéro de
+RUM identifie chacun des RUM d'un RSS. Les différents RUM d'un même RSS
+doivent donc posséder des numéros de RUM différents. En revanche, les mêmes
+numéros peuvent être employés dans des RSS distincts. On peut le schématiser
+par l'exemple suivant : RSS MONO-UNITÉ RSS MULTIUNITÉ 1 RSS MULTIUNITÉ N RUM
+01 RUM 01 RUM 02 RUM 01 RUM 02 RUM 03 Dans cet exemple, où le choix fait par
+l'établissement est celui d'une numérotation chronologique continue de 01 à n
+: \- les RUM de chacun des RSS mono-unités de l'établissement sont tous
+numérotés 01 ; \- dans un même RSS multiunité ("RSS multiunité 1" et "RSS
+multiunité n") chaque RUM a un numéro différent ; \- des RSS distincts
+utilisent les mêmes numéros de RUM. Ainsi, le numéro de RUM 01 est utilisé
+dans les RSS mono et multiunité, et le numéro 02 l'est dans les deux RSS
+multiunités. Cette numérotation chronologique continue (séquentielle) n'est
+qu'un exemple. L'information numéro de RUM peut comporter jusqu'à 10
+caractères et laisse ainsi le choix aux établissements de leur mode de
+numérotation. L'essentiel est qu'à l'intérieur d'un même RSS multiunité les
+RUM aient chacun un numéro différent. A court terme, le numéro de RUM
+permettra de tester la nouvelle définition du diagnostic principal (DP) prévue
+pour la version 11 des GHM, sans que cela n'impose une modification préalable
+du format du recueil. Sur la modification de la définition du DP, voir la
+deuxième partie du deuxième rapport sur les travaux préparatoires à la version
+11 des GHM. A plus long terme, le numéro de RSS permettra une identification
+plus sûre des consommations des médicaments payés en sus des GHS. Type
+d'autorisation de l'unité médicale Cette information n'existe plus dans le
+format 013 du résumé d'unité médicale (RUM). Elle est désormais à saisir
+préalablement au lancement des logiciels générateurs de résumés de sortie
+anonymes (GenRSA ou AGRAF). Le renseignement du "fichier d'UM" devient par
+conséquent obligatoire pour que la fonction groupage calcule correctement les
+suppléments et certains tarifs (soins palliatifs...). En revanche, le type
+d'autorisation de lit dédié reste une information du RUM. Unité d'addictologie
+pour sevrage alcoolique complexe : cet intitulé est remplacé par unité
+d'addictologie de recours et de référence. Le code est inchangé, il reste 19.
+Cette modification est en rapport avec la création du groupe homogène de
+séjours (GHS) n° 7257 relatif au groupe homogène de malades (GHM) n° 20Z02Z
+Toxicomanies non éthyliques avec dépendance. L'unité d'addictologie de recours
+et de référence peut désormais être codée au titre du sevrage alcoolique et
+d'autres dépendances "lorsque le patient est pris en charge plus de onze jours
+dans une unité d'addictologie identifiée pour la prise en charge des sevrages
+complexes et reconnue par contrat conclu entre l'établissement et l'agence
+régionale d'hospitalisation" (arrêté "prestations" du 25 février 2008, art.
+2). Les intitulés des types d'autorisation ont été complétés de manière à les
+distinguer plus clairement (par exemple, du fait de l'intitulé "Réanimation
+pédiatrique" "Réanimation" sans précision est devenu "Réanimation hors
+pédiatrie"). En conséquence, à partir du 1er mars 2008, les intitulés et codes
+d'autorisation des unités médicales s'établissent comme suit : \- Réanimation
+hors pédiatrie : 01 \- Réanimation pédiatrique : 13 \- Soins intensifs hors
+unité neurovasculaire : 02 \- Soins intensifs en unité neurovasculaire : 18 \-
+Unité neurovasculaire hors soins intensifs : 17 \- Surveillance continue hors
+pédiatrie : 03 \- Surveillance continue pédiatrique : 14- Néonatalogie sans
+soins intensifs (type 2A) : 04 \- Néonatalogie avec soins intensifs (type 2B)
+: 05 \- Néonatalogie et réanimation périnatale (type 3) : 06 \- Unité
+d'hospitalisation de courte durée : 07 \- Soins palliatifs : 08 \- Classement
+ex-OQN soins particulièrement coûteux (SRA) : 09 \- Classement ex-OQN
+surveillance continue (SSC) : 10 \- Anesthésie ou chirurgie ambulatoire : 11
+\- Hospitalisation à temps partiel de jour ou de nuit : 12 \- Clinique ouverte
+: 15 \- Unité d'hématologie équipée d'un système de traitement de l'air : 16
+\- Unité d'addictologie de recours et de référence : 19 \- Centre
+d'hémodialyse pour adultes : 21 \- Centre d'hémodialyse pour enfants : 22 \-
+Unité d'hémodialyse médicalisée : 23 À partir du 1er juin 2008 deux nouveaux
+types d'autorisation d'unité médicale viendront s'ajouter : \- Unité de court
+séjour gériatrique hors hospitalisation de jour : 24 \- Hospitalisation de
+jour gériatrique : 25 De ce fait, pour éviter toute confusion, l'intitulé du
+type d'autorisation n° 12 Hospitalisation à temps partiel de jour ou de nuit
+deviendra : Hospitalisation à temps partiel de jour sauf unité gériatrique, ou
+de nuit. Age gestationnel Il est exprimé en nombre de semaines révolues
+d'aménorrhée. Il doit être saisi : \- pour la mère : dans le RUM du séjour
+dans lequel est enregistré l'acte d'accouchement ; \- pour l'enfant : dans le
+RUM produit par la première unité d'hospitalisation du nouveau-né au sortir de
+la salle de naissance, quelle qu'elle soit (maternité, néonatalogie...) (1).
+Dans le RUM de la mère, la saisie, en sus du code de l'acte, de sa date de
+réalisation, permet le calcul de l'âge gestationnel à la date de l'admission.
+On rappelle que les établissements sont vivement invités à saisir la date de
+tous les actes codés. Interruptions volontaires de grossesse médicamenteuses
+Le RUM unique produit dans leur cas doit mentionner par convention des dates
+d'entrée et de sortie égales, quel qu'ait été le déroulement réel de la prise
+en charge. Qu'elle se soit limitée à la consultation initiale de prise du
+médicament abortif ou qu'elle ait compris l'ensemble des étapes (consultation
+initiale, prostaglandines, surveillance de l'expulsion, consultation de
+contrôle...), le RUM produit doit indiquer une date de sortie égale à la date
+du premier contact. II. - SÉANCES Le chapitre VI du guide méthodologique est
+modifié comme indiqué au moyen de caractères de couleur bleue dans les pages
+suivantes. VI. - LES SÉANCES 1\. Définition Au sens du PMSI, une séance est
+une venue dans un établissement de santé - "venue pour séance" - d'une durée
+inférieure à 24 heures, impliquant habituellement sa fréquentation itérative
+pour l'un des motifs thérapeutiques suivants à l'exclusion de tout autre :
+épuration extrarénale, chimiothérapie pour tumeur, radiothérapie (préparation
+et irradiation), transfusion sanguine, oxygénothérapie hyperbare, aphérèse
+sanguine. Seules les séances répondant à ces critères peuvent donner lieu à la
+mention d'un chiffre supérieur à zéro au titre de l'item "nombre de séances"
+du RSS (2). Il est laissé au choix des unités médicales : \- soit de produire
+un RSS à chaque séance (RSS-séance) ; \- soit de produire un RSS réunissant
+des séances identiques dont le nombre est enregistré au moyen de l'item
+"nombre de séances" (RSS-séances). Dans le premier cas, les dates d'entrée et
+de sortie mentionnées dans le RSS sont celles de la séance et l'item "nombre
+de séances" est égal à 1. Dans le second cas, à l'exclusion de la
+radiothérapie dont la particularité sera traitée plus loin, la date d'entrée
+du RSS est celle de la première séance, la date de sortie est celle de la
+dernière séance et l'item "nombre de séances" indique le nombre de séances
+identiques reçues par le malade entre ces deux dates. La durée maximale
+couverte par un RSS-séances est dictée par l'obligation de transmission des
+fichiers de RSA à l'agence régionale de l'hospitalisation (3). Lorsqu'un
+malade hospitalisé dans un établissement pour une raison autre qu'un des
+motifs de séance cités ci-dessus doit subir, dans le même temps et dans le
+même établissement, une ou des séances, on distingue deux situations selon le
+secteur de l'hospitalisation : \- si le malade est hospitalisé en médecine,
+chirurgie, obstétrique (MCO), autrement dit, si les unités d'hospitalisation
+et de réalisation de la séance appartiennent toutes deux au secteur MCO de
+l'établissement, à l'exception de la préparation à l'irradiation (en ce qui la
+concerne voir plus loin le point 4.1), il ne peut pas être produit de RSS-
+séance et, si un RSS-séances avait été créé préalablement à l'hospitalisation,
+il doit être suspendu ; toutes les fois qu'elle est codable avec la
+classification commune des actes médicaux (CCAM), l'activité liée aux séances
+doit être enregistrée en tant qu'actes (code et nombre de réalisations) dans
+le RSS d'hospitalisation à temps complet, la zone "nombre de séances" étant
+laissée vide ou égale à 0 ; \- si le malade est hospitalisé en soins de suite
+ou de réadaptation (SSR), en psychiatrie ou en soins de longue durée dans le
+même établissement, l'unité de MCO qui réalise les séances produit un RSS-
+séance ou, si un RSS-séances avait été préalablement créé, il est poursuivi.
+Pour des séances effectuées au bénéfice de malades hospitalisés dans un autre
+établissement, on se reportera aux consignes concernant les prestations
+interétablissements (chap. I, § 3). On ne confondra pas la séance telle quelle
+vient d'être définie, avec les actes en séances. À une date donnée, il ne peut
+être réalisé qu'une séance au sens du PMSI (comme de la gestion administrative
+des malades). En revanche, au cours de celle-ci, plusieurs actes
+médicotechniques en séances peuvent être effectués. Dans ce cas,
+l'enregistrement voit le décompte d'une séance au titre de l'item Nombre de
+séances et le codage des différents actes réalisés ou, si c'est le même acte
+qui a été réalisé plusieurs fois, par l'association à son code du nombre de
+réalisations. On rappelle qu'on ne peut comptabiliser plusieurs séances dans
+un même RSS ("RSS-séances") que si toutes ont été identiques, notamment au
+regard du ou des actes effectués. 2\. Séances de dialyse rénale Pas de
+modification 3\. Séances de chimiothérapie pour tumeur Pas de modification 4\.
+L'activité de radiothérapie Pas de modification 4.1. Le résumé standardisé de
+préparation Le résumé standardisé de préparation (RSP) à l'irradiation est de
+nature différente de celle des autres résumés du PMSI. Il doit être conçu, non
+comme un résumé de séjour, mais comme un support de description de la
+préparation à l'irradiation dans son intégralité. Il présente les propriétés
+suivantes : \- par convention il doit être élaboré à la fin du traitement de
+radiothérapie, c'est-à-dire après que la dernière séance d'irradiation a eu
+lieu ; \- il est unique pour chaque malade bénéficiant d'un traitement de
+radiothérapie ; à ce titre, il doit résumer au mieux la totalité de la prise
+en charge pour préparation d'irradiation ; pour son élaboration, outre le
+dossier médical du malade, il s'appuie donc particulièrement sur le document
+de suivi propre au service de radiothérapie ; \- pour un même malade, son
+numéro (numéro de RSP) est différent de celui du résumé d'irradiation. Cas
+particuliers : \- les cas de reprise de préparation sont à traiter de façon
+identique : le RSP doit résumer l'ensemble des actes de préparation réalisés
+pour un malade donné ; dans les cas de reprise, il comportera donc les actes
+de première préparation, ainsi que ceux de la seconde (voire troisième)
+préparation (4), dans le respect des règles d'emploi de la classification
+commune des actes médicaux (CCAM) ; \- lorsqu'un ou des actes de préparation à
+l'irradiation sont effectués au cours d'une hospitalisation en MCO pour un
+autre motif : \- l'hospitalisation donne lieu à la production d'un RSS selon
+les règles habituelles ; \- auquel s'ajoute un RSP qui enregistre les actes de
+préparation ; s'ils sont les premiers du plan de traitement, le RSP est ouvert
+à la date d'entrée de l'hospitalisation ; si un RSP avait été antérieurement
+ouvert, il est poursuivi ; \- dans le cas très particulier (et relativement
+rare) où, à la fois la totalité de la préparation et l'irradiation ont lieu
+dans le même temps d'hospitalisation, on ne réalisera pas de résumé
+standardisé de préparation. En revanche, il importe alors que les actes de
+préparation soient portés sur le RSS d'hospitalisation (5). Ainsi, lorsque la
+préparation à l'irradiation se déroule au cours d'une hospitalisation, les
+actes réalisés pendant celle-ci alimentent le RSP - et non le RSS - de la même
+manière que s'ils avaient été réalisés en ambulatoire. Cette consigne est
+valable quel que soit le moment de survenue de l'hospitalisation : \-
+hospitalisation initiale au cours de laquelle est ouvert un RSP qui se
+poursuivra au-delà d'elle (parce que une ou des séances d'irradiation,
+éventuellement d'autres actes de préparation, ont lieu après cette
+hospitalisation) ; \- hospitalisation survenant alors qu'un RSP a été ouvert
+antérieurement à elle. En revanche, lorsque la totalité de la préparation et
+de l'irradiation ont lieu au cours d'une même hospitalisation, on ne produit
+pas de RSP mais un RSS dans lequel sont enregistrés les actes de préparation
+et d'irradiation. En conclusion, la réalisation d'actes de préparation
+alimente toujours un RSP, sauf lorsque la totalité de la préparation et de
+l'irradiation ont lieu au cours d'une même hospitalisation. Production du
+résumé standardisé de préparation Pas de modification 4.2. Le RSS-séance(s)
+d'irradiation Pas de modification 5\. La transfusion sanguine en séances Pas
+de modification 6\. L'oxygénothérapie hyperbare Pas de modification 7\. Les
+aphérèses sanguines Une venue pour séance d'aphérèse sanguine ne peut donner
+lieu à la production d'un RSS-séance(s) que s'il y a eu ouverture d'un dossier
+administratif d'hospitalisation dans une unité de MCO. Par séances d'aphérèse
+sanguine, on désigne les séances pour la réalisation des actes suivants :
+FEFF001 Prélèvement de cellules mononucléées par cytaphérèse, pour thérapie
+cellulaire ; FEFF002 Prélèvement de cellules souches hématopoïétiques
+sanguines par cytaphérèse, pour thérapie cellulaire ; FEJF001 Séance
+d'épuration semi-sélective de substance plasmatique par double filtration
+[épuration en cascade] ; FEJF002 Séance non programmée de soustraction
+thérapeutique de plasma avec perfusion de produit de substitution [échange
+plasmatique] pour affection aigüe ; FEJF004 Séance programmée de soustraction
+thérapeutique de plasma avec perfusion de produit de substitution [échange
+plasmatique] pour affection chronique ; FEJF005 Séance d'épuration chimique
+des lipoprotéines [LDLaphérèse] à partir du plasma ou du sang total ; FEJF007
+Séance d'épuration immunologique de substance plasmatique [immunoadsorption] ;
+FEJF009 Séance d'ultrafiltration plasmatique ; FEPF001 Séance programmée de
+leucaphérèse thérapeutique pour affection chronique ; FEPF002 Séance de
+thrombocytaphérèse thérapeutique ; FEPF003 Séance d'érythraphérèse
+thérapeutique avec transfusion de globules rouges [échange érythrocytaire] ;
+FEPF004 Séance non programmée de leucaphérèse thérapeutique pour affection
+aigüe ; FEPF005 Séance d'érythraphérèse thérapeutique avec perfusion
+[hémodilution normovolémique intentionnelle] ; FERP001 Photochimiothérapie
+extracorporelle des cellules sanguines mononucléées ; \- Phase 1 : collecte
+des leucocytes par cytaphérèse [leucaphérèse] ; \- Phase 2 : irradiation des
+leucocytes par UVA en présence d'un produit photosensibilisant ; \- Phase 3 :
+autotransfusion des leucocytes. Le codage du DP des séances d'aphérèse
+sanguine utilise le code Z51.31 (6) et lui seul. .. (1) Que cette unité
+appartienne au même établissement que la salle de naissance ou, en cas de
+transfert depuis celle-ci, à l'établissement de destination. On rappelle que
+la salle de travail et la salle de naissance ne sont pas des unités
+d'hospitalisation. Elles ne sont pas des unités médicales au sens du PMSI.
+L'accouchement ou la naissance ne peut donc pas donner lieu à la production
+d'un RUM au seul titre du passage dans ces salles. (2) Et un résumé de séjour
+mentionnant l'un des motifs cités avec une égalité des dates d'entrée et de
+sortie est classé dans un GHM de séances même si l'item "nombre de séances"
+n'est pas renseigné. (3) L'arrêté du 27 février 2007 (JO du 28 février)
+modifiant l'arrêté du 31 décembre 2003 modifié relatif au recueil et au
+traitement des données d'activité médicale des établissements de santé publics
+ou privés ayant une activité en médecine, chirurgie ou obstétrique et à la
+transmission d'informations... a établi une transmission mensuelle. (4) Sur le
+plan de la prise en compte de ces reprises de préparation il est à noter que,
+lors du groupage, c'est la préparation la plus lourde qui détermine le GHM
+d'affectation. Par ailleurs, par construction du modèle de l'étude nationale
+des coûts par activité médicale, la valorisation des GHM de préparation tient
+compte du fait que, dans un pourcentage de cas défini, les préparations
+d'irradiation comportent un temps de reprise. (5) La mention de ces actes sur
+le RSS d'hospitalisation peut permettre d'observer si le GHM d'accueil de ces
+séjours a lieu d'être scindé pour isoler par exemple les irradiations en
+hospitalisation avec ou sans préparation. (6) Code Z51.3 de la CIM étendu pour
+la circonstance pour la version 10c de la classification des GHM. Fait à
+Paris, le 22 février 2008. Pour la ministre et par délégation : La directrice
+de l'hospitalisation et de l'organisation des soins, A. Podeur Nota. ― Les
+annexes II, III et IV de l'arrêté du 31 décembre 2003 qui deviennent les
+annexes II, III et I du présent arrêté sont mises à jour par ce même arrêté.
+Ces annexes II, III et I seront publiées au Bulletin officiel du ministère de
+la santé, de la jeunesse et des sports n° 2008/4 du mois d'avril 2008.
+Télécharger le document en RTF (poids < 1Mo) Masquer le panneau de navigation
+Imprimer À propos de l'ordre juridique français Licences Quoi de neuf sur le
+site ? À propos du site Plan du site Accessibilité Aide générale Nous écrire
+Établir un lien
+

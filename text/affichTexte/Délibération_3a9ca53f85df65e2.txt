@@ -1,0 +1,337 @@
+Délibération du 16 juillet 2015 portant décision relative aux missions des
+gestionnaires de réseaux d'électricité en matière de tarifs à effacement de
+type Tempo | Legifrance Legifrance - Le service public de l'accès au droit
+Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération du 16 juillet 2015
+portant décision relative aux missions des gestionnaires de réseaux
+d'électricité en matière de tarifs à effacement de type Tempo Délibération du
+16 juillet 2015 portant décision relative aux missions des gestionnaires de
+réseaux d'électricité en matière de tarifs à effacement de type Tempo Masquer
+le panneau de navigation << Article précédent \- Article suivant >> \-
+Imprimer Chemin : Délibération du 16 juillet 2015 portant décision relative
+aux missions des gestionnaires de réseaux d'électricité en matière de tarifs à
+effacement de type Tempo Article ELI: Non disponible Participaient à la séance
+: Philippe de LADOUCETTE, président, Catherine EDWIGE et Yann PADOVA,
+commissaires.En application des dispositions de l'article L. 134-1, 1° et 3°,
+du code de l'énergie, « dans le respect des dispositions législatives et
+réglementaires, la Commission de régulation de l'énergie précise, par décision
+publiée au Journal officiel de la République française, les règles concernant
+:1° Les missions des gestionnaires de réseaux publics de transport et de
+distribution d'électricité en matière d'exploitation et de développement des
+réseaux ;(…)3° Les conditions d'accès aux réseaux et de leur utilisation y
+compris la méthodologie de calcul des tarifs d'utilisation des réseaux et les
+évolutions de ces tarifs ». 1\. Contexte Historiquement, les fournisseurs
+d'électricité historiques (EDF et les entreprises locales de distribution)
+étaient les seuls à pouvoir proposer à leurs clients des tarifs réglementés de
+vente d'électricité comportant des options à effacement : les options
+tarifaires « EJP » et « Tempo ». Ces offres se caractérisent par des périodes,
+signalées à l'avance au consommateur, durant lesquelles celui-ci est incité à
+limiter sa consommation par un prix du kWh significativement plus élevé que le
+reste de l'année. Le déclenchement de ces périodes est effectué au moyen du
+signal TCFM (télécommande centralisée à fréquence musicale), exploité par les
+gestionnaires de réseaux de distribution, jusqu'au compteur du consommateur.A
+la suite de la demande du ministre de l'écologie, du développement durable et
+de l'énergie adressée à la Commission de régulation de l'énergie (CRE) par
+courrier du 26 décembre 2013, un groupe de travail, placé sous l'égide de la
+CRE, a été mis en place en 2014 afin d'étudier et de mettre en œuvre les
+modalités nécessaires pour permettre aux fournisseurs alternatifs de proposer
+de telles offres à leurs clients.Le groupe de travail se compose des membres
+suivants : \- Electricité de France (EDF), Direct Energie, Engie ;- les
+gestionnaires de réseaux, entreprises locales de distribution (ELD) et
+associations des gestionnaires de réseaux d'ELD (RTE, ERDF, FNSICAE, ANROC,
+ADEeF) ;- trois associations de consommateurs (CNAFC, AFL Paris, Familles de
+France) et une association de professionnels (UFE) ;- les pouvoirs publics
+(Médiateur national de l'énergie, direction générale de l'énergie et du
+climat, Institut national de la consommation). Les travaux du groupe, menés au
+cours de l'année 2014, ont permis d'établir « les modalités pratiques
+d'activation des jours d'effacement par RTE [et de] proposer des règles et
+procédures adéquates permettant à tous les fournisseurs de proposer des offres
+à effacement à partir de l'été 2014 ». Ils ont fait l'objet d'une délibération
+(1) qui est venue préciser la nouvelle gouvernance du signal d'activation des
+périodes de prix plus élevés, permettant à tout fournisseur de proposer des
+offres équivalentes au tarif réglementé de vente « Tempo ». Cette gouvernance
+s'applique depuis le 1er novembre 2014 à l'ensemble des offres à effacement de
+type « Tempo » proposées sur le territoire métropolitain.La délibération
+prévoyait également la poursuite des travaux afin d'étendre le dispositif au
+segment des clients professionnels, de définir les modalités pérennes
+d'échange entre le gestionnaire du réseau de transport RTE et les
+gestionnaires de réseau de distribution, et de traiter la question de la
+transparence de l'algorithme de sélection des jours utilisé. 2\. Présentation
+des travaux du groupe et analyse de la CRE2.1. Retour d'expérience du
+dispositif Contenu du retour d'expérience du dispositif et modalités de suivi
+:Afin d'évaluer le fonctionnement du dispositif mis en place et d'identifier
+les évolutions éventuelles à y apporter, les acteurs ont identifié les points
+spécifiques devant faire l'objet d'un suivi : \- comparaison ex ante entre les
+jours sélectionnés avec le critère consommation nette et ceux sélectionnés
+avec d'autres critères (critères économiques, critère température, y compris
+les critères utilisés précédemment par les fournisseurs historiques) ;-
+comparaison entre les informations diffusées dans le cadre du présignalement à
+8 heures et celles diffusées à 10 h 30 ;- suivi du fonctionnement et de
+l'utilisation par les acteurs des différents canaux de transmission de
+l'information « Tempo » ;- adéquation du stock fixe de jours rouges et blancs.
+D'autre part, la cohérence des jours d'effacement tirés avec les périodes de
+pointe du mécanisme de capacité a été identifiée comme point d'attention
+majeur pour l'évolution du dispositif.Bilan du tirage des jours rouges et
+blancs sur l'hiver 2014-2015 :Tous les jours rouges et blancs de cette année «
+Tempo » ont été tirés entre le 1er décembre 2014 et le 7 avril 2015 inclus. La
+consommation nette moyenne des 22 jours rouges représente 98,96 % de la
+consommation nette moyenne des 22 jours de plus forte consommation nationale.
+Pour les 43 jours blancs, le taux s'élève à 99,18 %. L'incertitude du tirage
+des jours rouges en début d'hiver, l'épuisement du stock de jours rouges en
+fin d'hiver et l'impossibilité de tirer des jours rouges ou blancs le dimanche
+expliquent ces légères divergences.Les associations de consommateurs, le MNE
+et EDF ont contesté le tirage d'un jour rouge le 31 décembre, alors que la
+pratique commerciale d'EDF consistait jusqu'alors à éviter de placer un jour
+rouge au réveillon de la Saint-Sylvestre. Ce tirage était toutefois justifié
+par le niveau de consommation nette mesuré ce jour et était conforme aux
+critères de déclenchement. De façon générale, la CRE n'est pas favorable à la
+mise en place de contraintes affectant le tirage des jours rouges, qui
+seraient de nature à dégrader l'efficacité du dispositif « Tempo » et freiner
+le développement de ces offres.Enfin, les fournisseurs ont souhaité que RTE
+envisage de prendre en compte les prévisions de températures au-delà de J + 1
+dans les données d'entrée de l'algorithme, afin d'en améliorer l'efficacité.
+RTE a indiqué qu'au vu des performances actuelles de la méthode de choix des
+jours « Tempo » le besoin n'était pas avéré. Cependant, RTE a précisé avoir
+engagé des réflexions en ce sens en vue du mécanisme de capacité.Publication
+du signal :L'horaire de publication du signal, fixé à 10 h 30, a été respecté
+dans 100 % des cas. Le présignal a été publié à 8 heures dans 97,58 % des cas.
+Pré-signal et signal ont coïncidé dans 100 % des cas. Le site internet de
+publication du signal, mis en place par RTE, a été consulté plus de 45 000
+fois entre novembre 2014 et mai 2015, avec des pics de consultation en janvier
+et février 2015.Comparaison avec d'autres critères de tirage :EDF et GDF Suez
+(Engie) ont simulé des tirages de jours rouges selon un algorithme spécifique
+fondé sur des critères économiques, dans les mêmes conditions que RTE (tirage
+ex ante, sans prise en compte des prix de marchés réalisés). Sur l'hiver
+2014-2015, 12 jours rouges étaient communs entre RTE et EDF, 17 entre RTE et
+GDF Suez (Engie).Développement de la concurrence :L'ouverture aux fournisseurs
+alternatifs des offres de type « Tempo » n'a pas donné lieu à la création
+d'offres de marché, notamment en raison d'une absence de contestabilité du
+tarif « Tempo » actuel. Toutefois, certains fournisseurs alternatifs ont
+débuté des expérimentations de telles offres : ERDF a relevé qu'une trentaine
+de sites traités en Recoflux sur la base du profil RES3, dédié à la
+reconstitution des offres « Tempo », appartenaient aux périmètres de
+fournisseurs alternatifs.Le prochain mouvement tarifaire permettra d'améliorer
+significativement la contestabilité du tarif réglementé de vente « Tempo » et
+ainsi de permettre la relance de ce type d'offre et le développement de la
+concurrence. 2.2. Ouverture des offres « Tempo » à tous les fournisseurs sur
+le segment non résidentiel Les participants du groupe de travail se sont
+déclarés favorables à une ouverture à l'ensemble des fournisseurs des offres
+de type « Tempo » sur le segment non résidentiel. Ces offres seront pilotées
+grâce au signal TCFM, selon les mêmes modalités que celles appliquées aux
+offres « Tempo » du segment résidentiel.Analyse de la CRE : l'ouverture des
+offres « Tempo » au segment non résidentiel devrait permettre le développement
+de la concurrence sur ce segment, car le tarif réglementé de vente « Tempo »
+qui s'y applique, actuellement en extinction, ne constitue pas, pour le
+client, une alternative aux offres de marché.La gouvernance du signal, pilotée
+par le même signal TCFM que les offres « Tempo » du segment résidentiel, a
+déjà été confiée à RTE par la délibération de la CRE du 30 octobre 2014.Ces
+dispositions nécessitent des évolutions des systèmes d'information d'ERDF,
+qu'il mettra en œuvre d'ici au 1er septembre 2015. 2.3. Cas des offres EJP
+pour les clients de puissance souscrite supérieure à 36 kVA Les fournisseurs
+peuvent proposer des offres de type EJP aux consommateurs dont la puissance
+souscrite est supérieure à 36 kVA, grâce aux fonctionnalités offertes par les
+compteurs communicants. Le déploiement de ces compteurs est en cours, en
+application des dispositions de mise en conformité prévues par l'arrêté du 4
+janvier 2012 (2). A ce jour, les compteurs des clients en tarif jaune EJP ont
+été remplacés. Le déploiement des nouveaux compteurs des clients en tarif vert
+EJP sera terminé au second semestre 2015.Les fournisseurs ont la possibilité
+de tirer leur propre pointe mobile grâce au service de pointe mobile ouvert
+sur ce segment depuis avril 2015. Ces offres seront reconstituées à partir des
+profils ENT2, ENT4 et ENT6, les conditions d'affectation d'une offre à ces
+profils ayant été étendues dans la version du chapitre F de la section 2 des
+règles RE-MA approuvée par la CRE le 25 février 2015 (3) et entrée en vigueur
+le 1er avril 2015. 2.4. Evolution des canaux de transmission de l'information
+A la suite de la délibération de la CRE du 30 octobre 2014 et au regard du
+retour d'expérience de l'hiver 2014-2015, les gestionnaires de réseaux RTE,
+ERDF et les ELD ont proposé les modalités pérennes de déclenchement du signal
+TCFM qui viendront se substituer au dispositif provisoire actuellement en
+vigueur. Celui-ci ne permet pas, en effet, l'automatisation de la transmission
+du signal tarifaire entre RTE et les GRD et maintient la transmission de ce
+signal à ERDF par EDF.Les réflexions ont notamment porté (i) sur le format du
+courriel d'envoi de l'information du signal de déclenchement du jour « Tempo »
+à des fins d'automatisation de la réception de l'information et (ii) sur
+l'authentification de l'expéditeur du message, en réponse aux préoccupations
+de la FNSICAE et de l'ANROC formulées lors de la concertation. La proposition
+formulée par RTE, fondée sur l'envoi d'un courriel signé, a fait l'objet de
+tests concluants avec plusieurs ELD et sera donc mise en œuvre à partir du 1er
+septembre 2015.RTE a par ailleurs développé une solution de type « webservice
+», opérationnelle au 1er septembre 2015, qui permettra de répondre au besoin
+de récupération automatisée du signal « Tempo » par les gestionnaires de
+réseaux de distribution (GRD). Ce service sera également mis à la disposition
+des fournisseurs intéressés.Certains GRD dont les moyens techniques et
+l'isolement géographique ne permettent ni le recours à un webservice ni
+l'emploi du courriel, ont demandé à RTE de recourir à l'envoi de SMS. RTE a
+mis en place cette solution. Toutefois, compte tenu des surcoûts que cette
+solution occasionnerait si elle venait à être généralisée à l'ensemble des
+acteurs, son utilisation sera strictement limitée aux ELD concernées et à un
+nombre de destinataires limité à une dizaine par ELD. Ce dispositif sera
+opérationnel pour le 1er septembre 2015.Les acteurs sont convenus d'une mise à
+jour biannuelle de la liste des destinataires des courriels signés et SMS.Les
+canaux initialement mis en place par RTE, page internet publique et diffusion
+d'un courriel à caractère informatif sont maintenus, en parallèle des nouveaux
+canaux d'information.Analyse de la CRE : la CRE estime que l'ensemble des
+dispositions qui précèdent répondent de manière adaptée aux besoins et aux
+contraintes opérationnelles des fournisseurs et des gestionnaires de réseaux
+de distribution. Le canal de transmission de l'information via une page
+internet du site de RTE constitue la solution de référence s'agissant de
+l'information des acteurs sur la nature du jour « Tempo ». 2.5. Transparence
+du dispositif de sélection des jours « Tempo » Conformément à la délibération
+de la CRE du 30 octobre 2014, RTE a mis en place un modèle de tirage des jours
+« Tempo » fondé sur une méthode stochastique de gestion des stocks en univers
+incertain.La délibération prévoyait par ailleurs que les acteurs établissent
+en concertation les éléments méthodologiques relatifs à ce modèle devant faire
+l'objet d'un partage avec les fournisseurs pour leur permettre de construire
+leurs offres. Les éléments ci-après ont été demandés à RTE : \- une
+description précise du modèle, de ses données d'entrée et de son paramétrage
+;- l'algorithme, ou à défaut les tirages les plus probables pour les trois
+années à venir ;- la valeur d'usage quotidienne ou le seuil de déclenchement
+du modèle. En réponse à ces demandes, RTE a présenté aux acteurs, le 23
+janvier 2015, une description du fonctionnement de son modèle et a fourni, le
+27 mars 2015, la liste exhaustive des données d'entrée et de paramétrage,
+disponibles sur son site internet.RTE a par ailleurs proposé de simuler, pour
+chaque fournisseur, les tirages de jours « Tempo » en sortie du modèle, sur la
+base de scénarios de consommation nette qu'ils devront lui transmettre. Une
+expérimentation a été menée avec EDF afin d'identifier les formats de
+transmission des scénarios et des résultats du modèle.RTE propose de
+communiquer aux fournisseurs intéressés le format de données attendu pour
+effectuer les calculs et que les fournisseurs lui transmettent en retour le
+nombre de scénarios souhaités à fréquence mensuelle, et d'envoyer le résultat
+des simulations, dans un délai standard d'un mois, en appliquant le principe
+du premier arrivé, premier servi.Le 6 juillet 2015, RTE a proposé aux acteurs
+de mettre à disposition, à partir du 1er septembre 2015, une note technique
+expliquant le fonctionnement du modèle, ainsi qu'une version simplifiée du
+modèle, qui, bien que reproduisant de manière approchée le mode de
+fonctionnement de l'algorithme, permettra à tous les acteurs de bien
+appréhender son fonctionnement.Les acteurs estiment que l'ensemble des
+dispositions proposées par RTE satisfait à leur demande.Analyse de la CRE :
+les propositions de RTE présentées ci-dessus répondent aux besoins des
+fournisseurs s'agissant du calage des prix de leurs offres. La mise à
+disposition du modèle est de nature à permettre aux fournisseurs de prévoir le
+tirage des jours et d'anticiper leur approvisionnement.Il est demandé à RTE de
+préciser, dans une note mise à disposition des fournisseurs, les modalités
+techniques et opérationnelles de transmission des scénarios de consommation
+nette. 2.6. Modalités de recours au mode dégradé Certains événements sont
+susceptibles d'affecter le fonctionnement du dispositif de sélection des jours
+« Tempo », notamment : \- lors de perturbations dans les processus
+opérationnels : le choix de la couleur « Tempo » ne constituant pas un
+processus critique pour la sûreté du système, son ordre de priorité peut être
+dégradé au regard des enjeux de gestion d'événements extrêmes au dispatching
+national ;- lors de perturbations informatiques affectant l'application
+chargée de faire fonctionner le modèle ou les dispositifs de communication et
+de publication du signal. RTE a dès lors mis en place un mode de tirage
+dégradé pour pallier ces situations et continuer à assurer la publication du
+signal tarifaire. Le cas échéant, le choix de la couleur du jour en mode
+dégradé pourrait ne pas respecter celui qu'aurait fourni le modèle en
+situation normale. RTE a proposé de réaliser un retour d'expérience sur
+l'utilisation du mode dégradé et de ses conséquences auprès de la CRE et des
+acteurs. Cette proposition n'a pas appelé de remarques de la part des
+acteurs.Analyse de la CRE : la mise en œuvre de modes dégradés en cas de
+dysfonctionnement dans le processus de sélection des jours « Tempo » permet de
+garantir la publication de la couleur du jour suivant, conformément aux
+principes de la délibération du 30 octobre 2014, et relève d'une gestion
+efficace par RTE de sa mission.Les cas suivants ont été identifiés en
+concertation comme étant les situations pouvant donner lieu à un tirage selon
+des modalités dégradées par rapport à celles explicitées dans la présente
+délibération et la délibération du 30 octobre 2014 : \- en cas de perturbation
+opérationnelle qui contraint les équipes chargées de la sélection des jours «
+Tempo » à retarder la mise en œuvre du processus au-delà de l'horaire butoir
+de diffusion de l'information la veille pour le lendemain (10 h 30) ;- en cas
+de dysfonctionnement informatique ou de données d'entrée manquantes rendant
+impossible le recours à l'algorithme ;- en cas d'interruption de la
+communication entre l'algorithme de sélection et la page internet de diffusion
+de l'information sur la nature du jour « Tempo » suivant. Il est demandé à RTE
+de préciser aux fournisseurs, sur son site internet, si le tirage d'un jour «
+Tempo » s'est effectué en mode nominal ou dégradé. RTE devra également
+communiquer à la CRE les types de modes dégradés mis en œuvre selon les
+dysfonctionnements identifiés et l'informer de toute activation d'un mode
+dégradé pour la sélection des jours « Tempo ». RTE devra enfin effectuer un
+retour d'expérience de l'utilisation des modes dégradés à l'occasion des
+groupes de concertation. 2.7. Modalités encadrant l'évolution du modèle de
+sélection des jours RTE a proposé des règles encadrant l'évolution de son
+modèle, en distinguant les évolutions structurelles, qui s'inscrivent dans une
+démarche d'amélioration continue, des corrections à apporter en cas de
+détection d'erreurs.Les acteurs sont convenus que les corrections devaient, en
+cas de détection d'erreur, être effectuées au plus tôt et faire l'objet d'une
+information. En revanche, les évolutions structurelles doivent respecter un
+préavis de trois mois, pour une entrée en vigueur le 1er septembre de chaque
+année.Analyse de la CRE : la CRE est favorable aux dispositions énoncées
+précédemment. 2.8. Evolution du dispositif en prévision du déploiement de
+Linky ERDF a présenté aux acteurs les fonctionnalités de grille fournisseur et
+de pointe mobile prévues pour les compteurs Linky. Pour ces compteurs, le
+déclenchement de la pointe mobile ne reposera pas sur l'utilisation du signal
+TCFM, ce qui permettra aux fournisseurs de choisir leurs propres jours
+d'effacement indépendamment des tirages de RTE.Le groupe de travail a examiné
+les conséquences de la pose des compteurs sur l'activation des périodes de
+pointe ainsi que la question du maintien de l'unicité des périodes de pointe
+entre les clients équipés d'un compteur Linky et ceux équipés de compteurs
+classiques.A cette occasion, les fournisseurs historiques ont fait part de
+leur volonté de s'affranchir de la gouvernance du signal « Tempo » de RTE pour
+les clients bénéficiant du tarif réglementé de vente qui seront équipés de
+compteurs Linky, au même titre que les fournisseurs alternatifs pour leurs
+offres de marché, à des fins d'optimisation du tirage des jours d'effacement
+en fonction de leur approvisionnement. La mise en œuvre de périodes de pointe
+différentes pour les tarifs réglementés de vente selon la nature du compteur
+du consommateur nécessite une modification de l'arrêté tarifaire. A défaut
+d'éléments justifiant cette distinction, la DGEC a indiqué en concertation
+être favorable au maintien de l'unicité du signal pour les tarifs réglementés
+de vente.ERDF a également souligné que le compteur Linky n'est pas
+immédiatement communicant lors de la pose. Un délai de plusieurs jours est
+nécessaire, pendant lequel le compteur n'est pas téléopérable. Un compteur
+Linky posé chez un client bénéficiaire d'une offre « Tempo » ou équivalente
+pourrait ne pas permettre le tirage de jours rouges ou blancs pendant
+plusieurs jours.La majorité des acteurs du groupe de travail n'est toutefois
+pas favorable à un rattrapage des jours non tirés pendant cette période, qui
+occasionnerait une confusion chez les consommateurs et s'avère au surplus
+techniquement difficile à mettre en œuvre dans les systèmes d'information
+d'ERDF. 2.9. Convergence avec le mécanisme de capacité Plusieurs acteurs, dont
+RTE, ont souligné l'intérêt d'une convergence du dispositif « Tempo » avec le
+mécanisme de capacité, laquelle permettrait de limiter le nombre de
+dispositifs que RTE devra gérer et renforcerait l'intérêt des offres de
+fourniture à effacement dans le mécanisme de capacité (soit en réduction de la
+consommation lors des périodes PP1, soit en effacement lors des périodes PP2).
+Une telle convergence nécessite toutefois la résolution préalable de
+difficultés d'ordre technique et réglementaire.Tout d'abord, les années de
+référence du mécanisme de capacité et de « Tempo » ne sont pas compatibles,
+l'année « Tempo » démarrant le 1er septembre alors que le mécanisme de
+capacité fonctionne en année civile. Un alignement, au 1er janvier 2017, de «
+Tempo » sur le mécanisme de capacité nécessite donc de traiter les jours
+rouges tirés entre le 1er novembre et le 31 décembre pour éviter que le
+consommateur se voie affecter un nombre de jours rouges plus élevés que ceux
+prévus sur l'année « Tempo ».Par ailleurs, le nombre de jours rouges « Tempo »
+diffère du nombre de jours PP1 et PP2 : les jours rouges correspondent à un
+stock fixe de 22 jours qui doivent être tirés dans l'année « Tempo » alors que
+le nombre de jours du mécanisme de capacité est un stock variable compris
+entre 10 et 15 jours pour PP1 et entre 10 et 25 pour PP2.Enfin, les plages
+horaires pendant lesquelles s'appliquent les jours rouges sont également
+différentes de celles du mécanisme de capacité. Les jours rouges « Tempo » en
+heures pleines s'appliquent sur une durée de 16 heures (de 6 heures à 22
+heures) alors que le mécanisme de capacité s'applique sur une durée de 10
+heures (de 7 heures à 15 heures puis de 18 heures à 20 heures). L'application
+des plages horaires du mécanisme de capacité aux jours « Tempo » nécessiterait
+de traiter l'absence d'index pour mesurer la consommation sur ces plages
+horaires et les impacts en termes de profilage.La CRE est favorable à une
+convergence du dispositif « Tempo » avec le mécanisme de capacité. Elle invite
+les acteurs à poursuivre l'instruction des points évoqués ci-dessus et à lui
+faire des propositions d'ici la fin de l'année. 3\. Décision Au regard des
+analyses qui précédent, la CRE demande aux gestionnaires de réseaux de mettre
+en œuvre les dispositions suivantes, en complément de la délibération du 30
+octobre 2014 : \- mise en place, par RTE, des canaux de transmission décrits
+au paragraphe 2.4 d'ici le 1er septembre 2015 ;- partage, par RTE, des
+éléments prévus au paragraphe 2.5 afin d'assurer la transparence du modèle de
+sélection des jours « Tempo » utilisé ;- mise en œuvre, par RTE, d'un mode
+dégradé de sélection des jours « Tempo » dans les situations et selon les
+modalités prévues au paragraphe 2.6 ;- mise en place, par RTE, des modalités
+d'encadrement des évolutions du modèle de sélection des jours « Tempo »
+prévues au paragraphe 2.7 ;- mise en œuvre, par ERDF, au 1er septembre 2015
+des évolutions des systèmes d'information permettant aux fournisseurs
+alternatifs de proposer des offres de marché à effacement de type « Tempo »
+aux clients du segment non résidentiel. En application de l'article L. 134-1
+du code de l'énergie, la présente délibération sera publiée au Journal
+officiel de la République française. Liens relatifs à cet article Cite: Code
+de l'énergie (V) Code de l'énergie - art. L134-1 (M) Masquer le panneau de
+navigation << Article précédent \- Article suivant >> \- Imprimer À propos de
+l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

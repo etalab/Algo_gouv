@@ -1,0 +1,1519 @@
+Arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux
+exigences de performance énergétique des bâtiments nouveaux et des parties
+nouvelles de bâtiments | Legifrance Legifrance - Le service public de l'accès
+au droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Arrêté du 26 octobre 2010 relatif
+aux caractéristiques thermiques et aux exigences de performance énergétique
+des bâtiments nouveaux et des parties nouvelles de bâtiments Arrêté du 26
+octobre 2010 relatif aux caractéristiques thermiques et aux exigences de
+performance énergétique des bâtiments nouveaux et des parties nouvelles de
+bâtiments Masquer le panneau de navigation Imprimer Arrêté du 26 octobre 2010
+relatif aux caractéristiques thermiques et aux exigences de performance
+énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments NOR:
+DEVU1026270A Version consolidée au 04 juillet 2017 Le ministre d'Etat,
+ministre de l'écologie, de l'énergie, du développement durable et de la mer,
+en charge des technologies vertes et des négociations sur le climat, et le
+secrétaire d'Etat chargé du logement et de l'urbanisme, Vu la directive
+89/106/CEE du Conseil du 21 décembre 1988 relative au rapprochement des
+dispositions législatives, réglementaires et administratives des Etats membres
+concernant les produits de construction ; Vu la directive 98/34/CE du
+Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure
+d'information dans le domaine des normes et réglementations techniques ; Vu la
+directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009
+relative à la promotion de l'utilisation de l'énergie produite à partir de
+sources renouvelables et modifiant puis abrogeant les directive 2001/77/CE et
+2003/30/CE, notamment son article 13 ; Vu la directive 2010/31/UE du Parlement
+européen et du Conseil du 19 mai 2010 sur la performance énergétique des
+bâtiments (refonte) ; Vu le code de la construction et de l'habitation,
+notamment son article R. 111-20 ; Vu le décret n° 92-647 du 8 juillet 1992
+modifié concernant l'aptitude à l'usage des produits de construction ; Vu le
+décret n° 95-21 du 9 janvier 1995 relatif au classement des infrastructures de
+transports terrestres et modifiant le code de l'urbanisme et le code de la
+construction et de l'habitation ; Vu le décret n° 2010-1269 du 26 octobre 2010
+relatif aux caractéristiques thermiques et à la performance énergétique des
+constructions ; Vu l'arrêté du 30 mai 1996 relatif aux modalités de classement
+des infrastructures de transports terrestres et à l'isolement acoustique des
+bâtiments d'habitation dans les secteurs affectés par le bruit ; Vu l'arrêté
+du 24 mai 2006 relatif aux caractéristiques thermiques des bâtiments nouveaux
+et des parties nouvelles de bâtiments ; Vu l'arrêté du 3 mai 2007 relatif au
+contenu et aux conditions d'attribution du label « haute performance
+énergétique » ; Vu l'avis du comité des finances locales (commission
+consultative d'évaluation des normes) en date du 9 septembre 2010, Arrêtent :
+TITRE IER : GENERALITES CHAPITRE IER : DOMAINE D'APPLICATION Article 1 En
+savoir plus sur cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2
+Le présent arrêté a pour objet de déterminer les modalités d'application des
+règles édictées à l'article R. 111-20 du code de la construction et de
+l'habitation. Les dispositions du présent arrêté s'appliquent aux bâtiments
+chauffés ou refroidis afin de garantir le confort des occupants dans des
+conditions fixées par convention. Elles s'appliquent aux bâtiments ou parties
+de bâtiment à usage de bureau et d'enseignement, aux établissements ou parties
+d'établissement d'accueil de la petite enfance et aux bâtiments ou parties de
+bâtiment à usage d'habitation. Elles ne s'appliquent pas : \- aux
+constructions provisoires prévues pour une durée d'utilisation de moins de
+deux ans ; \- aux bâtiments et parties de bâtiment dont la température normale
+d'utilisation est inférieure ou égale à 12 °C ; \- aux bâtiments ou parties de
+bâtiment destinés à rester ouverts sur l'extérieur en fonctionnement habituel
+; \- aux bâtiments ou parties de bâtiment qui, en raison de contraintes
+spécifiques liées à leur usage, doivent garantir des conditions particulières
+de température, d'hygrométrie ou de qualité de l'air et nécessitant, de ce
+fait, des règles particulières ; \- aux bâtiments ou parties de bâtiment
+chauffés ou refroidis pour un usage dédié à un procédé industriel ; \- aux
+bâtiments agricoles ou d'élevage ; \- aux bâtiments situés dans les
+départements d'outre-mer. Si le bâtiment a une surface SRT inférieure à 50 m2
+et dès lors que la surface de plancher du permis de construire est elle aussi
+inférieure à 50 m2, il peut ne respecter que les exigences définies par
+l'arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la
+performance énergétique des bâtiments existants. CHAPITRE II : DEFINITIONS
+Article 2 En savoir plus sur cet article... Huit zones climatiques H1a, H1b,
+H1c, H2a, H2b, H2c, H2d et H3 sont définies en annexe I du présent arrêté.
+Trois classes d'exposition des bâtiments au bruit des infrastructures de
+transport BR1, BR2 et BR3 sont définies et déterminées selon les modalités de
+l'annexe II du présent arrêté. Article 3 En savoir plus sur cet article... Les
+termes nécessaires à la compréhension du présent arrêté sont définis en annexe
+III. Article 4 En savoir plus sur cet article... Modifié par ARRÊTÉ du 11
+décembre 2014 - art. 2 La consommation conventionnelle d'énergie d'un bâtiment
+pour le chauffage, le refroidissement, la production d'eau chaude sanitaire,
+l'éclairage artificiel des locaux, les auxiliaires de chauffage, de
+refroidissement, d'eau chaude sanitaire et de ventilation, déduction faite de
+l'électricité produite à demeure, est définie par un coefficient exprimé en
+kWh/ (m ². an) d'énergie primaire, noté Cep. La surface prise en compte est
+égale à la surface thermique au sens de la RT, SRT, définie en annexe III. Ce
+coefficient Cep est calculé, sur une année, en utilisant des données
+climatiques conventionnelles pour chaque zone climatique, selon les modalités
+définies par la méthode de calcul Th-BCE 2012 approuvée par un arrêté du
+ministre chargé de la construction et de l'habitation et du ministre chargé de
+l'énergie. L'ensemble des conventions permettant de calculer le Cep est défini
+par ce même arrêté. Article 5 En savoir plus sur cet article... Le besoin
+bioclimatique conventionnel en énergie d'un bâtiment pour le chauffage, le
+refroidissement et l'éclairage artificiel, est défini par un coefficient noté
+Bbio. Il est sans dimension et exprimé en nombre de points. Ce coefficient est
+calculé, sur une année, en utilisant des données climatiques conventionnelles
+pour chaque zone climatique, selon les modalités définies par la méthode de
+calcul Th-BCE 2012 approuvée par un arrêté du ministre chargé de la
+construction et de l'habitation et du ministre chargé de l'énergie. Les
+conventions permettant de calculer le Bbio sont définies par ce même arrêté.
+Article 6 En savoir plus sur cet article... La température intérieure
+conventionnelle d'un local, atteinte en été, notée Tic, est la valeur maximale
+horaire en période d'occupation de la température opérative. Pour le
+résidentiel, la période d'occupation considérée est la journée entière. Les
+modalités de calcul de la Tic sont définies par la méthode de calcul Th-BCE
+2012 approuvée par un arrêté du ministre chargé de la construction et de
+l'habitation et du ministre chargé de l'énergie. Elle est calculée en
+utilisant des données climatiques conventionnelles pour chaque zone
+climatique. CHAPITRE III : EXIGENCES DE PERFORMANCE ENERGETIQUE ET
+CARACTERISTIQUES THERMIQUES Article 7 En savoir plus sur cet article... I. ―
+Est considéré comme satisfaisant à la présente réglementation thermique tout
+bâtiment neuf pour lequel le maître d'ouvrage est en mesure de montrer que
+sont respectées simultanément les conditions suivantes : 1° Le coefficient Cep
+du bâtiment est inférieur ou égal au coefficient maximal Cepmax, déterminé
+selon les modalités précisées au titre II du présent arrêté ; 2° Le
+coefficient Bbio du bâtiment est inférieur ou égal au coefficient maximal
+Bbiomax, déterminé selon les modalités précisées au titre II du présent arrêté
+; 3° Pour les zones ou parties de zones de catégorie CE1 et pour chacune des
+zones du bâtiment, définie par son usage, l'exigence de confort d'été
+s'exprime comme suit : la Tic est inférieure ou égale à la température
+intérieure conventionnelle de référence de la zone, Ticréf, déterminée selon
+les modalités précisées au titre II du présent arrêté. Cette exigence peut
+également être satisfaite en considérant chacune des parties de zones du
+bâtiment pour lesquelles sont calculées successivement Tic et Ticréf. Cette
+exigence ne s'applique pas aux zones ou parties de zones composées uniquement
+de locaux de catégorie CE2 ; 4° Les caractéristiques thermiques du bâtiment
+respectent les exigences de moyens définies au titre III du présent arrêté.
+II. ― Sont réputés respecter la réglementation les bâtiments dont les produits
+de construction et leur mise en œuvre sont conformes aux modes d'application
+simplifiés, approuvés dans les conditions décrites au titre IV du présent
+arrêté. CHAPITRE IV : JUSTIFICATION DES DONNEES D'ENTREE DU CALCUL DES
+COEFFICIENTS CEP, BBIO ET TIC Article 8 En savoir plus sur cet article...
+Modifié par Arrêté du 25 juillet 2016 - art. 1 Le maître d'ouvrage justifie
+comme suit toute valeur de caractéristique utilisée comme donnée d'entrée du
+calcul des coefficients Cep, Bbio et Tic : \- lorsque des produits sont
+couverts par des spécifications techniques harmonisées du règlement n°
+305/2001 du 9 mars 2011, normes harmonisées ou documents d'évaluation
+européens, les produits étant identifiés dans ces cas par l'apposition du
+marquage CE, et que la caractéristique thermique est établie dans ces
+spécifications, la justification de cette valeur est apportée par référence
+aux normes harmonisées ou évaluations techniques européennes ; \- dans le cas
+contraire, les caractéristiques des produits sont justifiées par référence aux
+normes françaises ou avis techniques ou norme nationale équivalente acceptée
+par un pays membre de l'Union européenne ou partie contractante de l'accord
+EEE, ou par la Turquie, et sont délivrées par un organisme tierce partie
+indépendante notifié au titre du règlement n° 305/2011 reconnu par un Etat
+membre de l'Union européenne ou un Etat partie contractante de l'accord
+instituant l'Espace économique européen. Le bénéfice de cette disposition ne
+vaut que durant la période précédant l'application d'une norme européenne
+harmonisée ou agrément technique européen. A défaut de pouvoir justifier une
+valeur de caractéristique selon les modalités ci-dessus, la valeur à utiliser
+est la valeur par défaut définie par la méthode de calcul Th-BCE 2012
+approuvée par un arrêté du ministre chargé de la construction et de
+l'habitation et du ministre chargé de l'énergie, à l'exception de la valeur
+par défaut de la conductivité thermique utile des isolants bio-sourcés définie
+à l'annexe IX du présent arrêté. Pour les bâtiments à usage d'habitation : \-
+la valeur de la perméabilité à l'air du bâtiment est justifiée soit par
+mesure, soit en adoptant une démarche de qualité de l'étanchéité à l'air du
+bâtiment certifiée par un organisme accrédité selon la norme NF EN ISO/ CEI
+17065 pour cette activité de certification par le Comité français
+d'accréditation (COFRAC) ou par tout autre organisme d'accréditation
+signataire de l'accord multilatéral pris dans le cadre de la coordination
+européenne des organismes d'accréditation (European Cooperation for
+Accreditation, ou EA) et ayant signé une convention avec le ministère chargé
+de la construction conformément aux modalités définies à l'annexe VII du
+présent arrêté ; \- la valeur de la perméabilité des réseaux aérauliques peut
+être justifiée soit par mesure, soit en adoptant une démarche de qualité de
+l'étanchéité à l'air des réseaux aérauliques certifiée par un organisme
+accrédité selon la norme NF EN ISO/ CEI 17065 pour cette activité de
+certification par le Comité français d'accréditation (COFRAC) ou par tout
+autre organisme d'accréditation signataire de l'accord multilatéral pris dans
+le cadre de la coordination européenne des organismes d'accréditation
+(European Cooperation for Accreditation, ou EA) et ayant signé une convention
+avec le ministère chargé de la construction conformément aux modalités
+définies à l'annexe VII du présent arrêté. A défaut de pouvoir justifier d'une
+valeur de caractéristique de la perméabilité à l'air des réseaux aérauliques
+selon ces modalités, la valeur à utiliser est la valeur par défaut définie par
+la méthode de calcul Th-BCE approuvée par un arrêté du ministre chargé de la
+construction et de l'habitation et du ministre chargé de l'énergie. Pour les
+autres types de bâtiment : \- la valeur de la perméabilité à l'air du bâtiment
+peut être justifiée par mesure. A défaut de pouvoir justifier d'une valeur de
+caractéristique par mesure, la valeur à utiliser est la valeur par défaut
+définie par la méthode de calcul Th-BCE approuvée par un arrêté du ministre
+chargé de la construction et de l'habitation et du ministre chargé de
+l'énergie ; \- la valeur de la perméabilité des réseaux aérauliques peut être
+justifiée soit par mesure, soit en adoptant une démarche de qualité de
+l'étanchéité à l'air des réseaux aérauliques certifiée par un organisme
+accrédité selon la norme NF EN ISO/ CEI 17065 pour cette activité de
+certification par le Comité français d'accréditation (COFRAC) ou par tout
+autre organisme d'accréditation signataire de l'accord multilatéral pris dans
+le cadre de la coordination européenne des organismes d'accréditation
+(European Cooperation for Accreditation, ou EA) et ayant signé une convention
+avec le ministère chargé de la construction conformément aux modalités
+définies à l'annexe VII du présent arrêté. A défaut de pouvoir justifier d'une
+valeur de caractéristique de la perméabilité à l'air des réseaux aérauliques
+selon ces modalités, la valeur à utiliser est la valeur par défaut définie par
+la méthode de calcul Th-BCE approuvée par un arrêté du ministre chargé de la
+construction et de l'habitation et du ministre chargé de l'énergie. La demande
+de convention visée aux alinéas précédents est adressée au ministre chargé de
+la construction. Elle est assortie d'un dossier répondant aux modalités
+définies à l'annexe VII du présent arrêté.Pour tout type de bâtiment, lorsque
+la perméabilité à l'air du bâtiment est justifiée par la mesure, elle doit
+être effectuée conformément à la norme EN ISO 9972 et à ses documents
+d'application, et par une personne reconnue compétente par le ministre chargé
+de la construction et de l'habitation, indépendante du demandeur ou des
+organismes impliqués en exécution, maîtrise d'œuvre ou maîtrise d'ouvrage sur
+les bâtiments visés. Pour tout type de bâtiment, lorsque la perméabilité des
+réseaux aérauliques est justifiée par la mesure, elle doit être effectuée
+conformément au fascicule documentaire FD E 51-767 et ses normes associées et
+par une personne reconnue compétente par le ministre chargé de la construction
+et de l'habitation, indépendante du demandeur ou des organismes impliqués en
+exécution, maîtrise d'œuvre ou maîtrise d'ouvrage sur les bâtiments visés.
+CHAPITRE V : JUSTIFICATION DE L'APPLICATION DES EXIGENCES Article 9 En savoir
+plus sur cet article... Afin de pouvoir justifier de l'application des
+exigences du présent arrêté, le maître d'ouvrage établit, en version
+informatique, au plus tard à l'achèvement des travaux, un récapitulatif
+standardisé d'étude thermique.A l'exception des bâtiments dont les produits de
+construction et leur mise en œuvre sont conformes aux modes d'application
+simplifiés approuvés, le contenu et le format du récapitulatif standardisé
+d'étude thermique à établir sont décrits en annexe VI. Dans le cas de
+l'application des exigences du présent arrêté selon un procédé ou un mode
+d'application simplifié approuvé, le procédé ou le mode d'application
+simplifié précise le contenu et le format du récapitulatif standardisé d'étude
+thermique à établir. Le maître d'ouvrage tient ce récapitulatif à disposition,
+durant cinq ans après l'achèvement des travaux, de tout acquéreur, de toute
+personne chargée d'établir une attestation de prise en compte de la
+réglementation thermique, de toute personne chargée de vérifier la conformité
+à un label défini à l'article R. 111-20 du code de la construction et de
+l'habitation et de toute personne chargée d'établir le diagnostic de
+performance énergétique, lorsque le bâtiment est soumis à l'article L. 134-2
+du code de la construction et de l'habitation. Sur demande, ce récapitulatif
+est fourni aux personnes habilitées au titre de l'article L. 151-1 du code de
+la construction et de l'habitation. CHAPITRE VI : EVALUATION DES LOGICIELS
+REGLEMENTAIRES Article 10 En savoir plus sur cet article... Au plus tard à
+partir du 1er janvier 2013, les logiciels utilisés pour réaliser les calculs
+de Cep, de Bbio et de Tic devront avoir été évalués par le ministre en charge
+de la construction et de l'habitation et par le ministre en charge de
+l'énergie, selon la procédure définie à l'annexe X. A l'issue de cette
+évaluation, un rapport d'évaluation est délivré. Cette évaluation devra être
+réexaminée tous les deux ans, à la date d'anniversaire de la remise du rapport
+d'évaluation. TITRE II : EXPRESSION DES EXIGENCES DE PERFORMANCE ENERGETIQUE
+Article 11 En savoir plus sur cet article... Modifié par ARRÊTÉ du 19 décembre
+2014 - art. 2 Pour tous les bâtiments ou parties de bâtiment, à la date
+d'entrée en vigueur du décret n° 2010-1269 du 26 octobre 2010 susvisé, à
+l'exception des bâtiments collectifs d'habitation ayant fait l'objet d'une
+demande de permis ou d'une déclaration préalable déposée avant le 31 décembre
+2017 , la consommation conventionnelle maximale d'énergie primaire du bâtiment
+ou de la partie de bâtiment, Cepmax, est déterminée comme suit : Cepmax = 50 ×
+Mctype × (Mcgéo + Mcalt + Mcsurf + McGES) Avec : Mctype : coefficient de
+modulation selon le type de bâtiment ou de partie de bâtiment et sa catégorie
+CE1/ CE2 ; Mcgéo : coefficient de modulation selon la localisation
+géographique ; Mcalt : coefficient de modulation selon l'altitude ; Mcsurf :
+pour les maisons individuelles ou accolées et les bâtiments collectifs
+d'habitation, coefficient de modulation selon la surface moyenne des logements
+du bâtiment ou de la partie de bâtiment ; McGES : coefficient de modulation
+selon les émissions de gaz à effet de serre des énergies utilisées. Les
+valeurs des coefficients de modulation sont définies à l'annexe VIII. Pour les
+bâtiments comportant plusieurs zones, définies par leur usage, le Cepmax du
+bâtiment est calculé au prorata des SRT de chaque zone, à partir des Cepmax
+des différentes zones. Article 12 En savoir plus sur cet article... Modifié
+par ARRÊTÉ du 19 décembre 2014 - art. 2 Pour les bâtiments collectifs
+d'habitation ou parties de bâtiment collectif d'habitation ayant fait l'objet
+d'une demande de permis ou d'une déclaration préalable déposée entre la date
+d'entrée en vigueur du décret n° 2010-1269 du 26 octobre 2010 susvisé et le 31
+décembre 2017 , la consommation conventionnelle maximale d'énergie primaire du
+bâtiment ou de la partie de bâtiment, Cepmax, est déterminée comme suit :
+Cepmax = 57,5 × Mctype × (Mcgéo + Mcalt + Mcsurf + McGES) Avec : Mctype :
+coefficient de modulation selon le type de bâtiment ou de partie de bâtiment
+et sa catégorie CE1/ CE2 ; Mcgéo : coefficient de modulation selon la
+localisation géographique ; Mcalt : coefficient de modulation selon l'altitude
+; Mcsurf : pour les bâtiments collectifs d'habitation, coefficient de
+modulation selon la surface moyenne des logements du bâtiment ou de la partie
+de bâtiment ; McGES : coefficient de modulation selon les émissions de gaz à
+effet de serre des énergies utilisées. Les valeurs des coefficients de
+modulation sont définies à l'annexe VIII. Pour les bâtiments comportant
+plusieurs zones, définies par leur usage, le Cepmax du bâtiment est calculé au
+prorata des SRT de chaque zone, à partir des Cepmax des différentes zones.
+Article 13 En savoir plus sur cet article... Modifié par ARRÊTÉ du 11 décembre
+2014 - art. 2 Le coefficient Bbiomax du bâtiment ou de la partie de bâtiment
+est déterminé comme suit : Bbiomax = Bbiomaxmoyen × (Mbgéo + Mbalt + Mbsurf)
+Avec : Bbiomaxmoyen : valeur moyenne du Bbiomax définie par type d'occupation
+du bâtiment ou de la partie de bâtiment et par catégorie CE1/ CE2 ; Mbgéo :
+coefficient de modulation selon la localisation géographique ; Mbalt :
+coefficient de modulation selon l'altitude ; Mbsurf : pour les maisons
+individuelles ou accolées, coefficient de modulation selon la surface moyenne
+des logements du bâtiment ou de la partie de bâtiment. Les valeurs de
+Bbiomaxmoyen et des coefficients de modulation sont définies à l'annexe VIII.
+Pour les bâtiments comportant plusieurs zones, définies par leur usage, le
+Bbiomax du bâtiment est calculé au prorata des SRT de chaque zone, à partir
+des Bbiomax des différentes zones. Article 14 En savoir plus sur cet
+article... La Ticréf est calculée par la méthode de calcul Th-BCE 2012
+approuvée par un arrêté du ministre chargé de la construction et de
+l'habitation et du ministre chargé de l'énergie. Pour le calcul de la Ticréf,
+les paramètres à prendre en compte sont définis à l'annexe XI. Article 15 En
+savoir plus sur cet article... Les coefficients de transformation de l'énergie
+finale en énergie primaire sont pris par convention égaux à : 2,58 pour les
+consommations et les productions d'électricité. 1 pour les autres
+consommations. TITRE III : CARACTERISTIQUES THERMIQUES ET EXIGENCES DE MOYENS
+CHAPITRE IER : ENERGIES RENOUVELABLES Article 16 En savoir plus sur cet
+article... Toute maison individuelle ou accolée recourt à une source d'énergie
+renouvelable. Le maître d'ouvrage doit opter pour l'une des solutions en
+énergie renouvelable suivantes : ― produire l'eau chaude sanitaire à partir
+d'un système de production d'eau chaude sanitaire solaire thermique, doté de
+capteurs solaires disposant d'une certification CSTBat ou Solar Keymark ou
+équivalente. Le logement est équipé a minima de 2 m² de capteurs solaires
+permettant d'assurer la production d'eau chaude sanitaire, d'orientation sud
+et d'inclinaison entre 20° et 60° ; ― être raccordé à un réseau de chaleur
+alimenté à plus de 50 % par une énergie renouvelable ou de récupération ; ―
+démontrer que la contribution des énergies renouvelables au Cep du bâtiment,
+notée à l'aide du coefficient AEPENR, calculé selon la méthode de calcul Th-
+BCE 2012 approuvée par un arrêté du ministre chargé de la construction et de
+l'habitation et du ministre chargé de l'énergie, est supérieure ou égale à 5
+kWhEP/(m².an). En alternative aux solutions décrites aux trois précédents
+alinéas du présent article, le maître d'ouvrage peut : ― recourir à une
+production d'eau chaude sanitaire assurée par un appareil électrique
+individuel de production d'eau chaude sanitaire thermodynamique, ayant un
+coefficient de performance supérieur à 2, selon le référentiel de la norme
+d'essai prEN 16147 ; ― recourir à une production de chauffage et/ou d'eau
+chaude sanitaire assurée par une chaudière à micro-cogénération à combustible
+liquide ou gazeux, dont le rendement thermique à pleine charge est supérieur à
+90 % sur PCI, le rendement thermique à charge partielle est supérieur à 90 %
+sur PCI et dont le rendement électrique est supérieur à 10 % sur PCI. Les
+rendements thermiques sont mesurés dans les mêmes conditions que les normes en
+vigueur pour les chaudières à condensation (chaudières étanches au gaz : EN
+483 et EN 677, chaudières non étanches au gaz : EN 297 et EN 677, chaudières
+étanches au fioul : XPD 35430 et EN 15035, chaudières non étanches au fioul :
+XPD 35340 et EN 303). Le rendement électrique est mesuré sur un cycle de
+fonctionnement de 30 min ― départ arrêté ― et pour une température moyenne
+d'eau de 40 °C, incluant la consommation électrique de la chaudière (hors
+pompe). CHAPITRE II : ETANCHEITE A L'AIR DE L'ENVELOPPE Article 17 En savoir
+plus sur cet article... Pour les maisons individuelles ou accolées et les
+bâtiments collectifs d'habitation, la perméabilité à l'air de l'enveloppe sous
+4 Pa, Q4Pa-surf, est inférieure ou égale à : 0,60 m³/(h.m²) de parois
+déperditives, hors plancher bas, en maison individuelle ou accolée. 1,00
+m³/(h.m²) de parois déperditives, hors plancher bas, en bâtiment collectif
+d'habitation. CHAPITRE III : ISOLATION THERMIQUE Article 18 En savoir plus sur
+cet article... Les parois séparant des parties de bâtiment à occupation
+continue de parties de bâtiments à occupation discontinue doivent présenter un
+coefficient de transmission thermique, U, tel que défini dans la méthode Th-
+BCE 2012, qui ne peut excéder 0,36 W/(m².K) en valeur moyenne. Article 19 En
+savoir plus sur cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2
+Le ratio de transmission thermique linéique moyen global, Ratio ψ, des ponts
+thermiques du bâtiment n'excède pas 0,28 W/ (m ² SRT . K). Ce ratio est la
+somme des coefficients de transmission thermique linéiques multipliés par
+leurs longueurs respectives, pour l'intégralité des ponts thermiques linéaires
+du bâtiment, dus à la liaison d'au moins deux parois, dont l'une au moins est
+en contact avec l'extérieur ou un local non chauffé. Sur justification écrite
+du maître d'ouvrage, ce ratio maximal peut être porté à 0,5 W/ (m ² SRT . K)
+dans le cas où l'application de l'article R. 112-1 ou des articles R. 121-1 à
+R. 123-55 du code de la construction et de l'habitation conduirait à l'absence
+de technique disponible permettant de traiter les ponts thermiques des
+planchers bas et/ ou intermédiaires. De plus, le coefficient de transmission
+thermique linéique moyen des liaisons entre les planchers intermédiaires et
+les murs donnant sur l'extérieur ou un local non chauffé, Ψ 9, n'excède pas
+0,6 W/ (ml. K). CHAPITRE IV : ACCES A L'ECLAIRAGE NATUREL Article 20 En savoir
+plus sur cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2 Pour
+les maisons individuelles ou accolées et les bâtiments collectifs
+d'habitation, la surface totale des baies, mesurée en tableau, est supérieure
+ou égale à 1/6 de la surface habitable, telle que définie par l'article R.
+111-2 du code de la construction et de l'habitation. Toutefois : -dans le cas
+où la surface de façade disponible du bâtiment est inférieure à la moitié de
+la surface habitable du bâtiment, alors la surface totale des baies, mesurée
+en tableau, est supérieure ou égale au tiers de la surface de façade
+disponible ; -dans le cas où la surface habitable moyenne des logements d'un
+bâtiment est inférieure à 25 m2, alors la surface totale des baies, mesurée en
+tableau, est supérieure ou égale au tiers de la surface de façade disponible.
+Cette disposition ne s'applique pas lorsque son respect est en contradiction
+avec l'autorisation d'urbanisme dans les secteurs sauvegardés, les zones de
+protection du patrimoine architectural, urbain et paysager ou les aires de
+mise en valeur de l'architecture et du patrimoine, les abords des monuments
+historiques, les sites inscrits et classés, les sites inscrits sur la liste du
+patrimoine mondial de l'humanité de l'UNESCO ou tout autre préservation
+édictée par les collectivités territoriales, ainsi que pour les sites et
+secteurs désignés par le 2° du III de l'article L. 123-1-5 du code de
+l'urbanisme. CHAPITRE V : CONFORT D'ETE Article 21 En savoir plus sur cet
+article... Les baies de tout local destiné au sommeil et de catégorie CE1 sont
+équipées de protections solaires mobiles, de façon à ce que le facteur solaire
+des baies soit inférieur ou égal au facteur solaire défini dans le tableau ci-
+après : Zones H1a et H2a Toutes altitudes Zones H1b et H2b Altitude > 400 m
+Altitude < ou = 400 m Zones H1c et H2c Altitude > 800 m Altitude < ou = 800 m
+Zones H2d et H3 Altitude > 400 m Altitude < ou = 400 m 1\. Baies exposées BR1
+hors locaux à occupation passagère Baie verticale nord 0,65 0,45 0,25 Baie
+verticale autre que nord 0,45 0,25 0,15 Baie horizontale 0,25 0,15 0,10 2\.
+Baies exposées BR2 ou BR3 hors locaux à occupation passagère Baie verticale
+nord 0,45 0,25 0,25 Baie verticale autre que nord 0,25 0,15 0,15 Baie
+horizontale 0,15 0,10 0,10 3\. Baies de locaux à occupation passagère Baie
+verticale 0,65 0,65 0,45 Baie horizontale 0,45 0,45 0,45 Article 22 En savoir
+plus sur cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2 Sauf
+si les règles d'hygiène ou de sécurité l'interdisent, les baies d'un même
+local autre qu'à occupation passagère s'ouvrent sur au moins 30 % de leur
+surface totale. Cette limite est ramenée à 10 % dans le cas des locaux pour
+lesquels la différence d'altitude entre le point bas de son ouverture la plus
+basse et le point haut de son ouverture la plus haute est égale ou supérieure
+à 4 m. CHAPITRE VI : DISPOSITIONS DIVERSES DANS LES BATIMENTS OU PARTIES DE
+BATIMENT A USAGE D'HABITATION Article 23 En savoir plus sur cet article...
+Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2 Les maisons individuelles ou
+accolées ainsi que les bâtiments ou parties de bâtiments collectifs
+d'habitation sont équipés de systèmes permettant de mesurer ou d'estimer la
+consommation d'énergie de chaque logement, excepté pour les consommations des
+systèmes individuels au bois en maison individuelle ou accolée. En cas de
+production collective d'énergie, on entend par énergie consommée par le
+logement la part de la consommation totale d'énergie dédiée à ce logement
+selon une clé de répartition à définir par le maître d'ouvrage lors de la
+réalisation du bâtiment. Ces systèmes permettent d'informer les occupants, a
+minima mensuellement, de leur consommation d'énergie. Cette information est
+délivrée dans le volume habitable, par type d'énergie, a minima selon la
+répartition suivante : \- chauffage ; \- refroidissement ; \- production d'eau
+chaude sanitaire ; \- réseau prises électriques ; \- autres. Cette répartition
+peut être basée soit sur des données mesurées, soit sur des données estimées à
+partir d'un paramétrage préalablement défini. Toutefois, dans le cas d'un
+maître d'ouvrage qui est également le futur propriétaire bailleur du bâtiment
+construit, notamment les maîtres d'ouvrage de logements locatifs sociaux,
+cette information peut être délivrée aux occupants, a minima mensuellement,
+par voie électronique ou postale et non pas directement dans le volume
+habitable. La justification de la prise en compte de cet article doit être
+effectuée conformément au guide Mesure ou estimation des consommations en
+logement, qui en précise les modalités d'application. Article 24 En savoir
+plus sur cet article... Dans les bâtiments ou parties de bâtiment à usage
+d'habitation, une installation de chauffage comporte par local desservi un ou
+plusieurs dispositifs d'arrêt manuel et de réglage automatique en fonction de
+la température intérieure de ce local. Toutefois, lorsque le chauffage est
+assuré par un plancher chauffant à eau chaude fonctionnant à basse température
+ou par l'air insufflé ou par un appareil indépendant de chauffage à bois, ce
+dispositif peut être commun à des locaux d'une surface habitable totale
+maximum de 100 m². Article 25 En savoir plus sur cet article... Dans les
+bâtiments ou parties de bâtiment à usage d'habitation, les réseaux collectifs
+de distribution à eau de chauffage ou de refroidissement sont munis d'un
+organe d'équilibrage en pied de chaque colonne. Les pompes des installations
+de chauffage et des installations de refroidissement sont munies de
+dispositifs permettant leur arrêt. Article 26 En savoir plus sur cet
+article... Dans les bâtiments ou parties de bâtiment à usage d'habitation, une
+installation de refroidissement comporte, par local desservi, un ou plusieurs
+dispositifs d'arrêt manuel et de réglage automatique de la fourniture de froid
+en fonction de la température intérieure. Toutefois : \- lorsque le froid est
+fourni par un système à débit d'air variable, ce dispositif peut être commun à
+des locaux d'une surface habitable totale maximale de 100 m² sous réserve que
+la régulation du débit soufflé total se fasse sans augmentation de la perte de
+charge ; \- lorsque le froid est fourni par un plancher rafraîchissant, ce
+dispositif peut être commun à des locaux d'une surface habitable totale
+maximale de 100 m² ; \- pour les systèmes de "ventilo-convecteurs deux tubes
+froid seul", l'obligation du premier alinéa est considérée comme satisfaite
+lorsque chaque ventilateur est asservi à la température intérieure et que la
+production et la distribution d'eau froide sont munies d'un dispositif
+permettant leur programmation ; \- pour les bâtiments ou parties de bâtiment
+rafraîchis par refroidissement de l'air neuf sans accroissement des débits
+traités au-delà du double des besoins d'hygiène, l'obligation du premier
+alinéa est considérée comme satisfaite si la fourniture de froid est, d'une
+part, régulée au moins en fonction de la température de reprise d'air et la
+température extérieure et, d'autre part, est interdite en période de
+chauffage. Article 27 En savoir plus sur cet article... Le présent article
+s'applique aux circulations et parties communes intérieures verticales et
+horizontales des bâtiments ou parties de bâtiment à usage d'habitation. Tout
+local comporte un dispositif automatique permettant, lorsque le local est
+inoccupé : \- soit l'abaissement de l'éclairement au niveau minimum
+réglementaire ; \- soit l'extinction des sources de lumière, si aucune
+réglementation n'impose un niveau minimal. De plus, lorsque le local a accès à
+l'éclairage naturel, il intègre un dispositif permettant une extinction
+automatique du système d'éclairage dès que l'éclairement naturel est
+suffisant. Un même dispositif dessert au plus : \- une surface habitable
+maximale de 100 m² et un seul niveau pour les circulations horizontales et
+parties communes intérieures ; \- trois niveaux pour les circulations
+verticales. Article 28 En savoir plus sur cet article... Dans les bâtiments ou
+parties de bâtiment à usage d'habitation, les parcs de stationnement couverts
+et semi-couverts comportent : \- soit un dispositif permettant d'abaisser le
+niveau d'éclairement au niveau minimum réglementaire pendant les périodes
+d'inoccupation ; \- soit un dispositif automatique permettant l'extinction des
+sources de lumière artificielle pendant les périodes d'inoccupation, si aucune
+réglementation n'impose un niveau minimal. Un même dispositif ne dessert qu'un
+seul niveau et au plus une surface de 500 m². Article 29 En savoir plus sur
+cet article... Dans le cas de bâtiments ou parties de bâtiment à usage
+d'habitation, avant émission finale dans le local, sauf dans le cas où le
+chauffage est obtenu par récupération sur la production de froid, l'air n'est
+pas chauffé puis refroidi, ou inversement, par des dispositifs utilisant de
+l'énergie et destinés par conception au chauffage ou au refroidissement de
+l'air. CHAPITRE VII : DISPOSITION RELATIVE A LA PRODUCTION D'ELECTRICITE DANS
+LES BATIMENTS OU PARTIES DE BATIMENT A USAGE D'HABITATION Article 30 En savoir
+plus sur cet article... Pour les bâtiments ou parties de bâtiment à usage
+d'habitation, la consommation conventionnelle d'énergie du bâtiment ou de la
+partie de bâtiment pour le chauffage, le refroidissement, la production d'eau
+chaude sanitaire, l'éclairage artificiel des locaux, les auxiliaires de
+chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation, avant
+déduction de la production d'électricité à demeure, est inférieure ou égale à
+: Cepmax + 12 kWh/(m².an) d'énergie primaire. CHAPITRE VIII : DISPOSITIONS
+DIVERSES DANS LES BATIMENTS OU PARTIES DE BATIMENT A USAGE AUTRE QUE
+D'HABITATION Article 31 En savoir plus sur cet article... Les bâtiments ou
+parties de bâtiment à usage autre que d'habitation sont équipés de systèmes
+permettant de mesurer ou de calculer la consommation d'énergie : \- pour le
+chauffage : par tranche de 500 m² de SURT concernée ou par tableau électrique,
+ou par étage, ou par départ direct ;- pour le refroidissement : par tranche de
+500 m² de SURT concernée ou par tableau électrique, ou par étage, ou par
+départ direct ;- pour la production d'eau chaude sanitaire ;- pour l'éclairage
+: par tranche de 500 m² de SURT concernée ou par tableau électrique, ou par
+étage ;- pour le réseau des prises de courant : par tranche de 500 m² SURT
+concernée ou par tableau électrique, ou par étage ;- pour les centrales de
+ventilation : par centrale ; \- par départ direct de plus de 80 ampères.
+Article 32 En savoir plus sur cet article... Dans le cas des bâtiments ou
+parties de bâtiment à usage autre que d'habitation, la ventilation des locaux
+ou groupes de locaux ayant des occupations ou des usages nettement différents
+doit être assurée par des systèmes indépendants. Article 33 En savoir plus sur
+cet article... Dans le cas des bâtiments ou parties de bâtiment à usage autre
+que d'habitation équipé de systèmes mécanisés spécifiques de ventilation, tout
+dispositif de modification manuelle des débits d'air d'un local est temporisé.
+Article 34 En savoir plus sur cet article... Dans le cas des bâtiments ou
+parties de bâtiment à usage autre que d'habitation, une installation de
+chauffage comporte par local desservi un ou plusieurs dispositifs d'arrêt
+manuel et de réglage automatique en fonction de la température intérieure de
+ce local. Toutefois, lorsque l'intégralité du chauffage est assurée par un
+plancher chauffant à eau chaude fonctionnant à basse température ou par l'air
+insufflé ou par un appareil indépendant de chauffage à bois, ce dispositif
+peut être commun à des locaux d'une SURT totale maximale de 100 m². Article 35
+En savoir plus sur cet article... Dans le cas des bâtiments ou parties de
+bâtiment à usage autre que d'habitation, toute installation de chauffage
+desservant des locaux à occupation discontinue comporte un dispositif de
+commande manuelle et de programmation automatique au moins par une horloge
+permettant : \- une fourniture de chaleur selon les quatre allures suivantes :
+confort, réduit, hors gel et arrêt ; \- une commutation automatique entre ces
+allures. Lors d'une commutation entre deux allures, la puissance de chauffage
+est nulle ou maximum de façon à minimiser les durées des phases de transition.
+Un tel dispositif ne peut être commun qu'à des locaux dont les horaires
+d'occupation sont similaires. Un même dispositif peut desservir au plus une
+SURT de 5 000 m². Article 36 En savoir plus sur cet article... Dans le cas des
+bâtiments ou parties de bâtiment à usage autre que d'habitation, les réseaux
+collectifs de distribution à eau de chauffage ou de refroidissement sont munis
+d'un organe d'équilibrage en pied de chaque colonne. Les pompes des
+installations de chauffage et des installations de refroidissement sont munies
+de dispositifs permettant leur arrêt. Article 37 En savoir plus sur cet
+article... Dans les bâtiments ou parties de bâtiment à usage autre que
+d'habitation, tout local est équipé d'un dispositif d'allumage et d'extinction
+de l'éclairage manuel, ou automatique en fonction de la présence. Article 38
+En savoir plus sur cet article... Dans les bâtiments ou parties de bâtiment à
+usage autre que d'habitation, tout local dont la commande de l'éclairage est
+du ressort de son personnel de gestion, même durant les périodes d'occupation,
+comporte un dispositif permettant allumage et extinction de l'éclairage. Si ce
+dispositif n'est pas situé dans le local considéré, il permet de visualiser
+l'état de l'éclairage dans ce local depuis le lieu de commande. Article 39 En
+savoir plus sur cet article... Dans les bâtiments ou parties de bâtiment à
+usage autre que d'habitation, le présent article s'applique aux circulations
+et parties communes intérieures verticales et horizontales. Tout local
+comporte un dispositif automatique permettant, lorsque le local est inoccupé,
+l'extinction des sources de lumière ou l'abaissement de l'éclairement au
+niveau minimum réglementaire. De plus, lorsque le local a accès à l'éclairage
+naturel, il intègre un dispositif permettant une extinction automatique du
+système d'éclairage dès que l'éclairement naturel est suffisant. Un même
+dispositif dessert au plus : \- une SURT maximale de 100 m² et un seul niveau
+pour les circulations horizontales et parties communes intérieures ; \- trois
+niveaux pour les circulations verticales. Article 40 En savoir plus sur cet
+article... Dans les bâtiments ou parties de bâtiment à usage autre que
+d'habitation, les parcs de stationnement couverts et semi-couverts comportent
+: \- soit un dispositif permettant d'abaisser le niveau d'éclairement au
+niveau minimum réglementaire pendant les périodes d'inoccupation ; \- soit un
+dispositif automatique permettant l'extinction des sources de lumière
+artificielle pendant les périodes d'inoccupation, si aucune réglementation
+n'impose un niveau minimal. Un même dispositif ne dessert qu'un seul niveau et
+au plus une surface de 500 m². Article 41 En savoir plus sur cet article...
+Dans les bâtiments ou parties de bâtiment à usage autre que d'habitation, dans
+un même local, les points éclairés artificiellement, qui sont placés à moins
+de 5 m d'une baie, sont commandés séparément des autres points d'éclairage dès
+que la puissance totale installée dans chacune de ces positions est supérieure
+à 200 W. Article 42 En savoir plus sur cet article... Dans le cas de bâtiments
+ou parties de bâtiment à usage autre que d'habitation, les locaux refroidis
+sont pourvus de dispositifs spécifiques de ventilation. Article 43 En savoir
+plus sur cet article... Les portes d'accès à une zone refroidie à usage autre
+que d'habitation sont équipés d'un dispositif assurant leur fermeture après
+passage. Article 44 En savoir plus sur cet article... Dans le cas de bâtiments
+ou parties de bâtiment à usage autre que d'habitation, une installation de
+refroidissement comporte, par local desservi, un ou plusieurs dispositifs
+d'arrêt manuel et de réglage automatique de la fourniture de froid en fonction
+de la température intérieure. Toutefois : \- lorsque le froid est fourni par
+un système à débit d'air variable, ce dispositif peut être commun à des locaux
+d'une SURT totale maximale de 100 m² sous réserve que la régulation du débit
+soufflé total se fasse sans augmentation de la perte de charge ; \- lorsque le
+froid est fourni par un plancher rafraîchissant, ce dispositif peut être
+commun à des locaux d'une SURT totale maximale de 100 m² ; \- pour les
+systèmes de "ventilo-convecteurs deux tubes froid seul", l'obligation du
+premier alinéa est considérée comme satisfaite lorsque chaque ventilateur est
+asservi à la température intérieure et que la production et la distribution
+d'eau froide sont munies d'un dispositif permettant leur programmation.
+Article 45 En savoir plus sur cet article... Dans le cas de bâtiments ou
+parties de bâtiment à usage autre que d'habitation, avant émission finale dans
+le local, sauf dans le cas où le chauffage est obtenu par récupération sur la
+production de froid, l'air n'est pas chauffé puis refroidi, ou inversement,
+par des dispositifs utilisant de l'énergie et destinés par conception au
+chauffage ou au refroidissement de l'air. TITRE IV : APPROBATION DE MODES
+D'APPLICATION SIMPLIFIES EN MAISON INDIVIDUELLE Article 46 En savoir plus sur
+cet article... Un mode d'application simplifié est une combinaison de
+caractéristiques architecturales, de performances thermiques des ouvrages et
+équipements attachée à une famille définie de maisons individuelles, agréée
+par le ministre chargé de la construction et de l'habitation et par le
+ministre chargé de l'énergie, et réputée assurer le respect des dispositions
+des titres Ier à III du présent arrêté pour tous les bâtiments de cette
+famille. Le recours à un mode d'application simplifié ne peut se faire qu'en
+l'utilisant sous sa forme intégrale. Les modes d'application simplifiés
+portent sur le calcul des besoins, des consommations d'énergie et sur le
+confort d'été. Article 47 En savoir plus sur cet article... La demande
+d'agrément de mode d'application simplifié est adressée au ministre chargé de
+la construction et de l'habitation et au ministre chargé de l'énergie
+accompagnée d'un dossier d'études composé comme indiqué en annexe IV. Une
+demande d'agrément faisant appel à tout ou partie d'un mode d'application
+simplifié préexistant nécessitera l'accord préalable du premier demandeur.
+Article 48 En savoir plus sur cet article... Le ministre chargé de la
+construction et de l'habitation et le ministre chargé de l'énergie agréent le
+mode d'application simplifié pour une durée déterminée après avis d'une
+commission d'experts constituée à cet effet. La commission émet un avis
+consigné dans un procès-verbal après examen du mode d'application simplifié
+proposé et en prenant en compte notamment les éléments suivants : \-
+définition des maisons individuelles visées ; \- définition et pertinence de
+l'échantillon sur lequel s'effectue la vérification de la fiabilité du mode
+d'application simplifié ; \- définition du mode d'application simplifié ; \-
+mode de diffusion du mode d'application simplifié auprès de l'ensemble des
+professionnels ; \- respect des caractéristiques indiquées au titre III ; \-
+variation de la valeur du rapport entre Bbio et Bbiomax sur l'échantillon
+représentatif du domaine d'application ; \- variation de la valeur du rapport
+entre Cep et Cepmax sur l'échantillon représentatif du domaine d'application ;
+\- variation de la valeur de la différence entre Tic et Ticréf, sur
+l'échantillon représentatif du domaine d'application. TITRE V : CAS
+PARTICULIERS Article 49 En savoir plus sur cet article... Dans le cas où la
+méthode de calcul Th-BCE 2012 ne prend pas en compte les spécificités d'un
+système, d'un projet de construction ou d'un réseau de chaleur ou de froid,
+une demande d'agrément du projet ou de la méthode de justification de la
+performance du système ou du réseau de chaleur ou de froid doit être adressée
+au ministre chargé de la construction et de l'habitation et au ministre chargé
+de l'énergie. Elle est accompagnée d'un dossier d'études composé comme indiqué
+en annexe V qui établit notamment en quoi la méthode de calcul Th-BCE 2012 ne
+prend pas en compte les spécificités du système, du réseau de chaleur ou de
+froid, ou du projet de construction. Article 50 En savoir plus sur cet
+article... Le ministre chargé de la construction et de l'habitation et le
+ministre chargé de l'énergie agréent la proposition après avis d'une
+commission d'experts constituée à cet effet. La commission émet un avis
+consigné dans un procès-verbal après examen des justifications apportées en
+matière de respect des exigences définies à l'article 7. TITRE VI :
+DISPOSITIONS DIVERSES Article 51 En savoir plus sur cet article... Lorsqu'un
+bâtiment ou une partie de bâtiment à usage autre que d'habitation, destiné à
+être occupé par des personnes et chauffé, est livré sans système de chauffage,
+il peut ne respecter que les exigences de moyens définies au titre III, et
+l'exigence définie au I (2°) de l'article 7 du présent arrêté. Article 52 En
+savoir plus sur cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2
+Le présent arrêté s'applique aux surélévations ou aux additions de bâtiments
+existants. Toutefois, dans le cas des maisons individuelles, si la
+surélévation ou l'addition a une SRT : -inférieure à 50 m2, elle est
+uniquement soumise aux exigences de moyen définies par l'arrêté du 3 mai 2007
+relatif aux caractéristiques thermiques et à la performance énergétique des
+bâtiments existants, qui liste l'ensemble des travaux visés et donne les
+exigences associées ; -comprise strictement entre 50 m2 et 100 m2, elle est
+seulement soumise à l'exigence définie au 2° de l'article 7 du titre Ier du
+présent arrêté et aux exigences définies aux articles 20,22 et 24 du titre III
+du présent arrêté. Pour les autres usages de bâtiments, si la surélévation ou
+l'addition a une SRT inférieure soit à 50 m2, soit à 150 m2 et à 30 % de la
+SRT des locaux existants, elle est uniquement soumise aux exigences de moyen
+définies par l'arrêté du 3 mai 2007 susvisé. Article 53 En savoir plus sur cet
+article... Les critères définis au 5° de l'article 2 de l'arrêté du 3 mai 2007
+susvisé sont respectés si les exigences définies par le présent arrêté sont
+satisfaites. Article 54 En savoir plus sur cet article... Les exigences
+définies dans l'arrêté du 24 mai 2006 susvisé sont respectées si les exigences
+définies par le présent arrêté sont satisfaites. Article 55 En savoir plus sur
+cet article... Les dispositions du présent arrêté ne peuvent compromettre les
+mesures législatives et réglementaires prises en matière de santé, de
+salubrité, d'hygiène et de sécurité en vigueur. Article 56 En savoir plus sur
+cet article... Le présent arrêté sera publié au Journal officiel de la
+République française. Article 57 En savoir plus sur cet article... Créé par
+ARRÊTÉ du 11 décembre 2014 - art. 2 Lorsqu'une zone a une surface SRT
+inférieure à 150 m2 et que cette surface est inférieure à 10 % de celle de
+l'autre zone du même bâtiment, on peut considérer que son usage est identique
+à celui de la zone la plus grande. Annexes Annexe I En savoir plus sur cet
+article... DÉPARTEMENT 01 ― Ain H1c 02 ― Aisne H1a 03 ― Allier H1c 04 ― Alpes-
+de-Haute-Provence H2d 05 ― Hautes-Alpes H1c 06 ― Alpes-Maritimes H3 07 ―
+Ardèche H2d 08 ― Ardennes H1b 09 ― Ariège H2c 10 ― Aube H1b 11 ― Aude H3 12 ―
+Aveyron H2c 13 ― Bouches-du-Rhône H3 14 ― Calvados H1a 15 ― Cantal H1c 16 ―
+Charente H2b 17 ― Charente-Maritime H2b 18 ― Cher H2b 19 ― Corrèze H1c 2A ―
+Corse-du-Sud H3 2B ― Haute-Corse H3 21 ― Côtes-d'Or H1c 22 ― Côtes-d'Armor H2a
+23 ― Creuse H1c 24 ― Dordogne H2c 25 ― Doubs H1c 26 ― Drôme H2d 27 ― Eure H1a
+28 ― Eure-et-Loir H1a 29 ― Finistère H2a 30 ― Gard H3 31 ― Haute-Garonne H2c
+32 ― Gers H2c 33 ― Gironde H2c 34 ― Hérault H3 35 ― Ille-et-Vilaine H2a 36 ―
+Indre H2b 37 ― Indre-et-Loire H2b 38 ― Isère H1c 39 ― Jura H1c 40 ― Landes H2c
+41 ― Loir-et-Cher H2b 42 ― Loire H1c 43 ― Haute-Loire H1c 44 ― Loire-
+Atlantique H2b 45 ― Loiret H1b 46 ― Lot H2c 47 ― Lot-et-Garonne H2c 48 ―
+Lozère H2d 49 ― Maine-et-Loire H2b 50 ― Manche H2a 51 ― Marne H1b 52 ― Haute-
+Marne H1b 53 ― Mayenne H2b 54 ― Meurthe-et-Moselle H1b 55 ― Meuse H1b 56 ―
+Morbihan H2a 57 ― Moselle H1b 58 ― Nièvre H1b 59 ― Nord H1a 60 ― Oise H1a 61 ―
+Orne H1a 62 ― Pas-de-Calais H1a 63 ― Puy-de Dôme H1c 64 ― Pyrénées-Atlantiques
+H2c 65 ― Hautes-Pyrénées H2c 66 ― Pyrénées-Orientales H3 67 ― Bas-Rhin H1b 68
+― Haut-Rhin H1b 69 ― Rhône H1c 70 ― Haute-Saône H1b 71 ― Saône-et-Loire H1c 72
+― Sarthe H2b 73 ― Savoie H1c 74 ― Haute-Savoie H1c 75 ― Paris H1a 76 ― Seine-
+Maritime H1a 77 ― Seine-et-Marne H1a 78 ― Yvelines H1a 79 ― Deux-Sèvres H2b 80
+― Somme H1a 81 ― Tarn H2c 82 ― Tarn-et-Garonne H2c 83 ― Var H3 84 ― Vaucluse
+H2d 85 ― Vendée H2b 86 ― Vienne H2b 87 ― Haute-Vienne H1c 88 ― Vosges H1b 89 ―
+Yonne H1b 90 ― Territoire de Belfort H1b 91 ― Essonne H1a 92 ― Hauts-de-Seine
+H1a 93 ― Seine-Saint-Denis H1a 94 ― Val-de-Marne H1a 95 ― Val-d'Oise H1a
+Annexe II DÉFINITION ET DÉTERMINATION DES CLASSES D'EXPOSITIONDES BAIES AU
+BRUIT DES INFRASTRUCTURES DE TRANSPORTS La classe d'exposition d'une baie au
+bruit d'une infrastructure dépend :- du classement en catégorie de
+l'infrastructure de transports terrestres au voisinage de la construction,
+donné par un arrêté préfectoral pris en application de l'article R. 571-38 du
+code de l'environnement ;- de la situation de la baie par rapport à ces
+infrastructures ;- de la situation du bâtiment par rapport aux zones A, B, C
+ou D du plan d'exposition au bruit (PEB) de l'aéroport approuvé par un arrêté
+préfectoral pris en application des articles R. 147-5 à R. 147-11 du code de
+l'urbanisme,selon les modalités et conventions suivantes. Définition d'un
+obstacle "très protecteur" et "peu protecteur" à l'exposition au bruit Un
+obstacle à l'exposition est un masque à la propagation du bruit (bâtiment,
+écran acoustique, butte de terre...).Un obstacle est "très protecteur" s'il
+est situé à une altitude supérieure ou égale à celle de l'étage exposé
+considéré.Un obstacle est "peu protecteur" s'il est situé à une altitude
+inférieure à celle de l'étage considéré tout en constituant un masque visuel
+de l'infrastructure.Lorsque l'obstacle est à plus de 250 mètres de la baie
+considérée et pour tenir compte de l'effet de courbure de la propagation du
+bruit (inversion thermique nocturne), on ajoute 10 mètres à l'altitude
+minimale nécessaire à la prise en compte de l'obstacle pour les locaux à usage
+d'habitation. Définition de la vue d'une infrastructuredepuis une baie La vue
+de l'infrastructure depuis une baie est définie comme suit :Une vue directe
+s'entend pour une vue en plan de l'infrastructure de plus de 90 degrés après
+déduction des obstacles très protecteurs à l'exposition. C'est le cas des
+faces latérales d'un bâtiment sans masque.Une vue partielle s'entend pour une
+vue horizontale de l'infrastructure inférieure à 90 degrés, après déduction
+des obstacles très protecteurs à l'exposition.Il y a une vue masquée de
+l'infrastructure lorsque l'infrastructure ne peut pas être vue, en tenant
+compte des obstacles à l'exposition, depuis la baie. Ces obstacles peuvent
+être "très protecteurs" ou "peu protecteurs" au sens de la définition donnée
+d'un obstacle "très protecteur" et "peu protecteur" à l'exposition.Une vue
+arrière s'entend pour la façade arrière du bâtiment par rapport à
+l'infrastructure. Détermination de la classe d'expositionau bruit d'une baie
+d'un bâtiment 1\. Selon la catégorie de l'infrastructure à proximité de
+laquelle est construit le bâtiment ou la partie de bâtiment, et dans la mesure
+où ce bâtiment ou cette partie de bâtiment est situé à une distance supérieure
+à la distance maximale de prise en compte des infrastructures de transport
+indiquée ci-après, toutes ses baies sont alors en classe BR1 d'exposition au
+bruit. SITUATION DU BÂTIMENT CONDUISANT À UN CLASSEMENT DE CES BAIES EN BR1
+Catégorie de l'infrastructure de transports terrestres 1 Distance supérieure à
+700 m 2 Distance supérieure à 500 m 3 Distance supérieure à 250 m 4 Distance
+supérieure à 100 m 5 Distance supérieure à 30 m Aérodrome Hors zone du plan
+d'exposition au bruit 2\. Dans les autres cas, la classe d'exposition de la
+baie est déterminée dans les tableaux donnés ci-après à partir d'une part des
+zones définies dans le plan d'exposition au bruit de l'aérodrome pour les
+bruits des transports aériens, et d'autre part de la catégorie de
+l'infrastructure, la distance de l'infrastructure à la façade et de l'angle
+sous lequel elle est vue par la baie pour les infrastructures de transports
+terrestres.Dans le cas de plusieurs infrastructures, on retiendra la classe
+d'exposition au bruit la plus défavorable.3. A défaut d'une détermination
+détaillée, la classe BR d'une baie d'une façade est la classe la plus élevée
+des baies de cette façade. CATÉGORIEde l'infrastructure DISTANCE DE LA BAIE À
+L'INFRASTRUCTURE DE TRANSPORT TERRESTRE Catégorie 1 0-65 m 65-125 m 125-250 m
+250-400 m 400-550 m 550-700 m > 700 m Catégorie 2 0-30 m 30-65 m 65-125 m
+125-250 m 250-370 m 370-500 m > 500 m Catégorie 3 0-25 m 25-50 m 50-100 m
+100-160 m 160-250 m > 250 m Catégorie 4 0-15 m 15-30 m 30-60 m 60-100 m > 100
+m Catégorie 5 0-10 m 10-20 m 20-30 m > 30 m Vue de l'infrastructure depuis la
+baie : Vue directe BR3 BR3 BR3 BR3 BR2 BR2 BR1 Vue partielle ou vue masquée
+par des obstacles peu protecteurs BR3 BR3 BR3 BR2 BR2 BR1 BR1 Vue masquée par
+des obstacles très protecteurs BR3 BR3 BR2 BR2 BR1 BR1 BR1 Vue arrière BR3 BR2
+BR2 BR1 BR1 BR1 BR1 .. LOCALISATION DU BÂTIMENT DANS LE PLAN D'EXPOSITIONau
+bruit de l'aérodrome Zone A Zone B Zone C Zone D Hors zone Toutes vues BR3 BR3
+BR3 BR2 BR1 Annexe III En savoir plus sur cet article... Modifié par ARRÊTÉ du
+11 décembre 2014 - art. 2 DÉFINITIONS Altitude L'altitude d'un bâtiment est
+celle de sa porte d'entrée principale. Baie Une baie est une ouverture ménagée
+dans une paroi extérieure servant à l'éclairage, le passage ou l'aération. Une
+paroi transparente ou translucide est considérée comme une baie. Bâtiments
+accolés Deux bâtiments sont dits accolés s'ils sont juxtaposés et liés par des
+parois mitoyennes, dont la surface de contact est d'au moins 15 m² pour les
+maisons et 50 m² pour les autres bâtiments.Au sens du présent règlement, les
+bâtiments accolés sont considérés comme un bâtiment unique. Bâtiments à usage
+d'habitation Au sens du présent arrêté, on entend par bâtiment à usage
+d'habitation les bâtiments suivants : maison individuelle ou accolée, bâtiment
+collectif d'habitation, foyer de jeunes travailleurs, cité universitaire.
+Catégories CE1 et CE2 Un local est de catégorie CE2 s'il est muni d'un système
+de refroidissement et si l'une des conditions suivantes est respectée :-
+simultanément, le local est situé dans une zone à usage d'habitation, ses
+baies sont exposées au bruit BR2 ou BR3, et le bâtiment est construit en zone
+climatique H2d ou H3 à une altitude inférieure à 400 m ;- simultanément, le
+local est situé dans une zone à usage d'enseignement, ses baies sont exposées
+au bruit BR2 ou BR3, et le bâtiment est construit en zone climatique H2d ou H3
+à une altitude inférieure à 400 m ;- le local est situé dans une zone à usage
+de bureaux, et ses baies sont exposées au bruit BR2 ou BR3 ou ne sont pas
+ouvrables en application d'autres réglementations ;- le local est situé dans
+une zone à usage de bureaux et le bâtiment est construit soit en zones
+climatiques H1c ou H2c à une altitude inférieure à 400 m, soit en zones
+climatiques H2d ou H3 à une altitude inférieure à 800 m.Les autres locaux sont
+de catégorie CE1.Une zone ou une partie de zone est de catégorie CE2 si tous
+les locaux autres qu'à occupation passagère qu'elle contient sont de catégorie
+CE2. Elle est de catégorie CE1 dans les autres cas. Eclairage général
+L'éclairage général est un éclairage uniforme d'un espace sans tenir compte
+des nécessités particulières en certains lieux déterminés. Fermeture A
+l'exclusion des dispositifs qui ne réduisent pas les déperditions comme les
+grilles, les barreaux, les rideaux de magasin de vente, tout dispositif
+mobile, communément appelé volet, persienne ou jalousie, servant à fermer de
+l'extérieur l'accès à une fenêtre, une porte-fenêtre ou une porte est une
+fermeture. Inertie quotidienne L'inertie quotidienne est l'inertie utilisée
+pour calculer l'amortissement des températures intérieures sur une période de
+vingt-quatre heures. Inertie séquentielle L'inertie séquentielle est l'inertie
+utilisée en confort d'été pour calculer l'amortissement des températures
+intérieures sur une période de douze jours. Local Un local est un volume
+totalement séparé de l'extérieur ou d'autres volumes par des parois
+horizontales et verticales, fixes ou mobiles. Local chauffé Un local est dit
+chauffé lorsque sa température normale en période d'occupation est supérieure
+à 12 °C. Locaux servant à réunirde façon intermittente des personnes Un local
+est défini comme servant à réunir de façon intermittente des personnes si les
+modalités d'utilisation du local sont aléatoires en termes d'occupation ou de
+non-occupation et en termes de nombre d'occupants. Les salles de réunion des
+bâtiments de bureaux, les salles de réunion publiques sont considérées comme
+appartenant à cette catégorie. Les salles de spectacle, les bureaux paysagers,
+les salles de restaurant ne sont pas considérés comme y appartenant. Logement
+traversant Un logement est dit traversant, au sens du confort d'été de la
+méthode de calcul Th-BCE 2012, si, pour chaque orientation (verticale nord,
+verticale est, verticale sud, verticale ouest, horizontale) la surface des
+baies est inférieure à 75 % de la surface totale des baies du logement. Maison
+individuelle Une maison individuelle est un bâtiment à usage d'habitation
+comprenant au plus deux logements superposés ou disposant d'une seule porte
+d'entrée. Masque proche Un masque proche est un obstacle architectural au
+rayonnement solaire, lié au bâtiment étudié, tel que les tableaux des baies,
+les surplombs ou les débords latéraux. Occupation discontinue, occupation
+continue Un bâtiment, ou une partie de bâtiment, est dit à occupation
+discontinue s'il réunit les deux conditions suivantes :- il n'est pas destiné
+à l'hébergement des personnes ;- chaque jour, la température normale
+d'occupation peut ne pas être maintenue pendant une période continue d'au
+moins cinq heures.Les parties de bâtiment ou les bâtiments ne répondant pas à
+ces deux conditions sont dits à occupation continue. Occupation passagère d'un
+local Un local à occupation passagère est un local qui par destination
+n'implique pas une durée de séjour pour un occupant supérieure à une demi-
+heure.C'est le cas par exemple des circulations, des salles de bains et de
+douches, et des cabinets d'aisance. En revanche, une cuisine ou un hall
+comportant un poste de travail ne sont pas considérés comme un local à
+occupation passagère. Orientations L'orientation nord est toute orientation
+comprise entre le nord-est et le nord-ouest en passant par le nord, y compris
+les orientations nord-est et nord-ouest.L'orientation est est toute
+orientation comprise entre le nord-est et le sud-est en passant par l'est, non
+compris les orientations nord-est et sud-est.L'orientation sud est toute
+orientation comprise entre le sud-est et le sud-ouest en passant par le sud, y
+compris les orientations sud-est et sud-ouest.L'orientation ouest est toute
+orientation comprise entre le sud-ouest et le nord-ouest en passant par
+l'ouest, non compris les orientations sud-ouest et nord-ouest. Paroi verticale
+ou horizontale Une paroi est dite verticale lorsque l'angle de cette paroi
+avec le plan horizontal est égal ou supérieur à 60 degrés, elle est dite
+horizontale lorsque cet angle est inférieur à 60 degrés. Paroi opaque
+thermiquement isolée Une paroi opaque est dite thermiquement isolée si son
+coefficient de transmission thermique U n'est pas supérieur à 0,50 W/m2.K.
+Paroi transparente ou translucide Une paroi est dite transparente ou
+translucide si son facteur de transmission lumineuse (hors protection mobile
+éventuelle) est égal ou supérieur à 0,05. Dans le cas contraire, elle est dite
+opaque. PCI Le PCI représente le pouvoir calorifique inférieur des
+combustibles liquides ou gazeux. Plancher bas Un plancher bas est une paroi
+horizontale dont seule la face supérieure donne sur un local chauffé. Plancher
+haut Un plancher haut est une paroi horizontale dont seule la face inférieure
+donne sur un local chauffé.Un plancher sous comble non aménagé ou une toiture
+terrasse sont par exemple des planchers hauts. Plancher intermédiaire Un
+plancher intermédiaire est une paroi horizontale dont les faces inférieure et
+supérieure donnent sur un local chauffé. Sources d'énergie renouvelables Les
+sources d'énergie renouvelables sont définies à l'article 19 de la loi n°
+2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du
+Grenelle de l'environnement et modifiant l'article 29 de la loi n° 2005-781 du
+13 juillet 2005 de programme fixant les orientations de la politique
+énergétique. Surface thermique au sens de la RT d'une maison individuelle ou
+accolée, ou d'un bâtiment ou d'une partie de bâtiment collectif d'habitation,
+SRT La surface thermique au sens de la RT d'un bâtiment ou d'une partie de
+bâtiment à usage d'habitation, SRT, est égale à la somme des surfaces de
+parois horizontales construites de chaque niveau de ce bâtiment ou de cette
+partie de bâtiment, mesurées au nu extérieur des murs de pourtour, après
+déduction : a) Des surfaces de parois horizontales construites des combles et
+des sous-sols non aménageables ou non aménagés pour l'habitation ou pour des
+activités à caractère professionnel, artisanal, industriel ou commercial. Sont
+définis comme non aménageables pour l'habitation, les locaux ou parties de
+locaux qui correspondent à des hauteurs sous toiture ou sous plafond
+inférieures à 1,80 m, les locaux techniques affectés au fonctionnement général
+du bâtiment et à occupation passagère, les caves ; b) Des surfaces de parois
+horizontales construites des toitures-terrasses, des balcons, des loggias, des
+vérandas non chauffées ainsi que des surfaces non closes situées au rez-de-
+chaussée ou à des niveaux supérieurs ; c) Des surfaces de parois horizontales
+construites des bâtiments ou des parties de bâtiment aménagés en vue du
+stationnement des véhicules. Surface thermique au sens de la RT d'un
+bâtimentou d'une partie de bâtiment à usage autre que d'habitation, SRT La
+surface thermique au sens de la RT, d'un bâtiment ou d'une partie de bâtiment
+à usage autre que d'habitation, SRT , est égale à la surface utile de ce
+bâtiment ou de cette partie de bâtiment, multipliée par un coefficient
+dépendant de l'usage défini ci-dessous : USAGE DU BÂTIMENTou de la partie de
+bâtiment COEFFICIENT MULTIPLICATEUR Bureaux 1,1 Enseignement primaire 1,1
+Enseignement secondaire (partie jour) 1,2 Enseignement secondaire (partie
+nuit) 1,2 Etablissements d'accueil de la petite enfance 1,2 Surface habitable
+d'un bâtimentou d'une partie de bâtiment Cette surface est définie pour tout
+bâtiment ou partie de bâtiment à usage d'habitation.La surface habitable d'un
+logement est définie par l'article R.* 111-2 du code de la construction et de
+l'habitation.La surface habitable d'un bâtiment ou d'une partie de bâtiment
+est la somme des surfaces habitables des logements le constituant. Surface
+utile d'un bâtimentou d'une partie de bâtiment, SURT Cette surface est définie
+pour tout bâtiment ou partie de bâtiment à usage autre que d'habitation.La
+surface utile d'un bâtiment ou d'une partie de bâtiment au sens de la RT, la
+SURT, est la surface de plancher construite des locaux soumis à la
+réglementation thermique, après déduction des :- surfaces occupées par les
+murs, y compris l'isolation ;- cloisons fixes prévues aux plans ;- poteaux ;-
+marches et cages d'escaliers ;- gaines ;- ébrasements de portes et de fenêtres
+;- parties des locaux d'une hauteur inférieure à 1,80 m ;- parties du niveau
+inférieur servant d'emprise à un escalier, à une rampe d'accès ou les parties
+du niveau inférieur auquel s'arrêtent les trémies des ascenseurs, des monte-
+charges, des gaines et des conduits de fumée ou de ventilation ;- locaux
+techniques exclusivement affectés au fonctionnement général du bâtiment et à
+occupation passagère. Système de refroidissement Un "système de
+refroidissement" est un équipement de production de froid associé à des
+émetteurs de froid destiné au confort des personnes. Température intérieure La
+température intérieure pour le calcul du coefficient Cep, du coefficient Bbio
+et Tic est la température opérative. Température opérative La température au
+sens de l'article R. 111-6 du code de la construction et de l'habitation est
+la température opérative définie comme suit :C'est la moyenne entre la
+température radiante moyenne et la température d'air de la zone étudiée
+considérée comme uniforme.La température radiante moyenne étant la moyenne,
+pondérée par les surfaces de parois, des températures de surface intérieure
+des parois en contact avec l'air de la zone étudiée. Zone de bâtiment Une zone
+de bâtiment est caractérisée par un type d'usage, au sens des usages définis
+en annexe VII. Annexe IV DOSSIER D'ÉTUDES POUR LA PROPOSITION DE MODES
+D'APPLICATION SIMPLIFIÉS EN MAISON INDIVIDUELLE 1\. Objet Cette annexe décrit
+le contenu du dossier d'étude à établir à l'appui d'un mode d'application
+simplifié en maison individuelle soumise à l'approbation du ministre chargé de
+la construction et de l'habitation et du ministre en charge de l'énergie. 2\.
+Eléments à fournir par le demandeur Le demandeur fournit :- le descriptif du
+mode d'application simplifié dans la forme prévue pour sa diffusion ;- le
+domaine d'application visé par le mode d'application simplifié : en
+particulier peuvent être précisés les limites de volumétrie des maisons
+individuelles, les ratios de baies, les zones climatiques, les conditions
+d'exposition au bruit ainsi que les systèmes énergétiques pour le chauffage,
+la ventilation et l'eau chaude sanitaire ;- les éléments permettant de
+s'assurer que l'utilisateur d'un mode d'application simplifié pourra
+facilement et sans risque d'erreur appliquer ce mode d'application simplifié
+;- les éléments permettant de s'assurer que l'application du mode
+d'application simplifié permet bien de respecter les exigences décrites au
+titre III du présent arrêté ;- un dossier de calcul, décrit au paragraphe 4,
+justifiant les niveaux de performance revendiqués pour le mode d'application
+simplifié en ce qui concerne le respect de tout ou partie des exigences
+relatives au domaine défini, décrites au titre II du présent arrêté. 3\.
+Variante par rapport à un mode d'application simplifié déjà agréée Dans le cas
+où un mode d'application simplifié serait une variante d'un mode d'application
+simplifié déjà agréé, le demandeur fera référence à celui-ci et pourra ne
+fournir que les éléments complémentaires à ceux donnés lors de la demande
+d'agrément précédente.La forme de la variante (mise en pages, typographie...)
+et sa structure devront être cohérentes avec celles du mode d'application
+simplifié déjà agréé de façon à éviter tout risque de confusion lors de
+l'utilisation de la variante.Au cas où l'auteur de la variante serait
+différent de celui du mode d'application simplifié initial, l'accord écrit de
+ce dernier sera joint. 4\. Composition du dossier de calcul Le dossier de
+calcul comprend, pour chaque mode d'application simplifié proposé :- les
+caractéristiques thermiques revendiquées pour les différents composants
+constituant le mode d'application simplifié tel qu'il est décrit ;- les
+valeurs par défaut utilisées pour les calculs ;- les coefficients décrits au
+titre II du présent arrêté, pour une série de maisons individuelles
+représentatives des domaines d'application visés par le mode d'application
+simplifié ;- les valeurs moyennes minimales et maximales des coefficients
+obtenus ;- un histogramme présentant en abscisse les coefficients obtenus et
+en ordonnée le nombre de bâtiments types ayant ce niveau de performance.
+Annexe V DOSSIER D'ÉTUDES POUR LES CAS PARTICULIERS 1\. Objet Cette annexe
+décrit le contenu du dossier d'étude des systèmes ou projets de construction
+pour lesquels la méthode de calcul Th-BCE 2012 n'est pas applicable, ou des
+réseaux de chaleur ou de froid pour lesquels l'annexe VII de l'arrêté du 15
+septembre 2006 relatif au diagnostic de performance énergétique pour les
+bâtiments existants proposés à la vente en France métropolitaine n'est pas
+applicable, fourni à l'appui de la demande d'agrément auprès du ministre
+chargé de la construction et de l'habitation. Pour les réseaux de chaleur ou
+de froid pour lesquels l'annexe VII de l'arrêté du 15 septembre 2006 relatif
+au diagnostic de performance énergétique pour les bâtiments existants proposés
+à la vente en France métropolitaine n'est pas applicable, les demandes
+d'agrément portent exclusivement sur l'agrément d'une valeur temporaire de
+contenu en CO2 des kWh énergétiques livrés à ces sous-stations. La valeur est
+agréée, pour une durée limitée à un maximum de trois ans. Au sens du présent
+arrêté, l'annexe VII de l'arrêté du 15 septembre 2006 relatif au diagnostic de
+performance énergétique pour les bâtiments existants proposés à la vente en
+France métropolitaine n'est pas considéré applicable uniquement en cas de :-
+création d'un réseau de chaleur ou de froid ;- évolution du mix énergétique du
+réseau de chaleur ou de froid via la valorisation de sources d'énergie
+renouvelables ou de récupération. 2\. Eléments à fournir par le demandeur La
+demande peut être faite soit pour un projet de bâtiment particulier, soit pour
+la prise en compte d'un système particulier dans plusieurs projets de
+bâtiment, soit pour la prise en compte d'un réseau de chaleur ou de froid
+nouveau ou ayant fait l'objet de travaux significatifs d'amélioration de ses
+émissions de gaz à effet de serre. 2.1. Demande pour un projet de bâtiment
+particulier Le demandeur fournit obligatoirement :- le descriptif du projet de
+construction concerné avec, éventuellement, ses plans ;- la liste des données
+d'entrée pour la partie de la méthode de calcul qui est applicable ;- une
+description détaillée des raisons qui rendent la méthode de calcul
+inapplicable pour les autres parties ;- le récapitulatif standardisé d'étude
+thermique, en saisissant le bâtiment de manière dégradée pour les parties pour
+lesquelles la méthode de calcul est inapplicable ;- l'explication de la
+manière avec laquelle ont été saisis de manière dégradée, dans l'outil
+d'application de la réglementation, les éléments du projet non modélisables ;-
+la justification détaillée de la valorisation et de la performance attendue
+pour les parties non modélisables. Le dossier justifie du niveau de
+performance prétendu de l'opération, donc du respect de toutes les exigences
+de la réglementation, aussi bien en matière d'exigences de performances
+globales que d'exigences de moyens. 2.2. Demande pour un système particulier
+utilisable dans plusieurs projets de bâtiment Le demandeur fournit
+obligatoirement :- un descriptif du système considéré accompagné des éléments
+permettant d'évaluer ses performances thermiques, notamment en vue de
+l'intégration ultérieure de ce système dans les méthodes de calcul ;- un
+descriptif du champ d'application de ce système ;- la liste des données
+d'entrée pour les parties de la méthode de calcul qui sont applicables ;- une
+description détaillée des raisons qui rendent la méthode de calcul
+inapplicable pour les autres parties. \- une proposition d'adaptation de la
+méthode de calcul permettant de traiter le système considéré accompagnée d'au
+moins un exemple d'application numérique. 2.3. Demande pour un réseau de
+chaleur ou de froid Le demandeur fournit obligatoirement :- un descriptif du
+réseau de chaleur ou de froid considéré accompagné des éléments permettant
+d'évaluer, initialement et dans la durée, ses performances énergétique et
+environnementale, notamment du fait de son approvisionnement en énergie, de la
+performance de ses générateurs, de la performance de sa distribution et de ses
+consommations d'auxiliaires ;- une proposition de contenu en CO2 des kWh
+livrés aux sous-stations du réseau basée sur le même mode de calcul que celui
+utilisé pour réaliser l'annexe VII de l'arrêté du 15 septembre 2006 relatif au
+diagnostic de performance énergétique pour les bâtiments existants proposés à
+la vente en France métropolitaine. Annexe VI En savoir plus sur cet article...
+Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2 RÉCAPITULATIF STANDARDISÉ
+D'ÉTUDE THERMIQUE 1\. Pour chaque bâtiment faisant l'objet d'une justification
+selon les modalités du I de l'article 7 du présent arrêté, le récapitulatif
+standardisé de l'étude thermique est un fichier informatique au format XML,
+comportant les éléments suivants : Chapitre 1er : données administratives du
+bâtiment. Chapitre 2 : exigences de performance énergétique du titre II et les
+caractéristiques thermiques et exigences de moyens du titre III du présent
+arrêté et comportant : -les valeurs du Bbio, Bbiomax, Cep et Cepmax du
+bâtiment en kWh d'énergie primaire par mètre carré de SRT ; -la valeur de la
+SRT du bâtiment utilisée dans les calculs ; -pour les zones ou parties de
+zones de catégorie CE1 et pour chacune des zones du bâtiment définies par leur
+usage, les valeurs de Tic et Ticréf ; -le statut du projet de bâtiment vis-à-
+vis de chacune des exigences de moyens, définies au titre III du présent
+arrêté, auquel le projet est soumis. Chapitre 3 : indicateurs pédagogiques
+représentant, entre autres sous forme graphique, la décomposition du besoin
+bioclimatique, Bbio, de la consommation conventionnelle d'énergie, Cep, et la
+température intérieure conventionnelle, Tic, du bâtiment. Chapitre 4 : détail
+des entrées et sorties des calculs réglementaires, notamment : -la
+décomposition des caractéristiques de l'enveloppe du bâtiment, par catégorie
+de paroi (surfaces, orientations, caractéristiques énergétiques...) ; -la
+décomposition des caractéristiques des systèmes énergétiques du bâtiment ; -la
+décomposition des besoins, consommations et productions d'énergie du bâtiment,
+entre autres par type d'usage et par énergie ; -pour chaque projet, bâtiment,
+zones, groupes et locaux, l'intégralité des caractéristiques telles que
+définies dans la méthode Th-BCE 2012. Chapitre 5, calculé de manière
+optionnelle : impact de différents paramètres sur les résultats conventionnels
+(Bbio, Cep et Tic) : -à but pédagogique pour les concepteurs, sensibilités des
+résultats de calcul à des modifications de caractéristiques techniques du
+bâtiment ; -à but pédagogique pour les futurs occupants, pour les bâtiments à
+usage d'habitation, sensibilités des résultats de calcul à des comportements
+différents des comportements conventionnels servant de base au calcul
+réglementaire. 2\. Pour chaque bâtiment faisant l'objet d'une justification
+par un mode d'application simplifié selon les modalités du II de l'article 7
+du présent arrêté, le récapitulatif standardisé d'étude thermique doit
+préciser toutes les données utilisées ainsi que les résultats obtenus
+permettant de justifier du respect du mode d'application simplifié tant du
+point de vue champ d'application que des dispositions techniques et
+architecturales à mettre en œuvre. Annexe VII En savoir plus sur cet
+article... Modifié par Arrêté du 25 juillet 2016 - art. 1 DÉMARCHE DE QUALITÉ
+DE L'ÉTANCHÉITÉ À L'AIR DU BÂTIMENT OU DES RÉSEAUX AÉRAULIQUES 1\. Objet Cette
+annexe décrit : \- les modalités de justification de la "démarche de qualité
+de l'étanchéité à l'air d'un bâtiment ou des réseaux aérauliques". La démarche
+qualité visée par cette annexe est un processus mis en œuvre par le demandeur
+visant à atteindre un niveau d'étanchéité à l'air de l'enveloppe ou des
+réseaux aérauliques. Cette démarche qualité doit faire l'objet d'une
+certification par un organisme ayant signé une convention à cet effet avec le
+ministère en charge de la construction ; \- les modalités de conventionnement
+d'un organisme certificateur et les prérequis de son programme de
+certification ; \- le contenu du dossier d'étude à établir à l'appui d'une
+demande de certification d'une "démarche de qualité de l'étanchéité à l'air
+d'un bâtiment ou des réseaux aérauliques". Dans cette annexe, le demandeur
+désigne l'entité qui fait certifier une "démarche de qualité de l'étanchéité à
+l'air d'un bâtiment ou des réseaux aérauliques". Le titulaire désigne l'entité
+dont la démarche qualité est certifiée. Le certificateur désigne tout
+organisme de certification accrédité selon la norme NF EN ISO/CEI 17065 pour
+cette activité de certification par le Comité français d'accréditation
+(COFRAC) ou tout autre organisme d'accréditation signataire de l'accord
+multilatéral pris dans le cadre de la coordination européenne des organismes
+d'accréditation (European Cooperation for Accreditation, ou EA) et ayant
+signé, au préalable, une convention à cet effet avec le ministère en charge de
+la construction. Un organisme certificateur non encore accrédité pour la
+certification considérée ayant signé une convention avec le ministère en
+charge de la construction peut commencer cette activité dès lors qu'il a
+déposé une demande d'accréditation et que le Comité français d'accréditation a
+admis la recevabilité de cette demande. Il peut continuer à exercer cette
+activité de certification pendant une durée d'un an maximum à compter de la
+notification de la recevabilité de sa demande. A défaut d'accréditation
+obtenue dans ce délai, il doit cesser ladite activité et les clients qu'il a
+certifiés doivent obtenir le transfert de leur certification auprès d'un
+organisme certificateur accrédité. Ce dernier étudie la demande de transfert
+et réalise une évaluation appropriée pour établir s'il peut émettre un
+certificat dont le cycle de certification est repris à la même étape que celle
+dans laquelle il était auparavant. 2\. Justification de la "démarche de
+qualité de l'étanchéité à l'air du bâtiment ou des réseaux aérauliques" Le
+maître d'ouvrage doit pouvoir justifier de la mise en place de la démarche
+certifiée, en amont de la réalisation du projet. La démarche qualité de
+l'étanchéité à l'air du bâtiment peut inclure un ou plusieurs types de
+bâtiments parmi les suivants : \- maisons individuelles ; \- bâtiments
+collectifs d'habitation. La démarche qualité de l'étanchéité à l'air des
+réseaux aérauliques peut inclure un ou plusieurs types de bâtiments parmi les
+suivants : \- maisons individuelles ; \- bâtiments collectifs d'habitation ;
+\- bâtiments non résidentiels. Le demandeur précise le domaine d'application
+de sa démarche qualité (voir paragraphe 4 b). Une fois titulaire de sa
+certification, le titulaire pourra faire valoir la valeur certifiée pour toute
+opération incluse dans ce domaine d'application. 3\. Organisme certificateur
+a) Modalités de conventionnement : Tout certificateur souhaitant établir une
+convention avec l'Etat dans les conditions de l'article 8 pour la
+certification des démarches de qualité d'étanchéité à l'air adresse une
+demande de convention au ministre en charge de la construction. L'accord du
+ministère sur la demande de convention est délivré au regard : \- de la
+qualité et de la pertinence du programme de certification. Les attentes vis-à-
+vis du programme de certification sont précisées dans le paragraphe 3 b de la
+présente annexe ; \- de l'expérience, du volume d'activité, de la couverture
+territoriale, de la notoriété, de la nature et de l'importance des contentieux
+liés à l'activité de l'organisme certificateur demandant à signer une
+convention avec le ministère en charge de la construction pour la
+certification d'une "démarche de qualité de l'étanchéité à l'air d'un bâtiment
+ou des réseaux aérauliques" ; La demande de convention est accompagnée du
+(des) programme(s) de certification de(s) démarche(s) qualité de l'étanchéité
+à l'air du bâtiment ou des réseaux aérauliques et des éléments permettant d'en
+apprécier la qualité au regard des critères explicités ci-dessus. La
+convention peut devenir caduque en cas de changement remettant en cause les
+critères précités. Chaque organisme conventionné établit un rapport annuel
+rendant compte de son activité. Ce rapport est adressé au ministre en charge
+de la construction et de l'habitation avant le 1er juillet de l'année qui suit
+l'activité dont il rend compte. Le rapport annuel contient a minima les
+éléments suivants : \- nombre de demandes reçues ; \- nombre de certifications
+délivrées ; \- délai (moyen, minimum, maximum) entre la réception du dossier
+et la date à laquelle le certificat (voir 4 b ) est délivré ; \- statistiques
+sur les niveaux de perméabilité à l'air de l'enveloppe demandés ; \-
+statistiques sur les classes d'étanchéité à l'air des réseaux aérauliques
+demandées. De plus, l'organisme conventionné met en place des échanges
+réguliers avec le ministre en charge de la construction afin que ce dernier
+puisse s'assurer de la cohérence et de l'homogénéité des avis rendus. b)
+Programme de certification : Le programme de certification précise la cible de
+la certification de démarche qualité, parmi les types de bâtiments concernés
+(maisons individuelles, bâtiments collectifs d'habitation, bâtiments non
+résidentiels [pour les réseaux aérauliques uniquement]) et les types
+d'étanchéités concernées (enveloppe du bâtiment, réseaux aérauliques). La
+certification peut porter exclusivement sur l'étanchéité à l'air des
+bâtiments, sur l'étanchéité à l'air des réseaux aérauliques, ou bien sur les
+deux et elle peut porter sur un seul ou plusieurs types de bâtiment. Le
+programme de certification doit permettre au demandeur d'obtenir une
+certification de sa démarche qualité exclusivement. Evaluation initiale : Le
+programme de certification doit préciser l'organisation ainsi que les
+modalités d'évaluation des dossiers des demandeurs. L'évaluation d'une demande
+de certification d'une "démarche qualité de l'étanchéité à l'air d'un bâtiment
+ou des réseaux aérauliques" comprend une analyse des documents fournis par le
+demandeur et un audit in situ effectué en présence du demandeur. Pour
+l'évaluation de "démarche de qualité de l'étanchéité à l'air d'un bâtiment ou
+des réseaux aérauliques", le certificateur doit vérifier : \- que le système
+de management reprend les principes de la norme ISO 9001 ; \- la complétude du
+dossier vis-à-vis les éléments listés dans le paragraphe 4 ; \- la cohérence,
+la complétude et la conformité de la démarche qualité proposée, d'un point de
+vue de la planification, de la réalisation, de la vérification et de la
+correction, conformément, a minima, aux éléments listés dans le paragraphe 4
+de la présente annexe ; \- la traçabilité de la démarche qualité : chaque
+étape, a minima celles listées dans le paragraphe 4, doit être traçable ; \-
+l'application de la démarche qualité sur un échantillon de bâtiments (défini
+dans le paragraphe 4 b : \- vérification que les bâtiments appartiennent au
+domaine d'application ; \- conformité des mesures de perméabilité à l'air vis-
+à-vis des textes réglementaires et normatifs en vigueur ; \- résultats des
+mesures de perméabilité à l'air. Lors de l'audit in situ, le certificateur
+évalue a minima : \- la capacité du demandeur à répondre aux questions de
+l'auditeur ; \- les documents traçant l'application de la démarche qualité sur
+un panel des bâtiments : notamment les clauses contractuelles, la
+sensibilisation des entreprises, les formations, les documents de suivi de
+chantier et les suites données aux écarts et non-conformités. Ces documents
+doivent être conformes à ce qui est prévu dans la démarche qualité et doivent
+répondre a minima aux éléments listés dans le paragraphe 4. Le panel de
+bâtiment est défini dans le programme de certification ; \- le suivi des
+écarts, la planification et le suivi des actions et des améliorations de la
+démarche. Cette planification et ce suivi doivent être conformes à ce qui est
+prévu dans la démarche qualité. L'audit in situ de "démarche de qualité de
+l'étanchéité à l'air d'un bâtiment ou des réseaux aérauliques" est réalisé
+selon les principes de la norme NF EN ISO 19011 en présence du demandeur. Le
+certificateur peut analyser tout autre élément permettant de justifier la
+qualité de l'étanchéité à l'air du bâtiment ou des réseaux aérauliques. En
+particulier, si la démarche qualité concerne les réseaux aérauliques, le
+programme de certification peut prendre en compte les certifications
+volontaires de produit(s) gérées par des organismes de certification
+accrédités selon la norme NF EN ISO/CEI 17065 pour cette activité de
+certification par le Comité français d'accréditation (COFRAC) ou tout autre
+organisme d'accréditation signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation (European
+Cooperation for Accreditation, ou EA), ou les avis techniques couvrant tout ou
+partie des équipements utilisés pour les réseaux aérauliques et couvrant les
+aspects liés à l'étanchéité à l'air. En cas d'évaluation positive, l'organisme
+délivre un certificat mentionnant les dates de validité et le domaine
+d'application du certificat. Le certificat est valable au maximum deux ans. A
+l'issue de l'examen de la démarche lors du renouvellement périodique, un
+nouveau certificat est délivré. Surveillance des certifications : Le programme
+de certification précise l'organisation mise en place par le certificateur
+pour la surveillance des certifications. Cette surveillance doit permettre que
+chaque titulaire de certificat soit contrôlé durant la période de validité de
+son certificat. La surveillance doit consister en la réalisation de mesures de
+perméabilité à l'air, réalisées sur des opérations ayant appliqué la démarche
+qualité certifiée. Ces mesures sont effectuées par des mesureurs reconnus
+compétents par le ministre en charge de la construction et de l'habitation, et
+sont réalisées conformément aux normes en vigueur et à leurs documents
+d'application. La surveillance peut consister en la vérification de
+l'application de la démarche sur certains chantiers choisis de manière
+aléatoire, à travers les documents de traçabilité. Renouvellement des
+certifications : Le programme de certification doit également préciser
+l'organisation et les modalités de l'évaluation pour le renouvellement des
+certifications. Cette évaluation périodique contiendra un audit in situ et une
+analyse documentaire. La fréquence d'évaluation est fixée par le certificateur
+et est inférieure à deux ans. L'audit in situ de renouvellement d'une
+"démarche de qualité de l'étanchéité à l'air d'un bâtiment ou des réseaux
+aérauliques" certifiée est réalisé selon les principes de la norme NF EN ISO
+19011 en présence du demandeur. Lors de l'évaluation, le certificateur doit
+analyser a minima les éléments contenus dans le paragraphe 5 de la présente
+annexe, avec notamment : \- la démarche qualité actualisée. La cohérence
+globale, la traçabilité et le respect des principes mentionnés dans le
+paragraphe 4 seront évalués ; \- le système de management reprenant les
+principes de la norme ISO 9001 ; \- l'application de la démarche qualité sur
+l'échantillon de bâtiments défini dans le paragraphe 4 b, achevés entre la
+date du dernier examen de la démarche et la date de l'audit de renouvellement
+en question : \- documents traçant l'application de la démarche qualité sur un
+panel des bâtiments. Ce panel sera défini dans le programme de certification ;
+\- vérification que les bâtiments appartiennent au domaine d'application ; \-
+conformité des mesures de perméabilité à l'air vis-à-vis des textes
+réglementaires et normatifs en vigueur ; \- résultats des mesures de
+perméabilité à l'air ; \- l'amélioration continue de la démarche, comme
+explicitée dans le paragraphe 4 b de la présente annexe. Exigences
+s'appliquant aux auditeurs et mesureurs : Le programme précise, en outre, les
+exigences vis-à-vis des auditeurs, d'un point de vue de leurs compétences, de
+leurs qualifications et de leurs formations. Les auditeurs analysant les
+dossiers initiaux, les dossiers de renouvellement ainsi que les auditeurs
+missionnés pour la surveillance des certifications doivent être : \-
+indépendants du demandeur et des organismes impliqués en exécution ou maîtrise
+d'œuvre ou maîtrise d'ouvrage ; \- compétents sur les principes d'un audit au
+sens de la norme NF EN ISO 19011 ; \- compétents sur la thématique de la
+perméabilité à l'air de l'enveloppe ou des réseaux aéraulique. Les mesureurs
+pour la surveillance des certifications doivent être : \- indépendants du
+demandeur et des organismes impliqués en exécution ou maîtrise d'œuvre ou
+maîtrise d'ouvrage, \- reconnus compétents par le ministre en charge de la
+construction et de l'habitation. Procédure de retrait ou de suspension des
+certifications : L'organisme sous convention avec l'Etat établit les
+procédures visant à la suspension ou au retrait de la certification du
+demandeur en cas de manquements réguliers à l'atteinte de l'objectif fixé, de
+non-respects avérés de la démarche qualité, de non-fourniture des documents
+nécessaires au renouvellement de la certification, ou de démarche frauduleuse.
+4\. Contenu de la (des) démarche(s) qualité de l'étanchéité à l'air d'un
+bâtiment ou des réseaux aérauliques Qualité du demandeur : Le demandeur est
+toute personne morale concernée par des opérations de construction de
+bâtiments et représentant une seule entité juridique. Il peut être un
+constructeur, un industriel ou un autre professionnel. Le demandeur peut
+correspondre à une entité commerciale unique ou, au contraire, à une entité
+commerciale principale à laquelle un certain nombre d'entités commerciales
+secondaires seraient rattachées (succursales, agences, filiales,…), sous la
+même dénomination principale ou non. Dans la situation d'une seule entité
+commerciale, celle-ci fait l'objet d'une seule demande de certification de sa
+démarche qualité. Dans la situation de plusieurs entités commerciales, dont
+une peut être principale (avec ou sans activité opérationnelle qui lui est
+propre) et plusieurs entités commerciales secondaires (l'ensemble des entités
+secondaires ou seulement quelques-unes expressément définies), celles-ci font
+l'objet d'une seule demande de certification de sa démarche qualité s'il n'y a
+aucune ambiguïté sur les entités commerciales concernées par la demande de
+certification. Eléments à fournir par le demandeur : Le demandeur précise : \-
+le domaine d'application de la démarche qualité en indiquant le type de
+bâtiments, les marques et/ou filiales concernées (si plusieurs), le type
+constructif, le nombre de niveaux, les limites de leur volumétrie, tout autre
+critère présentant une diversité constructive parmi les bâtiments concernés et
+pouvant avoir un impact sur l'étanchéité à l'air et, si nécessaire, les
+éléments d'ouvrage exclus ; \- la perméabilité à l'air maximale garantie pour
+l'enveloppe en application de la démarche sans mesure systématique. Cette
+perméabilité est dénommée "valeur limite de l'étanchéité à l'air du bâtiment".
+Ce niveau est inférieur ou égal à 0,6 m3/(h.m2) sous 4 Pa en maison
+individuelle, à 1 m3/(h.m2) sous 4 Pa en bâtiment collectif d'habitation et
+est un multiple de 0,1. Il ne peut pas être inférieur à 0,3 m3/(h.m2) sous 4
+Pa. Le demandeur peut distinguer différentes valeurs limites d'étanchéité à
+l'air en fonction des caractéristiques architecturales et constructives
+notamment, dans la limite de leur représentativité dans le volume total de
+production ; \- la classe d'étanchéité à l'air maximale garantie pour les
+réseaux aérauliques en application de la démarche sans mesure systématique.
+Cette perméabilité est dénommée "classe limite de l'étanchéité à l'air des
+réseaux aérauliques". Ce niveau correspond à une classe, conformément aux
+normes NF EN 12237 ou NF EN 1507, hors classe D. Ces informations font partie
+du domaine d'application et sont reportées sur le certificat. Le demandeur
+fournit le descriptif des dispositions organisationnelles mises en place, au
+regard des principes de la norme ISO 9001, pour : \- s'assurer que l'objectif
+d'étanchéité à l'air ainsi que le respect des dispositions de la démarche
+qualité sont précisés dans la consultation des entreprises et dans les
+contrats de sous-traitance ; \- identifier les solutions techniques permettant
+de traiter l'étanchéité à l'air des points sensibles liés aux caractéristiques
+architecturales et techniques de son domaine d'application et ayant un impact
+sur l'étanchéité à l'air ; \- justifier que les dispositions techniques et
+architecturales sont compatibles avec les normes en vigueur ; \- sensibiliser
+et informer les professionnels intervenant sur le chantier sur la façon dont
+les liaisons sensibles doivent être traitées ; \- former à la démarche qualité
+de l'étanchéité à l'air en vigueur, toutes les personnes impliquées par son
+application, dans et hors de son entité juridique ; \- planifier les points
+d'arrêts pour : \- vérifier la pose correcte des matériaux de construction,
+équipements et produits d'étanchéité au cours du chantier conformément aux
+détails constructifs notamment ; \- vérifier la correcte application de la
+démarche qualité ; \- lever tous les écarts constatés, qu'il s'agisse d'écarts
+sur le chantier ou d'écarts par rapport à la démarche qualité ; \- documenter
+la vérification des points traités lors des points d'arrêts et plus
+généralement lors des visites de chantier ; \- référencer l'ensemble des
+bâtiments sur lesquels cette démarche a été appliquée ou est en cours ainsi
+que les caractéristiques techniques et architecturales ayant un impact sur
+l'étanchéité à l'air et les résultats des tests d'étanchéité à l'air ; \-
+faire réaliser des mesures par un ou plusieurs organismes indépendants sur une
+partie de la production annuelle des bâtiments construits en appliquant la
+démarche qualité conformément au paragraphe 4 c de la présente annexe ; \-
+améliorer en continu la démarche qualité, en analysant les dysfonctionnements,
+les écarts constatés, sur le chantier ou vis-à-vis de la démarche qualité,
+afin qu'ils ne soient pas réitérés. Notamment, une mesure non conforme à
+l'objectif ou un lieu de fuite répétitif doit faire l'objet de cette analyse ;
+\- documenter l'amélioration continue définie ci-dessus ; \- informer toute
+personne concernée de l'évolution de tout ou partie de la démarche qualité ;
+\- justifier de l'application de la démarche auprès du certificateur
+conformément au paragraphe 5 de la présente annexe et aux exigences du
+programme de certification du certificateur. Par ailleurs, le demandeur joint
+: \- un document organisationnel structurant la démarche de qualité de
+l'étanchéité à l'air d'un bâtiment ou des réseaux aérauliques, et répondant a
+minima aux points cités ci-dessus. Ce document organisationnel décrit
+l'intégralité de la démarche qualité et peut renvoyer vers des documents
+supports. L'ensemble des documents décrivant la démarche qualité et traçant
+son application doit être fourni ; \- la liste de l'ensemble des bâtiments sur
+lesquels cette démarche a été appliquée ; \- un dossier de mesure, décrit au
+paragraphe 4 c de la présente annexe, pour un nombre minimal de bâtiments et
+de permis de construire correspondant au domaine d'application. Le nombre
+minimal de bâtiments testés est calculé en fonction de la production annuelle
+de bâtiments sur laquelle la démarche est prévue d'être appliquée la formule
+suivante : Pour les démarches qualité sur l'étanchéité à l'air de l'enveloppe
+des bâtiments : Pour les maisons individuelles : \- si Nprod ≤ 500 bâtiments :
+Ntests = 5 + 10 % Nprod ; \- si Nprod> 500 bâtiments : Ntests = 55 + 5 %
+(Nprod - 500). Pour les bâtiments collectifs : \- si Nprod ≤ 50 bâtiments :
+Ntests = 30 % Nprod ; \- si Nprod> 50 bâtiments : Ntests = 15 + 15 % (Nprod -
+50). Pour les démarches qualité sur l'étanchéité à l'air des réseaux
+aérauliques : Pour les maisons individuelles : \- si Nprod ≤ 500 bâtiments :
+Ntests = 5 + 10 % Nprod ; \- si Nprod> 500 bâtiments : Ntests = 55 + 5 %
+(Nprod - 500). Pour les bâtiments collectifs et bâtiments non résidentiels :
+\- si Nprod ≤ 50 bâtiments : Ntests = 30 % Nprod ; \- si 50 < Nprod ≤ 500
+bâtiments : Ntests = 15 + 10 % (Nprod - 50) ; \- si 500 < Nprod ≤ 5000
+bâtiments : Ntests = 60 + 6% (Nprod - 500) ; \- si Nprod > 5000 bâtiments :
+Ntests = 330 + 3% (Nprod - 5 000). Avec : Nprod est la production annuelle
+moyenne de bâtiments concernés par la demande et Ntests est le nombre minimum
+de bâtiments testés. Le nombre de réseaux aérauliques à tester par bâtiment
+doit être conforme aux normes en vigueur et à leurs documents d'application.
+Le nombre de permis de construire correspondant aux bâtiments testés doit être
+supérieur à la moitié du nombre de bâtiments testés. Composition du dossier de
+mesures concernant la perméabilité à l'air de bâtiments ou des réseaux
+aérauliques élaborés selon la démarche qualité : Le dossier de mesures de la
+perméabilité à l'air des bâtiments testés comprend : \- si la démarche qualité
+concerne l'enveloppe des bâtiments, les rapports des mesures réalisées
+conformément à la norme EN ISO 9972 et à ses documents d'application. Ces
+mesures doivent être réalisées par des personnes reconnues compétentes par le
+ministre en charge de la construction et de l'habitation, et indépendantes du
+demandeur ou des organismes impliqués en exécution ou maîtrise d'œuvre ou
+maîtrise d'ouvrage sur les bâtiments visés pour les quantités minimales
+mentionnées dans le paragraphe 4 b) de la présente annexe. Le dossier précise
+la méthode retenue pour écarter tout risque de sélection d'un échantillon
+biaisé. Les bâtiments ayant fait l'objet d'une mesure doivent être
+représentatifs de la production de bâtiments soumise à la démarche qualité.
+Pour cela, l'échantillonnage est réalisé à partir des critères contenus dans
+le domaine d'application de la démarche qualité dont obligatoirement les
+critères suivants : \- le type de bâtiment ; \- les marques et/ou filiales
+concernées (si plusieurs) ; \- le nombre de niveaux ; \- la localisation
+géographique (selon la diversité relative à l'organisation de la structure ou
+des filiales) ; \- les caractéristiques architecturales et constructives ayant
+un impact important sur le traitement de l'étanchéité à l'air. Le demandeur
+veille à respecter les critères pertinents pour l'échantillonnage et veille à
+garantir parfaitement la représentativité sur ces critères. Les règles
+d'échantillonnage prévues par les normes et ses documents d'application pour
+la mesure d'opérations de maisons individuelles groupées ne s'appliquent pas.
+\- si la démarche qualité concerne les réseaux aérauliques, les rapports des
+mesures réalisées conformément aux documents normatifs en vigueur ou aux
+protocoles en vigueur. Ces mesures doivent être réalisées par des personnes
+reconnues compétentes par le ministre en charge de la construction et de
+l'habitation, et indépendantes du demandeur ou des organismes impliqués en
+exécution ou maîtrise d'œuvre ou maîtrise d'ouvrage sur les bâtiments visés
+pour les quantités minimales mentionnées dans le paragraphe 4 b de la présente
+annexe. Les règles d'échantillonnage sont identiques à celles citées ci-dessus
+; \- le cas échéant, un histogramme présentant, en abscisse et par classe de
+0,05 m3/(h.m2) sous 4 Pa, les valeurs mesurées de perméabilité à l'air de
+l'enveloppe des bâtiments et en ordonnée le nombre de bâtiments ayant ce
+niveau de perméabilité. Cet histogramme doit illustrer la performance des
+valeurs mesurées pour démontrer le respect systématique de la valeur limite
+pour l'ensemble des constructions soumises à la démarche qualité ; \- le cas
+échéant, un histogramme présentant, en abscisse, les classes d'étanchéité des
+réseaux aérauliques définies selon la norme d'essai et, en ordonnée, le nombre
+de réseaux conformes à cette classe. Chacune des perméabilités de bâtiment
+mesurées doit être inférieure ou égale à la "valeur limite de l'étanchéité à
+l'air du bâtiment". Chacune des perméabilités des réseaux aérauliques mesurées
+doit être meilleure ou au moins égale à la "classe limite de l'étanchéité à
+l'air des réseaux aérauliques". 5\. Renouvellement de la certification de la
+démarche qualité de l'étanchéité à l'air d'un bâtiment ou des réseaux
+aérauliques La certification est accordée pour une durée limitée définie par
+le certificateur mais inférieure ou égale à deux ans. Le renouvellement de la
+certification est soumis à examen régulier de la démarche qualité par le
+certificateur, selon les modalités définies par lui. Le renouvellement de la
+certification repose a minima sur la fourniture des documents suivants : \-
+tous les documents de la démarche qualité en vigueur ; \- le document traçant
+l'amélioration continue, définie dans le paragraphe 4 b de la présente annexe
+; \- la liste des bâtiments sur lesquels la démarche a été appliquée dans la
+période écoulée depuis le dernier examen de la démarche ; \- si la démarche
+qualité concerne l'enveloppe des bâtiments, les rapports des mesures réalisées
+conformément à la norme EN ISO 9972 et à ses documents d'application. Les
+exigences sur la réalisation des mesures sont identiques à celles précisées
+dans le paragraphe 4 c. Un nombre minimal de bâtiments appliquant la démarche
+qualité d'étanchéité à l'air doit subir une mesure de perméabilité à l'air. Ce
+nombre minimal est déterminé de la même façon que pour le dossier de demande
+(cf. § 4 b de la présente annexe) ; \- si la démarche qualité concerne les
+réseaux aérauliques, les rapports des mesures réalisées conformément aux
+documents normatifs en vigueur ou aux protocoles en vigueur. Les exigences sur
+la réalisation des mesures sont identiques à celles précisées dans le
+paragraphe 4 c. Un nombre minimal de réseaux appliquant la démarche qualité
+d'étanchéité à l'air doit subir une mesure de perméabilité à l'air. Ce nombre
+minimal est déterminé de la même façon que pour le dossier de demande (voir
+paragraphe 4 b de la présente annexe) ; \- le dispositif mis en œuvre en cas
+d'écart ou de non-conformité vis-à-vis de la démarche qualité ; \-
+l'histogramme des valeurs mesurées, décrit dans le paragraphe 4 c, et couvrant
+les mesures réalisées entre la date du dernier examen de la démarche qualité
+et la date de l'audit de renouvellement. Les histogrammes des périodes
+précédentes seront également fournis et clairement identifiés. Chacune des
+perméabilités de bâtiment mesurées doit être inférieure ou égale à la "valeur
+limite de l'étanchéité à l'air du bâtiment". Chacune des perméabilités des
+réseaux aérauliques mesurées doit être meilleure ou au moins égale que la "
+classe limite de l'étanchéité à l'air des réseaux aérauliques". Préalablement
+à l'évaluation pour le renouvellement, le demandeur peut proposer, sous
+réserve de le justifier par les résultats obtenus et par l'évolution adaptée
+de la démarche qualité : \- une étanchéité à l'air du bâtiment et/ou des
+réseaux aérauliques, garantie par la démarche qualité meilleure que
+l'étanchéité initialement agréée ; \- une révision du domaine d'application,
+sous réserve de le justifier par les résultats obtenus et par l'évolution
+adaptée de la démarche qualité. Dans ce cas, le titulaire fournit les
+documents correspondants avant l'évaluation pour le renouvellement. De même,
+tout titulaire a la possibilité de formuler une demande d'extension/révision
+de son domaine d'application, sous conditions de justifier la demande par les
+résultats obtenus, et par l'évolution adaptée de la démarche qualité en
+cohérence avec le programme de certification. Annexe VIII En savoir plus sur
+cet article... Modifié par ARRÊTÉ du 11 décembre 2014 - art. 2 La présente
+annexe sera publiée au Bulletin officiel du ministère de l'écologie, du
+développement durable et de l'énergie et du ministère du logement, de
+l'égalité des territoires et de la ruralité. Annexe IX En savoir plus sur cet
+article... PERFORMANCE PAR DÉFAUT DES ISOLANTS BIO-SOURCÉS A défaut de pouvoir
+justifier une valeur de conductivité thermique utile d'un isolant bio-sourcé
+définie selon les modalités précisées à l'article 8 du présent arrêté, la
+valeur à utiliser est la valeur par défaut définie dans le tableau ci-après :
+TYPE D'ISOLANT MASSE VOLUMIQUE SÈCHE (r)en kg/m³ CONDUCTIVITÉ THERMIQUE UTILE
+(l)en W/(m.K) Isolants dérivés du bois Liège défini conformément à la normeNF
+B 57-000- comprimé- expansé pur conforme à la norme NF EN 13170 (ICB)- expansé
+aggloméré au brai ou aux résines synthétiques ρ ≤ 500 0,10 100 ≤ ρ ≤ 150 0,049
+100 ≤ ρ < 150 0,049 150 ≤ ρ ≤ 250 0,055 Panneaux de fibres de bois définis
+selon la norme NF EN 316 750 ≤ ρ ≤ 1 000 0,20 550 ≤ ρ ≤ 750 0,18 350 ≤ ρ ≤ 550
+0,14 200 ≤ ρ ≤ 350 0,10 ρ ≤ 200 0,07 Panneaux de laine de bois- panneaux de
+laine de bois agglomérés avec un liant hydraulique, définis conformément à la
+norme NF EN 13168- panneaux de laine de bois agglomérés 350 ≤ ρ ≤ 450 0,10 30
+≤ ρ ≤ 350 0,08 450 ≤ ρ ≤ 600 0,10 Isolants à base de fibres végétales
+Cellulose 20 ≤ ρ ≤ 100 0,049 Chanvre et lin- fibres liées- fibres lâches
+(isolant en vrac, fibres non liées) 20 ≤ ρ ≤ 200 0,048 0,056 Paille comprimée-
+transversalement au sens de la paillette- dans le sens de la paille 80 ≤ ρ ≤
+120 0,052 0,080 Autres isolants à base de fibres végétales 20 ≤ ρ < 40 0,065
+40 ≤ ρ < 60 0,060 60 ≤ ρ < 200 0,065 Isolants à base de fibres animales Laine
+de mouton 10 ≤ ρ < 100 0,046 Autres isolants à base de fibres animales 10 ≤ ρ
+< 20 0,065 20 ≤ ρ < 50 0,060 50 ≤ ρ < 100 0,050 Annexe X PROCÉDURE
+D'ÉVALUATION DES LOGICIELS D'APPLICATIONDE LA RÉGLEMENTATION THERMIQUE 1\.
+Définition L'évaluation est une procédure permettant aux éditeurs de logiciels
+d'application de la réglementation thermique et aux utilisateurs de ces
+logiciels d'obtenir une évaluation objective et transparente de la qualité
+technique des logiciels d'application de la réglementation thermique. 2\.
+Formulation d'une demande d'évaluationpar un éditeur de logiciel Les demandes
+d'évaluation sont à adresser au ministre en charge de la construction et de
+l'habitation.Le dossier de demande est composé a minima des pièces suivantes
+:- une fiche de renseignements portant sur le demandeur et sur le logiciel
+d'application de la réglementation thermique objet de la demande d'évaluation
+;- le domaine exact d'utilisation du logiciel, en matière de type d'usage de
+bâtiments et de systèmes qu'il est possible de simuler ;- cinq exemplaires du
+logiciel à évaluer ;- les résultats des cas de recevabilité présentés sous
+forme de récapitulatif standardisé d'étude thermique au sens de l'article 10
+du présent arrêté. Les descriptifs des cas de recevabilité ainsi que le mode
+opératoire pour les simuler sont fournis, sur demande, par l'organisme désigné
+à cet effet par le ministre en charge de la construction et de l'habitation.
+3\. Traitement des demandes d'évaluation Le ministre en charge de la
+construction évalue la recevabilité de la demande au regard de la complétude
+du dossier de demande et de la pertinence des résultats obtenus sur les cas de
+recevabilité vis-à-vis des exigences définies par le présent arrêté.Le
+ministre en charge de la construction et de l'habitation transmet, pour
+évaluation, les dossiers recevables à un comité d'évaluation constitué à cet
+effet.Le ministre en charge de la construction et de l'habitation établit le
+rapport d'évaluation du logiciel après avis du comité d'évaluation réuni à cet
+effet. 4\. Diffusion du rapport d'évaluation Le rapport d'évaluation est
+transmis au demandeur et mis en accès libre sur un site internet défini par le
+ministre en charge de la construction et de l'habitation. 5\. Suivi et demande
+de mise à jour annuelle de l'évaluation Tous les deux ans, deux mois avant la
+date d'anniversaire de la diffusion du premier rapport d'évaluation l'éditeur
+d'un logiciel évalué fournit au ministre en charge de la construction et de
+l'habitation une demande de mise à jour de l'évaluation présentant les
+adaptations apportées au logiciel d'application de la réglementation thermique
+au regard, notamment :- des éléments mis en avant dans le précédent rapport
+d'évaluation ;- des compléments ou modifications apportées aux arrêtés
+définissant les exigences de la réglementation thermique et la méthode de
+calcul Th-BCE 2012.Le traitement de la demande de mise à jour bisannuelle du
+rapport d'évaluation et la diffusion de ce rapport sont identiques à la
+demande initiale. Annexe XI CARACTÉRISTIQUES À PRENDRE EN COMPTEPOUR LE CALCUL
+DE LA TICRÉF La température intérieure conventionnelle de référence atteinte
+en été, notée Ticréf, est la valeur maximale horaire en période d'occupation
+de la température opérative, calculée pour le bâtiment de référence. Pour le
+secteur résidentiel, la période d'occupation considérée est la journée
+entière. Elle est calculée en adoptant des données climatiques
+conventionnelles pour chaque zone climatique.La Ticréf est calculée, pour le
+bâtiment de référence, selon la méthode de calcul Th-BCE 2012 approuvée par un
+arrêté du ministre chargé de la construction et de l'habitation.Les
+caractéristiques du bâtiment de référence sont celles utilisées pour le calcul
+du Bbio du projet de bâtiment, à l'exception des caractéristiques suivantes :-
+les masques proches de référence sont nuls ;- l'inertie quotidienne de
+référence est une inertie moyenne au sens de la méthode de calcul Th-BCE 2012
+;- l'inertie séquentielle de référence est une inertie très légère au sens de
+la méthode de calcul Th-BCE 2012 ;- pour les locaux à usage d'habitation de
+catégorie CE1 situés en zone de bruit BR3, la référence est un logement
+traversant tel que défini en annexe III ;- la gestion des protections mobiles
+et des ouvertures de baies pour le confort thermique est prise en référence en
+fonctionnement manuel tel que décrit dans la méthode Th-BCE 2012 ;- le facteur
+solaire de référence pour les parois opaques et les liaisons périphériques est
+de 0,02 ;- le facteur de transmission lumineuse de référence est pris égal au
+facteur solaire de référence ;- le facteur solaire de référence des baies est
+défini dans le tableau ci-après, en fonction de leur exposition au bruit, de
+leur orientation et de leur inclinaison ainsi que de la zone climatique et de
+l'altitude. Zone H1a et H2a Toutes altitudes Zones H1b et H2b Altitude > 400 m
+Altitude < ou = 400 m Zones H1c et H2c Altitude > 800 m Altitude < ou = 800 m
+Zones H2d et H3 Altitude > 400 m Altitude < ou = 400 m 1\. - Baies exposées
+BR1 hors locaux à occupation passagère Baie verticale nord 0,65 0,45 0,25 Baie
+verticale autre que nord 0,45 0,25 0,15 Baie horizontale 0,25 0,15 0,10 2\. -
+Baies exposées BR2 ou BR3 hors locaux à occupation passagère Baie verticale
+nord 0,45 0,25 0,25 Baie verticale autre que nord 0,25 0,15 0,15 Baie
+horizontale 0,15 0,10 0,0 3\. - Baies de locaux à occupation passagère Baie
+verticale 0,65 0,65 0,45 Baie horizontale 0,45 0,45 0,45 Pour les baies
+équipées de protections mobiles, le facteur solaire ci-dessus correspond au
+facteur solaire et au taux de transmission lumineuse de la baie protection
+mise en place. Dans ce cas, le facteur solaire de la baie et le taux de
+transmission lumineuse protection non mise en place sont ceux du projet. Fait
+à Paris, le 26 octobre 2010. Le ministre d'Etat, ministre de l'écologie, de
+l'énergie, du développement durable et de la mer, en charge des technologies
+vertes et des négociations sur le climat, Jean-Louis Borloo Le secrétaire
+d'Etat chargé du logement et de l'urbanisme, Benoist Apparu Télécharger le
+document en RTF (poids < 1Mo) Masquer le panneau de navigation Imprimer À
+propos de l'ordre juridique français Licences Quoi de neuf sur le site ? À
+propos du site Plan du site Accessibilité Aide générale Nous écrire Établir un
+lien
+

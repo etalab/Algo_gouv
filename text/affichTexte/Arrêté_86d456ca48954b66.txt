@@ -1,0 +1,224 @@
+Arrêté du 15 février 2006 relatif à l'organisation, à la nature et au
+programme des épreuves des concours de technicien de police technique et
+scientifique de la police nationale - Article Annexe | Legifrance Legifrance -
+Le service public de l'accès au droit Aller au contenu Aller à la navigation
+générale mardi 4 juillet 2017 Informations de mise à jour Accueil Droit
+français Droit européen Droit international Traductions Bases de données Vous
+êtes dans : Accueil> Les autres textes législatifs et réglementaires> Arrêté
+du 15 février 2006 relatif à l'organisation, à la nature et au programme des
+épreuves des concours de technicien de police technique et scientifique de la
+police nationale - Article Annexe Arrêté du 15 février 2006 relatif à
+l'organisation, à la nature et au programme des épreuves des concours de
+technicien de police technique et scientifique de la police nationale -
+Article Annexe Masquer le panneau de navigation << Article précédent \-
+Article suivant >> \- Imprimer Navigation Retour au texte en version initiale
+Article Annexe Versions de l'article: Version abrogée au 1 janvier 2014
+Version initiale Version consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier
+Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre
+Année Ex: 2017 Chemin : Arrêté du 15 février 2006 relatif à l'organisation, à
+la nature et au programme des épreuves des concours de technicien de police
+technique et scientifique de la police nationale AnnexeELI: Non disponible A N
+N E X E S AUX ARTICLES 3 ET 4 DE L'ARRÊTÉ DU 15 FÉVRIER 2006 RELATIF À
+L'ORGANISATION, À LA NATURE ET AU PROGRAMME DES ÉPREUVES DES CONCOURS DE
+TECHNICIEN DE POLICE TECHNIQUE ET SCIENTIFIQUE DE LA POLICE NATIONALE
+PROGRAMMES DES SPÉCIALITÉS DES CONCOURS EXTERNE ET INTERNEDE TECHNICIEN DE
+POLICE TECHNIQUE ET SCIENTIFIQUE DE LA POLICE NATIONALEA N N E X E I Les
+programmes des épreuves des spécialités biologie, chimie, physique, qualité,
+hygiène, sécurité, mesures physiques correspondent à ceux des formations
+universitaires de niveau baccalauréat + 2, reconnues par le ministère de
+l'éducation nationale, de l'enseignement supérieur et de la recherche. Les
+programmes pris comme référence seront ceux en vigueur l'année de l'ouverture
+d'un concours. Biologie Programme pédagogique national relatif aux études
+conduisant au diplôme universitaire de technologie (DUT) de la spécialité «
+génie biologique », option « analyses biologiques et biochimiques ».
+Référentiel du brevet de technicien supérieur (BTS) en « bioanalyses et
+contrôles ». Programme de l'enseignement de la biologie dans les classes
+préparatoires aux grandes écoles (CPGE), option BCPST (1re et 2e année).
+Chimie Programme de chimie de la première année des classes préparatoires
+scientifiques de la voie PCSI, option PC. Programme de chimie de seconde année
+des classes préparatoires scientifique filière PC. Programme pédagogique
+national relatif aux études conduisant au diplôme universitaire de technologie
+de la spécialité chimie. Physique Programme de physique de la première année
+des classes préparatoires scientifiques de la voie PCSI, option PC. Programme
+de physique (2e année) des classes préparatoires scientifiques filière PC.
+Qualité Programme pédagogique national relatif aux études conduisant au
+diplôme universitaire de technologie de la spécialité « qualité, logistique
+industrielle et organisation ». Hygiène, sécurité Programme pédagogique
+national relatif aux études conduisant au diplôme universitaire de technologie
+de la spécialité « hygiène, sécurité, environnement ». Mesures physiques
+Programme pédagogique national relatif aux études conduisant au diplôme
+universitaire de technologie de la spécialité « mesures physiques ». A N N E X
+E I IPROGRAMME DE LA SPÉCIALITÉ ÉLECTRONIQUE I. - Mathématiques. Fondamentaux
+d'analyses. Calcul intégral et équations différentielles. Mathématiques
+appliquées : calcul matriciel, Laplace, Fourier. II. - Physique.
+Electromagnétisme. Propagation des ondes. Physique des semi-conducteurs.
+Transferts thermiques : conduction, dissipation, rayonnement.
+Optoélectronique. Notions de base de CEM (compatibilité électromagnétique).
+III. - Electronique et fonctions fondamentales. Etude des circuits électriques
+: lois des noeuds/mailles, Thévenin/Norton. Modélisation des fonctions
+élémentaires : schéma, fonction de transfert, gain, bande passante. Etude des
+dipôles et quadripôles. Composants élémentaires passifs et actifs. Analyse de
+systèmes du premier second ordre. Semi-conducteurs de base et leurs montages :
+diodes, transistors. Amplificateur linéaire intégré et ses montages. Circuits
+intégrés analogiques et numériques : architecture et technologie.
+Amplification : montages, classification. Filtrage passif et actif : montages,
+classification. Génération de signaux. Boucle à verrouillage de phase : PLL.
+Modulations analogiques : amplitude/fréquence/phase. IV. - Traitement
+numérique des signaux. Echantillonnage, quantification, codage. Conversion
+analogique/numérique Conversion numérique/analogique. Multiplexage,
+démultiplexage. V. - Automatique. Systèmes asservis linéaires. Analyse
+temporelle et fréquentielle. Correction des systèmes asservis. Représentations
+et analyses graphiques : diagramme de Bode, Black, Nyquist. Stabilité,
+précision, rapidité. VI. - Systèmes logiques/automatismes industriels. Algèbre
+binaire, algèbre de Boole. Fonctions et circuits logiques combinatoires.
+Systèmes séquentiels synchrones et asynchrones. Méthodes de description et de
+formalisation des automatismes industriels : diagrammes état/transition,
+algorithmes, langage à contacts, GRAFCET. Mise en oeuvre des automatismes
+industriels : calculateurs, API, etc. Constituants des automatismes :
+capteurs, actionneurs, etc. VII. - Informatique industrielle/systèmes à
+processeurs. Architecture des systèmes à processeurs. Les microprocesseurs.
+Les microcontrôleurs. Les modes d'adressage. Les interruptions. Les mémoires.
+Les horloges et timers. Les ports de communications. Langages de programmation
+: assembleur, C. VIII. - Techniques de réalisation. Conception de schémas
+électriques/CAO. Réalisation de circuits imprimés. IX. -
+Electrotechnique/électronique de puissance. Analyses de circuit électriques
+monophasés/triphasés. Inductances et transformateurs. Machines à courant
+continu, machines synchrones et asynchrones. Convertisseurs statiques. A N N E
+X E I I IPROGRAMME DE LA SPÉCIALITÉ INFORMATIQUE A. - Algorithmes et
+structures de données. Structures de données élémentaires, récursivité et
+complexité. B. - Programmation. Programmation, programmation objet et
+programmation système. C. - Architecture de l'ordinateur. Codage de
+l'information, microprocesseur et composants externes (mémoire, contrôleurs,
+périphériques). D. - Système d'exploitation. Types et caractéristiques des
+systèmes d'exploitation. Langage de commande. Mise en oeuvre et maintenance
+d'un poste de travail. Mise en oeuvre et maintenance d'un serveur. E. -
+Réseaux. Architecture physique et logique des réseaux. Interconnexion de
+réseaux. Architecture de stockage en réseau. Administration de réseau.
+Messageries et annuaires. F. - Modélisation des systèmes d'information.
+Langages de modélisation. Méthodes d'analyse et de conception. G. - Bases de
+données. Gestion de base de données et notion d'administration. H. - Sécurité
+des systèmes d'information. Sécurité et protection des systèmes
+d'exploitation. Sécurité des réseaux. Sécurité des applications. Méthodologie
+et organisation de la sécurité. I. - Notions juridiques. Informatique et
+liberté. Droit de l'informatique. A N N E X E I VPROGRAMME DE LA SPÉCIALITÉ
+BALISTIQUE I. - Balistique. Généralités : Les munitions. Cinématique.
+Balistique externe : Les projectiles. Portées maximales. Les ricochers.
+Balistique terminale : Les simulants balistiques. Le profil lésionnel. Le
+transfert d'énergie. Les écrans. Les protections balistiques. II. - Les armes
+et leurs caractéristiques. Les canons. Les mécaniques de fermeture. Les
+procédés d'alimentation. Les mécaniques de mise à feu. Sécurités et sûretés.
+Démontages. III. - La législation. IV. - Techniques spéciales. Les
+constatations. Comparaison et orientations d'enquêtes. Identifications. Les
+reconstitutions. A N N E X E VPROGRAMME DE LA SPÉCIALITÉ « DOCUMENTS-ÉCRITURES
+MANUSCRITES » Connaissances et précautions préalables : recherches de traces
+papillaires, d'ADN, de foulages (ESDA), ... I. - Types d'affaires rencontrées
+(exemple : contrefaçons, altérations). II. - Les éléments constitutifs d'un
+document. A. - Le support : Le papier. Le papier de sécurité. Les nouveaux
+supports. B. - L'impression : Techniques et procédés. Les formes en relief.
+Les formes plates. Les formes en creux. Les formes à l'écran. Techniques de
+bureautique. C. - Les encres. III. - La personnalisation et les éléments
+d'attribution. La numérotation. Les marquages apportés par l'administration.
+IV. - La biométrie appliquée à la sécurisation des documents. V. - Les
+éléments rapportés. Marques optiques variables. VI. - L'examen des documents
+français. VII. - La reprographie. Le noir et blanc. La couleur. VIII. - Les
+écritures imprimées. IX. - Méthodes de comparaison des écritures
+dactylographiées. X. - Les analyses de laboratoire. XI. - Etude des écritures
+manuscrites. A. - Historique. B. - Les bases de l'écriture. C. - L'étude :
+Appréciation du milieu graphique. Les paramètres graphiques. Le geste
+graphique. Les inductions formelles et conceptuelles. D. - Les altérations de
+l'écriture. E. - Les contrefaçons de l'écriture. F. - Les supports et
+instruments scripturants. G. - Examens sous différents rayonnements. H. -
+Problèmes des croisements de traits. - Preuve de l'antériorité du tracé. A N N
+E X E V IPROGRAMME DE LA SPÉCIALITÉ IDENTITÉ JUDICIAIRE La méthodologie de
+gestion de scène d'infraction : Le protocole d'intervention : - prise en
+compte de la scène d'infraction ; - recherche et matérialisation des traces et
+indices ; - fixation des lieux (plans-photographies) ; - prélèvement des
+traces et indices de toute nature. Le dossier technique : - rapport technique
+d'intervention ; - agencement des plans et photographies. La photographie : La
+lumière : - nature et direction de la lumière ; - température de couleur ; -
+lumière blanche. L'appareil photographique : - argentique et numérique ; -
+fonctionnements ; - supports. Le traitement des supports : - argentique ; -
+numérique. L'éclairage : - naturel ; - artificiel (studio, flash, filtres). Le
+plan : - les différentes catégories de plans ; - la technique de la levée de
+cotes ; - l'établissement du plan. La dactyloscopie : Etude des empreintes
+papillaires : - généralités ; - les fichiers dactyloscopiques ; - le dessin
+épidermique ; - les dessins papillaires digitaux et palmaires. Etude des
+classes de formes des dessins digitaux : - méthode de classement
+monodactylaire et décadactylaire ; - méthode de fonctionnement du fichier
+automatisé des empreintes digitales (FAED). Les traces papillaires : -
+généralités ; - la recherche des traces papillaires sur les lieux d'une
+infraction ; - les procédés de révélation et de prélèvement ; - le prélèvement
+d'objets porteurs de traces papillaires. L'identification des empreintes et
+des traces papillaires : - considérations générales ; - la preuve
+dactyloscopique ; - le dossier technique de démonstration d'identité. La
+signalisation des individus : - cadre juridique de la signalisation ; - les
+documents relatifs à la signalisation (logiciel Gaspard) ; - le signalement
+descriptif et les marques particulières ; - la photographie signalétique ; -
+le relevé des empreintes papillaires digitales et palmaires ; - le prélèvement
+buccal (kit FTA). Le fichier national automatisé des empreintes génétiques
+(FNAEG) : - cadre législatif ; - fonctionnement. Le prélèvement des traces et
+indices de toute nature : - méthodologie des prélèvements ; - conditionnement
+; - conservation. A N N E X E V I IPROGRAMME DE LA SPÉCIALITÉ PHOTOGRAPHIE I.
+- Histoire de la photographie. II. - Physique appliquée. Optique Optique
+géométrique : - dioptre plan, prismes, miroirs plans, dioptres sphériques ; -
+lentilles minces : conjugaison, association. Objectifs photographiques : -
+généralités, distance focale, classification, angle de champ ; - étude
+approfondie qualitative et quantitative ; - les grandes familles : rétrofocus,
+téléobjectifs, zooms ; - aberrations chromatiques et géométriques ; - études
+des champs, champ en largeur ; - profondeur de champ ; - mouvements des
+chambres grand format ; - optique numérique ; - photomicrographie et
+photomacrographie. Optique physique : - interférences, polarisation,
+diffraction, holographie. Optique physiologique : - propriétés de l'oeil,
+vision des couleurs, vision du relief. Physique du rayonnement Photométrie
+visuelle et énergétique. Les sources de lumière (naturelle, artificielle), les
+filtres, les photomètres. Colorimétrie Lois de Grassman. Classification des
+couleurs, Atlas. Les espaces colorimétriques. III. - Sensitométrie. Physique
+générale de la chaîne photographique. Méthodes expérimentales de la
+sensitométrie. Caractéristiques sensitométriques des récepteurs. Variables
+d'exposition et de traitement analogiques et numériques. Rendus des valeurs,
+rendus des couleurs, rendus des détails. Maîtrise de la qualité. Sensitométrie
+des systèmes. IV. - Chimie appliquée. L'émulsion photographique, fabrication.
+Chimie des traitements noir et blanc et couleur. V. - Procédés et récepteurs
+photosensibles. Les procédés argentiques noir et blanc et couleur. Les
+procédés numériques. Les systèmes de stockage des images. Connaissance des
+procédés d'impression. Conservation des images. VI. - Traitement numérique des
+images. Principes généraux, échanges et transmissions, compression.
+Exploitation des équipements et des logiciels de traitement. Etalonnage des
+chaînes numériques. VII. - Equipements de prise de vue. Caractéristiques des
+appareils de capture argentique et numérique. Visée, mise au point,
+obturation, exposition. Equipements d'éclairage. VIII. - Equipements de
+laboratoire. Organisation des laboratoires. Matériel de traitements et de
+tirage manuels et automatiques. Matériel de traitement numérique : scanners,
+stations, interfaces, imprimantes et imageurs, tireuses automatiques
+numériques. IX. - La photographie judiciaire. La photographie de scène
+d'infraction. Les photographies de blessures et post mortem. La photographie
+aérienne. La photographie sous-marine. La photographie de nuit. Concours
+interne de technicien de police techniqueet scientifique de la police
+nationaleA N N E X E IPROGRAMME DE DROIT PÉNAL ET DE PROCÉDURE PÉNALELIÉ À
+L'ACTIVITÉ DE LA POLICE TECHNIQUE ET SCIENTIFIQUEA. - Notions de droit pénal
+L'infraction : Définition, éléments constitutifs, classification. B. - Notions
+de procédure pénale I. - La preuve dans le procès pénal : L'aveu, le
+témoignage, les constatations matérielles, les présomptions ou indices, la
+force probante des différents modes de preuve. II. - L'enquête de flagrance :
+Domaine d'application : quant aux infractions, quant aux personnes. Les cas de
+flagrance. Les actes de la procédure de flagrant délit : la saisine, l'avis au
+procureur, le transport sur les lieux, les constatations, l'appréhension, les
+réquisitions, les perquisitions, saisies et scellés. III. - L'enquête
+préliminaire : Les caractères, le domaine, les personnes habilitées, les actes
+de procédure. IV. - L'enquête sur commission rogatoire : Les caractères de
+l'enquête, la délivrance de la commission rogatoire, les actes procéduraux de
+l'enquête, les perquisitions et saisies. V. - La découverte de cadavre et les
+disparitions de personnes : L'enquête, les caractéristiques et les suites de
+l'enquête. VI. - La saisine des services de la police technique et
+scientifique : L'intervention sur la scène d'infraction : article D. 7 du code
+de procédure pénale. La signalisation et les prélèvements externes : article
+55-1 du code de procédure pénale. Les articles 60, 74, 77-1 du code de
+procédure pénale. Les saisies et scellés : rôle et modalités. Les expertises :
+articles 156 à 169 du code de procédure pénale. VII. - Les fichiers
+d'identification : Le FAED : décret n° 2005-585 du 27 mai 2005. Le FNAEG :
+décret n° 2004-470 du 25 mai 2004. Masquer le panneau de navigation << Article
+précédent \- Article suivant >> \- Imprimer À propos de l'ordre juridique
+français Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

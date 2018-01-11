@@ -1,0 +1,364 @@
+Délibération n° 2015-186 du 25 juin 2015 portant avis sur un projet d'arrêté
+modifiant l'arrêté du 21 février 2014 portant création par la direction
+générale des finances publiques d'un outil de lutte contre la fraude dénommé «
+ciblage de la fraude et valorisation des requêtes » (CFVR) (demande d'avis n°
+1726052v3) | Legifrance Legifrance - Le service public de l'accès au droit
+Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération n° 2015-186 du 25
+juin 2015 portant avis sur un projet d'arrêté modifiant l'arrêté du 21 février
+2014 portant création par la direction générale des finances publiques d'un
+outil de lutte contre la fraude dénommé « ciblage de la fraude et valorisation
+des requêtes » (CFVR) (demande d'avis n° 1726052v3) Délibération n° 2015-186
+du 25 juin 2015 portant avis sur un projet d'arrêté modifiant l'arrêté du 21
+février 2014 portant création par la direction générale des finances publiques
+d'un outil de lutte contre la fraude dénommé « ciblage de la fraude et
+valorisation des requêtes » (CFVR) (demande d'avis n° 1726052v3) Masquer le
+panneau de navigation Imprimer Navigation DÉLIBÉRATION n°2015-186 du 25 juin
+2015 Version initiale Informations sur ce texte JORF n°0225 du 29 septembre
+2015 texte n° 54 Délibération n° 2015-186 du 25 juin 2015 portant avis sur un
+projet d'arrêté modifiant l'arrêté du 21 février 2014 portant création par la
+direction générale des finances publiques d'un outil de lutte contre la fraude
+dénommé « ciblage de la fraude et valorisation des requêtes » (CFVR) (demande
+d'avis n° 1726052v3) NOR: CNIX1522371X ELI: Non disponible La Commission
+nationale de l'informatique et des libertés,Saisie par le ministre des
+finances et des comptes publics d'une demande d'avis concernant un projet
+d'arrêté modifiant l'arrêté du 21 février 2014 portant création par la
+direction générale des finances publiques d'un outil de lutte contre la fraude
+dénommé « ciblage de la fraude et valorisation des requêtes » (CFVR) ;Vu la
+convention n° 108 du Conseil de l'Europe pour la protection des personnes à
+l'égard du traitement automatisé des données à caractère personnel ;Vu la
+directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995
+relative à la protection des personnes physiques à l'égard du traitement des
+données à caractère personnel et à la libre circulation de ces données ;Vu le
+code général des impôts, notamment ses articles 1741 et suivants ;Vu le livre
+des procédures fiscales, notamment ses articles L. 10, L. 81, L. 229 à L. 231
+;Vu le code pénal, notamment ses articles 313-1 et suivants ;Vu la loi n°
+78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et
+aux libertés, notamment son article 26 (I, 2°) ;Vu le décret n° 2005-1309 du
+20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;Vu
+l'arrêté du 21 février 2014 modifié portant création par la direction générale
+des finances publiques d'un traitement automatisé de lutte contre la fraude
+dénommé « ciblage de la fraude et valorisation des requêtes » ;Vu la
+délibération n° 2014-045 du 30 janvier 2014 portant avis sur un projet
+d'arrêté portant création par la direction générale des finances publiques
+d'un traitement automatisé de lutte contre la fraude dénommé « ciblage de la
+fraude et valorisation des requêtes » ;Après avoir entendu M. Jean-Luc VIVET,
+commissaire, en son rapport, et M. Jean-Alexandre SILVY, commissaire du
+Gouvernement, en ses observations,Emet l'avis suivant :La commission a été
+saisie, par le ministre des finances et des comptes publics, d'une demande
+d'avis sur un projet d'arrêté modifiant l'arrêté du 21 février 2014 susvisé
+relatif au traitement automatisé de données à caractère personnel dénommé «
+ciblage de la fraude et valorisation des requêtes » (CFVR), mis en œuvre par
+la direction générale des finances publiques (DGFiP).Cet arrêté, pris après
+l'avis de la commission en date du 30 janvier 2014, a autorisé la mise en
+œuvre, à titre expérimental pour une durée d'un an, dudit traitement, basé sur
+du datamining et ayant pour finalité la lutte contre la fraude fiscale, et en
+particulier la fraude aux remboursements de TVA concernant les contribuables
+professionnels. Au vu de cette expérimentation, le ministère souhaite
+généraliser la mise en œuvre du traitement CFVR et étendre son périmètre à
+l'ensemble des fraudes fiscales et des contribuables.Dans la mesure où le
+traitement projeté a notamment pour objet la prévention, la recherche, la
+constatation et la poursuite d'infractions pénales, sa mise en œuvre doit être
+autorisée par arrêté ministériel, pris après avis motivé et publié de la
+commission, en application des dispositions de l'article 26 (I, 2°) de la loi
+du 6 janvier 1978 modifiée.Dans son avis du 30 janvier 2014, la commission
+avait pris acte de certaines garanties prévues dans le cadre de la mise en
+œuvre du traitement, dont le caractère expérimental du dispositif, le
+périmètre restreint de l'expérimentation menée à la fraude à la TVA et aux
+seuls contribuables professionnels ainsi que le fait que les éléments qui en
+seront issus ne conduisent pas automatiquement à une programmation des
+contrôles ou à des décisions de redressement.Elle avait néanmoins demandé
+qu'un bilan détaillé lui soit communiqué avant toute pérennisation du
+traitement. C'est dès lors à l'aune de ce bilan d'expérimentation que
+l'ensemble des conditions de mise en œuvre du traitement projeté sont
+examinées par la commission. A cet égard, elle estime que, compte tenu des
+enjeux soulevés par le datamining, la combinaison et le croisement croissant
+de différents outils de détection et de lutte contre la fraude, l'ampleur des
+données traitées ainsi que le caractère innovant du dispositif envisagé, le
+traitement CFVR doit être entouré de garanties fortes de nature à assurer un
+niveau élevé de protection des données.Sur les finalités et le champ
+d'application du dispositif :Ce traitement s'inscrit dans le cadre de la lutte
+contre la fraude fiscale. Il a pour objectif principal d'améliorer le ciblage
+des contribuables à contrôler, en permettant de détecter, à partir des données
+contenues dans les dossiers des contribuables, les corrélations existantes
+entre les dossiers à risques et les comportements frauduleux, ou susceptibles
+de l'être, modélisés par un logiciel de datamining. Il est mis en œuvre par
+une mission, dénommée « Requêtes et Valorisation », rattachée au service du
+contrôle fiscal et au service des systèmes d'information de la DGFiP et
+dernièrement créée dans cette perspective de rationalisation du contrôle
+fiscal.Plus précisément, le mode de fonctionnement de CFVR résulte d'un
+programme se basant sur des équations mathématiques de probabilité. Analysant
+les données issues de plusieurs traitements mis en œuvre par la DGFiP, ce
+dispositif utilise une technique dite de « datamining » consistant en une
+fouille approfondie des données s'appuyant sur des méthodes exploratoires
+basées sur des algorithmes, notamment statistiques, de nature à permettre de
+modéliser des comportements frauduleux. Il doit permettre, par l'amélioration
+des capacités d'analyse de l'administration fiscale, de mieux identifier les
+situations potentiellement frauduleuses en mettant en évidence des
+incohérences ou des défaillances déclaratives dans les dossiers des
+contribuables, perfectionnant ainsi le ciblage des contrôles à la suite de
+requêtes appropriées.A titre général, la commission rappelle que la finalité
+de lutte contre la fraude fiscale, qui constitue un objectif à valeur
+constitutionnelle, est légitime au sens de l'article 6-2° de la loi du 6
+janvier 1978 modifiée.Elle relève en outre que la production de listes de
+situations susceptibles de présenter un risque de fraude significative n'a pas
+pour effet de déclencher automatiquement des opérations de contrôle fiscal. En
+effet, ces listes de résultats seront transmises aux agents compétents des
+services de la DGFiP, qui évalueront le risque avant de prendre toute décision
+de contrôle. Ainsi, les éléments directement issus du traitement n'auront
+qu'une valeur de signalement parmi d'autres à la disposition des services
+fiscaux et ne conduiront en aucun cas à une programmation automatique des
+contrôles ni, a fortiori, à des décisions de redressement directement
+opposables aux contribuables. Dans le cas où de tels contrôles seraient
+opérés, la commission rappelle qu'ils devront être mis en œuvre dans les
+conditions prévues par le livre des procédures fiscales (LPF) et notamment
+dans le respect du principe du contradictoire. Elle estime dès lors que le
+traitement est conforme aux dispositions de l'article 10 de la loi du 6
+janvier 1978 modifiée. La commission prend par ailleurs acte que, à sa
+demande, le projet d'arrêté sera modifié de façon à mieux faire apparaître les
+finalités du dispositif CFVR, qui doivent être, conformément à l'article 6-2°
+de ladite loi, déterminées et explicites. Elle estime que la modification
+envisagée permet de déterminer plus précisément les conditions de mise en
+œuvre du traitement des données ainsi que les conditions d'exploitation de ces
+dernières.Néanmoins, elle estime que la rédaction concernant la seconde
+finalité poursuivie par le traitement, relative à « l'optimisation des outils
+existants sur l'analyse risques », devrait être clarifiée.En tout état de
+cause, au vu du caractère innovant du dispositif et des risques qu'il est
+susceptible de faire peser sur la protection des données, la commission estime
+que son champ d'application doit être, dans un premier temps, limité et
+précisément déterminé avant d'être, le cas échéant, mis en œuvre à grande
+échelle.En particulier, la commission relève que le dispositif projeté induit
+un changement d'échelle significatif en ce qu'il serait mis en œuvre pour les
+contribuables particuliers. Dès lors, elle considère que le traitement CFVR
+devrait être, dans un premier temps, limité à certains contribuables
+particuliers.A cet égard, la commission prend acte que, à sa demande, le
+projet d'arrêté sera complété pour viser non plus indistinctement l'ensemble
+des personnes physiques, mais les seules personnes disposant d'un lien factuel
+avec une entreprise (personnes y détenant ou y ayant détenu des parts sociales
+ou des actions, personnes y exerçant ou y ayant exercé des fonctions de
+dirigeant, liens interpersonnels entre les personnes précitées), révélé dans
+le cadre d'un montage frauduleux.En outre, compte tenu du caractère
+nécessairement évolutif des hypothèses de fraude et, par conséquent, des
+modalités de fonctionnement du traitement, la commission estime que la mise en
+œuvre de CFVR devrait être progressive et conditionnée à l'élaboration de
+bilans réguliers sur les conditions d'utilisation et d'exploitation des
+données.A cet égard, elle prend acte que, à sa demande, le projet d'arrêté
+sera modifié afin de prévoir que le traitement CFVR est mis en œuvre à titre
+expérimental s'agissant des contribuables particuliers précités. Elle prend
+également acte des engagements du ministère à lui adresser, au terme d'une
+année de mise en œuvre, un bilan concernant le dispositif CFVR désormais
+généralisé pour les contribuables professionnels ainsi qu'un bilan concernant
+l'expérimentation relative aux contribuables particuliers. Elle rappelle
+néanmoins que le projet d'arrêté doit nécessairement préciser la durée de
+l'expérimentation ainsi autorisée s'agissant des contribuables
+particuliers.Ces bilans devront notamment préciser les résultats obtenus, les
+paramètres pris en compte pour établir les liens factuels entre une personne
+physique, un dirigeant ou associé et un contribuable professionnel, les
+catégories de fraude concernées par le dispositif ainsi que les modélisations
+spécifiques que chacune d'elles aura nécessitées. Ils permettront ainsi à la
+commission d'apprécier les conditions exactes de mise en œuvre du traitement
+et de se prononcer sur une éventuelle généralisation du dispositif concernant
+les contribuables particuliers.Sur la nature des données traitéesAux termes du
+projet d'article 3 de l'arrêté modifié, les données à caractère personnel
+traitées concernent l'identification des personnes physiques et des
+entreprises, des éléments de situation professionnelle et économique des
+contribuables, des informations d'ordre économique et financier ainsi que des
+« informations externes ». Dès lors que l'ensemble de ces informations, à
+l'exception de ces dernières, sont issues de traitements de données mis en
+œuvre régulièrement par la DGFiP, la commission estime que leur traitement à
+des fins de lutte contre la fraude fiscale n'est pas incompatible avec les
+finalités initiales desdits traitements, conformément à l'article 6-2° de la
+loi « informatique et libertés ».La commission relève que le traitement vise à
+combiner des données relatives à la fiscalité professionnelles et des données
+fiscales relatives aux particuliers. Elle estime que cette combinaison peut
+être justifiée par le fait qu'une analyse conjointe de ces fiscalités est
+susceptible de faciliter la détection de montages fiscaux frauduleux, tout
+particulièrement en cas d'activités dissimulées.Par ailleurs, la commission
+rappelle que les dispositions de l'article 29 de la loi du 6 janvier 1978
+modifiée imposent la mention, dans tout acte réglementaire autorisant la mise
+en œuvre d'un traitement, de toutes les catégories de données personnelles
+traitées. Elle demande dès lors que les données bancaires et les coordonnées
+(postales, téléphoniques et électroniques) des personnes physiques, qui sont
+enregistrées dans le traitement CFVR, soient expressément mentionnées dans le
+projet d'arrêté.En outre, au regard du volume important de données et de
+personnes concernées, la commission estime que des garanties doivent être
+prévues quant à la pertinence et à la qualité des données à caractère
+personnel traitées par l'outil « CFVR », ainsi qu'à l'utilisation qui pourra
+en être faite, conformément aux dispositions prévues aux 3° et 4° de l'article
+6 de la loi du 6 janvier 1978 modifiée.Ainsi, au regard des modalités de
+collecte indirecte des données, principalement issues des autres traitements
+mis en œuvre par la DGFiP, une attention particulière devra être portée au
+caractère exact et mis à jour des données enregistrées dans le traitement
+CFVR.Le principe de pertinence des données ne pourra en particulier trouver
+application que dans la mesure où la mise en œuvre du traitement sera
+progressivement adaptée au regard des travaux de modélisation de la mission «
+Requêtes et Valorisation », pour chaque type de fraude concernée. A cet égard,
+la commission prend acte que, à sa demande, le projet d'arrêté sera complété
+de dispositions rappelant la nécessité que chaque catégorie de donnée ne soit
+enregistrée dans CFVR que pour autant qu'elle soit pertinente, adéquate et non
+excessive au regard des finalités précisément poursuivies par le
+traitement.Néanmoins, elle relève que la rédaction du projet d'arrêté, en ce
+qu'elle mentionne le traitement d'« informations externes », n'est pas
+conforme aux dispositions de l'article 6-3° de la loi du 6 janvier 1978
+modifiée. En effet, au vu des nombreuses informations auxquelles peut accéder
+l'administration fiscale, elle ne permet pas de s'assurer que seules les
+données adéquates, pertinentes et non excessives soient enregistrées dans le
+traitement CFVR.Si elle prend acte des quelques précisions apportées par le
+ministère sur les bases de données externes qui pourraient être exploitées, la
+commission relève qu'elles ne correspondent pas à la formulation de l'arrêté,
+bien plus générale. Elle demande dès lors que cette rédaction soit modifiée
+et, conformément à l'article 29 de la loi du 6 janvier 1978 modifiée, que les
+catégories de données susceptibles d'être traitées au titre de ces «
+informations externes » soient expressément mentionnées.En tout état de cause,
+la commission rappelle que de telles données doivent être régulièrement
+obtenues par l'administration fiscale et limitées au strict nécessaire au
+regard de chaque type de fraude visée.Elle rappelle également que les données
+susceptibles d'être obtenues dans le cadre de l'exercice du droit de
+communication prévu aux articles L. 81 et suivants du LPF doivent être exclues
+de tout enregistrement dans le traitement CFVR. En effet, ce droit, exercé
+ponctuellement par l'administration fiscale dans le cadre de dossiers
+spécifiques, n'a pas pour objet de déterminer les typologies de fraude mais de
+permettre à l'administration d'exercer ses missions de contrôle fiscal. Il
+constitue ainsi l'un des outils mis à disposition de l'administration fiscale
+pour lutter contre la fraude, dont la mise en œuvre peut éventuellement
+intervenir en aval de l'utilisation de CFVR, sur les dossiers que ce
+traitement aura permis d'identifier comme à risque et qui ne doit donc pas
+être confondu avec ledit traitement,Sur ce point, le ministère a confirmé
+qu'aucune donnée obtenue dans ce cadre ne serait enregistrée dans CFVR. Dans
+la mesure où il s'agit d'une garantie substantielle, la commission estime
+néanmoins que le projet d'arrêté devrait le prévoir expressément.Enfin, à
+titre général, les conditions d'utilisation des informations « externes »
+ainsi collectées, et notamment leurs modalités de mise à jour, devront
+également faire l'objet d'un examen particulier. Les bilans qui seront
+communiqués à la commission à l'issue d'une année de mise en œuvre du
+traitement devront dès lors contenir des précisions sur ces points.Sur la
+durée de conservation des données :Aux termes du projet d'article 4 de
+l'arrêté modifié, l'ensemble des données à caractère personnel seront
+conservées dans le traitement pendant « une durée maximale de dix ans ».Cette
+durée correspond à la durée maximale du droit de reprise de l'administration
+fiscale, qui peut s'exercer, pour le cas d'activité occulte, jusqu'à la fin de
+la dixième année qui suit celle au titre de laquelle l'imposition est due ou
+au titre de laquelle la taxe est devenue exigible.Si la commission relève que
+ce droit de reprise s'exerce dans la majorité des situations dans des délais
+plus resserrés, elle estime qu'une telle durée de conservation des données
+pourrait être adaptée au regard de la finalité de modélisation des
+comportements frauduleux poursuivie par le traitement, qui nécessite de
+disposer d'un historique détaillé et d'une certaine profondeur de
+données.Néanmoins, elle estime qu'une telle durée maximale doit être adaptée,
+à l'instar des catégories de données traitées, en fonction des types de fraude
+en cause, afin de se conformer aux dispositions de l'article 6-5° de la loi du
+6 janvier 1978 modifiée. Ainsi, des travaux doivent être menés par le
+responsable de traitement afin de préciser, au fur et à mesure de la mise en
+œuvre de CFVR, le fonctionnement du dispositif en termes de masse de données
+traitées (organiser la suppression des éléments permettant l'identification
+des personnes concernées qui ne sont plus strictement utiles), de durées et de
+modalités de conservation des différentes catégories de données (organiser des
+bases d'archivage intermédiaire) et de consultation desdites données (en
+distinguant l'exploitation de celles-ci par la mission « Requêtes et
+Valorisation » aux fins de modélisation, de celle des destinataires des
+résultats du traitement).De même, des durées de conservation ou de
+consultation modulées en fonction des situations en cause (fraudes avérées ou
+simple historique des données) devraient être mises en œuvre, dans la mesure
+où la finalité du traitement CFVR est d'améliorer le ciblage des situations à
+contrôler.Des précisions sur ces points devront donc être fournies dans le
+cadre des bilans de mise en œuvre du traitement et ces éléments feront l'objet
+d'un examen particulier de la commission dans le cadre de la future
+généralisation du dispositif.Sur les destinataires des données :L'article 5 de
+l'arrêté du 21 février 2014 en vigueur n'est pas modifié par le présent projet
+d'arrêté. Il prévoit que « les informations traitées sont consultables sur un
+serveur de la direction générale des finances publiques par les personnels
+habilités de la mission “Requêtes et valorisation” », chargés de la mise en
+œuvre du traitement. Il précise également que seuls les agents des services de
+la DGFiP chargés de la recherche et du contrôle fiscal sont destinataires des
+résultats obtenus par la mission « Requêtes et Valorisation ».Au regard de
+l'ampleur du traitement, la commission estime que la limitation du nombre de
+personnels habilités à accéder, directement ou indirectement, aux données qui
+y sont enregistrées constitue une garantie forte du respect de la protection
+des données des personnes concernées.Elle prend dès lors acte que, à sa
+demande, le projet d'arrêté sera complété afin de préciser que seuls les
+agents des services chargés du contrôle fiscal territorialement compétents
+sont rendus destinataires, par la mission « Requêtes et Valorisation », des
+données personnelles strictement utiles à leur mission et conformément au
+principe du besoin d'en connaître. A cet égard, la commission rappelle que ces
+agents accèdent, au travers d'une fonctionnalité de requête limitée au numéro
+SIREN, aux seules données qui sont mises à leur disposition par la mission «
+Requêtes et Valorisation », et non à l'ensemble des données traitées par
+CFVR.Sur les droits des personnes concernées :L'article 6 de l'arrêté du 21
+février 2014 en vigueur est consacré aux droits des personnes concernées par
+le traitement. En application du VI de l'article 32 de la loi du 6 janvier
+1978 modifiée, le droit d'information ne s'applique pas à ce traitement.
+Conformément à l'article 38 de la même loi, le droit d'opposition est
+également écarté. L'arrêté prévoit enfin que les droits d'accès et de
+rectification s'exercent de manière indirecte, par l'intermédiaire de la
+commission, dans les conditions prévues par les articles 41 et 42 de la loi «
+informatique et libertés ».De telles modalités sont autorisées par les
+dispositions de la loi du 6 janvier 1978 modifiée s'agissant d'un traitement
+ayant notamment pour objet la prévention, la recherche, la constatation ou la
+poursuite d'infractions pénales.Si l'absence de droit d'opposition des
+personnes n'appelle pas d'observation de la part de la commission, elle
+considère néanmoins qu'une information pourrait utilement être assurée sans
+remettre en cause les finalités du traitement CFVR. En effet, une information
+générale, assurée en amont, dans le cadre de la collecte initiale des données
+enregistrées par la suite dans le traitement CFVR, et visant uniquement à
+informer les personnes concernées d'une utilisation de ces données à des fins
+de lutte contre la fraude fiscale, permettrait une certaine transparence, que
+la commission estime essentielle en matière de traitement de lutte contre la
+fraude et, plus généralement, de datamining. Elle prend dès lors acte de
+l'engagement du ministère à assurer une telle information.En ce qui concerne
+le droit d'accès aux données, la commission estime qu'au regard de l'ampleur
+du dispositif et de son caractère innovant, il ne paraît pas opportun de
+maintenir un droit d'accès indirect aux données traitées par CFVR. Elle relève
+en outre que les données qui y figurent sont issues de traitements de données
+mis en œuvre par l'administration fiscale et pour lesquels les droits d'accès
+et de rectification s'exercent directement par les personnes concernées. Elle
+rappelle enfin qu'un droit d'accès direct aux données n'interdit pas, par
+principe, l'établissement de mesures conservatoires.Néanmoins, dans la mesure
+où les dispositions des articles 41 et 42 de la loi précitée peuvent être
+applicables au dispositif, elle considère que ce point particulier pourra
+faire l'objet d'un réexamen dans le cadre de l'éventuelle généralisation.En
+tout état de cause, elle rappelle que les dispositions de l'article 39 (I, 5°)
+de la loi « informatique et libertés » permettent aux personnes concernées
+d'interroger le responsable de traitement en vue d'obtenir, y compris en cas
+de droit d'accès indirect, les informations « permettant de connaître et de
+contester la logique qui sous-tend le traitement automatisé de données
+».Enfin, la commission rappelle que les dispositions du LPF imposent à
+l'administration fiscale, en cas de vérification, de contrôle ou de sanction
+en matière fiscale faisant notamment suite aux indicateurs produits par le
+traitement CFVR, dans les délais et les conditions prévus par ledit code,
+d'informer les personnes concernées des éléments en possession de
+l'administration et de leur donner accès à ces derniers.Sur la sécurité des
+données :La commission estime que la dimension importante du traitement
+projeté, la nature des données traitées ainsi que la volonté d'automatiser la
+détection de la fraude sont de nature à accroître les risques en termes
+d'atteinte à la vie privée des personnes concernées. Les mesures de sécurité
+et de confidentialité des données sont dès lors d'une extrême importance dans
+le traitement CFVR, qui doit être entouré de mesures strictes et rigoureuses.A
+cet égard, la commission relève que des profils d'habilitation stricts pour
+accéder au traitement ont été définis et que l'authentification des
+utilisateurs est basée sur des mots de passe dont la complexité est conforme
+aux préconisations de la CNIL. Elle relève également que les échanges de
+données sont réalisés au moyen de canaux sécurisés et, notamment, que les
+données transmises sont chiffrées.Elle relève en outre qu'une fonctionnalité
+de journalisation des opérations de consultation, création, mise à jour et
+suppression a été définie, étant précisé que les données journalisées ne
+seront pas conservées plus d'une année. La commission insiste sur la nécessité
+d'assurer une telle traçabilité et d'exploiter régulièrement les données qui
+en sont issues, afin d'éviter tout détournement de finalité du traitement. A
+cet égard, elle prend acte que, à sa demande, les données de connexion des
+destinataires des résultats du traitement (les agents des services chargés de
+la recherche et du contrôle fiscal) feront également l'objet d'une traçabilité
+et que le projet d'arrêté sera complété sur ce point.Au regard de ces
+éléments, les mesures de sécurité décrites par le responsable de traitement
+sont conformes à l'exigence de sécurité prévue par l'article 34 de la loi du 6
+janvier 1978 modifiée. La commission rappelle toutefois que cette obligation
+nécessite la mise à jour des mesures de sécurité au regard de la réévaluation
+régulière des risques. La présidente, I. Falque Pierrotin Télécharger le
+document en RTF (poids < 1Mo) Extrait du Journal officiel électronique
+authentifié (format: pdf, poids : 0.21 Mo) Masquer le panneau de navigation
+Imprimer À propos de l'ordre juridique français Licences Quoi de neuf sur le
+site ? À propos du site Plan du site Accessibilité Aide générale Nous écrire
+Établir un lien
+

@@ -1,0 +1,350 @@
+Arrêté du 4 janvier 2010 relatif au protocole d'échanges de données entre
+ordonnateur et comptable public pour le calcul des encaissements des
+redevances perçues en application des articles L. 213-10-3 et L. 213-10-6 du
+code de l'environnement | Legifrance Legifrance - Le service public de l'accès
+au droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Arrêté du 4 janvier 2010 relatif
+au protocole d'échanges de données entre ordonnateur et comptable public pour
+le calcul des encaissements des redevances perçues en application des articles
+L. 213-10-3 et L. 213-10-6 du code de l'environnement Arrêté du 4 janvier 2010
+relatif au protocole d'échanges de données entre ordonnateur et comptable
+public pour le calcul des encaissements des redevances perçues en application
+des articles L. 213-10-3 et L. 213-10-6 du code de l'environnement Masquer le
+panneau de navigation Imprimer Arrêté du 4 janvier 2010 relatif au protocole
+d'échanges de données entre ordonnateur et comptable public pour le calcul des
+encaissements des redevances perçues en application des articles L. 213-10-3
+et L. 213-10-6 du code de l'environnement NOR: DEVO1000634A Version consolidée
+au 04 juillet 2017 Le ministre d'Etat, ministre de l'écologie, de l'énergie,
+du développement durable et de la mer, en charge des technologies vertes et
+des négociations sur le climat, le ministre du budget, des comptes publics, de
+la fonction publique et de la réforme de l'Etat et la ministre auprès du
+ministre de l'intérieur, de l'outre-mer et des collectivités territoriales,
+chargée de l'outre-mer, Vu le code de l'environnement, notamment ses articles
+L. 213-10-3, L. 213-10-6, L. 213-14-2, R. 213-48-25, R. 213-48-35 et R.
+213-76-4 ; Vu le code général des collectivités territoriales, notamment son
+article R. 2224-19-7 ; Vu l'arrêté du 22 février 2008 modifiant l'arrêté du 10
+juillet 1996 relatif aux factures de distribution de l'eau et de collecte et
+de traitement des eaux usées ; Vu l'avis de la commission consultative
+d'évaluation des normes du 3 décembre 2009, Arrêtent : Article 1 En savoir
+plus sur cet article... En matière de recouvrement de la redevance pour
+pollution de l'eau d'origine domestique définie à l'article L. 213-10-3 du
+code de l'environnement et de la redevance pour modernisation des réseaux de
+collecte définie à l'article L. 213-10-6 du même code, l'utilisation du
+protocole d'échanges de données entre ordonnateur et comptable public, dénommé
+protocole ROLMRE, doit être conforme aux dispositions prévues dans l'annexe au
+présent arrêté. Article 2 En savoir plus sur cet article... La directrice de
+l'eau et de la biodiversité, le directeur général des finances publiques et le
+délégué général à l'outre-mer sont chargés, chacun en ce qui le concerne, de
+l'exécution du présent arrêté, qui sera publié au Journal officiel de la
+République française. Annexes Annexe En savoir plus sur cet article... FICHIER
+DE LIAISON RECETTES SUR RÔLES FICHIER ROLMRE I. - Caractéristiques propres
+différenciant "ROLMRE" de "INDIGO" Ce fichier de liaison est destiné à la
+communication des recettes massives ou répétitives mises en recouvrement par
+les ordonnateurs, par voie de rôles collectifs et non de titres individuels.
+Il présente trois caractéristiques principales qui en font, pour ces
+opérations, un instrument de communication mieux adapté que ne le serait le
+fichier "INDIGO" : 11\. Il permet l'utilisation d'un identifiant des débiteurs
+autre que le numéro de titre éventuellement complété par un numéro d'ordre,
+obligatoire dans le cas de "INDIGO". Cette souplesse est particulièrement
+utile dans le cas des recettes dont la liquidation est effectuée chez
+l'ordonnateur au moyen de chaînes spécialisées, indépendantes de l'application
+financière et comptable au sein de laquelle les mises recouvrement ne sont
+alors intégrées que postérieurement, en un ou plusieurs titres collectifs.
+12\. Il permet de répondre aux besoins spécifiques résultant, quant aux
+données à communiquer, des particularités propres aux redevances d'eau et
+d'assainissement = recettes à ventiler entre deux budgets, éventuellement
+assorties de TVA et susceptibles d'être majorées au taux de 25 %. Cette
+orientation ne fait pas obstacle à l'utilisation du fichier ROLMRE pour
+l'ensemble des produits massifs des collectivités ou des organismes qui
+dépendent d'elles, que ces produits soient ou non assortis de TVA : cantines
+scolaires, redevances d'enlèvement des ordures ménagères, droits de voirie,
+régies municipales d'électricité, télédistribution, etc. 13\. Il permet la
+mise en œuvre de traitements adaptés aux besoins du recouvrement de masse : \-
+recours possible aux prélèvements automatiques sur comptes bancaires ou
+postaux ; \- regroupement (en interrogation) des impayés d'un même débiteur
+lorsqu'un identifiant permanent débiteur est susceptible d'être fourni par
+l'ordonnateur ; \- suivi particulier des frais de poursuites. II. - Les
+aménagements apportés au fichier ROLMRE, dont la version initiale, définie en
+1990, doit à la fois, prendre en compte les évolutions obligées (an 2000,
+euro, impact de la loi sur l'eau et les milieux aquatiques de 2006) et adopter
+une normalisation des informations transmises (adresse, zones montant). 21\.
+L'an 2000. L'année est décrite sur 4 caractères dans les deux zones dates : \-
+ROLEX = exercice de rattachement budgétaire ; \- ROLDAT = date
+d'émission.L'allongement de la zone ROLEX est sans conséquence sur les
+modalités de calcul des clés de contrôle 1 et 2 : seuls les deux derniers
+chiffres de ROLEX y sont utilisés comme précédemment. 22\. Passage à l'euro.
+Un code monnaie, zone ROLMONNAIE en position 465, est intégré à ROLMRE. 23\.
+Normalisation de l'adresse. Afin de répondre aux normes définies par La Poste,
+six zones de 32 caractères sont désormais disponibles pour transmettre les
+informations suivantes : \- deux premières zones = le nom et tout élément
+d'identification du débiteur ; \- troisième zone = mentions complémentaires de
+distribution (bâtiment, résidence...) ; \- quatrième zone = l'adresse rue du
+débiteur ; \- cinquième zone = le nom d'un lieudit ou d'un hameau ; \- sixième
+zone = le code postal et la localité de destination. La taille de 32
+caractères est également adoptée pour les deux zones, ROLORU et ROLOVI, qui
+décrivent l'objet de la recette. 24\. Normalisation des zones montants. Les
+six zones transmises se composent désormais de 12 chiffres dont 2 décimales.
+25\. Transmission du numéro de dette : cas particulier de l'application EAU
+(Eau et assainissement : réseau BULL). Le numéro de dette utilisé dans
+l'application EAU se compose de 15 chiffres ; or la zone ROLDET prévue dans le
+fichier ROLMRE ne contient que 13 caractères. Dans le cas, rare, où le numéro
+à transmettre comporte 14 ou 15 chiffres significatifs, il est nécessaire de
+le scinder en deux dans ROLMRE : \- les deux premiers chiffres, à gauche, dans
+une zone nouvelle ROLDEB (positions 467 et 468) créée à cet usage ; \- les 13
+suivants en zone ROLDET. Si la zone ROLDEB est ainsi utilisée, le calcul de la
+clé de contrôle 2 est modifié et porte sur l'ensemble (2 derniers chiffres de
+ROLEX + ROLPER + ROLDEB + ROLDET). 26\. Création d'un code version. Afin de
+déterminer la version du fichier ROLMRE transmise lors d'un envoi, un code est
+placé en 500e caractère. Il est systématiquement égal à 2 lorsque ROLMRE
+correspond à la présente version. 27\. Impact de la loi sur l'eau et les
+milieux aquatiques n° 2006-1772 du 30 décembre 2006 (LEMA). Il est créé un
+code en position 499, qui permet de distinguer les enregistrements véhiculant
+des redevances d'eau et/ou assainissement des enregistrements véhiculant des
+redevances pour pollution d'origine domestique et/ou pour modernisation des
+réseaux de collecte. La transmission des redevances eau/assainissement et
+pollution/modernisation doit être simultanée et le numéro de dette (zone
+ROLDET) doit être identique pour un même débiteur sur les 2 enregistrements.
+III. - Dessin des enregistrements 30\. Généralités. \- Le fichier ROLMRE a été
+étudié pour pouvoir servir d'instrument de liaison unique au niveau national,
+ce qui explique certaines redondances d'informations dues à la diversité des
+matériels et logiciels équipant les départements informatiques du Trésor. \-
+Organisation séquentielle. \- Enregistrements de longueur fixe (500
+caractères). \- Aucun critère de tri particulier n'est exigé des ordonnateurs
+(tri par numéro croissant d'identifiant effectué par les services du Trésor
+préalablement à l'exploitation des fichiers). \- La périodicité des
+transmissions, variant essentiellement avec le type de recette, sera
+déterminée cas par cas, en accord entre l'ordonnateur et le centre
+informatique du Trésor. 31\. Structure. 310\. Elle est uniforme quel que soit
+le type de comptabilité auquel se rattachent les recettes. Chacun des
+enregistrements figurant sur le fichier correspond à une dette. La structure
+est uniforme quel que soit le type de recette, seul variant le nombre des
+zones utilisées, les zones sans objet devant être mises à espaces ou à zéros
+selon leur nature.Afin de répondre aux spécificités des deux applications
+informatiques du Trésor (EAU et EAS) traitant le recouvrement des recettes sur
+rôles, certaines zones de ROLMRE ont été redéfinies. Les remarques suivantes
+précisent l'utilisation de l'ensemble des zones de ROLMRE. 311\. Code
+mouvement (zone ROLMVT, caractère 1). Actuellement constante de valeur 1
+(création). 312\. Référence de la dette. 3120\. Code collectivité-
+établissement (zone ROLCOL, caractères 2 et 3). Mêmes caractéristiques que
+pour les fichiers MAIREC, MAIDEP et BUDMRE. 3121\. Nature du rôle (zone
+ROLNAT, caractères 4 et 5). Zone numérique destinée à identifier la nature de
+la recette. Ce numéro est attribué après accord entre l'ordonnateur et le
+département informatique régional du Trésor. 3122\. Exercice (zone ROLEX,
+caractères 6 à 9). Zone destinée à recevoir l'exercice de rattachement
+budgétaire. 3123\. Code période (zone ROLPER, caractère 10). Zone numérique
+destinée à recevoir un numéro de rôle pour écarter, à l'intérieur d'un
+exercice et d'un même type de rôle, tout risque de synonymie dans les
+références d'une dette. Si son utilisation s'avère inutile, la zone peut
+recevoir une valeur constante. 3124\. Numéro de dette (zone ROLDET, caractères
+11 à 23). Numéro attribué par l'ordonnateur pour identifier une dette. Sa
+structure est libre à condition de ne pas laisser apparaître de synonymes pour
+une même collectivité (ROLCOL), un même type de recette (ROLREC), un même
+exercice (ROLEX) et un même code période (ROLPER) : il peut comprendre, outre
+un numéro séquentiel, un numéro de quartier, de tournée... Cependant, un
+numéro comportant un minimum de caractères serait de nature à alléger la
+charge de saisie du poste comptable.3125. Clé de contrôle (zone ROLCLE1,
+caractère 24). Clé numérique calculée selon le modulo 11 (voir annexe ). Cette
+clé est calculée à partir des zones (ROLCOL + ROLNAT + 2 derniers chiffres de
+ROLEX + ROLPER + ROLDET). 3126\. Zone ROLNUL (caractère 25). Valeur
+actuellement égale à zéro. 3127\. Clé de contrôle 2 (zone ROLCLE2, caractère
+26). Clé alpha calculée selon le modulo 23 (voir annexe ). Elle est calculée
+sur (2 derniers chiffres de ROLEX + ROLPER + 00 + ROLDET). Dans le cas où la
+zone ROLDEB est utilisée pour transmettre le début du numéro de dette, la clé
+est alors calculée sur (2 derniers chiffres de ROLEX + ROLPER +ROLDEB +
+ROLDET). 3128\. Code recette (zone ROLREC, caractères 27 et 28). Code
+alphabétique à l'exclusion de FF destiné à identifier la nature de la recette
+; attribué après accord de l'ordonnateur et du département informatique du
+Trésor. Il est préférable d'utiliser un code significatif (ex. : EA pour une
+dette d'eau et assainissement). 313\. Date d'émission (zone ROLDAT, caractères
+29 à 36). Date de prise en charge sous la forme AAAAMMJJ à partir de laquelle
+seront calculés les délais pour l'édition des documents concernant la phase
+contentieuse du recouvrement. 314\. Numéro de rôle (zone ROLROL, caractères 37
+et 38). Destiné à la numérotation séquentielle des rôles au fur et à mesure de
+leur émission. 315\. Montant eau HTVA (zone ROLEAU, caractères 39 à 50) Cette
+zone reçoit le montant EAU hors taxe en centimes dans le cas de recettes d'eau
+et d'assainissement ou le montant hors taxe en centimes de la redevance pour
+pollution d'origine domestique. Dans le cas d'autres recettes n'obéissant à
+aucune règle particulière quant au recouvrement ou à la majoration, cette zone
+recevra le montant budgétaire à recouvrer. 316\. Montant assainissement HTVA
+(zone ROLASS, caractères 51 à 62). Cette zone reçoit éventuellement le montant
+en centimes de la dette correspondant à la redevance d'assainissement ou à la
+redevance pour modernisation des réseaux de collecte susceptible de faire
+l'objet d'une majoration en cas de non-paiement dans le délai prescrit.317.
+Montant TVA sur eau et montant TVA sur assainissement (zones ROLTVE,
+caractères 63 à 74, et ROLTVA, caractères 75 à 86). Destinées à recevoir
+éventuellement le montant en centimes de la TVA due sur chaque fraction de la
+dette. Sinon les zones sont à zéro. Il va de soi que ces zones n'ont à être
+utilisées que pour les services (ou les opérations) pour lesquels la TVA est
+versée au Trésor (ou récupérée), la recette budgétaire (zone ROLEAU et ROLASS)
+étant alors hors TVA. Dans le cas d'une recette budgétaire TTC, le montant TTC
+doit figurer dans les zones ROLEAU et ROLASS, les zones destinées à la TVA
+sont alors à zéro. Ces zones ne doivent pas être servies pour les
+enregistrements portant les montants relatifs aux redevances pour pollution
+d'origine domestique et/ou pour modernisation des réseaux de collecte (code
+enregistrement en position 499 = 2) : dans ce cas la TVA éventuelle est
+cumulée avec la TVA de la dette principale (code enregistrement = 1). 318\.
+Montant total (zone ROLTOT, caractères 87 à 98). Somme en centimes,
+nécessairement positive, correspondant au total des montants indiqués dans les
+zones ROLEAU, ROLASS, ROLTVE et ROLTVA. 319\. Assainissement non majorable
+(zone ROLNMAJ, caractères 99 à 110). Cette zone est destinée à recevoir la
+fraction de la dette assainissement non susceptible de majoration (par exemple
+travaux effectués pour le compte de l'usager). Ce montant figure donc pour
+mémoire et n'est pas additionné dans la zone ROLTOT. Cette zone n'a à être
+renseignée que dans le cas de redevances d'assainissement susceptibles d'être
+majorées. Sinon, la mettre à zéro. NB : Toutes les zones Montants utilisées
+sont obligatoirement positives. Les zones non utilisées sont à zéro. 3191\. -
+Nom et adresse du débiteur. Six zones alphanumériques de 32 caractères. Les
+informations sont cadrées à gauche et éventuellement complétées par des
+espaces. Les zones non utilisées sont à espaces. ROLNOM (caractères 111 à 142)
+contient la partie significative du nom du débiteur : [nom suivi du prénom du
+débiteur séparé d'un espace. Le nom ne doit pas être précédé de l'état civil
+(M., Mr, Mme, Mlle)]. ROLCNM (caractères 143 à 174) : suite, si besoin est,
+des éléments significatifs de l'identification tels que raison sociale ou
+dénomination sociale, titre et qualité du destinataire, indication d'étage,
+d'appartement, de porte, numéro de boîte aux lettres... ROLDIS (caractères 175
+à 206) : mentions complémentaires de distribution (bâtiment, escalier, nom de
+résidence...). ROLADR (caractères 207 à 238) : adresse, rue (numéro, type et
+nom de voie). ROLCVI (caractères 239 à 270) : complément de la commune, nom
+d'un lieudit ou d'un hameau. ROLCP (5 caractères en positions, 271 à 275) :
+code postal. ROLLOC (27 caractères en positions, 276 à 302) : localité de
+destination. 3192\. Objet de la recette (zones ROLORU, caractères 303 à 334,
+et ROLOVI, caractères 335 à 366). Cette zone peut recevoir l'adresse du point
+de livraison (recette eau & assainissement) ou toute autre indication au choix
+de l'ordonnateur destinée à préciser au redevable l'objet de sa dette sur les
+avis de relance édités par les services du Trésor. Cadrer à gauche et
+compléter par des espaces. 3193\. Code prélèvement (zone ROLPRE, caractères
+367). Cette zone a comme valeur 5 si le débiteur a demandé à se libérer de sa
+dette par prélèvement automatique sur compte bancaire ou postal et la valeur 2
+pour les non-prélevés. 3194\. Références bancaires (4 zones). ROLRET (5
+caractères en positions 368 à 372) : code établissement bancaire. ROLRGU (5
+caractères en positions 373 à 377) : code guichet bancaire. ROLRCO (11
+caractères en positions 378 à 388) : numéro de compte bancaire. ROLRCL (2
+caractères en positions 389 et 390) : clé RIB. 3195\. Titulaire du compte
+(zone ROLTIT, caractères 391 à 414). Cadrer cette zone à gauche et
+éventuellement compléter par des zéros. 3196\. Numéro de compte client (zone
+ROLCLI, caractères 415 à 434). Cette zone d'utilisation facultative est
+destinée à recevoir un identifiant fixe et unique par débiteur ou, à défaut,
+un numéro de point de branchement, un numéro de compteur, etc. Cette zone
+permettra ultérieurement le regroupement (en interrogation) des différentes
+dettes d'un même débiteur, quelle que soit leur nature. Cette zone doit être
+cadrée à gauche et complétée éventuellement à droite par des espaces. Dans
+l'hypothèse où il n'existe pas d'identifiant fixe, celle-ci doit être mise à
+espaces. A noter que le fichier retour (TRESOR ordonnateur) FLUOR clients n'a
+de sens que si cette zone est servie dans le fichier aller ROLMRE.3197.
+Imputation budgétaire (zones ROLSCH, caractères 435 à 444, et ROLART,
+caractères 445 à 464). Ces zones facultatives seront servies en fonction de
+l'instruction comptable appliquée pour le type de recette (zones non utilisées
+actuellement). 3198\. Code monnaie (zone ROLMONNAIE, caractères 465). Zone
+prenant la valeur : E depuis le 1er janvier 2002. 3199\. Zone ROLHOM
+(caractères 466) : zone laissée à espace. 3200\. Zone ROLDEB (numérique,
+caractères 467 et 468). Cette zone est utilisée lorsque le numéro de dette,
+sur 15 chiffres, comporte plus de 13 chiffres significatifs. Dans ce cas, les
+deux premiers chiffres, à gauche, sont transférés dans ROLDEB, le reste
+l'étant dans ROLDET. Dans tous les autres cas, la zone est laissée à zéro.
+3201\. FILLER (caractères 469 à 498). 3202\. ROLTPR (caractère 499) : cette
+zone permet de déterminer le type de produit et peut prendre les valeurs
+suivantes : 1 = eau/assainissement. 2 = redevances LEMA. 0 = autres ou
+différent de 1 et 2. 3203\. ROLVER (position 500) indique la version de ROLMRE
+utilisée. Ce code sera systématiquement égal à 2 dans la nouvelle version
+décrite par cette note. Annexe 1 AUTOCONTRÔLE PAR MODULO 11 Ce modulo dépiste
+pratiquement toutes les erreurs de transcription et les inversions de chiffres
+simples et doubles. Il dépiste aussi 90 % des autre erreurs. Le chiffre
+d'autocontrôle est le résultat des opérations arithmétiques suivantes : 1\.
+Multiplication par les chiffres 2, 3, 4, 5, 6 et 7 respectivement des chiffres
+du nombre dont l'exactitude doit être vérifiée en commençant par celui des
+unités. Si le nombre comporte plus de 6 chiffres, recommencer au 7e la
+première séquence des multiplications. 2\. Addition des produits de ces
+multiplications. 3\. Division du total par 11. 4\. a) Lorsque ce total est
+exactement divisible par 11, le chiffre d'autocontrôle est 0. b) Dans le cas
+contraire, déduire le reste de la division du nombre 11 : la différence est le
+chiffre d'autocontrôle. Exemple : soit à déterminer le chiffre d'autocontrôle
+du nombre 453 267. Multiplications à effectuer : (7 × 2) ; (6 × 3) ; (2 × 4) ;
+(3 × 5) ; (5 × 6) ; (4 × 7) Produits obtenus : 14 ; 18 ; 8 ; 15 ; 30 ; 28.
+Total de ces produits = 113. Reste de la division de 113 par 11 = 3. Déduire 3
+de → 11 la différence = 8 est le chiffre d'autocontrôle. Le nombre devient : 4
+532 678 ou 8 453 267. NB : Lorsque la division donne 1 comme reste, le nombre
+ne peut être contrôlé par modulo 11 au moyen d'un seul chiffre car, dans ce
+cas, la différence entre le nombre 11 et le reste 1 est 10, nombre à 2
+chiffres. Par convention, la clé sera alors également le chiffre 1. Annexe 2
+ALGORITHME DE CALCUL DE CLÉ MODULO 23 1\. Si la zone ROLDEB (début du numéro
+de dette) n'est pas numérique, la remplacer par "00". 2\. Diviser
+l'association des zones Exercice (2 derniers chiffres de ROLEX), code facture
+(ROLPER), numéro de dette (ROLDEB, ROLDET), soit un ensemble de 18 caractères,
+par 23. Le reste de la division = R. Calculer K = R + 1 et rechercher la
+correspondance dans la table suivante : K= 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+16 17 18 19 20 21 22 23 clé A B C D E F G H J K L M N P Q R S T U V W X Y NB :
+Difficultés pouvant survenir lors du calcul de la lettre clé : Dans
+l'hypothèse de système limitant à moins de 18 caractères les zones numériques,
+il conviendra de découper en 2 × 9 caractères l'ensemble : exercice, code
+facture, numéro d'ordre. Le premier sous-ensemble de 9 caractères sera divisé
+par 23. Le reste de cette division sera accolé devant le deuxième sous-
+ensemble de 9 caractères, le tout (dividende de 11 caractères au minimum) sera
+divisé par 23. Le reste de cette dernière division = R. Description des zones
+du fichier ROLMRE Vous pouvez consulter le tableau dans le JOn° 51 du
+02/03/2010 texte numéro 2 Vous pouvez consulter le tableau dans le JOn° 51 du
+02/03/2010 texte numéro 2 Développement du fichier ROLMRECréation d'articles
+de code 2, 3 et 4 I. - Présentation générale Jusqu'à présent, le protocole
+ROLMRE n'a comporté qu'un seul type d'article : \- répondant à la fonction
+initiale du fichier de liaison, la transmission de dettes à prendre en charge
+dans les applications du Trésor ;- de code mouvement ROLMVT égal à 1 (cf.
+311). Depuis 1999, d'autres types d'article ont été créés, afin de gérer des
+fonctionnalités nouvelles des applications. Cependant, il est important de
+noter que l'article de code 1, dans sa présente version adaptée à l'euro et à
+l'an 2000, ne sera pas modifié et permettra toujours les traitements courants
+des applications. Les nouveaux développements de l'application EAU concernent
+: \- La gestion d'un compte client : articles de code 2 : initialisation (=
+attribution) du numéro de compte client. articles de code 3 : modification du
+numéro de compte client. \- La mise en place de prélèvements périodiques :
+articles de code 4 : re-présentation d'un prélèvement préalablement rejeté.
+Ces nouveaux articles ont les caractéristiques communes suivantes : \- ils
+sont de structure strictement identique à celle des articles de code 1 ; \-
+ils se rapportent toujours à une dette déjà prise en charge dans les
+applications. 1\. La gestion d'un code client. L'arrêté du 10 juillet 1996
+relatif aux factures de distribution de l'eau et de collecte et de traitement
+des eaux usées dispose, entre autres, qu'à chaque nouvelle facturation le
+solde restant dû sur les précédentes factures doit être rappelé . Permettre à
+l'ordonnateur de disposer des éléments de calcul de ce solde restant dû a
+donné lieu, dans un premier temps, à la création du fichier retour FLUOR. Pour
+que ce dispositif fonctionne correctement et afin de pouvoir imputer sur les
+dettes antérieures non soldées le reliquat des sommes versées par l'usager, il
+est nécessaire de disposer d'un identifiant stable de ce dernier. Cette
+information est fournie par le numéro de compte client (rubrique ROLCLI, cf. §
+3196). Dette à prendre en charge : le numéro de compte client est transmis, en
+même temps que les autres éléments de cette dette, par un article de code 1.
+Dette déjà prise en charge, sans numéro de compte client : il est créé,
+spécialement à cet usage, un article de code 2 : initialisation du numéro de
+compte client. Dette déjà prise en charge, avec numéro de compte client erroné
+: il est créé spécialement un article de code 3 : modification du numéro de
+compte client. 2\. La mise en place des prélèvements périodiques. Il s'agit de
+permettre au redevable de régler en plusieurs fois ses factures d'eau et
+d'assainissement. Dans les applications, le système de transmission des
+fichiers ROLMRE est le suivant : \- chaque prélèvement à l'échéance est
+considéré comme une dette normale , faisant l'objet d'un rôle et transmise par
+un article de code 1 ; \- en cas de rejet du prélèvement, la dette
+correspondante doit être représentée à l'échéance suivante, pour faire l'objet
+d'un nouveau prélèvement : pour cela il est créé un article de code 4 qui n'a
+pas à être pris en charge. En particulier, tout rejet étant total, les
+montants représentés doivent être identiques à ceux pris en charge. Dans
+chacun de ces articles de code 1 ou 4, le code monnaie ROLMONNAIE doit être
+servi de façon à préciser si le prélèvement s'effectuera sur un compte tenu en
+euros (ROLMONNAIE = E ) ou en francs (ROLMONNAIE = F ). II. - Constitution des
+nouveaux types d'article Les rubriques à servir obligatoirement sont indiquées
+dans le tableau ci-dessous. Description des zones du fichier ROLMRE Vous
+pouvez consulter le tableau dans le JOn° 51 du 02/03/2010 texte numéro 2 Vous
+pouvez consulter le tableau dans le JOn° 51 du 02/03/2010 texte numéro 2 Fait
+à Paris, le 4 janvier 2010. Le ministre d'Etat, ministre de l'écologie, de
+l'énergie, du développement durable et de la mer, en charge des technologies
+vertes et des négociations sur le climat, Pour le ministre et par délégation :
+La directrice de l'eau et de la biodiversité, O. Gauthier Le ministre du
+budget, des comptes publics, de la fonction publique et de la réforme de
+l'Etat, Pour le ministre et par délégation : Le directeur général des finances
+publiques, P. Parini La ministre auprès du ministre de l'intérieur, de
+l'outre-mer et des collectivités territoriales, chargée de l'outre-mer, Pour
+la ministre et par délégation : L'adjoint au délégué général à l'outre-mer, J.
+Lucbereilh Télécharger le document en RTF (poids < 1Mo) Masquer le panneau de
+navigation Imprimer À propos de l'ordre juridique français Licences Quoi de
+neuf sur le site ? À propos du site Plan du site Accessibilité Aide générale
+Nous écrire Établir un lien
+

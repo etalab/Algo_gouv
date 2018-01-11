@@ -1,0 +1,1180 @@
+Décision n° 2010-0211 du 18 février 2010 portant définition de l'encadrement
+tarifaire de la prestation de terminaison d'appel vocal mobile de l'opérateur
+Bouygues Telecom pour la période du 1er juillet au 31 décembre 2010 |
+Legifrance Legifrance - Le service public de l'accès au droit Aller au contenu
+Aller à la navigation générale mardi 4 juillet 2017 Informations de mise à
+jour Accueil Droit français Droit européen Droit international Traductions
+Bases de données Vous êtes dans : Accueil> Les autres textes législatifs et
+réglementaires> Décision n° 2010-0211 du 18 février 2010 portant définition de
+l'encadrement tarifaire de la prestation de terminaison d'appel vocal mobile
+de l'opérateur Bouygues Telecom pour la période du 1er juillet au 31 décembre
+2010 Décision n° 2010-0211 du 18 février 2010 portant définition de
+l'encadrement tarifaire de la prestation de terminaison d'appel vocal mobile
+de l'opérateur Bouygues Telecom pour la période du 1er juillet au 31 décembre
+2010 Masquer le panneau de navigation Imprimer Informations sur ce texte JORF
+n°0270 du 21 novembre 2010 texte n° 27 Décision n° 2010-0211 du 18 février
+2010 portant définition de l'encadrement tarifaire de la prestation de
+terminaison d'appel vocal mobile de l'opérateur Bouygues Telecom pour la
+période du 1er juillet au 31 décembre 2010 NOR: ARTT1023490S ELI: Non
+disponible L'Autorité de régulation des communications électroniques et des
+postes, Vu le code des postes et des communications électroniques (CPCE), et
+notamment ses articles L. 32-1, L. 36-7, L. 37-1, L. 38 et D. 301 à D. 315 ;
+Vu la décision n° 2007-0128 de l'Autorité en date du 5 avril 2007 relative aux
+modalités d'application des obligations de séparation comptable et de
+comptabilisation des coûts imposées à certains opérateurs mobiles en raison de
+leur influence significative sur les marchés de gros de la terminaison d'appel
+vocal ; Vu les décisions n° 2007-1155, n° 2007-1156 et n° 2007-1157 du 18
+décembre 2007, n° 2008-0776, n° 2008-0778 et n° 2008-0779 du 3 juillet 2008,
+n° 2008-1157, n° 2008-1158 et n° 2008-1159 du 21 octobre 2008, n° 2009-0954,
+n° 2009-0955 et n° 2009-0957 du 5 novembre 2009 publiant les attestations de
+conformité des états de coûts et de revenus établis par les opérateurs Orange
+France, SFR et Bouygues Telecom dans le cadre de leurs obligations
+réglementaires ; Vu la décision n° 2007-0810 de l'Autorité en date du 4
+octobre 2007 portant sur la détermination des marchés pertinents relatifs à la
+terminaison d'appel vocal sur les réseaux mobiles français en métropole, la
+désignation d'opérateurs exerçant une influence significative sur ces marchés
+et les obligations imposées à ce titre pour la période 2008-2010 ; Vu la
+décision n° 2008-1176 de l'Autorité en date du 2 décembre 2008 portant
+définition de l'encadrement tarifaire des prestations de terminaison d'appel
+vocal mobile des opérateurs Orange France, SFR et Bouygues Telecom pour la
+période du 1er juillet 2009 au 31 décembre 2010 ; Vu la position commune du
+groupe des régulateurs européens (07) 83 en date du 12 mars 2008 sur la
+symétrie des tarifs de terminaison d'appel fixes et la symétrie des tarifs de
+terminaison d'appel mobile ; Vu la recommandation 2009/396/CE de la Commission
+européenne en date du 7 mai 2009 sur le traitement réglementaire des tarifs de
+terminaison d'appels fixe et mobile dans l'UE ; Vu la décision du Conseil
+d'Etat, 2e et 7e sous-sections réunies, en date du 24 juillet 2009, n° 324642
+; Vu la consultation publique sur les références de coûts pertinentes pour la
+fixation par l'Autorité des plafonds tarifaires de terminaison d'appel vocal
+mobile en métropole, ouverte le 6 novembre 2009 et close le 7 décembre 2009 ;
+Vu les réponses à cette consultation publique ; Vu la consultation publique
+sur le projet de décision de l'Autorité portant définition de l'encadrement
+tarifaire de la prestation de terminaison d'appel vocal mobile de l'opérateur
+Bouygues Telecom pour la période du 1er juillet au 31 décembre 2010, ouverte
+le 13 janvier 2010 et close le 15 février 2010 ; Vu les réponses à cette
+consultation publique ; Vu la notification du projet de décision de l'Autorité
+portant définition de l'encadrement tarifaire de la prestation de terminaison
+d'appel vocal mobile de l'opérateur Bouygues Telecom pour la période du 1er
+juillet au 31 décembre 2010 à la Commission européenne et aux autorités
+réglementaires nationales de la Communauté européenne en date du 12 janvier
+2010 ; Vu les observations de la Commission européenne en date du 12 février
+2010 ; Après en avoir délibéré le 18 février 2010, I. ― Contexte de la
+décisionI-1. Rappels sur la terminaison d'appel vocal mobile La terminaison
+d'appel vocal mobile (aussi appelée « TA » dans la suite du document) est une
+prestation de gros fournie par un opérateur mobile B exploitant un réseau
+ouvert au public à un opérateur A, fixe ou mobile, exploitant un réseau ouvert
+au public. Cette activité s'exerce dans le cadre d'une convention
+d'interconnexion signée entre ces deux opérateurs. La prestation
+commercialisée vise à acheminer l'appel téléphonique vocal d'un client de
+l'opérateur A vers un client mobile de l'opérateur B. Du fait du sens des
+communications ainsi acheminées, on dit que cet opérateur « termine » les
+appels vers le réseau de destination. Lorsqu'un client téléphonique veut
+appeler, d'un téléphone fixe ou mobile, un numéro de téléphone correspondant à
+un réseau mobile, l'opérateur de l'appelant (fixe ou mobile) fait payer à ce
+dernier le prix de détail d'une communication à destination du réseau de
+l'opérateur de l'appelé. Par ailleurs, cet opérateur paie à l'opérateur de
+l'appelé, directement (s'il est interconnecté en direct avec lui) ou par le
+biais d'opérateurs de transit, le prix de gros de la terminaison d'appel vocal
+sur le réseau de l'opérateur de l'appelé. La structure tarifaire de la
+prestation de terminaison d'appel est composée en France métropolitaine de
+plusieurs éléments, dont le prix facturé à la minute, un tarif de capacité de
+raccordement des deux réseaux (ou BPN pour bloc primaire numérique) ainsi que
+d'éventuels frais d'accès aux sites d'interconnexion. Par ailleurs, les tarifs
+issus des conventions d'interconnexion sont bâtis sur une tarification
+indépendante de la position de l'appelé, dans la mesure où le numéro d'appel
+mobile ne comporte pas d'information de localisation géographique
+contrairement à un numéro géographique fixe. De plus, en France
+métropolitaine, la tarification de l'interconnexion s'appuie sur la notion de
+zone arrière (ZA) et conduit à une facturation de la terminaison d'appel vocal
+sur le réseau d'un opérateur mobile différente selon que l'appelant se trouve
+(ou pas) dans la zone arrière (ZA) du point d'interconnexion où l'opérateur de
+l'appelant choisit de livrer effectivement le trafic (1) ; les opérateurs
+métropolitains proposent donc généralement deux prestations de terminaison
+d'appel vocal : une prestation qualifiée d'intra-ZA et l'autre qualifiée
+d'extra-ZA. Il convient en outre de rappeler que la terminaison d'appel vocal
+mobile désigne les prestations d'acheminement d'appels fournies par un
+opérateur exploitant des numéros mobiles à un autre opérateur de réseau auquel
+il est interconnecté, afin de permettre à l'appelant de ce dernier de joindre
+ces numéros mobiles (2). Du point de vue de l'opérateur acheteur de
+prestations de terminaison, une prestation de terminaison d'appel est demandée
+indépendamment de la technologie d'acheminement du trafic employée par
+l'opérateur de l'appelé, celle-ci étant transparente pour l'acheteur. Enfin,
+l'Autorité rappelle que la prestation de terminaison d'appel, bénéficiant à la
+fois au client appelant, qui initie l'appel, et au client appelé, qui le
+reçoit, relève d'un marché biface, l'opérateur de l'appelé ayant la
+possibilité de recouvrer ses coûts soit par la facturation de l'opérateur de
+l'appelant, soit par la facturation de son client appelé. De plus, la
+terminaison d'appel vocal est une prestation d'accès réciproque, aussi appelée
+two-way access. En effet, les opérateurs qui facturent la terminaison d'appel
+sont également les opérateurs qui achètent la terminaison d'appel. A ce titre,
+les flux financiers de terminaison constituent à la fois une charge et une
+source de revenus pour les opérateurs. In fine, la facturation entre
+opérateurs de la terminaison d'appel est une somme de flux financiers
+équilibrés au niveau du secteur. (1) Le nombre, la taille et la définition de
+ces zones arrière dépendent du choix de l'opérateur mobile de l'appelé. (2)
+Aujourd'hui, l'ensemble des numéros de type 06AB, ou des numéros de type 07AB
+avec A = 5, 6, 7, 8 ou 9. Toutefois la présente décision s'applique également
+à toute autre ressource en numérotation qui pourrait être dédiée à la
+fourniture d'un service téléphonique mobile. I-2. Cadre juridique de la
+décisionI-2.1. Le deuxième cycle d'analyse des marchés de terminaison d'appel
+vocal mobileAnalyse des marchés La décision n° 2007-0810 de l'Autorité en date
+du 4 octobre 2007 susvisée, « portant sur la détermination des marchés
+pertinents relatifs à la terminaison d'appel vocal sur les réseaux mobiles
+français en métropole, la désignation d'opérateurs exerçant une influence
+significative sur ces marchés et les obligations imposées à ce titre pour la
+période 2008-2010 », a déclaré pertinent chacun des trois marchés de gros de
+la terminaison d'appel vocal mobile sur les réseaux d'Orange France, de SFR et
+de Bouygues Telecom. L'analyse menée par l'Autorité l'a conduite à déclarer
+les trois opérateurs mobiles métropolitains puissants sur leurs marchés
+respectifs de terminaison d'appel vocal. En conséquence, la décision n°
+2007-0810 susvisée a imposé à ces opérateurs, pour la période 2008-2010, les
+obligations d'accès et d'interconnexion, de non-discrimination, de
+transparence, de publication d'une offre de référence, de comptabilisation des
+coûts et de séparation comptable, ainsi que de pratiquer des tarifs reflétant
+les coûts correspondants pour les prestations de terminaison d'appel vocal
+mobile et d'accès aux sites relatives à la terminaison d'appel vocal. Au titre
+de cette dernière obligation, les trois opérateurs sont soumis sur la durée de
+l'analyse à un encadrement tarifaire pluriannuel de leurs prestations de
+terminaison d'appel vocal mobile, sous la forme d'un plafond. Pour être
+pleinement efficace, cette obligation s'applique à la fois à la tarification
+de la prestation d'acheminement du trafic de terminaison d'appel vocal
+(tarifée en c€/min) d'intra-ZA et à la tarification de la composante de
+capacité formée par la location de blocs primaires numériques (tarifée de
+manière unitaire en €/BPN/an). Il convient de bien noter que l'encadrement des
+niveaux tarifaires des terminaisons d'appel que l'Autorité spécifie pour les
+opérateurs consiste à fixer des plafonds que les tarifs de ces prestations ne
+doivent pas dépasser, laissant la liberté aux opérateurs de fixer leurs tarifs
+sous ces plafonds, au niveau qu'ils jugent pertinent. En particulier, il est
+de la seule responsabilité de l'opérateur de s'assurer que ses structures
+tarifaires sont cohérentes entre les marchés de gros et les marchés de détail
+et qu'elles ne l'exposent pas au risque de se voir sanctionné au titre du
+droit commun de la concurrence pour des pratiques exercées sur un marché de
+détail connexe au marché de gros sur lequel il détient une position dominante.
+Encadrement tarifaire La décision n° 2007-0810 précitée a précisé les plafonds
+tarifaires applicables sur les dix-huit premiers mois du cycle de trois ans de
+l'analyse de marché, soit du 1er janvier 2008 au 30 juin 2009, en référence au
+concept de coûts complets distribués. Ces plafonds étaient de 8,5 cEUR/min
+pour Bouygues Telecom et de 6,5 cEUR/min pour Orange France et SFR. L'Autorité
+a souhaité cette division du cycle en deux périodes pour favoriser autant que
+possible la prise en compte des travaux d'harmonisation des politiques de
+régulation des terminaisons d'appels sur le plan européen et encourager leur
+progression. Ces travaux ont abouti à l'adoption en mars 2008 d'une position
+commune du Groupe des régulateurs européens (3) et à la mise en consultation
+publique à l'été 2008 d'un projet de recommandation de la Commission
+européenne sur la régulation des terminaisons d'appel fixe et mobile. Ces
+documents sont évoqués à la section suivante. L'Autorité a alors précisé, dans
+un second temps, par la décision n° 2008-0176 susvisée en date du 2 décembre
+2008, les plafonds tarifaires applicables sur les dix-huit derniers mois du
+cycle de trois ans d'analyse de marché, soit du 1er juillet 2009 au 31
+décembre 2010. Dans cette décision, au regard du développement actuel des
+marchés français ― maturité des réseaux mobiles téléphoniques, convergence et
+concurrence croissantes avec les réseaux fixes, fort développement des offres
+d'abondance (forfaits et offres illimitées, éventuellement dans certaines
+tranches horaires), tendance forte à la différenciation des tarifs d'appels
+mobile en fonction du réseau de destination ― l'Autorité a fait évoluer les
+références de coûts, de manière à ce que la régulation du marché de la
+terminaison d'appel mobile soit économiquement plus adaptée et efficace. En
+particulier, compte tenu des objectifs de régulation qui lui sont assignés par
+l'article L. 32-1 du CPCE, l'Autorité estime que le niveau optimal de
+tarification de la terminaison d'appel est un niveau qui reflète les coûts
+incrémentaux de long terme, c'est-à-dire les seuls coûts supplémentaires
+encourus par un opérateur efficace pour terminer sur son propre réseau les
+appels off net d'un opérateur tiers, par rapport à une situation où il ne
+fournirait pas cette prestation de terminaison d'appel. Concrètement, ces
+coûts correspondent aux investissements nécessaires à l'accroissement de la
+capacité du réseau, afin de supporter le trafic entrant. A contrario, ne sont
+pas considérés comme des coûts incrémentaux les coûts liés à la couverture du
+territoire, jusqu'alors partiellement recouvrés par les charges de terminaison
+déterminées selon le standard des coûts complets et conduisant au financement,
+notamment par les opérateurs fixes, d'une part du déploiement des réseaux
+mobiles. Ainsi, un encadrement tarifaire défini en référence aux coûts
+incrémentaux permettra le développement d'une concurrence saine et loyale
+entre les opérateurs mobiles, mais aussi entre les opérateurs mobiles et
+fixes, et incitera le marché à modifier la structure tarifaire des offres afin
+de mieux refléter la structure de coût de l'industrie, au bénéfice des
+consommateurs. Ce changement de concept a été préalablement envisagé dès
+l'analyse de marché de 2007 (p. 76 de la décision n° 2007-0810), à nouveau
+exposé dans la consultation publique de septembre 2008 (p. 46 à 54) et enfin
+resoumis à consultation publique en octobre 2008 (p. 15 à 38). Compte tenu du
+caractère structurant pour le secteur des tarifs de terminaison d'appel vocal
+mobile et des contraintes associées à la modification des offres de détail,
+les opérateurs de réseaux mobiles ont fait valoir qu'une période de transition
+était nécessaire afin de laisser au marché le temps de s'adapter et de ne pas
+déstabiliser l'équilibre de certaines offres de détail. Par conséquent,
+l'Autorité a estimé que, si les coûts incrémentaux constituent une référence
+adaptée de coûts pertinents, il convient de n'atteindre cette référence de
+coûts qu'au terme d'une période de transition de plusieurs années. En
+cohérence avec le cadre réglementaire et le contexte européen, l'Autorité vise
+à terme une régulation symétrique des tarifs de terminaison d'appel (plafond
+tarifaire unique pour tous les opérateurs). Toutefois, le maintien d'une
+asymétrie tarifaire lui est apparu justifié de façon transitoire. En effet,
+s'il n'était pas partiellement compensé, l'important écart qui demeure entre
+les tarifs de terminaison d'appel mobile et les coûts sous-jacents, conjugué
+aux déséquilibres de trafic mobile off net entre Bouygues Telecom et ses
+concurrents, provoquerait un déséquilibre artificiellement élevé des soldes
+financiers d'interconnexion au détriment de Bouygues Telecom, et par suite,
+une distorsion de concurrence pénalisante pour ce dernier et procédant du
+choix de l'Autorité de mettre en œuvre une période de transition. A contrario,
+d'éventuels effets de l'entrée tardive ou surcoûts de réseau subis par
+Bouygues Telecom ne sont plus significatifs en matière de coûts incrémentaux
+et ne sont donc plus pris en compte pour la fixation de l'asymétrie tarifaire.
+Cette approche est parfaitement conforme à la position commune du Groupe des
+régulateurs européens sur le sujet. Dans ces circonstances, et compte tenu des
+écarts subsistant entre les tarifs de terminaison d'appel mobile et les coûts
+sous-jacents et des transferts financiers qui en résultent au profit des
+opérateurs mobiles, l'Autorité a poursuivi sa politique de baisse progressive
+et proportionnée des plafonds tarifaires sur les dix-huit derniers mois du
+cycle d'analyse de marché 2008-2010. Dans la décision n° 2008-1176 susvisée,
+l'Autorité a imposé une baisse au 1er juillet 2009 du tarif de terminaison
+d'appel mobile de 6,5 à 4,5 c€/min pour Orange France et SFR et de 8,5 à 6
+c€/min pour Bouygues Telecom, puis une nouvelle baisse au 1er juillet 2010, le
+plafond passant alors de 4,5 à 3 c€/min pour Orange France et SFR et de 6 à 4
+c€/min pour Bouygues Telecom. (3) Position commune ERG (07) 83 du 12 mars
+2008. Recours devant le Conseil d'Etat La décision n° 2008-1176 précitée a
+fait l'objet d'un recours en annulation (4) devant le Conseil d'Etat de la
+part des sociétés Orange France et SFR. Les sociétés requérantes ont contesté
+tant la référence aux coûts incrémentaux que le principe de l'asymétrie
+tarifaire. Le Conseil d'Etat a écarté, par sa décision du 24 juillet 2009
+susvisée, ces deux critiques et confirmé les principes retenus par l'Autorité.
+Sur le choix d'un encadrement tarifaire en référence aux coûts incrémentaux de
+long terme d'un opérateur efficace, le Conseil d'Etat a considéré en
+particulier que la nouvelle référence est compatible avec les dispositions du
+CPCE et les missions qu'il impartit à l'Autorité (5). Il a notamment considéré
+que les requérantes n'établissaient pas que la décision aurait pour
+conséquence nécessaire de pénaliser les consommateurs ou de décourager
+l'investissement. Le Conseil d'Etat a par ailleurs relevé que le plafond
+différent applicable transitoirement à Bouygues Telecom vise « à atténuer le
+déficit financier résultant pour Bouygues Telecom de la combinaison [d'une
+marge entre les tarifs et les coûts] et du déséquilibre de son solde
+d'interconnexion ». Il a considéré ensuite que ce déficit est « pour une part
+subi par Bouygues Telecom du fait notamment de la nécessité pour cette société
+de développer des offres illimitées en direction de tous les réseaux afin de
+résister au développement par ses concurrents d'offres illimitées sur leur
+propre réseau, favorisé par la taille importante de leur parc, et peut, dans
+cette mesure, être compensé, mais que cette compensation ne peut être que
+partielle, pour tenir compte des choix effectués par cette société au sein du
+système de tarification existant et de leur incidence sur les soldes
+d'interconnexion ; que la compensation partielle et transitoire pouvait
+légalement être retenue ». Le principe d'une asymétrie restant admis, il
+convenait d'examiner les niveaux d'encadrement retenus. Le Conseil d'Etat a
+considéré que la compensation du déficit de Bouygues Telecom résulte de
+l'asymétrie tarifaire qui lui est applicable et du volume prévisible de ses
+flux d'interconnexion. Si, pour la première période (jusqu'au 30 juin 2010),
+l'asymétrie aboutit bien à une compensation partielle, le juge a constaté en
+l'espèce que « l'asymétrie pour la période du 1er juillet 2010 au 31 décembre
+2010 aurait pour effet [...] de compenser intégralement le déficit qu'elle a
+pour objet d'atténuer, voire, dans la plupart des hypothèses, de faire
+bénéficier cette société d'un transfert financier supérieur à ce déficit ». Le
+Conseil d'Etat a donc considéré que la différenciation tarifaire des six
+derniers mois est « manifestement disproportionnée au regard de l'objectif qui
+lui est assigné ». Par conséquent, par sa décision du 24 juillet 2009
+susvisée, le Conseil d'Etat a validé l'ensemble des principes de régulation
+développés par l'ARCEP dans sa décision n° 2008-1176, ainsi que l'ensemble des
+plafonds tarifaires prévus par la décision attaquée, à l'exception du second
+plafond de 4 c€/min applicable à Bouygues Telecom pour la période de six mois
+courant du 1er juillet au 31 décembre 2010. (4) Requêtes n°s 324642 et 324687,
+enregistrées respectivement par Orange France le 30 janvier 2009 et par SFR le
+2 février 2009. (5) Notamment les articles L. 32-1 (objectifs de l'Autorité)
+et D. 311 (détaillant les obligations tarifaires sur les marchés de gros) du
+CPCE. I-2.2. Le contexte européen Des travaux ont été menés au niveau européen
+depuis 2007 afin d'harmoniser les méthodes de régulation des tarifs de
+terminaison d'appel en Europe.A la suite d'une consultation publique menée
+durant l'été 2008, la Commission européenne a publié le 7 mai 2009 la
+recommandation susvisée (6) portant sur le traitement réglementaire des tarifs
+de terminaison d'appel fixe et mobile dans l'Union européenne. La Commission y
+préconise un encadrement tarifaire symétrique de la terminaison d'appel vocal,
+en référence aux coûts incrémentaux de long terme d'un opérateur générique
+efficace, évalués à l'aide d'un modèle technico-économique.La mise en œuvre de
+cette recommandation par les pays membres est prévue pour être effective au 31
+décembre 2012. A cet égard, la recommandation laisse les autorités de
+régulation nationales libres de définir les modalités de transition adaptées
+aux spécificités de chaque pays.Par ailleurs, le Groupe des régulateurs
+européens (GRE), qui inclut la Commission européenne, a adopté le 12 mars 2008
+une position commune sur la symétrie des services de terminaison d'appel fixe
+et la symétrie des services de terminaison d'appel mobile (7). Le GRE
+préconise la symétrie des tarifs de terminaison, mais considère l'asymétrie
+acceptable dans certains cas, sous réserve d'une justification adéquate. Le
+GRE indique à cet égard que plusieurs circonstances peuvent justifier une
+asymétrie tarifaire transitoire, dont notamment l'existence de déséquilibres
+élevés de trafic amenant à des déséquilibres financiers importants dans les
+soldes d'interconnexion, en raison d'un écart entre les tarifs de terminaison
+d'appel mobile et les coûts sous-jacents.En particulier, le GRE explique (p.
+101) qu' en fonction des spécificités nationales, telles que les tailles
+relatives des parcs de clients des opérateurs, la structure des tarifs de
+détail ou les critères de choix de réseau retenus par les clients, une
+asymétrie transitoire pour le(s) plus petit(s) opérateur(s) peut être mise en
+place dans les circonstances cumulatives suivantes :― il existe des
+déséquilibres élevés de trafic et donc des déséquilibres financiers importants
+dans les soldes d'interconnexion, en raison des stratégies commerciales des
+opérateurs (différenciations tarifaires élevées entre communications on net et
+off net) ;― les tarifs de terminaison d'appel mobile sont significativement
+supérieurs aux coûts sous-jacents ;― l'Autorité de régulation nationale
+considère que les bénéfices d'une asymétrie transitoire des tarifs de
+terminaison d'appel (par exemple en favorisant la concurrence sur le marché de
+détail) sont supérieurs aux éventuels désavantages de court terme d'une telle
+mesure (8). (6) Recommandation 2009/396/CE du 7 mai 2009. La recommandation
+(version française) et sa note explicative (version anglaise) sont
+téléchargeables aux adresses suivantes : http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:124:0067:0074:FR:PDF ;
+http://ec.europa.eu/information_society/policy/ecomm/doc/implementation_enforcement/article_7/explanatory_note.pdf.
+(7) Cette position commune du GRE est accessible à l'adresse internet suivante
+: http://erg.eu.int/doc/publications/erg_07_83_mtr_ftr_cp_12_03_08.pdf (8)
+Traduction libre. I-2.3. Objet de la décision Etant donné que le Conseil
+d'Etat a annulé la décision n° 2008-1176 susvisée en tant qu'elle fixe, dans
+son article 1er, un plafond de 4 cEUR/min au tarif de terminaison d'appel
+vocal de Bouygues Telecom du 1er juillet au 31 décembre 2010, l'Autorité doit
+établir un nouvel encadrement tarifaire applicable à Bouygues Telecom pour la
+période considérée. La présente décision s'inscrit donc dans le deuxième cycle
+d'analyse de marché (2008-2010) et vient compléter les décisions n° 2007-0810
+et n° 2008-1176 susvisées en fixant, pour la période du 1er juillet au 31
+décembre 2010, le plafond tarifaire que devra respecter Bouygues Telecom au
+titre de l'obligation d'orientation vers les coûts que l'Autorité lui a
+imposée dans la décision n° 2007-0810. I-3. Les références disponibles pour
+définir l'encadrement tarifairede la terminaison d'appel L'Autorité a lancé du
+6 novembre au 7 décembre 2009 une consultation publique invitant les
+différentes parties à lui faire part de leurs avis sur les différents éléments
+pouvant servir de référence pour la tarification du service de terminaison
+d'appel de Bouygues Telecom au second semestre 2010, qu'il s'agisse de
+référentiels de coûts, la comptabilité réglementaire et le modèle technico-
+économique, ou de comparaisons internationales de tarifs. I-3.1. Les états de
+comptabilisation des coûts et des revenus La décision n° 2007-0128 susvisée
+spécifie les obligations de comptabilisation et de restitution des coûts,
+notamment de séparation comptable, imposées aux opérateurs mobiles
+métropolitains en raison de leur influence significative sur les marchés de
+gros des terminaisons d'appels mobiles (voix et SMS) sur leur réseau
+respectif. C'est cette décision qui était opposable aux opérateurs mobiles
+métropolitains pour la production de leurs comptes relatifs aux exercices
+2006, 2007 et 2008. Les états de comptabilisation des coûts et de revenus
+audités élaborés selon ce référentiel réglementaire constituent une référence
+de coûts fiable, au regard notamment de leur source, i.e. la comptabilité
+sociale de l'entreprise soumise au contrôle des commissaires aux comptes de
+l'entreprise. En outre, conformément aux dispositions des articles L. 38
+(notamment le 5° du I) et D. 312 du CPCE, les comptes produits au titre des
+obligations comptables et les systèmes de comptabilisation des coûts sont
+audités annuellement par des organismes indépendants désignés par l'Autorité.
+Il convient de noter que les données issues de la comptabilité réglementaire
+reflètent les coûts engendrés par le déploiement réel d'un opérateur mobile et
+incluent donc les aléas et les éventuelles sous-efficacités du déploiement
+réel historique. La comptabilité réglementaire apporte cependant un éclairage
+important sur la modélisation des coûts d'un opérateur efficace. Ces données
+permettent notamment le calibrage des grandes masses de coûts en sortie du
+modèle technico-économique afin d'en assurer la robustesse. Les dernières
+restitutions disponibles, correspondant aux états de coûts et de revenus
+portant sur l'exercice 2008, ont été transmises à l'Autorité par les
+opérateurs à l'été 2009 et ont donné lieu en septembre 2009 à des travaux
+d'audit, menés par un auditeur indépendant désigné par l'Autorité (9). A
+l'issue de ces travaux, l'auditeur a délivré des attestations de conformité,
+qui sont publiées sur le site de l'Autorité (10). A ce jour, l'Autorité
+dispose des éléments comptables suivants : ― rapports des comptes pour les
+années 1999 à 2002 élaborés selon la décision n° 2001-0458 et non audités pour
+Orange France et SFR ; ― rapport des comptes pour l'année 2002 élaboré selon
+la décision n° 2001-0458 et non audité pour Bouygues Telecom ; ― rapports des
+comptes pour l'année 2003 élaborés selon la décision n° 2001-0458 et audités
+pour l'ensemble des trois opérateurs métropolitains ; ― états de coûts et de
+revenus pour les années 2004 et 2005, élaborés selon la décision n° 2005-0960
+et audités pour l'ensemble des trois opérateurs métropolitains ; ― états de
+coûts et de revenus pour l'année 2006, élaborés selon la décision n° 2007-0128
+et audités pour l'ensemble des trois opérateurs métropolitains ; ― états de
+coûts et de revenus pour l'année 2007, élaborés selon la décision n° 2007-0128
+et audités pour l'ensemble des trois opérateurs métropolitains ; ― états de
+coûts et de revenus pour l'année 2008, élaborés selon la décision n° 2007-0128
+et audités pour l'ensemble des trois opérateurs métropolitains. Par ailleurs,
+l'Autorité a entamé un processus de révision des spécifications comptables
+énoncées dans la décision n° 2007-0128 susvisée. Cette démarche a pour
+objectif d'affiner encore la connaissance de l'Autorité des coûts des
+opérateurs de réseaux mobiles métropolitains, en tenant compte notamment des
+commentaires qui ont pu être formulés par les cabinets mandatés au cours des
+exercices d'audits passés. Cette nouvelle décision de spécifications
+comptables en cours de préparation s'appliquera pour les prochains exercices
+de restitution et servira donc à l'Autorité dans le cadre du troisième cycle
+d'analyse des marchés de la terminaison d'appel vocal mobile, c'est-à-dire
+pour la période allant de 2011 à 2013. (9) Décisions de l'ARCEP en date du 16
+juillet 2009, n° 2009-0601, n° 2009-0602 et n° 2009-0603 respectivement pour
+Orange France, SFR et Bouygues Telecom. (10) Les attestations de conformité
+des états de coûts et de revenus établis par les sociétés Orange France, SFR
+et Bouygues Telecom dans le cadre de leurs obligations réglementaires pour
+l'exercice comptable 2008 sont disponibles sur la page
+http://www.arcep.fr/index.php?id=8080. I-3.2. Les comparaisons
+internationalesComparaison des tarifs de terminaison d'appel mobilepubliée par
+le Groupe des régulateurs européens Les comparaisons à l'échelle européenne
+des niveaux des TA forment généralement un des éléments pertinents des
+exercices de tarification menés par l'Autorité, bien qu'il convienne de les
+mettre en perspective au regard de certaines spécificités nationales. Ces
+comparaisons incluent notamment les éléments publiés par le Groupe des
+régulateurs européens (GRE).Le GRE élabore en effet de manière régulière une
+comparaison internationale des niveaux de TA dans 33 pays (11), dont notamment
+l'ensemble des pays qui mettent en œuvre le cadre réglementaire européen.
+Cette comparaison est actuellement publiée sur une base biannuelle depuis
+2004.L'ensemble des comparaisons européennes publiées et disponibles sur le
+site du GRE (12) s'appuie sur des informations collectées auprès des
+différentes ARN concernées.L'Autorité renvoie à la consultation publique de
+septembre 2008 (13) pour une description détaillée de la méthodologie retenue
+par le GRE pour élaborer ces comparaisons, qui n'a pas évolué depuis, et une
+analyse de la nécessaire mise en perspective des résultats de cette
+comparaison dans le cadre de la fixation de tarifs de TA en France. Elle
+rappelle en particulier qu'une telle comparaison présente des limites dont il
+convient de tenir compte, qu'elles soient liées à la méthodologie employée
+pour la comparaison, aux caractéristiques nationales intrinsèques différentes,
+aux différentes références de coûts utilisées, ou encore au fait qu'il s'agit
+d'une comparaison des tarifs et non des coûts.Elle note de surcroît qu'il
+s'agit d'une comparaison de tarifs passés, qui à ce titre ne reflètent pas
+encore la mise en œuvre de la recommandation européenne du 7 mai 2009 sur la
+terminaison d'appel précitée. De fait, la mise en œuvre de cette
+recommandation, prévue pour être achevée au 31 décembre 2012, devrait
+progressivement améliorer la lisibilité des comparaisons européennes et ainsi
+apporter un éclairage complémentaire sur les références de coûts pertinentes
+dans le cas français. Dans l'immédiat, il reste difficile d'interpréter la
+comparaison du groupe des régulateurs européens (GRE) qui concerne des tarifs
+généralement définis en référence aux coûts complets, alors que les tarifs
+futurs devront refléter les coûts incrémentaux, après une période de
+transition adaptée aux spécificités de chaque pays.L'Autorité estime ainsi que
+cette comparaison internationale des tarifs de TA, qui ne donne
+qu'indirectement des informations sur les coûts, ne peut apporter qu'un
+éclairage très partiel sur les coûts incrémentaux d'un opérateur de réseau
+mobile métropolitain et apporte principalement des éléments de contexte sur
+l'évolution générale des tarifs de TA en Europe. Par conséquent, si elle est
+un des éléments pouvant servir de référence dans le cadre de la fixation de
+tarifs de TA en France pour un cycle donné, en ce qu'elle apporte un éclairage
+sur le niveau global à fixer pour le marché français, cette référence apparaît
+moins pertinente dans le cadre de la fixation du tarif de TA d'un seul acteur,
+le plafond applicable aux deux autres opérateurs sur la même période étant
+d'ores et déjà fixé par une décision antérieure. (11) L'ensemble des 27 pays
+membres de l'Union européenne, l'Islande, le Liechtenstein, la Norvège, la
+Suisse, la Croatie et la Turquie. (12) A l'adresse suivante :
+http://erg.eu.int/documents/docs/index_en.htm. (13) Pages 8 à 13 de la
+consultation publique du 4 septembre 2008 sur les références et concepts
+pertinents pour la fixation des plafonds tarifaires de terminaison d'appel
+vocal mobile : http://www.arcep.fr/uploads/tx_gspublication/consult-
+tamobile2008-040908.pdf. Comparaison des asymétries en Europe Les graphiques
+suivants (source : Cullen international) illustrent l'état des asymétries
+tarifaires en Europe en 2009 et indiquent la position de la France.A nouveau,
+ces comparaisons entre pays doivent être mises en perspective au regard de
+certaines spécificités nationales. En effet, la motivation des asymétries
+tarifaires varie selon le pays. Comme indiqué ci-avant, la position commune du
+GRE susvisée prévoit trois motifs pour fixer des tarifs asymétriques, à savoir
+des surcoûts de réseau liés soit aux attributions de fréquences, soit aux
+moindres économies d'échelle dues à une entrée tardive sur le marché, ou
+encore la persistance d'un écart entre tarifs et coûts sous-jacents de
+terminaison d'appel conjuguée à des déséquilibres de trafic d'interconnexion.
+En outre, les références de coûts sous-jacents sont différentes d'un pays à
+l'autre, dans la phase actuelle de transition vers l'application de la
+recommandation européenne. Vous pouvez consulter le tableau dans le JOn° 270
+du 21/11/2010 texte numéro 27 I-3.3. Le modèle technico-économique des coûts
+d'un réseau mobileFinalité du modèle Depuis 2006, en complément des outils
+existants et afin de mener à bien l'exercice d'analyse de marché pour la
+période 2008-2010, l'Autorité a souhaité se doter d'un outil de modélisation
+des coûts encourus par un opérateur mobile efficace, applicable aux opérateurs
+métropolitains. L'Autorité renvoie à ses précédentes consultations publiques
+ou décisions pour le détail des motivations, paramètres et hypothèses de
+l'élaboration de ce modèle (14).Dans ce cadre, l'Autorité peut mener deux
+exercices différents mais complémentaires :― un exercice de réconciliation,
+afin de mieux comprendre les restitutions réglementaires des opérateurs
+mobiles et de déceler des différences entre les choix faits par les opérateurs
+lors de la mise en œuvre de leurs obligations comptables. Cela permet ensuite
+de corriger les hétérogénéités de traitement des coûts entre opérateurs, en
+amendant le référentiel de comptabilité réglementaire applicable ;― un travail
+d'élaboration d'un modèle d'un opérateur générique efficace, sur la base des
+modèles calibrés spécifiques à chaque opérateur, permettant d'estimer un coût
+de TA de référence corrigé des effets d'échelle et d'éventuelles spécificités
+d'un des trois opérateurs en place.Les coûts modélisés se rapportent
+uniquement et exclusivement aux coûts de réseau, à l'exclusion des autres
+coûts d'un opérateur mobile. L'Autorité rappelle que l'appellation coûts de
+réseau comprend à la fois les coûts d'investissement (dotations aux
+amortissements et rémunération du capital) et les coûts d'exploitation et de
+maintenance du réseau. Le modèle permet une évaluation des coûts incrémentaux
+de long terme du réseau, en calculant la différence entre le coût total du
+réseau lorsque l'opérateur offre l'ensemble des services et le coût total de
+ce réseau en l'absence du service de terminaison d'appel vocal. La finalité
+première du modèle étant de mieux comprendre les structures de coûts
+actuelles, l'Autorité est prudente dans l'utilisation de ce modèle pour
+estimer des coûts futurs. (14) Voir la consultation publique du 6 novembre
+2009 sur les référentiels de coûts des opérateurs mobiles :
+http://www.arcep.fr/uploads/tx_gspublication/consult-tamobile-061109.pdf. Voir
+également la décision n° 2008-1176 du 2 décembre 2008 déterminant
+l'encadrement tarifaire des terminaisons d'appel vocal mobile pour la période
+du 1er juillet 2009 au 31 décembre 2010 :
+http://www.arcep.fr/uploads/tx_gsavis/08-1176.pdf. Mise à jour du modèle Dans
+le cadre des travaux sur la présente décision et pour faire suite à
+l'annulation partielle, en juillet, de la décision n° 2008-1176, un
+questionnaire quantitatif sur les données de couverture, de demande et
+d'inventaire des équipements a été envoyé aux opérateurs à l'été 2009. Par
+ailleurs, le processus de restitution des comptes réglementaires a fourni fin
+septembre 2009 à l'Autorité les coûts réglementaires audités des opérateurs
+pour l'année 2008. L'ensemble des données récoltées a alors permis d'effectuer
+une mise à jour du calibrage du modèle, à structure constante, afin de
+garantir la cohérence avec les décisions précédentes tout en tenant compte des
+évolutions récentes du marché. En effet, un travail portant sur la structure
+du modèle n'était pas souhaitable à ce stade étant donné qu'il s'agit de
+définir l'encadrement tarifaire pour l'un des trois opérateurs, sur une
+période pour laquelle l'encadrement tarifaire des deux autres opérateurs est
+déjà fixé. Il convient donc de conserver la cohérence entre le modèle qui a
+servi de référence à la décision de décembre 2008, qui définit notamment
+l'encadrement tarifaire pour les sociétés Orange France et SFR pour le second
+trimestre 2010, et le modèle qui sert de référence pour la présente décision,
+qui définit l'encadrement tarifaire que devra respecter l'opérateur mobile
+Bouygues Telecom sur cette même période. En outre, comme l'Autorité l'a
+rappelé lors de sa décision n° 2008-1176 susvisée, les commentaires portant
+sur la structure du modèle nécessitent, pour être pris en compte, la
+concertation des acteurs et l'apport d'éléments quantitatifs suffisants. Ceux-
+ci seront examinés par l'Autorité dans le cadre de la poursuite des travaux
+sur l'évolution du modèle avec l'ensemble des opérateurs, actuellement en
+cours en vue du prochain cycle d'analyse de marché. Résultats du modèle Le
+modèle technico-économique des coûts de réseau d'un opérateur générique
+efficace indique un coût incrémental de long terme de 1,4 cEUR/min en 2008. Ce
+coût baisse à 1,23 cEUR en 2009. De manière générale, la tendance à la baisse
+est confirmée sur plusieurs années. Ceci peut s'expliquer notamment par la
+transition technologique progressive des réseaux de la deuxième à la troisième
+génération, globalement plus efficace, ainsi que par le progrès technique
+continu qui fait baisser les coûts des équipements de téléphonie mobile. Par
+conséquent, et compte tenu de l'existence de quelques coûts spécifiques à la
+commercialisation de la terminaison d'appel sur le marché de gros, on peut
+conclure que 1,3 cEUR/min constitue un majorant fiable du coût incrémental de
+long terme de terminaison d'appel vocal pour un opérateur générique efficace
+sur la période considérée par la présente décision. I-3.4. Retours de la
+consultation publique sur les références pertinentes L'Autorité a reçu des
+contributions de la part des trois opérateurs mobiles métropolitains à la
+consultation publique sur les références pertinentes lancée le 6 novembre et
+close le 7 décembre 2009. Comparaisons internationales de tarifs SFR considère
+que, si les comparaisons générales des tarifs de terminaison d'appel ne sont
+pas nécessairement pertinentes, les comparaisons des asymétries doivent être
+prises en compte, notamment pour rapprocher ancienneté sur le marché et niveau
+d'asymétrie. En l'occurrence, SFR soutient que Bouygues Telecom bénéficie
+encore d'une asymétrie singulièrement élevée au regard de sa date d'entrée sur
+le marché. Orange France considère également que l'asymétrie du tarif de
+Bouygues Telecom est actuellement excessive au regard des benchmarks
+européens, en particulier si l'on considère les « grands pays » (Royaume-Uni,
+Allemagne, Espagne et Italie). A contrario, selon Bouygues Telecom, les
+comparaisons internationales montrent que le maintien d'asymétries tarifaires
+reste assez répandu en Europe et que la France se situe dans la moyenne.
+L'Autorité rappelle que l'ancienneté de Bouygues Telecom sur le marché mobile
+français n'est pas un critère justifiant le maintien d'une asymétrie. Seul le
+caractère transitoirement sous-optimal de la régulation de la terminaison
+d'appel, en raison de la progressivité de l'orientation des tarifs vers les
+coûts, est pris en compte. Référentiels de coûts Orange France partage
+l'analyse de l'Autorité selon laquelle les états de coûts et de revenus
+audités transmis par les opérateurs constituent une référence de coûts fiable.
+Orange France considère à cet égard qu'elle constitue la seule référence de
+coûts objective et observable. Orange France constate une amélioration du
+calibrage du modèle technico-économique par rapport à sa version précédente.
+Néanmoins, l'opérateur considère que le modèle sous-évalue les coûts
+incrémentaux de long terme (CILT), notamment en raison du maintien de la
+valorisation des actifs en coûts historiques et de la sensibilité aux
+paramètres. Bouygues Telecom considère que la comptabilité réglementaire
+délivre une référence de coûts fiable pour calibrer le modèle technico-
+économique de manière régulière, dans la mesure où elle s'appuie sur la
+comptabilité sociale de l'entreprise et que ses états sont audités. Selon
+Bouygues Telecom, les estimations des CILT ressortant des modèles Bouygues
+Telecom et générique pour les années 2009 et 2010, ainsi que l'évolution à
+plus long terme, semblent refléter la réalité des réseaux avec une assez bonne
+précision. En revanche, selon SFR, le calibrage du modèle technico-économique
+à l'aide des grandes masses de coûts issues de la comptabilité réglementaire
+en coûts complets n'est pas suffisant. SFR soutient que seule une mise en
+œuvre des CILT dans la comptabilité réglementaire pourrait garantir la
+robustesse du calibrage. Par ailleurs, SFR note des améliorations du modèle
+mis en consultation publique suite à ses commentaires. L'opérateur considère
+toutefois que la modélisation demeure à la fois imprécise et trop complexe.
+L'Autorité rappelle que le modèle de coûts d'un opérateur générique efficace
+mis à jour en 2009 dans le cadre des travaux sur la présente décision doit
+rester cohérent avec la version précédente utilisée en 2008 et doit s'inscrire
+dans le cadre temporel de la préparation de la présente décision pour définir
+l'encadrement tarifaire pour les sociétés Orange France et SFR pour le second
+trimestre 2010, tout en incluant un calibrage fin à l'aide des données
+techniques et comptables recueillies en 2009. Par conséquent, les remarques
+des acteurs concernant essentiellement les futurs travaux de mise à jour de la
+structure du modèle ne peuvent s'inscrire que dans le cadre du prochain cycle
+d'analyse des marchés (méthode de valorisation des actifs, algorithmes de
+déploiement du réseau, prise en compte des évolutions technologiques).
+L'Autorité n'a donc pas jugé pertinent d'effectuer de nouvelles modifications
+sur le modèle d'opérateur générique efficace soumis à consultation publique en
+novembre 2009. Par ailleurs, l'Autorité a fixé par sa décision n° 2010-0002 du
+21 janvier 2010 le taux de rémunération du capital des activités régulées du
+secteur mobile pour la période 2010-2011. Si le taux de rémunération fixé
+n'est pas celui retenu pour les années 2010-2011 dans le modèle d'opérateur
+générique efficace soumis à consultation publique en novembre 2009, les tests
+de sensibilité effectués par l'Autorité montrent que cela est sans impact
+significatif sur le coût incrémental de la terminaison d'appel vocal sur la
+période. L'Autorité n'a donc pas procédé à ce stade à un ajustement du taux de
+rémunération du capital dans le modèle de coûts et intégrera le taux adéquat
+une fois la décision en la matière adoptée. Le modèle de référence utilisé
+dans le cadre de la présente décision est donc identique au modèle publié le 6
+novembre 2009 sur le site internet de l'Autorité dans le cadre de la
+consultation publique sur les références pertinentes lancée le 6 novembre et
+close le 7 décembre 2009. Il est annexé à la présente décision et est
+téléchargeable à l'adresse suivante : http://www.arcep.fr/index.php?id=8080.
+II. ― Principes et objectifs de l'encadrement tarifaire de Bouygues Telecom
+II-1. Finalités et modalités de l'encadrement tarifaire L'encadrement
+tarifaire de la terminaison d'appel vocal mobile est nécessaire en l'absence
+de toute pression concurrentielle s'exerçant sur le prix offert par le vendeur
+du fait du monopole structurel exercé par les opérateurs dans la fourniture de
+la terminaison d'appel. L'Autorité a en effet indiqué dans son analyse de
+marché du 4 octobre 2007 (décision n° 2007-0810 susvisée) que l'absence
+d'obligation de reflet des coûts par les tarifs serait susceptible de
+permettre à Bouygues Telecom, Orange France et SFR de bénéficier d'une rente
+liée à leur position monopolistique sur les marchés de gros en cause, ce qui
+pourrait soulever de nombreux problèmes concurrentiels et entraverait
+notamment l'exercice d'une concurrence effective sur les marchés de détail
+avals. Par conséquent, l'encadrement tarifaire de la prestation de terminaison
+d'appel vocal mobile vise notamment à assurer des conditions d'exercice d'une
+concurrence loyale au bénéfice des consommateurs sur les marchés de
+communications électroniques en aval des marchés de la terminaison d'appel
+vocal mobile. Plus généralement, la mise en œuvre de cet encadrement tarifaire
+doit répondre aux objectifs généraux fixés au II de l'article L. 32-1 du CPCE,
+à savoir notamment l'interopérabilité des services au niveau européen, le
+développement de l'emploi, de l'investissement efficace et de l'innovation,
+l'absence de discrimination entre opérateurs, la gestion efficace des
+ressources et le respect de la neutralité technologique. L'Autorité se fonde
+sur le II de l'article D. 311 du CPCE pour préciser la portée de l'obligation
+d'orientation vers les coûts imposée aux opérateurs. Elle définit ainsi les
+méthodes de recouvrement des coûts et de tarification, conformément à cet
+article : « Pour la mise en œuvre des obligations prévues au 4° de l'article
+L. 38, l'Autorité de régulation des communications électroniques et des postes
+précise, en tant que de besoin, les mécanismes de recouvrement des coûts, les
+méthodes de tarification et les méthodes de comptabilisation des coûts, qui
+peuvent être distinctes de celles appliquées par l'opérateur. » Le choix de la
+référence de coûts pertinents implique notamment de préciser le périmètre de
+coûts à prendre en compte en fonction de règles d'efficience et de rationalité
+économiques et la bonne allocation des coûts joints entre les différentes
+prestations produites par un opérateur de réseau mobile. A cet égard, il
+convient de noter que chaque opérateur possède un réseau unique mais qui sert
+à produire tout un ensemble de prestations dont celle de terminaison d'appel :
+appels entrants et sortants (vocaux ou SMS), services de transmissions de
+données permettant l'accès au réseau internet notamment. Le coût du réseau, y
+compris le coût de la boucle locale radio, est donc un immense coût joint à
+l'ensemble de ces prestations. En particulier, expliciter la portée de
+l'obligation d'orientation vers les coûts consiste donc à déterminer la part
+maximale de ces coûts joints pouvant être recouvrée via la commercialisation
+des prestations de terminaison d'appel mobile. Le reste de cet immense coût
+joint peut être librement recouvré via la vente des autres prestations ayant
+recours au réseau y compris auprès de l'appelé qui a bénéficié de la réception
+de cet appel. L'Autorité a ainsi très clairement indiqué dans la décision n°
+2008-1176 susvisée (page 13) qu'elle « définit (...), à travers les plafonds
+tarifaires, la part maximum des coûts joints qu'un opérateur peut recouvrer à
+travers la tarification de la terminaison d'appel voix, prestation
+commercialisée en monopole, le reste des coûts pouvant être recouvré sur
+l'ensemble des autres prestations (de détail notamment) qu'il offre et pour
+lequel l'opérateur est libre de sa politique tarifaire. Il n'y a par
+conséquent pas de risque de non-recouvrement de l'ensemble des coûts encourus
+». Au regard des évolutions du marché, l'Autorité a considéré dans cette
+décision n° 2008-1176 que les coûts pertinents devant servir de référence à la
+fixation des plafonds tarifaires au titre de l'obligation d'orientation des
+tarifs vers les coûts de la prestation de terminaison d'appel vocal
+correspondent aux coûts incrémentaux de long terme d'un opérateur générique
+efficace (15) induits par la fourniture du service de terminaison d'appel dans
+son ensemble. Ce signal économique reflète en effet la structure de coût de
+l'industrie mobile et permet un fonctionnement optimal du marché au regard des
+objectifs de l'Autorité. En particulier, il permet le développement d'une
+concurrence (16) saine et loyale entre les opérateurs mobiles ou entre
+opérateurs fixes et mobiles, et il entraîne une réorganisation efficace du
+marché globalement au bénéfice des consommateurs. L'Autorité note, à titre
+incident, que ce choix de référence est cohérent avec la recommandation
+susvisée de la Commission européenne sur la régulation des services de
+terminaison d'appel fixe et mobile dans l'Union européenne. Enfin, l'Autorité
+définit des méthodes de valorisation et de dépréciation des actifs et
+détermine les taux de rémunération du capital correspondants. L'Autorité a
+ainsi retenu jusqu'à présent la méthode des coûts historiques comme méthode
+pertinente de valorisation des coûts des actifs. A cet égard, l'Autorité
+considère que la méthode d'évaluation des coûts des actifs des réseaux mobiles
+par les coûts historiques est toujours adaptée, notamment compte tenu de la
+faible sensibilité (17) des coûts à la méthode et de l'écart toujours
+important entre le niveau des coûts d'un opérateur efficace et le niveau
+actuel des tarifs de terminaison d'appel vocal mobile. Toutefois et compte
+tenu de la réduction attendue des écarts entre coûts et tarifs, l'Autorité
+n'écarte pas la possibilité d'adapter la méthode de valorisation du coût des
+actifs dans le futur, en particulier pour atténuer les variations liées aux
+cycles d'investissement et pour mieux intégrer les effets de progrès
+technique. (15) Et non les propres coûts des opérateurs identifiés comme
+puissants sur leurs marchés respectifs de terminaison d'appel. (16) En
+favorisant notamment le développement d'offres d'abondance vers tous les
+réseaux, d'offres de convergence, et en favorisant une utilisation efficace
+des ressources en fréquences. (17) Dans le contexte des réseaux mobiles, avec
+des cycles d'investissements et des durées de vie des actifs courts par
+rapport aux actifs des réseaux fixes, l'écart reste faible, de l'ordre de
+quelques pourcent, entre les coûts obtenus à l'aide de méthodes de types coûts
+courants et la méthode des coûts historiques. Ce constat repose à la fois sur
+des observations d'autres régulateurs européens ou des simulations de l'ARCEP.
+II-2. Optimum économique visé par la régulation de la terminaison d'appel
+Compte tenu, d'une part, du développement actuel des marchés français et,
+d'autre part, de ses objectifs de régulation, l'Autorité considère que des
+tarifs de terminaison d'appel vocal symétriques au niveau des coûts
+incrémentaux de long terme d'un opérateur efficace, définis comme l'ensemble
+des coûts qui seraient évités si l'opérateur n'offrait plus la prestation de
+terminaison d'appel à des opérateurs tiers, permettent de parvenir à un niveau
+d'efficacité économique optimal. L'Autorité rappelle en effet que ce standard
+de coût est le seul qui permette de : ― prévenir les distorsions de
+concurrence entre opérateurs mobiles, à raison de charges de terminaison
+d'appel mobile élevées, en présence d'offres à effet de réseaux (offres dites
+on net) reposant sur l'écart entre le coût incrémental (18) et le tarif de
+terminaison d'appel mobile et générant des « effets de club » au bénéfice des
+seuls opérateurs ayant les plus grandes parts de marché ; ― prévenir les
+distorsions de concurrence entre opérateurs fixes et mobiles, qui se font une
+concurrence sans cesse croissante sur le terrain des communications passées en
+position déterminée ; ― limiter les importants transferts financiers des
+opérateurs fixes vers les opérateurs mobiles, du fait de tarifs de terminaison
+mobiles élevés, en raison d'un manque d'harmonisation avec la régulation des
+terminaisons d'appel fixes ; ― prévenir les distorsions d'usages consistant
+pour les utilisateurs finals passant des appels en position déterminée à
+utiliser leur ligne mobile, du fait de l'importance de la charge de
+terminaison mobile encourue pour un appel passé depuis une ligne fixe.
+L'Autorité relève au passage qu'une orientation vers les coûts incrémentaux de
+chacun des opérateurs ne permettrait pas, par construction, d'atteindre des
+niveaux symétriques, du fait que les opérateurs ont tous des réseaux et des
+parcs de caractéristiques et de tailles différentes (19). La symétrie visée à
+terme par l'Autorité, conformément à la position commune du GRE précitée, et
+recommandée par la Commission européenne participe d'un signal économique émis
+à l'attention de l'ensemble des opérateurs, que l'Autorité estime
+économiquement optimal en ce qu'il prévient l'introduction de distorsions
+concurrentielles dans le fonctionnement des marchés de détail sous-jacents. A
+cet égard, cette symétrie repose nécessairement sur une référence aux coûts
+incrémentaux de long terme d'un opérateur générique efficace. (18) Ce coût
+incrémental constituant le coût internalisé par les opérateurs lorsqu'ils
+élaborent leurs offres de détail pour des communications à destination de leur
+propre réseau. (19) Même si le modèle de coûts de l'Autorité indique que
+l'impact des économies d'échelles est moins significatif pour les coûts
+incrémentaux que pour les coûts complets distribués. II-3. Prise en compte du
+principe de proportionnalitéet mise en œuvre d'une période de transition
+adaptéeII-3.1. Les risques liés à une baisse trop rapide des tarifs de gros
+Dans la décision n° 2008-1176, l'Autorité a souligné le besoin de respecter un
+principe de proportionnalité dans la mise en œuvre de l'orientation des tarifs
+de terminaison d'appel vers les coûts pertinents sous-jacents. Les tarifs de
+terminaison d'appel vocal mobile demeurent en effet très structurants pour le
+secteur. En 2008, le volume total de terminaison d'appel vocal (en incluant le
+trafic off net et le trafic on net sujet à transfert interne pour la
+prestation de terminaison d'appel) représentait environ 101,8 milliards de
+minutes, soit une valeur de près de 7 milliards d'euros (en valorisant les
+flux avec le tarif moyen de terminaison d'appel à hauteur de 6,9 c€/min sur la
+période considérée). Ces revenus de gros représentaient presque 38 % du
+chiffre d'affaires de détail sur le marché mobile (20). Par conséquent,
+l'adaptation du marché aux nouvelles conditions tarifaires de gros, fondées
+sur le concept de coûts incrémentaux, se traduira vraisemblablement par un
+ajustement dynamique des offres tarifaires des opérateurs et des habitudes de
+consommation. Ce processus d'ajustement des offres demande un minimum de temps
+aux opérateurs, que ce soit pour faire évoluer leurs offres (structure
+commerciale à adapter, études marketing complémentaires à lancer...) ou faire
+migrer progressivement leurs parcs de clientèle vers ces nouvelles offres. En
+outre, même si les opérateurs ont la possibilité de modifier leurs offres de
+détail afin de maintenir leur équilibre économique, ces modifications
+comportent un risque important pour les opérateurs dans la mesure où elles
+sont particulièrement coûteuses et notamment rendent possible la résiliation
+sans pénalité par les consommateurs des contrats pour lesquels les conditions
+contractuelles sont modifiées, conformément à l'article L. 121-84 du code de
+la consommation. Les modifications des conditions générales de vente des
+contrats déjà en vigueur restent par conséquent délicates à mettre en œuvre
+dans un marché mobile où l'équilibre économique des offres repose couramment
+sur des clauses de durée d'engagement minimal. A cet égard, l'Autorité note en
+particulier que le segment du marché dit « postpayé » manque de fluidité.
+Inversement, le segment du « prépayé » est relativement plus fluide et peut
+s'adapter vite, mais est aussi relativement plus sensible aux niveaux des
+tarifs de terminaison d'appel compte tenu du fait que les clients de ce
+segment reçoivent en général plus d'appels qu'ils n'en émettent. Ainsi, les
+acteurs ont toujours fait valoir qu'un choc trop violent et rapide sur les
+prix pourrait déstabiliser le marché de façon inefficace, créant des
+opportunités de call-back (21) ou déstabilisant les petits acteurs sur le bas
+de marché, notamment le segment du prépayé, au risque de réduire le degré de
+concurrence. (20) Source : Observatoire des marchés de l'ARCEP. (21) Le call-
+back est un système qui permet de mettre en relation deux correspondants en
+payant deux terminaisons d'appel, à l'aide d'une plate-forme qui rappelle
+l'initiateur de l'appel et qui appelle le destinataire. Le déclenchement de ce
+service peut se faire à l'aide d'un SMS ou bien à l'aide d'un logiciel
+téléchargé sur le mobile, et qui provoque directement le rappel automatique de
+manière transparente. II-3.2. La mise en œuvre progressive de l'orientation
+des tarifs vers les coûts Etant donné le caractère structurant pour le secteur
+des tarifs de terminaison d'appel vocal mobile et les contraintes associées à
+la modification des offres de détail, il convient d'appliquer des baisses
+proportionnées et permettant l'adaptation des offres aux nouvelles conditions
+tarifaires de gros. Aussi, alors que l'Autorité estime que la situation
+optimale consisterait à fixer les plafonds tarifaires de la terminaison
+d'appel mobile de manière symétrique au niveau des coûts incrémentaux de long
+terme d'un opérateur générique efficace, elle considère qu'il n'est pas
+réaliste de vouloir atteindre cette cible immédiatement, l'écart entre la
+cible et les niveaux actuels restant encore trop important. Une période de
+transition adaptée de plusieurs années a donc été jugée nécessaire dans la
+décision n° 2008-1176 susvisée pour permettre aux opérateurs d'adapter leurs
+offres au nouveau concept et d'apprendre progressivement à s'adapter aux
+préférences des consommateurs dans ce nouveau contexte. Cette transition doit
+intégrer deux contraintes a priori opposées : d'un côté, assurer la
+convergence la plus rapide possible des tarifs de terminaison d'appel vers le
+niveau optimal, i.e. les coûts incrémentaux d'un opérateur efficace, et, de
+l'autre, éviter de déstabiliser le marché par une transition trop rapide.
+L'Autorité rappelle à cet égard que la recommandation de la Commission
+européenne susvisée préconise que la cible, à savoir la symétrie des tarifs au
+niveau des coûts incrémentaux, doit être atteinte au plus tard le 31 décembre
+2012, en laissant les autorités de régulation adapter la transition aux
+spécificités nationales. Ainsi, l'Autorité a donc, compte tenu du principe de
+proportionnalité, mis en œuvre une période de transition dans le cadre de sa
+décision n° 2008-1176, qui fixe les tarifs de SFR et Orange France pour la
+période du 1er juillet au 31 décembre 2010. Ce principe doit également être
+pris en compte dans le cadre de la présente décision, qui fixe le tarif de
+Bouygues Telecom pour la même période. Il convient également de gérer les
+conséquences sur le marché de l'orientation progressive des tarifs vers les
+coûts. Ces deux points sont développés au paragraphe suivant. II-4. Prise en
+compte du principe de proportionnalité dans le cadre de la présente décisionet
+gestion des conséquences de l'orientation progressive des tarifs vers les
+coûtsII-4.1. La prévention d'une distorsion concurrentielle entre opérateurs
+mobilesLe risque d'une distorsion concurrentielle issue du caractère
+progressif de la régulation La gradualité de l'orientation des tarifs de
+terminaison d'appel vers les coûts incrémentaux de long terme d'un opérateur
+efficace signifie le maintien transitoire d'une situation sous-optimale sur le
+marché de gros. Il convient alors de gérer les conséquences sur le marché de
+détail de cette situation sous-optimale sur le marché de gros pendant la
+période de transition. En particulier, le maintien provisoire d'un écart entre
+les tarifs et les coûts sous-jacents est susceptible de créer ou maintenir une
+distorsion concurrentielle entre opérateurs mobiles, dans la mesure où il est
+conjugué à d'importants déséquilibres dans les volumes de trafic
+d'interconnexion échangés par les opérateurs. A cet égard, comme l'Autorité
+l'a remarqué dans sa décision n° 2008-1176 susvisée (p. 43), « Dans un marché
+présentant une forte dissymétrie en termes de parts de marché comme le marché
+français, le potentiel d'attractivité des offres d'abondance on net est
+particulièrement contrasté et contribue ainsi à une dynamique commerciale
+favorable aux opérateurs ayant les parts de marché les plus élevées. En effet,
+toute chose égale par ailleurs, le consommateur préférera souscrire à une
+telle offre auprès de l'acteur ayant la part de marché la plus forte pour
+maximiser la probabilité d'avoir des correspondants principaux relevant du
+réseau en cause. Pour répliquer de telles offres de façon pertinente, un
+opérateur qui dispose de parts de marché plus réduites devra donc proposer des
+offres d'abondance en on net et off net. Par ce choix, il attire des clients
+qui émettent plus d'appels sortants off net qu'ils ne reçoivent d'appels
+entrants en provenance d'autres réseaux. Il subit donc, au final, un
+déséquilibre de trafic défavorable vers chacun de ses concurrents ». Par
+conséquent, la politique commerciale d'un opérateur de petite taille est
+contrainte par le comportement de ses concurrents, et le déséquilibre de
+trafic qui s'ensuit est donc au moins partiellement hors du contrôle de cet
+opérateur. Un tel déséquilibre de trafic d'interconnexion ne constitue pas un
+problème en lui-même et l'Autorité ne vise en aucun cas à le corriger. En
+effet, ce déséquilibre entre trafic entrant et trafic sortant n'introduirait
+nullement de biais concurrentiel si la prestation de gros de terminaison
+d'appel vocal mobile était tarifée au niveau des coûts incrémentaux, tels
+qu'internalisés par les opérateurs lorsqu'ils composent leurs offres
+tarifaires de détail, en particulier des offres on net, car, dans ce cadre, il
+n'y aurait pas de différence entre les équations économiques sous-tendant
+l'équilibre financier d'une offre on net ou d'une offre off net. Toutefois, la
+persistance transitoire d'un écart entre les tarifs de terminaison d'appel et
+les coûts incrémentaux, du fait d'une régulation transitoirement sous-optimale
+et à ce titre hors de contrôle des opérateurs, accroît artificiellement la
+contrevaleur monétaire du déséquilibre de trafic, provoquant ainsi des
+transferts financiers importants entre des opérateurs qui sont directement
+concurrents sur les marchés de détail avals. L'Autorité vise par conséquent à
+prévenir l'apparition d'une telle distorsion de concurrence par le biais d'une
+asymétrie tarifaire transitoire. Ces circonstances justifiant le maintien
+d'une asymétrie transitoire sont, par ailleurs, exactement celles prévues par
+le Groupe des régulateurs européens dans sa position commune du 12 mars 2008
+susvisée. La compensation partielle des déséquilibres entre opérateurs mobiles
+Etant donné que la terminaison d'appel de Bouygues Telecom est payée à la fois
+par les opérateurs mobiles et les opérateurs fixes, l'atténuation de la
+distorsion artificielle de concurrence observée sur le seul marché mobile par
+une différenciation des tarifs de gros des opérateurs mobiles induit une
+externalité sur les opérateurs fixes (et donc sur leurs clients). L'Autorité
+doit donc prendre en compte une « sur-rente » en provenance des opérateurs
+fixes créée par le maintien d'une asymétrie transitoire ajoutée à un tarif
+lui-même significativement supérieur aux coûts pertinents sous-jacents, et
+écartant ainsi davantage le tarif de ces coûts. L'Autorité souligne à cet
+égard qu'il est souhaitable de minimiser le surplus de flux financiers des
+opérateurs fixes vers les opérateurs mobiles tout en assurant leur répartition
+de manière équitable entre opérateurs mobiles. De plus, tout opérateur définit
+sa stratégie commerciale dans un contexte de régulation formé entre autres de
+l'ensemble de niveaux de terminaison d'appel qui lui est connu. Lorsqu'il
+lance de nouvelles offres sur le marché de détail, incluant notamment des
+communications illimitées vers tous les opérateurs mobiles, il est de sa
+responsabilité de prendre en compte les niveaux de tarifs de terminaison
+d'appel de ses concurrents et leur évolution probable, en fonction non
+seulement des niveaux de coûts qu'il anticipe mais aussi du contexte européen.
+Dans ce contexte, Bouygues Telecom ne peut donc prétendre à une atténuation
+intégrale d'un effet qu'il pouvait partiellement anticiper. Par conséquent,
+l'Autorité considère qu'il est nécessaire de maintenir transitoirement une
+asymétrie du plafond tarifaire de Bouygues Telecom mais que, dans la mesure où
+cela est compatible avec le principe de proportionnalité des baisses imposées
+à un opérateur, l'asymétrie fixée à cet égard ne devrait pas aboutir à une
+compensation totale de la contrevaleur monétaire des déséquilibres de trafic
+d'interconnexion en défaveur de Bouygues Telecom en raison de l'écart
+persistant entre tarifs et coûts de terminaison. L'Autorité confirme en
+particulier qu'une telle différenciation tarifaire n'a pas vocation à perdurer
+dès lors que les tarifs de terminaison d'appel seront alignés sur le concept
+de coûts pertinents et qu'ils n'induiront ainsi plus de biais concurrentiel
+artificiel sur le marché de détail au détriment des opérateurs à plus faibles
+parts de marché. En ce sens, l'Autorité considère qu'elle est pleinement
+cohérente avec le principe de symétrie des terminaisons d'appel des opérateurs
+à long terme, qu'elle défend, ainsi qu'elle l'a rappelé précédemment, à
+l'instar de la Commission européenne. II-4.2. La proportionnalité des baisses
+est applicable à tous les opérateurs mobiles L'Autorité souligne que la
+présente décision a pour objet de fixer le plafond tarifaire opposable à
+Bouygues Telecom pour la période du 1er juillet au 31 décembre 2010 alors que
+le plafond opposable à Orange France et SFR sur la même période est déjà
+défini à hauteur de 3 cEUR/min. Par conséquent, le rythme de baisse du marché
+est globalement fixé et il convient également d'imposer à Bouygues Telecom une
+baisse proportionnée à cet état de fait, sous peine de remettre en cause
+l'équilibre général. En effet, la mise en œuvre au 1er juillet 2010 d'une
+baisse (22) du plafond tarifaire de Bouygues Telecom qui serait beaucoup plus
+rapide que la baisse (23) du plafond tarifaire des autres opérateurs mobiles
+métropolitains demanderait ainsi à Bouygues Telecom un effort beaucoup plus
+important que celui demandé aux autres. En effet, les tarifs de terminaison
+d'appel constituent un élément encore plus structurant pour les acteurs à part
+de marché plus réduite, dont le trafic est plus majoritairement off net de
+manière structurelle. De plus, la simple baisse des revenus de gros liés au
+trafic fixe vers mobile pèse davantage sur les petits acteurs, en proportion
+de l'EBIT (24). Par conséquent, une très forte baisse imposée à Bouygues
+Telecom au 1er juillet 2010 suggérerait que la convergence vers les coûts
+incrémentaux aurait pu être plus rapide pour l'ensemble du marché, permettant
+un cercle vertueux de baisse et une réduction rapide de l'asymétrie. Un tel
+développement contreviendrait manifestement aux remarques de l'ensemble des
+opérateurs quant à l'obligation de proportionnalité qui s'impose à l'Autorité,
+selon lesquelles une baisse trop rapide des tarifs de gros serait susceptible
+de déstabiliser le marché de détail en modifiant brutalement l'équation
+économique des offres de détail. (22) A partir d'un plafond de 6 c€/min,
+sachant que le plafond précédemment en vigueur jusqu'au 30 juin 2009 était de
+8,5 c€/min. (23) De 4,5 c€/min à 3 c€/min, soit 33 % de baisse au 1er juillet
+2010 et 53,8 % de baisse par rapport au plafond de 6,5 c€/min en vigueur
+jusqu'au 30 juin 2009. (24) En 2008, l'EBIT de SFR et d'Orange France était
+compris entre 2,5 et 3 milliards d'euros, tandis que l'EBIT de Bouygues
+Telecom était inférieur à 600 millions d'euros. Or une baisse de 1 centime par
+minute de terminaison d'appel représente un montant de 10 millions d'euros
+pour un volume de 1 milliard de minutes. Les baisses de tarifs de TA de 6,5
+c€/min à 3 c€/min entre 2008 et 2010 représentent ainsi pour Orange France et
+SFR une baisse de revenus annuels fixe vers mobile inférieure à [SDA] % de
+leur EBIT tandis que cette baisse dépasse [SDA] % pour Bouygues Telecom avec
+un tarif de TA passant de 8,5 c€/min à moins de 4 c€/min. III. ― Mise en œuvre
+de l'encadrement tarifaire de Bouygues TelecomIII-1. Eléments d'appréciation
+pour fixer l'encadrement tarifaire de Bouygues TelecomIII-1.1. Evolution des
+déséquilibres d'interconnexion L'accroissement artificiel de la contrevaleur
+monétaire des déséquilibres d'interconnexion entre opérateurs mobiles, induit
+par la sous-optimalité transitoire de l'encadrement tarifaire de la
+terminaison d'appel vocal, dépend des paramètres suivants : ― il est corrélé
+positivement au solde d'interconnexion en volume de Bouygues Telecom vis-à-vis
+de ses concurrents mobiles Orange France et SFR ; ― il est corrélé
+positivement à l'écart entre les tarifs de terminaison d'appel vocal d'Orange
+France et SFR et le coût incrémental de long terme d'un opérateur générique
+efficace. Il convient donc de s'intéresser aux dernières évolutions de ces
+paramètres. La mise à jour du modèle technico-économique de l'Autorité
+effectuée en 2009 indique que 1,3 cEUR/min constitue une estimation prudente
+du coût incrémental de long terme d'un opérateur générique efficace. Ce niveau
+peut donc servir de référence pour l'évaluation des déséquilibres financiers
+subis par Bouygues Telecom. Par ailleurs, les opérateurs ont fourni à
+l'Autorité les dernières données d'interconnexion constatées, en particulier
+pour l'année 2009. On constate une réduction assez significative du déficit
+d'interconnexion en volume pour Bouygues Telecom, celui-ci passant de [SDA]
+(25) milliards de minutes en 2007 à environ [SDA] milliards en 2009, soit une
+baisse de [SDA]. Tout exercice de prévision quant à l'évolution des soldes de
+trafic s'avère extrêmement délicat, étant donné la forte dépendance vis-à-vis
+des évolutions du marché. Si l'Autorité n'est ainsi pas en mesure de se
+prononcer avec certitude sur la poursuite ou non de la tendance observée sur
+les dernières années, elle est toutefois incitée à la prudence. (25) Secret
+des affaires. III-1.2. Appréciation conjuguée de l'ensemble des objectifs Dans
+leurs contributions à la consultation publique sur les références pertinentes,
+les opérateurs mobiles ont proposé des formules pour évaluer le niveau
+d'asymétrie. Ainsi, Bouygues Telecom soutient que l'asymétrie tarifaire doit
+être fixée de façon à ce que les soldes financiers d'interconnexion entre
+opérateurs mobiles soient exactement au même niveau que si les tarifs de
+terminaison d'appel mobile se situaient au niveau des coûts incrémentaux de
+long terme. Bouygues Telecom met en avant le fait qu'une sous-compensation des
+déséquilibres entre opérateurs mobiles entraîne de facto des transferts
+financiers injustifiés entre des opérateurs directement concurrents sur le
+marché de détail. A l'opposé, Orange France et SFR estiment que le niveau
+maximal d'asymétrie envisageable doit être calculé de manière à ce que les
+sommes supplémentaires (26) payées en raison de l'asymétrie par l'ensemble des
+acheteurs de terminaison d'appel mobile vers le réseau de Bouygues Telecom ―
+i.e. Orange France, SFR et l'ensemble des opérateurs fixes et internationaux ―
+compensent au plus l'accroissement de la contrevaleur monétaire du
+déséquilibre en volume entre Bouygues Telecom et ses concurrents mobiles, en
+raison de l'écart entre les tarifs et les coûts sous-jacents. Orange France et
+SFR considèrent en outre qu'il faut alors appliquer un taux (27) de
+compensation partielle à ce niveau maximal, étant donné que le déséquilibre en
+question ne serait que partiellement hors du contrôle de Bouygues Telecom.
+L'Autorité considère cependant qu'aucune formule ne permet de prendre en
+compte en même temps l'intégralité des objectifs explicités ci-dessus, qui
+sont parfois contradictoires. En effet, d'un côté, l'objectif de
+rétablissement d'une concurrence loyale entre opérateurs mobiles, telle
+qu'elle serait avec des tarifs de TA au niveau des coûts incrémentaux de long
+terme, ainsi que le respect du principe de proportionnalité des baisses
+tarifaires, pour éviter de déstabiliser l'équilibre des offres de détail, en
+particulier pour un acteur de la taille de Bouygues Telecom, tendent à ne pas
+trop réduire l'asymétrie. De l'autre côté, le niveau d'asymétrie fixé doit
+tenir compte du contexte de réduction du solde d'interconnexion en volume de
+Bouygues Telecom avec ses concurrents mobiles, ainsi que de l'aspect partiel
+de la compensation des déséquilibres financiers subis par Bouygues Telecom, en
+raison notamment de l'externalité sur les opérateurs fixes et pour ne pas
+compenser intégralement un effet que Bouygues Telecom pouvait partiellement
+anticiper. Par conséquent, la décision de l'Autorité découle de l'appréciation
+conjuguée et de la conciliation de l'ensemble des objectifs et du principe de
+proportionnalité de ces décisions évoqués ci-avant. (26) Du fait que
+l'asymétrie correspond à une augmentation du plafond tarifaire de Bouygues
+Telecom par rapport à une situation hypothétique à 3 c€/min, soit le plafond
+applicable à Orange et SFR au second semestre 2010. (27) Taux estimé à [SDA]
+par Orange France et SFR. III-2. Commentaires reçus sur le projet de décision
+notifié et mis en consultation publiqueIII-2.1. L'avis de la Commission
+européenne Le projet de décision de l'Autorité a été notifié à la Commission
+européenne et aux autorités réglementaires nationales de la Communauté
+européenne le 14 janvier 2010. Dans sa lettre de commentaires du 15 février
+2010, la Commission (28) « se félicite de l'approche adoptée par l'ARCEP qui
+prévoit une réduction des tarifs de terminaison d'appel au niveau des coûts
+incrémentaux de long terme d'un opérateur efficace, ce qui se traduira par des
+tarifs symétriques, conformément à la recommandation sur les tarifs de
+terminaison d'appels fixe et mobile. En outre la Commission note avec
+satisfaction que, par rapport au niveau proposé précédemment, les TTM [tarifs
+de terminaison d'appel mobile] proposés pour Bouygues entraînent une réduction
+notable de l'asymétrie par rapport aux autres opérateurs. Toutefois, la
+Commission relève que l'ARCEP estime justifié de maintenir l'asymétrie jusqu'à
+ce qu'un tarif orienté en fonction des coûts soit introduit pour tous les
+opérateurs de France métropolitaine. Par conséquent, la Commission réitère les
+observations formulées dans le cadre de l'affaire FR/2008/0812 et invite
+l'ARCEP à aboutir à des TTM symétriques pour les trois opérateurs lorsqu'elle
+fixera des tarifs de terminaison d'appel pour la période postérieure à 2010
+ou, du moins, à envisager de fixer une date butoir pour le passage à des TTM
+symétriques fixés au niveau des coûts d'un opérateur efficace ». L'Autorité
+indique à ce titre qu'elle va initier un troisième cycle d'analyse des marchés
+durant l'année 2010 en vue de remotiver une prorogation de la régulation des
+terminaisons d'appel mobile sur la période 2011-2013. Ainsi, l'Autorité prend
+acte du commentaire de la Commission européenne et l'examinera lors de sa
+prochaine analyse des marchés de terminaison d'appel vocal. (28) Affaire
+FR/2010/1039. III-2.2. Synthèse des contributions reçues lors de la
+consultation publique L'Autorité a lancé une consultation publique sur son
+projet de décision le 13 janvier 2010, close le 15 février 2010. Elle a reçu
+trois réponses à cette consultation de la part des opérateurs de réseaux
+mobiles métropolitains Orange France, SFR et Bouygues Telecom. L'ensemble de
+ces réponses, à l'exclusion des parties couvertes par le secret des affaires,
+est publié sur le site de l'ARCEP. Les principaux points sont résumés ci-
+dessous. Orange France considère à titre principal que, compte tenu de
+l'ancienneté de Bouygues Telecom sur le marché (obtention de la licence en
+1994) et de sa part de marché actuelle (environ 18 %), l'asymétrie tarifaire
+devrait disparaître en 2010. Orange France soutient en outre qu'aucun
+troisième entrant en Europe ne bénéficie d'une asymétrie sur des marchés où
+les tarifs sont inférieurs à 4,5 c€/min. A titre subsidiaire, Orange France
+affirme que la dynamique de réduction du solde d'interconnexion en volume de
+Bouygues Telecom et le principe de compensation partielle des déséquilibres
+subis par Bouygues Telecom confirmé par le Conseil d'Etat conduisent à un
+plafond d'au plus 3,14 c€/min. Orange France conteste d'ailleurs la nécessité
+d'appliquer le principe de proportionnalité pour fixer l'asymétrie.
+L'opérateur avance que le plafond imposé à Bouygues Telecom pour la période du
+1er juillet 2009 au 30 juin 2010 serait trop élevé, ce qui implique
+inévitablement une forte baisse par la suite. SFR considère que l'ARCEP n'a
+pas respecté la décision du Conseil d'Etat du 24 juillet 2009. En effet, selon
+l'opérateur, le « seul objectif » de l'Autorité, à savoir l'aspect partiel de
+la compensation « du déficit subi par Bouygues Telecom », n'est pas rempli par
+le projet de décision mis en consultation publique. Sur la base de ses propres
+estimations prévisionnelles de trafic, SFR propose de fixer le plafond
+tarifaire de la TA de Bouygues Telecom au deuxième semestre 2010 entre 3,11 et
+3,27 c€/min, pour un niveau de compensation allant respectivement de 30 à 75 %
+du déficit estimé par SFR. Au contraire, Bouygues Telecom considère que le
+plafond proposé par l'Autorité conduit au maintien d'un important transfert
+financier injustifié de Bouygues Telecom vers ses concurrents directs mobiles
+et que le caractère partiel de la compensation n'est pas fondé. En effet,
+Bouygues Telecom soutient que l'asymétrie de son tarif a peu d'impact sur les
+opérateurs fixes, qui profitent selon lui largement de la politique de baisse
+tarifaire actuelle sur le marché de la TA. En outre, les consommateurs ne
+bénéficieraient d'aucune répercussion à la baisse sur les tarifs de détail des
+communications fixe vers mobile. L'opérateur considère également que, du fait
+de sa taille, il supporte toujours un risque commercial important en
+commercialisant des offres d'abondance off net vers tous réseaux pour
+répliquer à la stratégie on net de ses concurrents [SDA]. Par ailleurs,
+Bouygues Telecom s'étonne que la baisse de son plafond tarifaire soit plus
+forte que celle imposée à Orange France et SFR et considère que le principe de
+proportionnalité devrait induire une baisse « homothétique » des plafonds.
+L'opérateur, dont l'EBIT est plus faible que celui de ses concurrents,
+souligne que le poids de la régulation qui pèse sur lui nuit directement à sa
+capacité d'investissement, dans un contexte de forte évolution technologique.
+Par conséquent, Bouygues Telecom réclame que son plafond tarifaire soit
+réévalué à hauteur de 3,9 c€/min. Enfin, à titre incident, Bouygues Telecom
+estime que l'Autorité ne respecte pas son obligation de transparence en
+n'explicitant pas suffisamment les arbitrages opérés entre ses différents
+objectifs. III-2.3. Conclusions tirées par l'Autorité Sans répondre à
+l'ensemble des points présentés, dont certains trouvent notamment leur réponse
+dans le présent document et/ou dans ses précédentes décisions, l'Autorité
+souhaite apporter les précisions suivantes. Comme l'Autorité l'a indiqué à la
+section I-3.2, les comparaisons internationales des asymétries tarifaires
+n'apportent qu'un éclairage très partiel sur la fixation du plafond pour
+Bouygues Telecom, étant donné l'hétérogénéité des références de coûts
+utilisées, de l'avancement du processus d'orientation des tarifs vers ces
+coûts et des motifs pour maintenir ou non une asymétrie. L'Autorité rappelle
+que le plafond tarifaire imposé à Bouygues Telecom doit être apprécié au
+regard du plafond déjà imposé à ses concurrents sur la même période, mais
+également au regard du niveau précédemment en vigueur. Contrairement à ce
+qu'affirment Orange France et SFR, l'Autorité ne peut donc absolument pas
+faire abstraction du principe de proportionnalité des baisses, sous peine de
+remettre en cause de manière générale la nécessité d'une période de transition
+pour l'orientation des tarifs de TA vers les coûts incrémentaux de long terme
+d'un opérateur générique efficace. Par ailleurs, l'Autorité indique que le
+caractère « homothétique » des baisses tarifaires peut être apprécié en ce qui
+concerne l'écart par rapport au coût de référence et non par rapport à zéro,
+pour permettre une convergence naturelle vers une situation symétrique.
+L'Autorité considère avoir clairement expliqué l'ensemble des objectifs
+qu'elle a retenus pour fixer le plafond tarifaire de Bouygues Telecom, puis en
+quoi ces objectifs tendent à privilégier une réduction ou un maintien du
+niveau d'asymétrie. En particulier, l'Autorité a indiqué dans la section
+précédente que la réduction du problème à une formule comporte le risque
+d'exclure l'un ou l'autre des objectifs, qui ne peuvent être conciliés que
+globalement. Ainsi, la formule proposée par Orange France et SFR consiste à se
+focaliser sur le solde financier d'interconnexion de Bouygues Telecom avec
+l'ensemble des opérateurs, mobiles, fixes et internationaux, et de le
+rapprocher du solde obtenu avec des tarifs symétriques au niveau des coûts
+incrémentaux. Cette approche équivaut à transférer à Orange France et SFR
+l'intégralité de la « sur-rente » payée par les opérateurs fixes à Bouygues
+Telecom du fait de l'asymétrie, ce qui ne satisfait pas l'objectif de
+concurrence loyale entre opérateurs mobiles. De plus, cette approche ne prend
+pas en compte le principe de proportionnalité. A l'opposé, la formule suggérée
+par Bouygues Telecom consiste à ramener exactement les soldes financiers
+d'interconnexion entre opérateurs mobiles au même niveau que si les tarifs
+étaient symétriques au niveau des coûts incrémentaux. Cette approche occulte
+notamment les externalités sur les opérateurs fixes, en permettant dans ce cas
+à Bouygues Telecom de conserver l'intégralité de la « sur-rente » payée par
+les opérateurs fixes. En conclusion, l'Autorité estime que les réponses reçues
+suite à la consultation publique n'apportent pas d'éléments nouveaux
+susceptibles de modifier son appréciation de l'asymétrie tarifaire à mettre en
+œuvre pour le second semestre de l'année 2010. III-3. Définition de
+l'encadrement tarifaire de Bouygues Telecom Au vu de l'ensemble des éléments
+exposés ci-avant, pour la période allant du 1er juillet au 31 décembre 2010,
+l'Autorité impose pour Bouygues Telecom un prix maximum de terminaison d'appel
+vocal mobile égal à 3,4 c€/min. Cette évolution correspond à une baisse
+relative du prix maximum de terminaison d'appel vocal d'environ 43 % pour
+Bouygues Telecom par rapport au plafond en vigueur du 1er juillet 2009 au 1er
+juillet 2010 et de 60 % par rapport au plafond en vigueur avant le 1er juillet
+2009. L'Autorité considère que, sur la période considérée, la structure de
+coûts de Bouygues Telecom est compatible avec ce niveau de terminaison
+d'appel. De plus, les différents facteurs susceptibles de justifier une
+asymétrie sont compatibles avec les plafonds tarifaires de terminaison d'appel
+respectivement applicables aux trois opérateurs mobiles métropolitains. Comme
+précisé précédemment, la différenciation des tarifs de terminaison d'appel de
+Bouygues Telecom n'a pas vocation à perdurer. Ainsi, l'Autorité considère que
+l'asymétrie des tarifs de Bouygues Telecom résultant du principe de
+proportionnalité et du caractère progressif de la convergence des tarifs vers
+les coûts dans un contexte de déséquilibres de trafic devra disparaître à la
+date à laquelle les tarifs seront considérés comme étant alignés sur les
+références pertinentes de coûts. Par ces motifs, décide : Article 1 Bouygues
+Telecom met en œuvre des tarifs de terminaison d'appel vocal mobile tels que,
+à compter du 1er juillet 2010 et jusqu'au 31 décembre 2010, le tarif maximal
+de la terminaison d'appel « intra-ZA » n'excède pas 3,4 cEUR/min. Article 2 Le
+directeur général de l'Autorité de régulation des communications électroniques
+et des postes est chargé de l'exécution de la présente décision. Il notifiera
+à la société Bouygues Telecom cette décision. La présente décision, à
+l'exclusion des parties couvertes par le secret des affaires, sera publiée au
+Journal officiel de la République française. TABLE DES MATIÈRES I. ― Contexte
+de la décision 3 I-1. Rappels sur la terminaison d'appel vocal mobile 3 I-2.
+Cadre juridique de la décision 4 I-2.1. Le deuxième cycle d'analyse des
+marchés de terminaison d'appel vocal mobile 4 I-2.2. Le contexte européen 7
+I-2.3. Objet de la décision 8 I-3. Les références disponibles pour définir
+l'encadrement tarifaire de la terminaison d'appel 8 I-3.1. Les états de
+comptabilisation des coûts et des revenus 8 I-3.2. Les comparaisons
+internationales 9 I-3.3. Le modèle technico-économique des coûts d'un réseau
+mobile 12 I-3.4. Retours de la consultation publique sur les références
+pertinentes 14 II. ― Principes et objectifs de l'encadrement tarifaire de
+Bouygues Telecom 16 II-1. Finalités et modalités de l'encadrement tarifaire 16
+II-2. Optimum économique visé par la régulation de la terminaison d'appel 17
+II-3. Prise en compte du principe de proportionnalité et mise en œuvre d'une
+période de transition adaptée 18 II-3.1. Les risques liés à une baisse trop
+rapide des tarifs de gros 18 II-3.2. La mise en œuvre progressive de
+l'orientation des tarifs vers les coûts 19 II-4. Prise en compte du principe
+de proportionnalité dans le cadre de la présente décision et gestion des
+conséquences de l'orientation progressive des tarifs vers les coûts 20 II-4.1.
+La prévention d'une distorsion concurrentielle entre opérateurs mobiles 20
+II-4.2. La proportionnalité des baisses est applicable à tous les opérateurs
+mobiles 21 III. ― Mise en œuvre de l'encadrement tarifaire de Bouygues Telecom
+23 III-1. Eléments d'appréciation pour fixer l'encadrement tarifaire de
+Bouygues Telecom 23 III-1.1. Evolution des déséquilibres d'interconnexion 23
+III-1.2. Appréciation conjuguée de l'ensemble des objectifs 23 III-2.
+Commentaires reçus sur le projet de décision notifié et mis en consultation
+publique 24 III-2.1. L'avis de la Commission européenne 24 III-2.2. Synthèse
+des contributions reçues lors de la consultation publique 25 III-2.3.
+Conclusions tirées par l'Autorité 26 III-3. Définition de l'encadrement
+tarifaire de Bouygues Telecom 27 Fait à Paris, le 18 février 2010. Le
+président, J.-L. Silicani Télécharger le document en RTF (poids < 1Mo) Extrait
+du Journal officiel électronique authentifié (format: pdf, poids : 0.78 Mo)
+Masquer le panneau de navigation Imprimer À propos de l'ordre juridique
+français Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

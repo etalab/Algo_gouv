@@ -1,0 +1,134 @@
+Décret n°99-200 du 17 mars 1999 définissant les catégories de moyens et de
+prestations de cryptologie dispensées de toute formalité préalable |
+Legifrance Legifrance - Le service public de l'accès au droit Aller au contenu
+Aller à la navigation générale mardi 4 juillet 2017 Informations de mise à
+jour Accueil Droit français Droit européen Droit international Traductions
+Bases de données Vous êtes dans : Accueil> Les autres textes législatifs et
+réglementaires> Décret n°99-200 du 17 mars 1999 définissant les catégories de
+moyens et de prestations de cryptologie dispensées de toute formalité
+préalable Décret n°99-200 du 17 mars 1999 définissant les catégories de moyens
+et de prestations de cryptologie dispensées de toute formalité préalable
+Masquer le panneau de navigation Imprimer Navigation Décret n°99-200 du 17
+mars 1999 (Dernière modification : 27 avril 2007) Version initiale Version
+abrogée le 27 avril 2007 Version consolidée à la date du ... Jour 1 2 3 4 5 6
+7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mois
+Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre
+Décembre Année Ex: 2017 Sommaire Article 1 Article 2 Article 3 Annexes ANNEXE
+Version consolidée résultant des modifications suivantes : Décret n°2007-663
+du 2 mai 2007 Décret n°99-200 du 17 mars 1999 définissant les catégories de
+moyens et de prestations de cryptologie dispensées de toute formalité
+préalable NOR: PRMX9903477D Le Premier ministre, Vu le règlement (CE) n°
+3381/94 du Conseil en date du 19 décembre 1994 modifié instituant un régime
+communautaire de contrôle des exportations de biens à double usage, notamment
+son article 2 ; Vu la directive 98/34/CE du Parlement européen et du Conseil
+en date du 22 juin 1998, modifiée par la directive 98/48/CE du Parlement
+européen et du Conseil en date du 20 juillet 1998, prévoyant une procédure
+d'information dans le domaine des normes et réglementations techniques et des
+règles relatives aux services de la société de l'information ; Vu la loi n°
+90-1170 du 29 décembre 1990 modifiée sur la réglementation des
+télécommunications, notamment son article 28 ; Vu le décret n° 98-101 du 24
+février 1998 définissant les conditions dans lesquelles sont souscrites les
+déclarations et accordées les autorisations concernant les moyens et
+prestations de cryptologie, notamment son article 2, Article 1 (abrogé au 27
+avril 2007) En savoir plus sur cet article... Abrogé par Décret n°2007-663 du
+2 mai 2007 - art. 22 (V) JORF 4 mai 2007 Pour chacune des catégories de moyens
+et de prestations de cryptologie figurant dans la première colonne du tableau
+annexé au présent décret, les opérations dispensées de toute formalité
+préalable sont indiquées dans la deuxième colonne du même tableau. NOTA : NOTA
+: Décret 2007-663 du 2 mai 2007 art. 22 : Les décrets n° 98-101 du 24 février
+1998, n° 98-102 du 24 février 1998, n° 99-199 du 17 mars 1999 et n° 99-200 du
+17 mars 1999 sont abrogés. Toutefois, les déclarations souscrites avant la
+date d'entrée en vigueur du présent décret demeurent régies par les
+dispositions du décret n° 98-101 du 24 février 1998. Article 2 (abrogé au 27
+avril 2007) En savoir plus sur cet article... Abrogé par Décret n°2007-663 du
+2 mai 2007 - art. 22 (V) JORF 4 mai 2007 Le décret n° 98-206 du 23 mars 1998
+définissant les catégories de moyens et de prestations de cryptologie
+dispensées de toute formalité préalable est abrogé. NOTA : NOTA : Décret
+2007-663 du 2 mai 2007 art. 22 : Les décrets n° 98-101 du 24 février 1998, n°
+98-102 du 24 février 1998, n° 99-199 du 17 mars 1999 et n° 99-200 du 17 mars
+1999 sont abrogés. Toutefois, les déclarations souscrites avant la date
+d'entrée en vigueur du présent décret demeurent régies par les dispositions du
+décret n° 98-101 du 24 février 1998. Article 3 (abrogé au 27 avril 2007) Le
+présent décret sera publié au Journal officiel de la République française.
+Annexes ANNEXE (abrogé au 27 avril 2007) En savoir plus sur cet article...
+Abrogé par Décret n°2007-663 du 2 mai 2007 - art. 22 (V) JORF 4 mai 2007
+MOYENS OU PRESTATIONS OPÉRATIONS ( ) dispensées de toutes formalités
+préalables 1\. Matériels ou logiciels offrant un service de confidentialité
+mis en oeuvre par un algorithme dont la clef est d'une longueur inférieure ou
+égale à 40 bits. U, I 2\. Matériels ou logiciels offrant un service de
+confidentialité mis en oeuvre par un algorithme dont la clef est d'une
+longueur supérieure à 40 bits et inférieure ou égale à 128 bits, à condition,
+soit que lesdits matériels ou logiciels aient préalablement fait l'objet d'une
+déclaration par leur producteur, un fournisseur ou un importateur, soit que
+lesdits matériels ou logiciels soient exclusivement destinés à l'usage privé
+d'une personne physique. U, I 3\. Equipements conçus ou modifiés pour utiliser
+la cryptologie faisant appel à des techniques analogiques tels que : U, E, I
+a) Equipements utilisant des techniques de mélange de bandes " fixes " ne
+dépassant pas 8 bandes et où les changements de transposition ne s'effectuent
+pas plus d'une fois toutes les secondes ; b) Equipements utilisant des
+techniques de mélange de bandes " fixes " dépassant 8 bandes et où les
+changements de transposition ne s'effectuent pas plus d'une fois toutes les
+dix secondes ; c) Equipements utilisant l'inversion à fréquence " fixe " et où
+les changements de transposition ne s'effectuent pas plus d'une fois toutes
+les secondes ; d) Equipements de fac-similé ; e) Equipements de radiodiffusion
+pour audience restreinte ; f) Equipements de télévision civile. 4\. Cartes à
+microprocesseur personnalisées ou leurs composants spécialement conçus,
+incapables de chiffrer le trafic de messages ou les données fournies par
+l'utilisateur ou leur prestation de gestion de clef associée. F, U, E, I 5\.
+Equipements de réception de télévision de type grand public, sans capacité de
+chiffrement numérique et où le déchiffrement numérique est limité aux
+fonctions vidéo, audio ou de gestion. F, U, E, I 6\. Radiotéléphones portatifs
+ou mobiles destinés à l'usage civil qui ne sont pas en mesure de procéder au
+chiffrement de bout en bout. F, U, E, I 7\. Equipements autonomes de lecture
+de disques vidéo numériques, de type grand public, sans capacité de
+chiffrement, où le déchiffrement est limité aux informations vidéo, audio,
+informatiques et de gestion. F, U, E, I 8\. Moyens matériels ou logiciels
+spécialement conçus pour assurer la protection des logiciels contre la copie
+ou l'utilisation illicite, dont les fonctions de déchiffrement ne sont pas
+accessibles à l'utilisateur. F, U, E, I 9\. Equipements de contrôle d'accès,
+tels que machines automatiques de distribution de billets, imprimantes libre-
+service de relevés de compte ou terminaux de points de vente, protégeant les
+mots de passe, numéros d'identification personnels ou autres données
+similaires empêchant l'accès non autorisé à des installations, mais ne
+permettant pas le chiffrement des fichiers ou des textes, sauf lorsqu'il est
+directement lié à la protection des mots de passe ou des numéros
+d'identification personnels. F, U, E, I 10\. Moyens ou prestations conçus pour
+protéger des mots de passe, des codes d'identification personnels ou des
+données d'authentification similaires, utilisés pour contrôler l'accès à des
+données, à des ressources, à des services ou à des locaux, sous réserve qu'ils
+ne permettent de chiffrer que les fichiers de mots de passe ou de codes
+d'identification et les informations nécessaires au contrôle d'accès. U, E, I
+11\. Moyens ou prestations conçus pour élaborer ou protéger une procédure de
+signature, une valeur de contrôle cryptographique, un code d'authentification
+de message ou une information similaire, pour vérifier la source des données,
+prouver la remise des données au destinataire, ou bien détecter les
+altérations ou modifications subreptices portant atteinte à l'intégrité des
+données, sous réserve qu'ils ne permettent de chiffrer que les informations
+nécessaires à l'authentification ou au contrôle d'intégrité des données
+concernées. U, E, I 12\. Systèmes de gestion de facturation inclus dans les
+dispositifs de relevés de compteurs dont les fonctions de chiffrement sont
+directement liées au comptage. F, U, E, I 13\. Equipements dotés de moyens de
+cryptologie lorsqu'ils accompagnent les personnalités étrangères sur
+invitation officielle de l'Etat. U, E, I 14\. Stations de base de
+radiocommunications cellulaires commerciales civiles présentant toutes les
+caractéristiques suivantes : F, U, I a) Limitées au raccordement de
+radiotéléphones qui ne permettent pas d'appliquer des techniques
+cryptographiques au trafic de messages entre terminaux mobiles, sauf sur les
+liens directs entre radiotéléphones et stations de bases (connues sous le nom
+d'interface radio) ; b) Et ne permettant pas d'appliquer des techniques
+cryptographiques au trafic de messages sauf sur l'interface radio. ( ) F :
+fourniture ; U : utilisation ; E : exportation ; I : importation. NOTA : NOTA
+: Décret 2007-663 du 2 mai 2007 art. 22 : Les décrets n° 98-101 du 24 février
+1998, n° 98-102 du 24 février 1998, n° 99-199 du 17 mars 1999 et n° 99-200 du
+17 mars 1999 sont abrogés. Toutefois, les déclarations souscrites avant la
+date d'entrée en vigueur du présent décret demeurent régies par les
+dispositions du décret n° 98-101 du 24 février 1998. Lionel Jospin NOTA : NOTA
+: Décret 2007-663 du 2 mai 2007 art. 22 : Les décrets n° 98-101 du 24 février
+1998, n° 98-102 du 24 février 1998, n° 99-199 du 17 mars 1999 et n° 99-200 du
+17 mars 1999 sont abrogés. Toutefois, les déclarations souscrites avant la
+date d'entrée en vigueur du présent décret demeurent régies par les
+dispositions du décret n° 98-101 du 24 février 1998. Télécharger le document
+en RTF (poids < 1Mo) Masquer le panneau de navigation Imprimer À propos de
+l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

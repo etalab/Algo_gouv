@@ -1,0 +1,1450 @@
+Arrêté du 17 octobre 2012 modifiant la méthode de calcul 3CL-DPE introduite
+par l'arrêté du 9 novembre 2006 portant approbation de diverses méthodes de
+calcul pour le diagnostic de performance énergétique en France métropolitaine
+| Legifrance Legifrance - Le service public de l'accès au droit Aller au
+contenu Aller à la navigation générale mardi 4 juillet 2017 Informations de
+mise à jour Accueil Droit français Droit européen Droit international
+Traductions Bases de données Vous êtes dans : Accueil> Les autres textes
+législatifs et réglementaires> Arrêté du 17 octobre 2012 modifiant la méthode
+de calcul 3CL-DPE introduite par l'arrêté du 9 novembre 2006 portant
+approbation de diverses méthodes de calcul pour le diagnostic de performance
+énergétique en France métropolitaine Arrêté du 17 octobre 2012 modifiant la
+méthode de calcul 3CL-DPE introduite par l'arrêté du 9 novembre 2006 portant
+approbation de diverses méthodes de calcul pour le diagnostic de performance
+énergétique en France métropolitaine Masquer le panneau de navigation Imprimer
+Navigation Arrêté du 17 octobre 2012 Version initiale Version en vigueur au 4
+juillet 2017 Version consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10 11
+12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier
+Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre
+Année Ex: 2017 Sommaire Article 1 Article 2 Article 3 Annexe Article Article
+En savoir plus sur ce texte... Informations sur ce texte Textes transposés
+Directive 2010/31/UE du Parlement européen et du Conseil du 19 mai 2010 sur la
+performance énergétique des bâtiments (refonte) Résumé Transposition complète
+de la directive 2010/31/UE du Parlement européen et du Conseil du 19 mai 2010
+sur la performance énergétique des bâtiments (refonte). Mots-clés EGALITE DES
+TERRITOIRES , DIRECTIVE EUROPEENNE , DIRECTIVE EPBD , TRANSPOSITION COMPLETE
+JORF n°0262 du 10 novembre 2012 page 17780 texte n° 9 Arrêté du 17 octobre
+2012 modifiant la méthode de calcul 3CL-DPE introduite par l'arrêté du 9
+novembre 2006 portant approbation de diverses méthodes de calcul pour le
+diagnostic de performance énergétique en France métropolitaine NOR:
+ETLL1234842A ELI:
+https://www.legifrance.gouv.fr/eli/arrete/2012/10/17/ETLL1234842A/jo/texte
+Publics concernés : diagnostiqueurs immobiliers, organismes de certification
+de personnes, éditeurs de logiciels pour la réalisation des DPE, organismes de
+formation. Objet : modification de la méthode de calcul 3CL-DPE pour la
+réalisation des DPE. Entrée en vigueur : le 1er janvier 2013. Notice : le
+présent arrêté affine le modèle de calcul des consommations conventionnelles
+des logements utilisé pour la réalisation des DPE. Les principales évolutions
+de la méthode sont les suivantes : ― détermination du coefficient de réduction
+des déperditions en fonction des caractéristiques précises des locaux non
+chauffés pris en compte ; ― amélioration de la prise en compte des masques et
+apports solaires ; ― ajout de matériaux et d'équipements à la bibliothèque de
+données d'entrée ; ― remplacement des coefficients de déperditions par
+renouvellement d'air par une méthode de calcul précise faisant intervenir des
+données d'entrée exigées par ailleurs ; ― variation du coefficient
+d'intermittence en fonction du type de bien diagnostiqué et de l'équipement
+principal de chauffage ; ― mise en place d'un module de calcul automatique des
+puissances nominales pour les chaudières individuelles et pour les pompes à
+chaleur ; ― amélioration du calcul des rendements des systèmes à partir de
+leurs puissances ; ― traitement de configurations particulières ; ― calcul
+automatique des abonnements d'électricité à partir de la puissance électrique
+de chauffage ; ainsi que ― de nombreuses explications sur les scenarii
+conventionnels et des méthodes à suivre dans le cas de situations moins
+courantes. Références : les textes créés par le présent arrêté peuvent être
+consultés sur le site Légifrance (http://www.legifrance.gouv.fr). Le présent
+arrêté modifie la méthode de calcul 3CL-DPE introduite à l'annexe 1 de
+l'arrêté du 9 novembre 2006 portant approbation de diverses méthodes de calcul
+pour le diagnostic de performance énergétique en France métropolitaine. La
+ministre de l'égalité des territoires et du logement et la ministre de
+l'écologie, du développement durable et de l'énergie, Vu le code de la
+construction et de l'habitation, notamment ses articles R. 134-1 à R. 134-5 ;
+Vu l'arrêté du 9 novembre 2006 portant approbation de diverses méthodes de
+calcul pour le diagnostic de performance énergétique en France métropolitaine,
+Arrêtent : Article 1 En savoir plus sur cet article... La méthode de calcul de
+l'annexe du présent arrêté remplace la méthode de calcul 3CL-DPE de l'annexe 1
+de l'arrêté du 9 novembre 2006 portant approbation de diverses méthodes de
+calcul pour le diagnostic de performance énergétique en France métropolitaine.
+Article 2 En savoir plus sur cet article... Le présent arrêté entre en vigueur
+le 1er janvier 2013. Article 3 En savoir plus sur cet article... Le directeur
+de l'habitat, de l'urbanisme et des paysages et le directeur général de
+l'énergie et du climat sont chargés, chacun en ce qui le concerne, de
+l'exécution du présent arrêté, qui sera publié au Journal officiel de la
+République française. Annexe A N N E X E 1MÉTHODE 3CL-DPE v1.3Sommaire 1\. La
+méthode conventionnelle2. Expression du besoin de chauffage3. Calcul des
+déperditions de l'enveloppe GV3.1. Détermination du coefficient de réduction
+des déperditions b3.2. Calcul des U des parois opaques 3.2.1. Calcul des Umur
+3.2.1.1. Schéma du calcul de Umur 3.2.1.2. Calcul des Umur0 3.2.2. Calcul des
+Uplancher bas (Upb) 3.2.2.1. Schéma du calcul de Upb 3.2.2.2. Calcul des Upb0
+3.2.3. Calcul des Uplancher haut (Uph) 3.2.3.1. Schéma du calcul de Uph
+3.2.3.2. Calcul des Uph03.3. Calcul des U des parois vitrées et des portes
+3.3.1. Caractérisation des baies et des portes 3.3.1.1. Détermination de la
+performance du vitrage Ug 3.3.1.2. Coefficients Uw des fenêtres/portes-
+fenêtres 3.3.1.3. Coefficients Ujn des fenêtres/portes-fenêtres 3.3.1.4.
+Coefficients U des portes3.4. Calcul des déperditions par les ponts thermiques
+3.4.1. Plancher bas/mur 3.4.2. Plancher intermédiaire lourd/mur 3.4.3.
+Plancher haut lourd/mur 3.4.4. Refend/mur 3.4.5. Menuiserie/mur3.5. Calcul des
+déperditions par renouvellement d'air4. Détermination des sollicitations
+environnementales4.1. Calcul de F4.2. Détermination de la surface Sud
+équivalente 4.2.1. Détermination du coefficient d'orientation et du facteur
+solaire 4.2.2. Détermination du facteur d'ensoleillement 4.2.2.1. Masques
+proches 4.2.2.1.1. Baie en fond de balcon ou fond et flanc de loggias
+4.2.2.1.2. Baie sous un balcon ou auvent 4.2.2.1.3. Baie masquée par une paroi
+latérale au Sud 4.2.2.2. Masques lointains 4.2.2.2.1. Obstacle d'environnement
+homogène 4.2.2.2.2. Obstacle d'environnement non homogène5. Détermination de
+l'inertie5.1. Plancher haut lourd5.2. Plancher bas lourd5.3. Paroi verticale
+lourde6. Calcul du facteur d'intermittence INT7. Calcul de la consommation de
+chauffage (Cch)7.1. Installation de chauffage7.2. Installation de chauffage
+avec chauffage solaire7.3. Installation de chauffage avec insert ou poêle bois
+en appoint7.4. Installation de chauffage par insert, poêle bois (ou biomasse)
+avec un chauffage électrique dans la salle de bains7.5. Installation de
+chauffage avec en appoint un insert ou poêle bois et un chauffage électrique
+dans la salle de bains (différent du chauffage principal)7.6. Installation de
+chauffage avec chaudière gaz ou fioul en relève d'une chaudière bois7.7.
+Installation de chauffage avec chauffage solaire et insert ou poêle bois en
+appoint7.8. Installation de chauffage avec chaudière en relève de PAC7.9.
+Installation de chauffage avec chaudière en relève de PAC avec insert ou poêle
+bois en appoint7.10. Installation de chauffage collectif avec base + appoint
+7.10.1. Cas général 7.10.2. Convecteurs bi-jonction7.11. Chauffage avec
+plusieurs installations différentes et indépendantes et/ou plusieurs
+installations différentes et indépendantes couplées8. Rendement de
+distribution, d'émission et de régulation de chauffage8.1. Rendement
+d'émission8.2. Rendement de distribution8.3. Rendement de régulation9.
+Rendement de génération des générateurs autres qu'à combustion9.1. Rendement
+des générateurs à effet joule direct et des réseaux de chaleur9.2. COP des PAC
+installées9.3. COP des PAC neuves recommandées10. Rendement de génération des
+générateurs à combustion10.1. Profil de charge des générateurs 10.1.1. Profil
+de charge conventionnel 10.1.2. Présence de un ou plusieurs générateurs à
+combustion indépendants 10.1.3. Cascade de deux générateurs à combustion
+10.1.3.1. Cascade avec priorité 10.1.3.2. Cascade sans priorité (même
+contribution au taux de charge) 10.1.3.3. Pondération et contribution de
+chaque générateur10.2. Pertes au point de fonctionnement 10.2.1. Chaudières
+basse température et à condensation 10.2.2. Chaudières standard ou classiques
+10.2.3. Générateurs d'air chaud 10.2.4. Radiateurs à gaz 10.2.5. Chaudières
+bois10.3. Valeurs par défaut des caractéristiques des chaudières 10.3.1.
+Chaudières gaz 10.3.2. Chaudières fioul 10.3.3. Calcul des puissances Pn des
+générateurs à combustion individuels10.4. Puissances moyennes fournies et
+consommées10.5. Rendement conventionnel annuel moyen de génération de
+chauffage11. Expression du besoin d'ECS (Becs)11.1. Surface habitable ≤ 27 m²
+11.1.1. Maison ou appartement 11.1.2. Immeuble de N appartements11.2. Surface
+habitable > 27 m² 11.2.1. Maison ou appartement 11.2.2. Immeuble de N
+appartements12. Calcul de la consommation d'ECS12.1. Un seul système d'ECS
+avec solaire12.2. Deux systèmes d'ECS dans une maison ou un appartement13.
+Rendement de distribution de l'ECS13.1. Installation individuelle13.2.
+Installation collective14. Rendement de stockage de l'ECS14.1. Pertes de
+stockage des ballons d'accumulation14.2. Pertes des ballons électriques14.3.
+Rendement de stockage15. Rendement de génération d'ECS15.1. Générateurs à
+combustion 15.1.1. Production d'ECS seule par chaudière gaz, fioul ou chauffe-
+eau gaz 15.1.2. Production par chaudière gaz, fioul ou bois 15.1.3.
+Accumulateur gaz 15.1.4. Chauffe-bain au gaz à production instantanée 15.2.
+Chauffe-eau thermodynamique à accumulation15.3. Réseau de chaleur16.
+Expression des consommations de refroidissement16.1. Cas des maisons16.2. Cas
+des immeubles17. Prise en compte de la production d'énergie18. Traitement de
+configurations particulières18.1. DPE à l'immeuble équipé de plusieurs
+systèmes de chauffage ou d'ECS18.2. Comptage sur les installations collectives
+en l'absence de DPE à l'immeuble19. Détermination des abonnements
+d'électricité19.1. Evaluation de la puissance souscrite Ps19.2. Tarif des
+énergies20. Annexes20.1. Fecs pour une maison avec ECS solaire seule20.2. Fecs
+pour une maison avec chauffage et ECS solaires20.3. Fch pour une maison avec
+chauffage solaire seul20.4. Fecs pour un immeuble avec ECS solaire seule 1\.
+La méthode conventionnelle Le DPE a pour principal objectif d'informer sur la
+performance énergétique des bâtiments. Cette information communiquée doit
+ensuite permettre de comparer objectivement les différents bâtiments entre
+eux. Si nous prenons le cas d'une maison individuelle occupée par une famille
+de 3 personnes, la consommation de cette même maison ne sera pas la même si
+elle est occupée par une famille de 5 personnes. De plus, selon que l'hiver
+aura été rigoureux ou non, que la famille se chauffe à 20 °C ou 22 °C, les
+consommations du même bâtiment peuvent significativement fluctuées. Il est dès
+lors nécessaire dans l'établissement de ce diagnostic de s'affranchir du
+comportement des occupants afin d'avoir une information sur la qualité
+énergétique du bâtiment. C'est la raison pour laquelle l'établissement du DPE
+se fait principalement par une méthode de calcul des consommations
+conventionnelles qui s'appuie sur une utilisation standardisée du bâtiment
+pour des conditions climatiques moyennes du lieu. Les principaux critères
+caractérisant la méthode conventionnelle sont les suivants : ― en présence
+d'un système de chauffage dans le bâtiment autre que les équipements mobiles
+et les cheminées à foyer ouvert, toute la surface habitable du logement est
+considérée chauffée en permanence pendant la période de chauffe ; ― les
+besoins de chauffage sont calculés sur la base de degrés heures moyens sur 30
+ans par département. Les degrés heures sont égaux à la somme, pour toutes les
+heures de la saison de chauffage pendant laquelle la température extérieure
+est inférieure à 18 °C, de la différence entre 18 °C et la température
+extérieure. Ils prennent en compte une inoccupation d'une semaine par an
+pendant la période de chauffe ainsi qu'un réduit des températures à 16 °C
+pendant la nuit de 22 heures à 6 heures ; ― aux 18 °C assurés par
+l'installation de chauffage, les apports internes (occupation, équipements
+électriques, éclairage, etc.) sont pris en compte à travers une contribution
+forfaitaire de 1 °C permettant ainsi d'atteindre la consigne de 19 °C ; ― le
+besoin d'ECS est forfaitisé selon la surface habitable du bâtiment et le
+département. Ces caractéristiques du calcul conventionnel peuvent être
+responsables de différences importantes entre les consommations réelles
+facturées et celles calculées avec la méthode conventionnelle. En effet, tout
+écart entre les hypothèses du calcul conventionnel et le scénario réel
+d'utilisation du bâtiment entraîne des différences au niveau des
+consommations. De plus, certaines caractéristiques impactant les consommations
+du bâtiment ne sont connues que de façon limitée (par exemple : les rendements
+des chaudières qui dépendent de leur dimensionnement et de leur entretien, la
+qualité de mise en œuvre du bâtiment, le renouvellement d'air dû à la
+ventilation, etc.). 2\. Expression du besoin de chauffage BV = GV × (1 ― F) BV
+: besoins annuels de chauffage d'un logement par degré d'écart entre
+l'intérieur et l'extérieur durant la période de chauffage. Son calcul se fait
+à partir du coefficient GV en tenant compte des apports de chaleur dus à
+l'occupation et au rayonnement solaire. Il est exprimé en watts par kelvin
+(W/K). F est la fraction des besoins de chauffage couverts par les apports
+gratuits. 3\. Calcul des déperditions de l'enveloppe GV Données d'entrée :
+Coefficient de transmission thermique : U (W/m².K) Surface des parois i (murs,
+plafonds, planchers, baies, portes) : Si (m²) GV = DPmurs + DPplafonds +
+DPplanchers + DPbaies + DPportes + PT + DRDPmurs = b1 × Smur1 × Umur1 + b2 ×
+Smur2 × Umur2 + b3 × Smur3 × Umur3 +...DPplafonds = b1 × Splafond1 × Uplafond1
++ b2 × Splafond2 × Uplafond2 + b3 × Splafond3 × Uplafond3 +...DPplanchers = b1
+× Splancher1 × Uplancher1 + b2 × Splancher2 × Uplancher2 + b3 × Splancher3 ×
+Uplancher3 +...DPbaies = b1 × Sbaie1 × Ubaie1 + b2 × Sbaie2 × Ubaie2 + b3 ×
+Sbaie3 × Ubaie3 +...DPportes = b1 × Sporte1 × Uporte1 + b2 × Sporte2 × Uporte2
++ b3 × Sporte3 × Uporte3 +... Avec : GV : somme des déperditions par les
+parois et par le renouvellement d'air par degré d'écart entre l'intérieur et
+l'extérieur (W/K) DPi : déperdition par la paroi i par degré d'écart entre
+l'intérieur et l'extérieur (W/K) Si : surface de la paroi déperditive i (m²)
+Ui : coefficient de transmission thermique surfacique de la paroi i par degré
+d'écart entre l'intérieur et l'extérieur (W/m².K) PT : déperdition par les
+ponts thermiques par degré d'écart entre l'intérieur et l'extérieur (W/K) DR :
+déperditions par le renouvellement d'air par degré d'écart entre l'intérieur
+et l'extérieur (W/K) bi : coefficient de réduction des déperditions pour la
+paroi i. Dans le calcul des déperditions, les parois à considérer sont celles
+séparant le volume chauffé et/ou habitable de l'extérieur, d'un espace non
+chauffé ou du sol. Les parties de bâtiments d'habitation non habitables telles
+que les garages ne sont pas prises en compte dans le calcul, à l'exception des
+vérandas chauffées. On appelle baie l'ensemble vitrage-menuiserie (ouvrant +
+dormant) des fenêtres, portes-fenêtres et vérandas. La surface des fenêtres,
+portes et portes-fenêtres ainsi que toute autre menuiserie intègre les
+dormants. Les dimensions intérieures des parois doivent être prises pour le
+calcul des déperditions. Les caractérisations des parois peuvent être faites
+selon les méthodes données par les règles TH-U. 3.1. Détermination du
+coefficientde réduction des déperditions b Données d'entrée : Surface des
+parois séparant l'espace non chauffé des espaces chauffés : Aiu (m²) Surface
+des parois séparant le local non chauffé de l'extérieur, du sol ou d'un autre
+local non chauffé : Aue (m²) Type de local non chauffé (garage, comble,
+circulation...) Etat d'isolation des parois donnant sur le local non chauffé
+(isolées, non isolées) Etat d'isolation des parois du local non chauffé
+(isolées, non isolées) Pour une paroi donnant sur l'extérieur, b = 1. Pour une
+paroi enterrée ou un plancher sur vide sanitaire, b = 0,8. Pour les bâtiments
+adjacents autres que d'habitation, b = 0,2. Dans les autres cas, la méthode de
+calcul qui suit doit être utilisée. Des valeurs du coefficient b sont données
+dans les tableaux suivants et ceci en fonction du rapport des surfaces Aiu/Aue
+et du coefficient surfacique équivalent UV,ue. Dans le cas de locaux non
+chauffés non accessibles, une estimation des surfaces Aiu et Aue peut être
+réalisée. Elle devra être signifiée et justifiée dans le rapport. Dans les
+tableaux suivants : ― la surface Aue des vérandas non chauffées doit être
+considérée comme non isolée ; ― lnc désigne un local non chauffé ; ― lc
+désigne le local chauffé. La surface Aue intègre toutes les parois du local
+non chauffé qui donnent sur l'extérieur, qui sont enterrées ou qui donnent sur
+un autre local non chauffé. Les parois d'un local sont considérées comme
+isolées ou enterrées si elles le sont à plus de 50 %. Les parois en double
+vitrage et les portes seront considérées comme non isolées pour le calcul de
+b. Les parois en triple vitrage seront considérées comme isolées. Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 3.2. Calcul
+des U des parois opaques Données d'entrée : Mur : Type de matériau (béton,
+pierre, inconnu...). Etat d'isolation (isolé, non isolé, inconnu). Niveau
+d'isolation (épaisseur, résistance, année d'isolation, année de construction).
+Type de chauffage (effet joule, autres). Coefficient de transmission thermique
+U. Plancher bas : Type de plancher bas (terre-plein, vide sanitaire...).
+Configuration de plancher (poutrelles hourdis, dalle béton...). Etat
+d'isolation (isolé, non isolé, inconnu). Niveau d'isolation (épaisseur,
+résistance, année d'isolation, année de construction) Type de chauffage (effet
+joule, autres) Surface de plancher sur terre-plein. Périmètre de plancher sur
+terre-plein. Coefficient de transmission thermique U. Plancher haut : Type de
+plancher haut (terrasse, combles perdus...). Configuration de plancher
+(poutrelles hourdis, dalle béton...). Etat d'isolation (isolé, non isolé,
+inconnu). Niveau d'isolation (épaisseur, résistance, année d'isolation, année
+de construction). Type de chauffage (effet joule, autres). Coefficient de
+transmission thermique U. 3.2.1. Calcul des Umur3.2.1.1. Schéma du calcul de
+Umur Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 3.2.1.2. Calcul des Umur0 Umur0 est le coefficient de transmission
+thermique du mur non isolé (W/m².K). ÉPAISSEUR (EN CM) 20 et ― 25 30 35 40 45
+50 55 60 65 70 75 80 Murs en pierre de taille et moellons (granit, gneiss,
+porphyres, pierres calcaires, grès, meulières, schistes, pierres volcaniques)
+Murs constitués d'un seul matériau/inconnu 3,2 2,85 2,65 2,45 2,3 2,15 2,05
+1,90 1,80 1,75 1,65 1,55 1,50 Murs avec remplissage tout venant ― ― ― ― ― ―
+1,90 1,75 1,60 1,50 1,45 1,30 1,25 ÉPAISSEUR CONNUE (EN CM) 40 et ― 45 50 55
+60 65 70 75 80 Murs en pisé ou béton de terre stabilisé (à partir d'argile
+crue) 1,75 1,65 1,55 1,45 1,35 1,25 1,2 1,15 1,1 ÉPAISSEUR CONNUE (EN CM) 8 et
+― 10 13 18 24 32 Murs en pans de bois Sans remplissage tout venant 3 2,7 2,35
+1,98 1,65 1,35 Avec remplissage tout venant 1,7 ÉPAISSEUR CONNUE (EN CM) 10 et
+― 15 20 25 Murs bois (rondins) 1,6 1,2 0,95 0,8 ÉPAISSEUR CONNUE (EN CM) 9 et
+― 12 15 19 23 28 34 45 55 60 70 Murs en briques pleines simples 3,9 3,45 3,05
+2,75 2,5 2,25 2 1,65 1,45 1,35 1,2 ÉPAISSEUR CONNUE (EN CM) 20 et ― 25 30 35
+45 50 60 Murs en briques pleines doubles avec lame d'air 2 1,85 1,65 1,55 1,35
+1,25 1,2 ÉPAISSEUR CONNUE (EN CM) 15 et ― 18 20 23 25 28 33 38 43 Murs en
+briques creuses 2,15 2,05 2 1,85 1,7 1,68 1,65 1,55 1,4 ÉPAISSEUR CONNUE 20 et
+― 23 25 28 30 33 35 38 40 Murs en blocs de béton pleins 2,9 2,75 2,6 2,5 2,4
+2,3 2,2 2,1 2,05 ÉPAISSEUR CONNUE (EN CM) 20 et ― 23 25 Murs en blocs de béton
+creux 2,8 2,65 2,3 ÉPAISSEUR CONNUE (EN CM) 20 et ― 22,5 25 28 30 35 40 45
+Murs en béton banché 2,9 2,75 2,65 2,5 2,4 2,2 2,05 1,9 Murs en béton de
+mâchefer 2,75 2,5 2,4 2,25 2,15 1,95 1,8 ― ÉPAISSEUR CONNUE (EN CM) 30 37,5
+Monomur terre cuite 0,47 0,40 ÉPAISSEUR CONNUE (EN CM) 5 7 10 15 20 25 27,5 30
+32,5 37,5 Béton cellulaire 2,12 1,72 1,03 0,72 0,55 0,46 0,42 0,39 0,35 0,32
+Cloison de plâtre Umur0 = 2,5 m² . K/W. Pour les murs non répertoriés, saisir
+directement les coefficients de transmission thermique U. Les données des
+règles TH-U peuvent être utilisées. Pour les calculs de déperdition : Umur =
+Min(Umur ; 2). 3.2.2. Calcul des Uplancher bas (Upb)3.2.2.1. Schéma du calcul
+de Upb Si le plancher donne sur vide sanitaire ou local non chauffé : Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Si
+le plancher donne sur terre-plein : Bâtiment d'avant 2001 : 2S/P (m) 3 4 5 6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 Upb(W/m².K) 0,37 0,35 0,34 0,32 0,31 0,3
+0,29 0,28 0,27 0,27 0,26 0,25 0,24 0,24 0,23 0,23 0,22 0,22 Bâtiments à partir
+de 2001 : 2S/P (m) 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Upb(W/m².K)
+0,27 0,26 0,25 0,25 0,24 0,23 0,22 0,21 0,20 0,19 0,18 0,18 0,17 0,17 0,16
+0,16 0,15 0,15 P : périmètre du plancher déperditif sur terre-plein (m). S :
+surface du plancher sur terre-plein (m²). 2S/P est arrondi à l'entier le plus
+proche. Pour les appartements sur terre-plein, P et S sont respectivement le
+périmètre et la surface de plancher sur terre-plein de l'immeuble. 3.2.2.2.
+Calcul des Upb0 Upb0 est le coefficient de transmission thermique du plancher
+bas non isolé (W/m².K). Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Plancher à entrevous isolant Upb0 = 0,45 W/m².K.
+Pour les planchers bas non répertoriés, saisir directement les coefficients de
+transmission thermique U. Les données des règles TH-U peuvent être utilisées.
+Pour les calculs de déperdition : Upb = Min(Upb ; 2). 3.2.3. Calcul des
+Uplancher haut (Uph)3.2.3.1. Schéma du calcul de Uph Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 3.2.3.2. Calcul des Uph0
+Uph0 est le coefficient de transmission thermique du plancher haut non isolé
+(W/m².K). Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 Combles aménagés sous rampant : Uph0 = 2,5 W/m².K. Toiture en
+chaume : Uph0 = 0,24 W/m².K. Plafond en plaque de plâtre : Uph0 = 2,5 W/m².K.
+Pour les calculs de déperdition : Uph = Min(Uph ; 2). Pour les murs, plafonds,
+planchers non répertoriés, saisir directement les coefficients de transmission
+thermique U. Les données des règles TH-U peuvent être utilisées. 3.3. Calcul
+des U des parois vitrées et des portes Données d'entrée : Parois vitrées :
+Inclinaison des parois (verticales, horizontales) Type de vitrage (simple
+vitrage, double vitrage, survitrage...) Niveau d'isolation (épaisseur lame
+d'air, isolation renforcée, remplissage gaz rare...) Nature de menuiserie
+(bois, PVC, métal...) Type de menuiserie (battante, coulissante) Type de baie
+(fenêtre, porte-fenêtre sans soubassement, porte-fenêtre avec soubassement)
+Type de volet (jalousie, volet roulant...) Porte : Type de porte (opaque
+pleine, avec 30 % de vitrage...) Type de menuiserie (bois, PVC...) Les parois
+vitrées des vérandas chauffées seront traitées comme des portes-fenêtres. Les
+parois en brique de verre sont traitées comme des parois vitrées avec : ―
+brique de verre pleine : Uw = 3,5 W/m².K ; ― brique de verre creuse : Uw = 2,6
+W/m².K. Les parois en polycarbonate sont traitées comme des parois vitrées
+avec : Uw = 3 W/m.K. 3.3.1. Caractérisation des baies et des portes Définition
+de l'inclinaison des baies pour le calcul des U : ― paroi verticale = angle
+par rapport à l'horizontal ≥ 75°. ― paroi horizontale = angle par rapport à
+l'horizontal < 75° ; Si le coefficient U des fenêtres est connu : saisir Uw et
+caractériser les occultations pour déterminer Ujn. Si Uw est inconnu, alors
+suivre la démarche suivante : Vous pouvez consulter le tableau dans le JOn°
+262 du 10/11/2012 texte numéro 9 Avec : Ug : coefficient de transmission
+thermique du vitrage. Uw : coefficient de transmission thermique de la fenêtre
+ou de la porte-fenêtre (vitrage + menuiserie). Ujn : coefficient de
+transmission thermique de la fenêtre ou de la porte-fenêtre avec les
+protections solaires (vitrage + menuiserie + volet). 3.3.1.1. Détermination de
+la performance du vitrage Ug Simple vitrage et survitrage Pour un simple
+vitrage vertical ou horizontal, quelle que soit l'épaisseur du verre, prendre
+Ug = 5,8 W/(m².K). Le Ug d'un survitrage est déterminé en apportant une
+majoration de 0,1 W/(m².K) au Ug du double vitrage rempli à l'air sec ayant la
+même épaisseur de lame d'air. Les épaisseurs des lames d'air pour le
+survitrage sont plafonnées à 20 mm : toute lame d'air d'un survitrage
+d'épaisseur supérieure à 20 mm sera traitée dans les calculs comme une lame
+d'air de 20 mm d'épaisseur. Dans la suite, les caractéristiques du survitrage
+seront les mêmes que celles du double vitrage équivalent. Double vitrage
+vertical Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Attention : si la valeur de l'épaisseur de la lame d'air n'est pas
+dans le tableau présenté, prendre la valeur directement inférieure qui s'y
+trouve. Double vitrage horizontal Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Attention : si la valeur de l'épaisseur
+de la lame d'air n'est pas dans le tableau présenté, prendre la valeur
+directement inférieure qui s'y trouve. Triple vitrage vertical Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Triple
+vitrage horizontal Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Attention : si la valeur de l'épaisseur de la lame
+d'air n'est pas dans le tableau présenté, prendre la valeur directement
+inférieure qui s'y trouve. Si un triple vitrage a des épaisseurs de lame d'air
+différentes, considérer que c'est un triple vitrage dont l'épaisseur de chaque
+lame d'air est la moitié de l'épaisseur totale des deux lames d'air. Exemple :
+pour un triple vitrage 4/10/4/12/4, considérer que c'est un 4/10/4/10/4.
+3.3.1.2. Coefficients Uw des fenêtres/portes-fenêtres Si le Ug n'est pas dans
+le tableau, prendre : ― la plus petite valeur du tableau si elle est
+inférieure à celle-ci ; ― la valeur directement inférieure ; sinon ― pour les
+Ug compris entre 3,4 et 4, faire une extrapolation à partir de la valeur de Uw
+pour Ug = 3,3. La valeur est arrondie au dixième le plus proche. Les baies
+sans ouverture possible (ni battantes ni coulissantes) seront traitées comme
+coulissantes dans toute la suite. Les baies oscillantes seront traitées comme
+des baies battantes. Menuiserie métallique à rupture de pont thermique Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Menuiserie métallique sans rupture de pont thermique Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Menuiserie PVC Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Menuiserie bois ou bois métal : Dans tous les calculs, les menuiseries mixtes
+bois métal prendront les caractéristiques du bois. Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Traitement des doubles-
+fenêtres : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 Uw1 et Uw2 sont les coefficients de transmission thermique
+respectivement des fenêtres 1 et 2 (W/m².K). 3.3.1.3. Coefficients Ujn des
+fenêtres/portes-fenêtres La présence de volets aux fenêtres et portes-fenêtres
+leur apporte un supplément d'isolation avec une résistance additionnelle ΔR.
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Pour les valeurs de Uw non mentionnées dans le tableau, prendre la valeur
+directement inférieure apparaissant dans le tableau précédent (par exemple, si
+Uw = 4,1 W/[m².K] prendre pour le calcul de Ujn : Uw = 4W/[m².K]). 3.3.1.4.
+Coefficients U des portes Le coefficient U des portes est connu : saisir
+Uporte. Sinon, Uporte = : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Attention : une porte vitrée avec plus de 60 % de
+vitrage est considérée comme une porte-fenêtre avec soubassement. 3.4. Calcul
+des déperditions par les ponts thermiques Données d'entrée : Type d'isolation
+(ITI, ITE, ITR) Nombre de niveaux Nombre d'appartements Retour d'isolation
+autour des menuiseries (avec ou sans) Position des menuiseries (nu extérieur,
+nu intérieur, tunnel) Largeur des dormants Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 Avec : lpb_i/m_j : longueur du
+pont thermique plancher bas i mur j. lpi_i/m_j : longueur du pont thermique
+plancher intermédiaire i mur j. lph_i/m_j : longueur du pont thermique
+plancher haut i mur j. lrf_i/m_j : longueur du pont thermique refend i mur j.
+Pour un DPE réalisé à l'immeuble, lrf_i/m_j = 2.hsp.(N-niv) avec hsp : hauteur
+moyenne sous plafond, N : nombre d'appartements et niv : nombre de niveaux. En
+présence de plusieurs types de mur, le linéaire du pont thermique refend/mur
+est supposé réparti au prorata de la surface de chaque mur. Les combles
+aménagés sont considérés comme des demi-niveaux. lmen-i/m_j : longueur du pont
+thermique menuiserie i mur j. ITI, ITE, ITR respectivement isolation thermique
+intérieure, extérieure et répartie. Les ponts thermiques sont négligés au
+niveau des liaisons avec des parois en structure bois. Si le coefficient de
+transmission thermique U d'une paroi est défini à partir de l'année de
+construction : ― si le bâtiment date d'avant 1975, la paroi est considérée
+comme non isolée ; ― si le bâtiment date de 1975 ou d'après cette date, la
+paroi est considérée comme isolée. 3.4.1. Plancher bas/mur kpb_i/m_j : valeur
+du pont thermique de la liaison plancher bas i/mur j. Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Kpb_i/m_j PLANCHER BAS
+Non isolé ITI ITE ITE + ITI Non isolé 0,39 0,47 0,80 0,47 ITI 0,31 0,08 0,71
+0,08 ITE 0,49 0,48 0,64 0,48 Mur ITR 0,35 0,1 0,45 0,1 ITI + ITE 0,31 0,08
+0,45 0,08 ITI + ITR 0,31 0,08 0,45 0,08 ITE + ITR 0,35 0,1 0,45 0,1 Pour les
+murs, s'il n'est pas possible de distinguer le type d'isolation (ITI, ITE...),
+prendre par défaut ITI. Pour les planchers bas, s'il n'est pas possible de
+distinguer le type d'isolation (ITI, ITE...), prendre par défaut ITE. Pour un
+plancher bas, ITI correspond à une isolation sous chape et ITE à une isolation
+en sous face. Les planchers bas à entrevous isolants sont traités comme des
+planchers en ITE. 3.4.2. Plancher intermédiaire lourd/mur kpi_i/m_j : valeur
+du pont thermique de la liaison plancher intermédiaire i/mur j. Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Kpi_i/m_j
+Non isolé 0,86 ITI 0,92 ITE 0,13 Mur ITR 0,24 ITI + ITE 0,13 ITI + ITR 0,24
+ITE + ITR 0,13 Seuls les murs constitués d'un matériau lourd (béton,
+brique...) sont considérés ici. Pour les autres cas, ce pont thermique est
+pris nul. Pour les murs, s'il n'est pas possible de distinguer le type
+d'isolation (ITI, ITE...), prendre par défaut ITI. 3.4.3. Plancher haut
+lourd/mur kph_i/m_j : valeur du pont thermique de la liaison plancher haut
+lourd i/mur j. Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 Kpb_i/m_j PLANCHER HAUT LOURD Non isolé ITI ITE ITI + ITE Non
+isolé 0,3 0,83 0,4 0,4 ITI 0,27 0,07 0,75 0,07 Mur ITE 0,55 0,76 0,58 0,58 ITR
+0,4 0,3 0,48 0,3 ITI + ITE 0,27 0,07 0,58 0,07 ITI + ITR 0,27 0,07 0,48 0,07
+ITE + ITR 0,4 0,3 0,48 0,3 Pour les murs, s'il n'est pas possible de
+distinguer le type d'isolation (ITI, ITE...), prendre par défaut ITI. Pour les
+planchers hauts lourds, s'il n'est pas possible de distinguer le type
+d'isolation (ITI, ITE...), prendre par défaut ITE. Pour un plancher haut
+lourd, ITI correspond à une isolation sous plancher haut et ITE à une
+isolation sur plancher haut. 3.4.4. Refend/mur krf_i/m_i : valeur du pont
+thermique de la liaison Refend i/Mur j. Vous pouvez consulter le tableau dans
+le JOn° 262 du 10/11/2012 texte numéro 9 Krf_i/m_i Non isolé 0,73 ITI 0,82 ITE
+0,13 Mur extérieur ITR 0,2 ITI + ITE 0,13 ITI + ITR 0,2 ITE + ITR 0,13 Les
+ponts thermiques refend/mur sur circulation sont négligés pour les DPE
+réalisés à l'immeuble. Pour les murs, s'il n'est pas possible de distinguer le
+type d'isolation (ITI, ITE...), prendre par défaut ITI. 3.4.5. Menuiserie/mur
+kmen_i/m_j : valeur du pont thermique de la liaison menuiserie i/mur j. On
+entend par menuiserie les fenêtres, portes ou portes-fenêtres. Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Lp est la
+largeur approximative du dormant de la menuiserie (cm). Pour les murs, s'il
+n'est pas possible de distinguer le type d'isolation (ITI, ITE...), prendre
+par défaut ITI. Ces valeurs de pont thermique sont valables pour les tableaux,
+les linteaux et les appuis de la menuiserie. Les ponts thermiques au niveau
+des seuils de porte et des parois en brique de verre ne sont pas pris en
+compte. 3.5. Calcul des déperditions par renouvellement d'air Données d'entrée
+: Menuiseries avec ou sans joint Cheminée avec ou sans trappe Surface des
+parois déperditives hors plancher bas Surface habitable Type de ventilation DR
+= Hvent + Hperm DR : déperditions par le renouvellement d'air par degré
+d'écart entre l'intérieur et l'extérieur (W/K). Hvent : déperdition thermique
+par le renouvellement d'air dû au système de ventilation par degré d'écart
+entre l'intérieur et l'extérieur (W/K). Hperm : déperdition thermique par le
+renouvellement d'air dû à la perméabilité à l'air du bâtiment par degré
+d'écart entre l'intérieur et l'extérieur (W/K). Hvent = 0,34 × Q var epconv ×
+Sh Qvarepconv : débit d'air extrait conventionnel par unité de surface
+habitable (m³/h/m²). Sh : surface habitable (m²). Hperm = 0,34 × Qvinf Qvinf :
+débit d'air dû aux infiltrations (provoquées par le tirage thermique, l'impact
+du vent étant négligé) (m³/h). Vous pouvez consulter le tableau dans le JOn°
+262 du 10/11/2012 texte numéro 9 Textmoy : température extérieure moyenne du
+site (°C). ZONE CLIMATIQUE Textmoy H1 6,58 H2 8,08 H3 9,65 Q4Pa = Q4Paenv +
+0,45 × Smeaconv × Sh Q4Pa : perméabilité sous 4 Pa de la zone (m³/h). Q4Paenv
+: perméabilité de l'enveloppe (m³/h). Q4Paenv = Q4Pa conv/m2 × Sdep
+Q4Paconv/m2 : valeur conventionnelle de la perméabilité sous 4 Pa (m³/h).
+Q4Paconv/m2 en m³/h/m² sous 4 Pavaleurs conventionnelles Fenêtres sans joint
+et cheminée sans trappede fermeture Fenêtres sans joint ou cheminées sans
+trappede fermeture Autres cas 2,5 2,0 1,7 En présence de menuiseries avec et
+sans joint, il sera pris le type ayant la surface majoritaire pour
+caractériser la ventilation du bâtiment. En maison ou appartement, si une
+cheminée n'a pas de trappe, toutes les cheminées sont considérées sans trappe.
+En immeuble collectif, les cheminées seront considérées avec trappe si plus de
+la moitié ont des trappes. Sdep : surface des parois déperditives hors
+plancher bas. Smeaconv : valeur conventionnelle de la somme des modules
+d'entrée d'air sous 20 Pa par unité de surface habitable (m³/h/m²). Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Pour
+une ventilation double flux avec échangeur : Hvent = 0,136 × Q var epconv × Sh
+Puits climatique (canadien ou provençal) : Hvent = 0,2142 × Q var epconv × Sh
+4\. Détermination des sollicitations environnementales4.1. Calcul de F Données
+d'entrée : Département. Altitude (m). Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 X = As + Ai GV × DHcor DHcor : degrés
+heures de chauffage corrigé (°Ch). Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 alt : altitude du site où est situé le
+logement (m). C2, C3 : facteurs de correction de l'altitude et de la position
+par rapport à la mer. Dhref : degrés heures de référence pendant la période de
+chauffage (°C). Ai : apports internes dans le logement (Wh). Ai = 4,17 × Sh ×
+Nref 4,17 représente les apports internes dissipés dans le logement en W/m².
+Cette valeur correspondant à une énergie dissipée égale à 100 Wh/(jour.m²Shab)
+et est une valeur conventionnelle représentative du comportement et de
+l'équipement moyens des occupants de logements en France. Sh : surface
+habitable du logement (m²). Nref : nombre d'heures de la période de chauffage.
+As : apports solaires (Wh). Ai = 1 000 × E × Sse Sse : « surface transparente
+Sud équivalente » du logement, c'est-à-dire la surface de paroi, fictive,
+exposée au Sud, totalement transparente et sans ombrage, qui provoquerait les
+mêmes apports solaires que les parois du logement (m²). E : ensoleillement
+reçu, pendant la période de chauffage, par une paroi verticale orientée au Sud
+en l'absence d'ombrage (kWh/m²). DÉPARTEMENT ZONEhiver ZONEété E(kWh/m²)
+Nref(h) Pref(W/m²) Dhref/30 ans(°Ch) C2 C3(h/m) TEXT_base(°C) 01 Ain 1 Ec 392
+4900 80 55000 340 1,5 ― 10 02 Aisne 1 Ea 423,4 5800 73 67000 340 0 ― 7 03
+Allier 1 Ec 402,9 5100 79 55000 340 1,5 ― 8 04 Alpes-de-Haute-Provence 2 Ed
+541,2 4100 132 45000 340 1,5 ― 8 05 Hautes-Alpes 1 Ed 546 4200 130 47000 340
+1,5 ― 10 06 Alpes-Maritimes 3 Ed 526,5 3900 135 31000 400 1,8 ― 5 07 Ardèche 2
+Ed 514,5 4900 105 53000 340 1,5 ― 6 08 Ardennes 1 Eb 397,6 5600 71 64000 340 0
+― 10 09 Ariège 2 Ec 484 4400 110 41000 340 1,5 ― 5 10 Aube 1 Eb 407 5500 74
+64000 340 0 ― 10 11 Aude 3 Ed 460 4000 115 36000 400 1,8 ― 5 12 Aveyron 2 Ec
+418 4400 95 45000 340 1,5 ― 8 13 Bouches-du-Rhône 3 Ed 528 4000 132 36000 400
+1,8 ― 5 14 Calvados 1 Ea 450,3 5700 79 61000 400 0 ― 7 15 Cantal 1 Ec 435 5000
+87 54000 340 1,5 ― 8 16 Charente 2 Ec 435 5000 87 48000 340 0 ― 5 17 Charente-
+Maritime 2 Ec 440 5000 88 48000 400 0 ― 5 18 Cher 2 Eb 418,7 5300 79 58000 340
+0 ― 7 19 Corrèze 1 Ec 425 5000 85 48000 340 1,5 ― 8 2A Corse-du-Sud 3 Ed 529,2
+4200 126 34000 400 1,8 ― 2 2B Haute-Corse 3 Ed 504 4000 126 32000 400 1,8 ― 2
+21 Côte-d'Or 1 Ec 357,7 4900 73 57000 340 1,5 ― 10 22 Côtes-d'Armor 2 Ea 426,6
+5400 79 51000 400 0 ― 4 23 Creuse 1 Ec 436,8 5200 84 56000 340 1,5 ― 8 24
+Dordogne 2 Ec 435 5000 87 48000 340 0 ― 5 25 Doubs 1 Ec 355 5000 71 57000 340
+1,5 ― 12 26 Drôme 2 Ed 528 4800 110 53000 340 1,5 ― 6 27 Eure 1 Ea 390 5000 78
+58000 400 0 ― 7 28 Eure-et-Loir 1 Eb 436,8 5600 78 63000 340 0 ― 7 29
+Finistère 2 Ea 458,2 5800 79 55000 400 0 ― 4 30 Gard 3 Ed 480 4000 120 36000
+400 1,8 ― 5 31 Haute-Garonne 2 Ec 441 4500 98 44000 340 1,5 ― 5 32 Gers 2 Ec
+441,6 4800 92 50000 340 0 ― 5 33 Gironde 2 Ec 409,5 4500 91 41000 400 0 ― 5 34
+Hérault 3 Ed 471,5 4100 115 38000 400 1,8 ― 5 35 Ille-et-Vilaine 2 Ea 418,7
+5300 79 53000 400 0 ― 5 36 Indre 2 Eb 445,2 5300 84 59000 340 0 ― 7 37 Indre-
+et-Loire 2 Eb 450,5 5300 85 57000 340 0 ― 7 38 Isère 1 Ec 480 4800 100 55000
+340 1,5 ― 10 39 Jura 1 Ec 362,6 4900 74 55000 340 1,5 ― 10 40 Landes 2 Ec
+413,6 4400 94 42000 400 0 ― 5 41 Loir-et-Cher 2 Eb 442,8 5400 82 59000 340 0 ―
+7 42 Loire 1 Ec 406,7 4900 83 52000 340 1,5 ― 10 43 Haute-Loire 1 Ec 460 5000
+92 54000 340 1,5 ― 8 44 Loire-Atlantique 2 Eb 401,8 4900 82 48000 400 0 ― 5 45
+Loiret 1 Eb 421,2 5400 78 61000 340 0 ― 7 46 Lot 2 Ec 404,8 4600 88 45000 340
+1,5 ― 6 47 Lot-et-Garonne 2 Ec 435 5000 87 53000 340 0 ― 5 48 Lozère 2 Ed 460
+4600 100 48000 340 1,5 ― 8 49 Maine-et-Loire 2 Eb 431,6 5200 83 55000 340 0 ―
+7 50 Manche 2 Ea 433,2 5700 76 56000 400 0 ― 4 51 Marne 1 Eb 414,4 5600 74
+65000 340 0 ― 10 52 Haute-Marne 1 Eb 379,6 5200 73 59000 340 1,5 ― 12 53
+Mayenne 2 Eb 421,2 5200 81 56000 340 0 ― 7 54 Meurthe-et-Moselle 1 Eb 400,2
+5800 69 71000 340 0 ― 15 55 Meuse 1 Eb 397,6 5600 71 68000 340 0 ― 12 56
+Morbihan 2 Ea 402,9 5100 79 48000 400 0 ― 4 57 Moselle 1 Eb 386,4 5600 69
+68000 340 0 ― 15 58 Nièvre 1 Eb 395,2 5200 76 56000 340 1,5 ― 10 59 Nord 1 Ea
+379,5 5500 69 60000 400 0 ― 9 60 Oise 1 Ea 427,5 5700 75 65000 340 0 ― 7 61
+Orne 1 Ea 442,4 5600 79 62000 340 0 ― 7 62 Pas-de-Calais 1 Ea 379,5 5500 69
+60000 400 0 ― 9 63 Puy-de-Dôme 1 Ec 398,4 4800 83 50000 340 1,5 ― 8 64
+Pyrénées-Atlantiques 2 Ec 411,6 4200 98 35000 400 1,8 ― 5 65 Hautes-Pyrénées 2
+Ec 450,8 4600 98 43000 340 1,5 ― 5 66 Pyrénées-Orientales 3 Ed 481 3700 130
+30000 400 1,8 ― 5 67 Bas-Rhin 1 Eb 343,2 5200 66 63000 340 1,5 ― 15 68 Haut-
+Rhin 1 Eb 365,7 5300 69 64000 340 1,5 ― 15 69 Rhône 1 Ec 392 4900 80 54000 340
+1,5 ― 10 70 Haute-Saône 1 Eb 376,3 5300 71 62000 340 1,5 ― 12 71 Saône-et-
+Loire 1 Ec 384,8 5200 74 57000 340 1,5 ― 10 72 Sarthe 2 Eb 434,6 5300 82 57000
+340 0 ― 7 73 Savoie 1 Ec 460 4600 100 55000 340 1,5 ― 10 74 Haute-Savoie 1 Ec
+392 4900 80 58000 340 1,5 ― 10 75 Paris 1 Eb 336,6 5100 66 55000 340 0 ― 5 76
+Seine-Maritime 1 Ea 418 5500 76 58000 400 0 ― 7 77 Seine-et-Marne 1 Eb 396
+5500 72 62000 340 0 ― 7 78 Yvelines 1 Eb 417,6 5800 72 66000 340 0 ― 7 79
+Deux-Sèvres 2 Eb 450,5 5300 85 56000 340 0 ― 7 80 Somme 1 Ea 423,4 5800 73
+64000 400 0 ― 9 81 Tarn 2 Ec 440 4400 100 45000 340 1,5 ― 5 82 Tarn-et-Garonne
+2 Ec 432 4800 90 51000 340 0 ― 5 83 Var 3 Ed 514,8 3900 132 31000 400 1,8 ― 5
+84 Vaucluse 2 Ed 579,6 4600 126 44000 340 1,5 ― 6 85 Vendée 2 Eb 442 5200 85
+50000 400 0 ― 5 86 Vienne 2 Eb 455,8 5300 86 56000 340 0 ― 7 87 Haute-Vienne 1
+Ec 447,2 5200 86 54000 340 1,5 ― 8 88 Vosges 1 Eb 376,3 5300 71 62000 340 1,5
+― 15 89 Yonne 1 Eb 410,4 5400 76 62000 340 0 ― 10 90 Territoire de Belfort 1
+Eb 371 5300 70 63000 340 1,5 ― 15 91 Essonne 1 Eb 396 5500 72 61000 340 0 ― 7
+92 Hauts-de-Seine 1 Eb 349,8 5300 66 58000 340 0 ― 7 93 Seine-Saint-Denis 1 Eb
+349,8 5300 66 58000 340 0 ― 7 94 Val-de-Marne 1 Eb 349,8 5300 66 58000 340 0 ―
+7 95 Val-d'Oise 1 Eb 396 5500 72 61000 340 0 ― 7 Zone climatique : les
+localités situées à plus de 800 m d'altitude sont en zone H1 lorsque leur
+département est indiqué comme étant en zone H2 et en zone H2 lorsque leur
+département est indiqué comme étant en zone H3. 4.2. Détermination de la
+surface Sud équivalente Données d'entrée : Inclinaison des baies (verticale,
+pente, horizontale) Orientation des baies (Nord, Sud, Est, Ouest) Position des
+baies en flanc de loggias Nature des menuiseries (bois, PVC...) Type de
+vitrage (simple, double...) Positionnement de la menuiserie (tunnel, nu
+intérieur...) Type de masque : proche (balcon, loggias...) ou lointain
+Profondeur des masques proches (profondeur balcon) Largeur des baies.
+Positionnement des masques (Nord, Sud...) Angle de vue des masques lointains
+Type de fenêtre ou de porte-fenêtre (coulissante, battante, avec ou sans
+soubassement...) La prise en compte des apports solaires exige a minima une
+saisie par façade des fenêtres du bâtiment. Le calcul de la surface Sud
+équivalente se fait en sommant les valeurs de Sse pour chaque paroi vitrée i.
+Sse = ΣiAi × Ftsi × Fei × C1i Ai : surface de la baie i (m²). Ftsi :
+proportion d'énergie solaire incidente qui pénètre dans le logement par la
+paroi i. Fei : facteur d'ensoleillement, qui traduit la réduction d'énergie
+solaire reçue par une paroi du fait des masques. C1i : coefficient
+d'orientation et d'inclinaison pour la paroi i. 4.2.1. Détermination du
+coefficient d'orientation et du facteur solaire Le coefficient d'orientation
+est donné dans le tableau suivant en fonction de l'inclinaison de la paroi et
+de son orientation : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Pour une paroi horizontale : C1 = 0,8. Si Fts est
+connu pour la baie, saisir directement sa valeur. Pour les parois en
+polycarbonate : Fts = 0.4. Pour les parois en brique de verre pleine ou creuse
+: Fts = 0.4. Pour les doubles-fenêtres composées de fenêtres de facteur
+solaire Fts1 et Fts2, le facteur solaire de la double-fenêtre est : Fts = Fts1
+× Fts2. Dans le tableau suivant, le facteur solaire est donné en fonction des
+caractéristiques des menuiseries : Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 4.2.2. Détermination du facteur
+d'ensoleillement On considère successivement les obstacles liés au bâtiment
+(balcons, loggias, avancées...), appelés masques proches, et les obstacles
+liés à l'environnement (autres bâtiments, reliefs, végétation...), appelés
+masques lointains. On obtient ainsi deux coefficients, Fe1 et Fe2, dont on
+fait le produit, soit : Fe = Fe1 × Fe2 En l'absence de masque proche et pour
+les configurations non présentées ci dessous, Fe1 = 1. En l'absence de masque
+lointain, Fe2 = 1. Conventionnellement, les orientations Nord, Sud, Est et
+Ouest correspondent aux secteurs situés de part et d'autre de ces orientations
+dans un angle de 45°. Pour respectivement le Nord et le Sud, les orientations
+incluent les limites Nord-Est, Nord-Ouest et Sud-Est, Sud-Ouest. 4.2.2.1.
+Masques proches4.2.2.1.1. Baie en fond de balcon ou fond et flanc de loggias
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Le tableau ci-dessous donne les valeurs de Fe1 en fonction de l'orientation de
+la façade et de l'avancée I de la loggia ou du balcon : Vous pouvez consulter
+le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Les coefficients pour
+les baies en flanc de loggias sont les mêmes que ceux pour les baies en fond
+de loggias. 4.2.2.1.2. Baie sous un balcon ou auvent Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Le tableau ci-dessous
+donne les valeurs de Fe1 quelle que soit l'orientation de la façade en
+fonction de l'avancée I. Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 4.2.2.1.3. Baie masquée par une paroi latérale au
+Sud Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Si les angles et sont supérieurs à 30°, alors Fe1 = 0.6 ; sinon Fe1 =
+1. 4.2.2.2. Masques lointains4.2.2.2.1. Obstacle d'environnement homogène Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Configuration du masque Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 4.2.2.2.2. Obstacle d'environnement non homogène
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Fe2 = 1 - ∑ 100 Omb Fe2 = 1 ― ∑ 100 Omb correspond à l'ombrage créé par
+l'obstacle sur la paroi. La méthode d'évaluation est la suivante : ― on
+découpe le champ de vision en quatre secteurs égaux ; ― on détermine, pour
+chacun d'eux, la hauteur moyenne des obstacles ; ― on lit dans le tableau ci-
+dessous les valeurs correspondantes de l'ombrage, Omb : Vous pouvez consulter
+le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Les valeurs figurant
+dans le tableau sont approximatives. Il est donc possible que le calcul de Fe2
+aboutisse à une valeur négative ; dans ce cas, prendre Fe2 = 0. 5\.
+Détermination de l'inertie5.1. Plancher haut lourd Plancher sous toiture
+(terrasse, combles perdus, rampant lourd) non isolé ou isolé par l'extérieur
+et sans faux plafond (**) et constitué de : ― béton plein de plus de 8 cm ; ―
+poutrelles et hourdis béton ou terre cuite. Sous-face de plancher
+intermédiaire sans isolant et sans faux plafond (**) constitué de : ― béton
+plein de plus de 15 cm ; ― poutrelles et hourdis béton ou terre cuite. (**) Ne
+sont considérés que les faux plafonds possédant une lame d'air non ventilée ou
+faiblement ventilée (moins de 1 500 mm² d'ouverture par mètre carré de
+surface) couvrant plus de la moitié de la surface du plafond du niveau
+considéré. 5.2. Plancher bas lourd Face supérieure de plancher intermédiaire
+avec un revêtement non isolant : ― béton plein de plus de 15 cm sans isolant ;
+― chape ou dalle de béton de 4 cm ou plus sur entrevous lourds (béton, terre
+cuite), sur béton cellulaire armé ou sur dalles alvéolées en béton. Plancher
+bas non isolé ou avec un isolant thermique en sous-face et un revêtement non
+isolant : ― béton plein de plus de 10 cm d'épaisseur ; ― chape ou dalle de
+béton de 4 cm ou plus sur entrevous lourds (béton, terre cuite), béton
+cellulaire armé ou dalles alvéolées en béton ; ― dalle de béton de 5 cm ou
+plus sur entrevous en matériau isolant ; ― autres planchers dans un matériau
+lourd (pierre, brique ancienne, terre...) et sans revêtement isolant. 5.3.
+Paroi verticale lourde Une paroi verticale est dite lourde si elle remplit
+l'une des conditions suivantes : ― lorsque les murs de façade, de pignon et de
+refend mitoyen sont non isolés ou isolés par l'extérieur avec en matériau
+constitutif de : ― béton plein (banche, bloc, préfabriqué) de 7 cm ou plus ; ―
+bloc agglo béton 11 cm ou plus ; ― bloc perforé en béton (ou autres matériaux
+lourds) 10 cm ou plus ; ― bloc creux béton 11 cm ou plus ; ― brique pleine ou
+perforée 10,5 cm ou plus ; ― tout matériau ancien lourd (pierre, brique
+ancienne, terre, pisé...) ; ― murs extérieurs à isolation répartie de 30 cm
+minimum, avec un cloisonnement réalisé en bloc de béton, en brique plâtrière
+enduite ou en carreau de plâtre de 5 cm minimum ou en béton cellulaire de 7 cm
+minimum ; ― environ les trois quarts (en surface) des doublages intérieurs des
+murs extérieurs et des murs de cloisonnements (parois intérieures) font 5 cm
+minimum et sont réalisés en bloc de béton, brique enduite ou carreau de plâtre
+; ― lorsque la taille moyenne des locaux est inférieure à 30 m² : ― environ
+les trois quarts des murs de cloisonnement intérieur lourds sont réalisés en :
+― ― béton plein de 7 cm minimum ; ― ― bloc de béton creux ou perforé (ou
+autres matériaux lourds) de 10 cm minimum ; ― ― brique pleine ou perforée de
+10,5 cm minimum ; ― ― autre brique de 15 cm minimum avec un enduit plâtre sur
+chaque face. Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 En présence de plusieurs types de murs, de planchers hauts ou
+de planchers bas, l'inertie de la paroi à considérer dans le tableau ci-dessus
+est donnée par le type de surface majoritaire. 6\. Calcul du facteur
+d'intermittence INT Le facteur d'intermittence traduit les baisses temporaires
+de température réalisées pour différentes raisons (absence, ralenti de nuit)
+et, éventuellement, de façon inégale dans les pièces. Il est égal au rapport
+entre les besoins réels, compte tenu d'un comportement moyen des occupants, et
+les besoins théoriques. Données d'entrée : Type de bâtiment. Type de chauffage
+(divisé, central). Type de régulation (par pièce ou non). Equipement
+d'intermittence (absent, central sans minimum de température...). Type
+d'émetteur (air soufflé, convecteurs...). Hauteur moyenne sous plafond : hsp
+(m). Présence d'un comptage. INT = 1 + 0,1 × (G―1) I0 INT = 1 + 0,1 × (G ― 1)
+G = hsp × Sh GV G = hsp × Sh hsp est la hauteur moyenne sous plafond. En
+présence de plusieurs surfaces habitables avec des hauteurs sous plafond
+différentes, une pondération peut être faite par les surfaces habitables
+affectées à chaque hauteur sous plafond. Vous pouvez consulter le tableau dans
+le JOn° 262 du 10/11/2012 texte numéro 9 Dans la prise en compte de
+l'intermittence, en maison individuelle comme en appartement en immeuble
+collectif, c'est le système principal couvrant la plus importante surface
+habitable qui est considéré. Une maison individuelle branchée sur un réseau
+collectif de fourniture d'énergie pour le chauffage sera traitée comme une
+maison individuelle avec un chauffage individuel central. Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Dans le cas
+d'un immeuble collectif avec chauffage individuel, on associe à chaque type
+d'installation une intermittence. Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Seule l'intermittence de l'appoint est
+prise en compte sur les installations base + appoint. Une régulation zonale
+peut être considérée comme une régulation pièce par pièce. L'équipement
+d'intermittence peut être : En chauffage individuel : ― absent : pas
+d'équipement permettant de programmer des réduits de température ; ― central
+sans minimum de température : équipement permettant une programmation
+seulement de la fonction marche/arrêt et donc ne garantissant pas un minimum
+de température ; ― central avec un minimum de température : équipement pouvant
+assurer : ― centralement un ralenti ou un abaissement de température fixe, non
+modifiable par l'occupant, ainsi que la fonction hors gel ; ― centralement un
+ralenti ou un abaissement de température au choix de l'occupant ; ― pièce par
+pièce avec minimum de température : équipement permettant d'obtenir par pièce
+un ralenti ou un abaissement de température fixe, non modifiable par
+l'occupant. En chauffage collectif : ― absent : pas de réduit de nuit ; ―
+central collectif : possibilité de ralenti de nuit. Un système de chauffage
+divisé est un système pour lequel la génération et l'émission sont confondues.
+C'est le cas des convecteurs électriques, planchers chauffants électriques,
+etc. Un système de chauffage central comporte un générateur central,
+individuel ou collectif, et une distribution par fluide chauffant : air ou
+eau. 7\. Calcul de la consommation de chauffage (Cch) Données d'entrée :
+Rendements de génération, d'émission, de distribution et de régulation : Rg,
+Re, Rd, Rr (sans dimension). Coefficient de performance des pompes à chaleur
+(PAC) : COP (sans dimension). Type d'installation de chauffage : avec ou sans
+solaire ; base + appoint... Puissance nominale de tous les générateurs : Pn
+(W). Zone climatique. Type d'installation d'ECS. Type de production d'ECS
+(instantanée, accumulation). Type de générateur d'ECS (chauffe-bain, chaudière
+mixte...). Inertie du bâtiment. Facteur de couverture solaire pour le
+chauffage Fch. Bch = BV × DHcor ― Pr × RrpBV × DHcor Bch = ― Pr × Rrp 1 000
+Bch : besoin de chauffage (kWh PCI). DHcor : degrés heures corrigés de
+chauffage (°Ch). Pr : pertes récupérables des systèmes (kWh), avec Pr = Pr1+
+Pr2 = Sh*(Prs1 + Prs2). Rrp : rendement de récupération des pertes. Prs1 :
+pertes récupérées des auxiliaires des systèmes de chauffage à eau chaude
+individuelle par mètre carré de surface habitable quand le générateur est en
+volume habitable. Prs2 : pertes récupérées du système d'eau chaude par mètre
+carré de surface habitable. Vous pouvez consulter le tableau dans le JOn° 262
+du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau dans le JOn° 262
+du 10/11/2012 texte numéro 9 Les pertes sont d'autant plus difficilement
+récupérées que les autres apports sont élevés. Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Cch = Bch × Ich × INT
+Avec : Cch : consommation de chauffage (kWh PCI). Ich : inverse du rendement
+de l'installation. INT : facteur d'intermittence. Ich = Rg × Re × Rd × Rr 1
+Ich = Rg × Re × Rd × Rr Rg ; Re ; Rd et Rr sont respectivement le rendement
+conventionnel du générateur ou le coefficient de performance des pompes à
+chaleur (COP), le rendement d'émission, le rendement de distribution et le
+rendement de régulation. Dans la suite Bch' = Bch × INT 7.1. Installation de
+chauffage Cch = Bch' × Ich7.2. Installation de chauffage avec chauffage
+solaire Cette installation est valable seulement pour les maisons
+individuelles. Une partie du chauffage est apportée par une installation
+solaire avec des panneaux solaires thermiques. Cch = Bch' × (1 ― Fch) × Ich
+Prodchauff_sol = Bch' × Fch × Ich Fch : facteur de couverture solaire pour le
+chauffage (voir annexes). Cch : consommation de chauffage liée au système
+principal de chauffage (kWh PCI). Prodchauff_sol : production de chauffage
+solaire (kWh PCI). 7.3. Installation de chauffage avec insertou poêle bois en
+appoint Configuration correspondant à un insert ou à un poêle en appoint dans
+le logement en plus d'un système principal chauffant tout le logement. Cela
+signifie que le chauffage principal peut assurer 100 % du besoin mais qu'il y
+a un poêle ou un insert à la place du système principal qui est de temps en
+temps utilisé dans l'habitation (en mi-saison par exemple). Cch1 = 0,75 × Bch'
+× Ich1 Cch2 = 0,25 × Bch' × Ich2 Cch1 : consommation de chauffage liée au
+système principal de chauffage (kWh PCI). Cch2 : consommation de chauffage
+liée à l'insert ou au poêle (kWh PCI). 7.4. Installation de chauffage par
+insert, poêle bois(ou biomasse) avec un chauffage électrique dans la salle de
+bains Dans cette configuration, valable que pour les maisons individuelles,
+tout le bâtiment est chauffé par un poêle bois. Seule la salle de bains est
+chauffée par un système électrique. Cch1 = 0,9 × Bch' × Ich1 Cch2 = 0,1 × Bch'
+× Ich2 Cch1 : consommation de chauffage liée au poêle bois (kWh PCI). Cch2 :
+consommation de chauffage liée au chauffage électrique de la salle de bains
+(kWh PCI).7.5. Installation de chauffage avec en appoint un insert ou poêle
+bois et un chauffage électrique dans la salle de bains (différent du chauffage
+principal) Configuration, valable que pour les maisons individuelles,
+correspond à un insert ou à un poêle en appoint dans le logement en plus d'un
+système principal qui chauffe presque tout le logement. La salle de bains est
+chauffée uniquement par un équipement électrique. Cch1 = 0,75 × 0,9 × Bch' ×
+Ich1Cch2 = 0,25 × 0,9 × Bch' × Ich2Cch3 = 0,1 × Bch' × Ich3 Cch1 :
+consommation de chauffage liée au système principal de chauffage (kWh PCI).
+Cch2 : consommation de chauffage liée à l'insert ou au poêle bois (kWh PCI).
+Cch3 : consommation de chauffage liée au chauffage électrique de la salle de
+bains (kWh PCI). 7.6. Installation de chauffage avec chaudière gazou fioul en
+relève d'une chaudière bois Cette installation correspond à une chaudière bois
+assurant principalement le chauffage sauf par temps doux ou en mi-saison où la
+chaudière gaz ou fioul prend le relais à la chaudière bois. Cch1 = 0,75 × Bch'
+× Ich1 Cch2 = 0,25 × Bch' × Ich2 Cch1 : consommation de chauffage liée à la
+chaudière bois (kWh PCI). Cch2 : consommation de chauffage liée à la chaudière
+gaz ou fioul (kWh PCI). 7.7. Installation de chauffage avec chauffage
+solaireet insert ou poêle bois en appoint Cette configuration, valable
+seulement pour les maisons individuelles, correspond à un insert ou à un poêle
+en appoint dans le logement en plus d'un système général composé d'un
+équipement principal accompagné par du chauffage solaire chauffant presque
+tout le logement. Cch1 = 0,75 × Bch' × (1 ― Fch) × Ich1Cch2 = 0,1 × Bch' × (1
+― Fch) × Ich2Prodchauff_sol = Bch' × Fch × (0,75 × Ich1 + 0,25 × Ich2) Cch1 :
+consommation de chauffage liée au système principal de chauffage (kWh PCI).
+Cch2 : consommation de chauffage liée à l'insert ou au poêle bois (kWh PCI).
+Prodchauff_sol : production de chauffage solaire (kWh PCI). 7.8. Installation
+de chauffage avec chaudière en relève de PAC Cette installation correspond à
+une PAC assurant principalement le chauffage sauf par temps de grand froid où
+la PAC s'arrête pour laisser le relais à la chaudière. Cch1 = 0,8 × Bch' ×
+Ich1 Cch2 = 0,2 × Bch' × Ich2 Cch1 : consommation de chauffage liée à la PAC
+(kWh PCI). Cch2 : consommation de chauffage liée à la chaudière (kWh PCI).
+7.9. Installation de chauffage avec chaudière en relève de PACavec insert ou
+poêle bois en appoint Cette installation correspond à une PAC assurant
+principalement le chauffage sauf par temps de grand froid où la PAC s'arrête
+pour laisser le relais à la chaudière. Dans le bâtiment, il y a un poêle bois
+ou un insert qui est utilisé de temps en temps en remplacement du système
+principal. Cch1 = 0,8 × 0,75 × Bch' × Ich1Cch2 = 0,2 × 0,75 × Bch' × Ich2Cch3
+= 0,25 × Bch' × Ich3 Cch1 : consommation de chauffage liée à la PAC (kWh PCI).
+Cch2 : consommation de chauffage liée à la chaudière (kWh PCI). Cch3 :
+consommation de chauffage lié à l'insert ou au poêle en appoint (kWh PCI).
+7.10. Installation de chauffage collectif avec base + appoint7.10.1. Cas
+général La base fonctionne seule tant que la température extérieure est
+supérieure à une température de dimensionnement T. A cette température T, le
+besoin instantané du bâtiment est égal à la puissance utile du générateur en
+base. Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Pe : puissance émise utile par le générateur en base (kW). Pe = Pn ×
+Rd × Rr × Re. Pn : puissance nominale du générateur en base (kW). Rd, Rr et Re
+sont respectivement les rendements de distribution, de régulation et
+d'émission de l'installation de chauffage de base. DH14 : degrés heures de
+base 14 (°C). Le besoin de chauffage assuré par la base est : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 DHT = N ×
+(Tmoy) ― Tmin) × X5 × (14 ― 28 × X + 20 × X² ― 5 × X³) Avec : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 N : degrés
+heure affectés au département. Tmin : température extérieure de base pour
+chaque département. Tmoy est donnée par zone climatique : Zone H1 : Tmoy =
+6,58 °C ; DH14 = 42030 Zone H2 : Tmoy = 8,08 °C ; DH14 = 33300 Zone H3 : Tmoy
+= 9,65 °C ; DH14 = 22200 Cch1 = Bchbase × Ich1 Cch2 = (Bch' ― Bchbase) × Ich2
+Cch1 : consommation de chauffage liée à la base (kWh PCI). Cch2 : consommation
+de chauffage liée à l'appoint (kWh PCI). 7.10.2. Convecteurs bi-jonction La
+base et l'appoint sont assurés par un même convecteur disposant d'un circuit
+collectif alimentant la base et un circuit individuel pour l'appoint. Cch1 =
+0,6 × Bch × Ich Cch2 = 0,4 × Bch' × Ich Cch1 : consommation de chauffage liée
+au circuit collectif assurant la base (kWh PCI). Cch2 : consommation de
+chauffage liée au circuit individuel assurant l'appoint (kWh PCI).7.11.
+Chauffage avec plusieurs installations différentes et indépendantes et/ou
+plusieurs installations différentes et indépendantes couplées Deux
+installations de chauffage doivent être distinguées à chaque fois que le
+rendement change. Par exemple, dans le cas d'une même chaudière chauffant un
+rez-de-chaussée avec un plancher chauffant et un étage avec des radiateurs, il
+faut considérer deux installations car les rendements des émetteurs sont
+différents et entraînent une variation du rendement global de l'installation.
+Surface chauffée par l'installation 1 : Sh1 (m²). Surface chauffée par
+l'installation 2 : Sh2 (m²). Surface chauffée par l'installation 3 : Sh3 (m²).
+Surface chauffée par l'installation 4 : Sh4 (m²). Surface chauffée par
+l'installation 5 : Sh5 (m²). Surface chauffée par l'installation 6 : Sh6 (m²).
+Surface chauffée par l'installation i : Shi (m²) (plus de 6 installations
+peuvent être renseignées). Vous pouvez consulter le tableau dans le JOn° 262
+du 10/11/2012 texte numéro 9 Pour une partie i du bâtiment, sa consommation de
+chauffage sera traitée de façon indépendante en considérant pour son besoin de
+départ : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Dans ce cas, toutes les installations précédentes peuvent être
+traitées. C'est-à-dire que si l'installation indépendante i des autres est une
+: Installation de chauffage sans chauffage solaire : Cchi = Bchi' × Ichi
+Installation de chauffage avec chauffage solaire : Cchi = Bchi' × (1 ― Fch) ×
+Ichi Prodchauff_soli = Bchi' × Fch × Ichi Fch : facteur de couverture solaire
+pour le chauffage (voir annexes). Cchi : consommation de chauffage liée au
+système principal de chauffage de l'installation i (kWh PCI). Prodchauff_soli
+: production de chauffage liée à l'installation solaire i (kWh PCI).
+Installation de chauffage avec insert ou poêle bois en appoint : Configuration
+correspondant à un insert ou poêle en appoint dans le logement en plus d'un
+système principal chauffant tout le logement. Cchi1 = 0,75 × Bchi' × Ichi1
+Cchi2 = 0,25 × Bchi' × Ichi2 Cchi1 : consommation de chauffage liée au système
+principal de chauffage de l'installation i (kWh PCI). Cchi2 : consommation de
+chauffage liée à l'insert ou au poêle de l'installation i (kWh PCI).
+Installation de chauffage par insert, poêle bois (ou biomasse) avec un
+chauffage électrique dans la salle de bains : Cchi1 = 0,9 × Bchi' × Ichi1
+Cchi2 = 0,1 × Bchi' × Ichi2 Cchi1 : consommation de chauffage liée au poêle
+bois de l'installation i (kWh PCI). Cchi2 : consommation de chauffage liée au
+chauffage électrique de la salle de bains de l'installation i (kWh PCI).
+Installation de chauffage avec en appoint un insert ou poêle bois (ou
+biomasse) et un chauffage électrique dans la salle de bains (différent du
+chauffage principal) : Cchi1 = 0,75 × 0,9 × Bchi' × Ichi1Cchi2 = 0,25 × 0,9 ×
+Bchi' × Ichi2Cchi3 = 0,1 × Bchi' × Ichi3 Cchi1 : consommation de chauffage
+liée au système principal de chauffage de l'installation i (kWh PCI). Cchi2 :
+consommation de chauffage liée à l'insert ou au poêle de l'installation i (kWh
+PCI). Cchi3 : consommation de chauffage liée au chauffage électrique de la
+salle de bains de l'installation i (kWh PCI). Installation de chauffage avec
+chaudière gaz ou fioul en relève d'une chaudière bois : Cchi1 = 0,75 × Bchi' ×
+Ichi1Cchi2 = 0,25 × Bchi' × Ichi2 Cchi1 : consommation de chauffage liée à la
+chaudière bois de l'installation i (kWh PCI). Cchi2 : consommation de
+chauffage liée à la chaudière gaz ou fioul de l'installation i (kWh PCI).
+Installation de chauffage avec chauffage solaire et insert ou poêle bois en
+appoint : Cchi1 = 0,75 × Bchi' × (1 ― Fch) × Ichi1Cchi2 = 0,25 × Bchi' × (1 ―
+Fch) × Ichi2Prodchauff_soli = Bchi' × Fch × (0,75 × Ichi1 + 0,25 × Ichi2)
+Cchi1 : consommation de chauffage liée au système principal de chauffage de
+l'installation i (kWh PCI). Cchi2 : consommation de chauffage liée à l'insert
+ou au poêle de l'installation i (kWh PCI). Prodchauff_soli : production de
+chauffage liée à l'installation solaire i (kWh PCI). Installation de chauffage
+avec chaudière en relève de PAC : Cchi1 = 0,8 × Bchi' × Ichi1Cchi2 = 0,2 ×
+Bchi' × Ichi2 Cchi1 : consommation de chauffage liée à la PAC de
+l'installation i (kWh PCI). Cchi2 : consommation de chauffage liée à la
+chaudière de l'installation i (kWh PCI). Installation de chauffage avec
+chaudière en relève de PAC avec insert ou poêle bois en appoint : Cchi1 = 0,8
+× 0,75 × Bchi' × Ichi1Cchi2 = 0,1 × 0,75 × Bchi' × Ichi2Cchi3 = 0,25 × Bchi' ×
+Ichi3 Cchi1 : consommation de chauffage liée à la PAC de l'installation i (kWh
+PCI). Cchi2 : consommation de chauffage liée à la chaudière de l'installation
+i (kWh PCI). Cchi3 Consommation de chauffage liée à l'insert ou au poêle en
+appoint de l'installation i (kWh PCI). Installation de chauffage collectif
+avec base + appoint (autre que convecteur bi-jonction) : Cchi1 = Bchbasei ×
+Ichi1 Cchi2 = (Bchi' ― Bchbasei) × Ichi2 Avec conformément au paragraphe
+7.10.1 : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Cchi1 : consommation de chauffage liée à la base de l'installation i
+(kWh PCI). Cchi2 : consommation de chauffage liée à l'appoint de
+l'installation i (kWh PCI). Installation de chauffage collectif avec
+convecteur bi-jonction : Cchi1 = 0,6 × Bchi' × Ichi1Cchi2 = 0,4 × Bchi' ×
+Ichi1 Cchi1 : consommation de chauffage liée à la base de l'installation i
+(kWh PCI). Cchi2 : consommation de chauffage liée à l'appoint de
+l'installation i (kWh PCI). 8\. Rendement de distribution, d'émissionet de
+régulation de chauffage Données d'entrée : Type d'émetteur Type de
+distribution Installation collective ou individuelle Type d'installation
+(convecteur, panneaux rayonnants, chaudières...) Re, Rd et Rr sont
+respectivement les rendements d'émission, de distribution et de régulation.
+8.1. Rendement d'émission TYPE D'ÉMETTEUR Re Convecteur électrique NFC 0,95
+Panneau rayonnant électrique NFC 0,97 Radiateur électrique NFC 0,97 Autres
+émetteurs à effet joule 0,95 Soufflage d'air chaud 0,95 Plancher chauffant 1
+Plafond rayonnant 0,98 Autres équipements 0,95 8.2. Rendement de distribution
+TYPE DE DISTRIBUTION Rd Non isolé Isolé Pas de réseau de distribution 1 1
+Réseau aéraulique 0,8 0,85 Réseau collectif eau chaude haute température (≥ 65
+°C) 0,85 0,87 Réseau collectif eau chaude moyenne ou basse température (< 65
+°C) 0,87 0,9 Réseau individuel eau chaude moyenne ou basse température (< 65
+°C) 0,91 0,95 Réseau individuel eau chaude haute température (≥ 65 °C) 0,88
+0,92 8.3. Rendement de régulation TYPE D'INSTALLATION Rr Convecteur électrique
+NFC 0,99 Panneau rayonnant électrique NFC 0,99 Radiateur électrique NFC 0,99
+Plancher ou plafond rayonnant électrique avec régulation terminale 0,98
+Plancher ou plafond rayonnant électrique sans régulation 0,96 Radiateur
+électrique à accumulation 0,95 Autres émetteurs à effet joule 0,96 Plancher ou
+plafond chauffant à eau en individuel 0,95 Radiateur gaz à ventouse ou sur
+conduit de fumées 0,96 Poêle charbon/bois/fioul/GPL 0,80 Chaudière électrique
+0,90 Radiateur eau chaude sans robinet thermostatique 0,90 Radiateur eau
+chaude avec robinet thermostatique 0,95 Convecteur bi-jonction 0,90 Plancher
+ou plafond chauffant à eau en collectif 0,90 Air soufflé 0,96 Pour tous les
+cas non listés : Rr = 0,90. 9\. Rendement de générationdes générateurs autres
+qu'à combustion Données d'entrée : Type de générateur Type de régulation des
+PAC 9.1. Rendement des générateurs à effet joule directet des réseaux de
+chaleur TYPE DE GÉNÉRATEUR Rg Générateur à effet joule direct 1 Chaudières
+électriques 0,77 Réseau de chaleur 0,97 9.2. COP des PAC installées TYPE DE
+GÉNÉRATEUR COP PAC air/air installée 2,2 PAC air/eau installée 2,6 PAC eau/eau
+installée 3,2 PAC géothermique installée 4 9.3. COP des PAC neuves
+recommandéesCOP = COPnom × Cregul COP : coefficient de performance annuel de
+la PAC. COPnom : coefficient de performance nominal. Cregul : coefficient de
+correction pour la régulation. Le COP nominal des PAC recommandées peut être
+issu des caractéristiques des PAC fournies sur le site
+http://www.certita.org/. Pour les PAC recommandées, en plus des COP des PAC
+installées, il est possible d'utiliser des COP de produits réels. Les
+puissances doivent correspondre à celles des équipements existants. Si ce sont
+des valeurs déclarées par le fabricant (COPdecl), alors COPnom = 0,9 ×
+COPdecl. PLANCHERS AUTRES ÉMETTEURS Cregul 0,95 0,85 10\. Rendement de
+génération des générateurs à combustion Données d'entrée : Type de générateur
+Type de cascade Présence d'une régulation Type d'émetteur Type d'énergie
+Puissance nominale générateur (W) Rendement à pleine charge Rendement à charge
+intermédiaire Type de brûleur TYPE DE GÉNÉRATEUR Rg Poêle ou insert
+bois/charbon installé avant 2001 ou sans label flamme verte 0,66 Poêle ou
+insert bois/charbon installé à partir de 2001 avec label flamme verte 0,78
+Poêle fioul ou GPL 0,72 Pour les recommandations d'installations neuves, les
+caractéristiques réelles des chaudières présentées sur le site
+http://www.rt2012-chauffage.com/ peuvent être saisies. Pour les générateurs à
+combustion, le calcul du rendement conventionnel annuel moyen pour un
+générateur donné est basé sur la prise en compte de valeurs conventionnelles
+de profils de charge. Attention : les systèmes remplacés dans le cadre des
+recommandations doivent l'être par des équipements de même puissance si aucune
+étude de dimensionnement des installations n'est réalisée. 10.1. Profil de
+charge des générateurs Le profil de charge conventionnel donne pour chaque
+intervalle de taux de charge le coefficient de pondération correspondant.
+10.1.1. Profil de charge conventionnel Pour les bâtiments d'habitation, un
+profil de charge long est considéré (correspond au type d'horaire d'occupation
+longue). TAUX DE CHANGETchx DE 0 %à 10 % DE 10 %à 20 % DE 20 %à 30 % DE 30 %à
+40 % DE 40 %à 50 % DE 50 %à 60 % DE 60 %à 70 % DE 70 %à 80 % DE 80 %à 90 % DE
+90 %à 100 % Coefficient de pondérationCoeff_pond x 0,1 0,25 0,2 0,15 0,1 0,1
+0,05 0,025 0,025 0 Pour les calculs les taux de charge sont pris en milieu de
+classe (5 % ; 15 % ; 25 % ; ... ; 85 % ; 95 %). Le coefficient de pondération
+Coeffpond x est associé au taux de charge Tchx qui correspond à l'intervalle
+[Tchx ― 5 % ; Tchx + 5 %[. 10.1.2. Présence de un ou plusieurs générateurs à
+combustion indépendants On considère la présence au maximum de N générateurs à
+combustion indépendants. Les taux de charge doivent être pondérés par un
+coefficient Cdimref qui permet de prendre en compte les charges partielles.
+Pour un seul générateur à combustion de puissance installée Pngen : Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Pour
+N générateurs à combustion : Vous pouvez consulter le tableau dans le JOn° 262
+du 10/11/2012 texte numéro 9 Pngen i : puissance installée du générateur à
+combustion i (kW). GV : déperditions totales du bâtiment (W/K). Tbaseext :
+température extérieure de base (°C). Les profils de charge conventionnels sont
+modifiés pour prendre en compte Cdimref : le coefficient Coeffpond x dim est
+alors affecté au taux de charge Tchx dim. Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 Sauf pour le taux de charge
+Tch95 (correspondant à une charge entre 90 % et 100 %) : Tch95 dim = Tch95 En
+présence d'un ou de N générateurs indépendants : ― le taux de charge final de
+chaque générateur est : Tchx final = Tchx dim ; ― le coefficient de
+pondération final est : Coeffpond x final = Coeffpond x dim. 10.1.3. Cascade
+de deux générateurs à combustion En présence d'une cascade de plus de deux
+générateurs, il ne faut prendre en compte que les deux premiers générateurs
+activés dans la cascade. Si l'ordre d'activation n'est pas connu, seuls les
+deux générateurs les plus performants ou les plus puissants seront conservés.
+La puissance totale des générateurs non pris en compte sera affectée au
+deuxième générateur activé par la cascade, au générateur le moins performant
+ou au générateur le moins puissant. Une donnée d'entrée est la puissance
+relative du générateur i : Prel(geni). Pn(geni) : puissance nominale du
+générateur i (W). Dans notre cas avec 2 générateurs : Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 On détermine pour chaque
+point de fonctionnement x et pour chaque générateur i sa contribution CTchx
+dim(gen1) au taux de charge du système Tchx dim. 10.1.3.1. Cascade avec
+priorité Dans notre cas avec 2 générateurs en cascade, le générateur 1 sera le
+plus performant ou à défaut le plus puissant. Il sera considéré comme
+prioritaire si aucune information complémentaire n'est disponible. La
+contribution CTchx dim de chaque générateur au taux de charge Tchx dim est :
+CTchx dim(gen1) = min(Prel(gen1);Tchx dim)CTchx dim(gen2) =
+min(Prel(gen2);Tchx dim ― CTchx dim(gen1)) Avec le taux de charge final
+suivant : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 Coeffpond x dim (gen1) = Coeffpond x (gen1)Coeffpond x dim
+(gen2) = Coeffpond x (gen2) Dans le cas où l'installation générerait aussi
+l'ECS, celle-ci sera considérée assurée par la chaudière prioritaire.
+10.1.3.2. Cascade sans priorité(même contribution au taux de charge) Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Avec
+le taux de charge final suivant : Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Coeffpond x dim (gen1) = Coeffpond x
+(gen1)Coeffpond x dim (gen2) = Coeffpond x (gen2) Dans le cas où
+l'installation générerait aussi l'ECS, celle-ci sera considérée assurée par
+les deux chaudières à part égale. 10.1.3.3. Pondération et contribution de
+chaque générateur Pour les chaudières en cascade, le coefficient de
+pondération final est : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 La part d'énergie fournie par chaque générateur i
+pour le chauffage est : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 10.2. Pertes au point de fonctionnement QPx : pertes
+au point de fonctionnement x (taux de charge à x %) (kW). QPo : pertes à
+l'arrêt (kW). RPn et RPint : respectivement les rendements à pleine charge et
+à charge intermédiaire. Pn : puissance nominale du générateur (kW). 10.2.1.
+Chaudières basse température et à condensation Pour les chaudières basse
+température et à condensation, le point de fonctionnement w correspond à un
+fonctionnement à 15 % de charge. Entre 0 et 15 % de charge : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Entre 15 et
+30 % de charge : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Entre 30 et 100 % de charge : Vous pouvez consulter
+le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 QP15 = QP30 2 Pour
+les chaudières basse température : Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Pour les chaudières à condensation :
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Tfonc100 (°C) est la température de fonctionnement de la chaudière à 100 % de
+charge. Elle est donnée dans le tableau suivant en fonction du type d'émetteur
+et des différentes périodes de leur installation : Température de
+fonctionnement des chaudières à 100 % de charge PÉRIODE Température de
+distribution/Type d'émetteur Avant 1981 Entre 1981 et 2000 Après 2000
+Basse/plancher basse température 60 35 35 Moyenne/radiateur à chaleur douce 80
+70 60 Haute/autres émetteurs 80 70 70 Tfonc30 (°C) est la température de
+fonctionnement de la chaudière à 30 % de charge. Elle est donnée dans les
+tableaux suivants selon le type d'installation : Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Si un système de
+génération alimente des réseaux de distribution de températures différentes,
+la température de fonctionnement est prise égale à la température maximale.
+Pour les recommandations d'installations neuves, les caractéristiques réelles
+des chaudières présentées sur le site http://www.rt2012-chauffage.com/ peuvent
+être saisies. 10.2.2. Chaudières standard ou classiques Pour les chaudières
+standard ou classiques, le point de fonctionnement w correspond à un
+fonctionnement à 30 % de charge. Entre 0 et 30 % de charge : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Entre 30 et
+100 % de charge : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Tfonc100 (°C) : température de fonctionnement de la
+chaudière à 100 % de charge. Elle est donnée dans le paragraphe précédent «
+chaudières basse température et à condensation ». Tfonc30 (°C) : température
+de fonctionnement de la chaudière à 30 % de charge. Elle est donnée selon le
+type d'installation dans les tableaux suivants : Vous pouvez consulter le
+tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Si un système de
+génération alimente des réseaux de distribution de températures différentes,
+la température de fonctionnement est prise égale à la température maximale.
+Pour les recommandations d'installations neuves, les caractéristiques réelles
+des chaudières présentées sur le site http://www.rt2012-chauffage.com/ peuvent
+être saisies. 10.2.3. Générateurs d'air chaud Pour les générateurs d'air chaud
+standard, le point de fonctionnement w correspond à un fonctionnement à 50 %
+de charge. Entre 0 et 50 % de charge : Vous pouvez consulter le tableau dans
+le JOn° 262 du 10/11/2012 texte numéro 9 Entre 50 et 100 % de charge : Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+L'expression de QP0 est valable pour Pn ≤ 300 kW. On prendra la valeur Pn =
+300 kW si Pn > 300 kW. Si les équipements sont anciens (avant 2006) : RPn = 77
+% RPint = 74 % Si les équipements sont neufs (à partir 2006) : Pour un
+générateur standard : RPn = 84 % RPint = 77 % Pour un générateur à
+condensation : RPn = 90 % RPint = 83 % Pour les installations neuves
+recommandées, les caractéristiques réelles des générateurs à air chaud
+présentées sur le site http://www.rt2012-chauffage.com/ peuvent être saisies.
+10.2.4. Radiateurs à gaz Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Pour les radiateurs à gaz anciens (avant 2006) : Si
+Pn < 5 kW : RPn = 70 %Si Pn ≥ 5 kW : RPn = 73 % Pour les radiateurs à gaz
+neufs (à partir de 2006) : Si Pn < 5 kW : RPn = 80 + logPn Si Pn ≥ 5 kW : RPn
+= 82 + logPn10.2.5. Chaudières bois Les chaudières au charbon sont traitées
+comme des chaudières bois de classe 1. Le point de fonctionnement w des
+chaudières bois correspond à 50 % de charge. Entre 0 et 50 % de charge : Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Entre 50 et 100 % de charge : Vous pouvez consulter le tableau dans le JOn°
+262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau dans le JOn°
+262 du 10/11/2012 texte numéro 9 Pour les chaudières classe 5 : RPn = 87 +
+logPn RPint = 88 + logPn Pour les chaudières classe 4 : RPn = 80 + 2 × logPn
+RPint = 81 + 2 × logPn Pour les chaudières classe 3 : RPn = 67 + 6 × logPn
+RPint = 68 + 6 × logPn Pour les chaudières classe 2 : RPn = 57 + 6 × logPn
+RPint = 58 + 6 × logPn Pour les chaudières classe 1 : RPn = 47 + 6 × logPn
+RPint = 48 + 6 × logPn Les expressions de RPn et RPint sont valables pour Pn ≤
+70 kW. On prendra la valeur Pn = 70 kW si Pn > 70 kW. Les pertes à l'arrêt QP0
+dépendent de l'âge de la chaudière et du type de brûleur : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Pour les
+installations neuves recommandées, les caractéristiques réelles des chaudières
+bois présentées sur le site http://www.rt2012-chauffage.com/ peuvent être
+saisies. 10.3. Valeurs par défaut des caractéristiques des chaudières10.3.1.
+Chaudières gazChaudières gaz ― valeurs par défaut RPn, RPint et QP0 TYPE
+ANCIENNETÉ PUISSANCE NOMINALEPn (kW) RENDEMENT(PCI) RPn (%) RENDEMENT(PCI)
+RPint (%) QP0 EN %puissancenominale Pn PUISSANCEveilleuse en W(si veilleuse)
+Classique Avant 1980 Pn 79+2logPn 73+3logPn 4 % 240 1981 ― 1985 Pn 82+2logPn
+76+3logPn 2 % 150 1986 ― 1990 Pn 83+2logPn 79+3logPn 1,5 % 150 Standard 1991 ―
+2000 Pn 84+2logPn 80+3logPn 1,2 % 120 Après 2000 (*) Pn 84+2logPn 80+3logPn 1
+% NA BT 1991 ― 2000 Pn 87,5+1,5logPn 87,5+1,5logPn 1,2 % 120 Après 2000 (*) Pn
+87,5+1,5logPn 87,5+1,5logPn 1 % NA Condensation 1981 ― 1985 Pn 91+1logPn
+97+1logPn 1 % 150 1986 ― 2000 Pn 91+1logPn 97+1logPn 1 % 120 Après 2000 (*) Pn
+91+1logPn 97+1logPn 1 % NA (*) Les valeurs de la base
+http://www.rt2012-chauffage.com/ peuvent aussi être utilisées pour les
+chaudières recommandées. 10.3.2. Chaudières fioul TYPE ANCIENNETÉ PUISSANCE
+NOMINALEPn (kW) RENDEMENT(PCI) RPn (%) RENDEMENT(PCI) RPint (%) QP0 EN
+%puissance nominale Pn Classique Avant 1970 Pn 74+2logPn 63+3logPn 4 % 1970 ―
+1975 Pn 77+2logPn 71+3logPn 3 % 1976 ― 1980 Pn 78+2logPn 76+3logPn 2 % 1981 ―
+1990 Pn 80+2logPn 78+3logPn 1 % Standard Depuis 1991 Pn 84+2logPn 80+3logPn 1
+% BT Depuis 1991 Pn 87,5+1,5logPn 87,5+1,5logPn 1 % Condensation Depuis 1996
+Pn 91+1logPn 97+1logPn 1 % 10.3.3. Calcul des puissances Pn des générateurs à
+combustion individuels Dans le cas de maisons individuelles ou d'appartements
+équipés de chaudières individuelles, la puissance de dimensionnement du
+chauffage Pch (kW) est : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Avec : GV : déperditions du bâtiment (W/K). Tbase :
+température extérieure de base (°C). Rr : rendement de régulation de
+l'installation. Rd : rendement de distribution de l'installation. Re :
+rendement d'émission de l'installation. La puissance nécessaire pour la
+production d'eau chaude sanitaire (ECS) dépend du type de production et donc
+du volume de stockage : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 La puissance de dimensionnement Pdim (kW) de la
+chaudière est : Pdim = max (Pch ; Pecs) La puissance nominale Pn (kW) des
+chaudières est déterminée à partir de Pdim : CHAUDIÈRES MURALES
+INSTALLÉESavant 2005 ou chaudières sur sol CHAUDIÈRES MURALES INSTALLÉESà
+partir de 2006 Pdim (kW) Pn (kW) Pn (kW) ≤ 5 5 5 < ≤ 10 10 10 < ≤ 13 13 13 < ≤
+18 18 18 18 < ≤ 24 24 24 24 < ≤ 28 28 28 28 < ≤ 32 32 32 32 < ≤ 40 40 40 40 <
+(Partie entière (Pdim/5) + 1) × 5 Dans le cas d'un logement chauffé avec n
+radiateurs gaz : Pn = Pch.Dans le cas d'un logement chauffé avec n radiateurs
+gaz : Pn = n 10.4. Puissances moyennes fournies et consommées On calcule les
+puissances fournies et consommées (en kW) par un générateur au point de
+fonctionnement × : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Avec : Px = Pn × Tchxfinal Puissances moyennes
+fournies et consommées par un générateur : Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 Vous pouvez consulter le tableau
+dans le JOn° 262 du 10/11/2012 texte numéro 9 10.5. Rendement conventionnel
+annuel moyen de génération de chauffage Vous pouvez consulter le tableau dans
+le JOn° 262 du 10/11/2012 texte numéro 9 Pveil : puissance de la veilleuse
+(kW) Une chaudière standard avec un condenseur sur ses fumées est traitée
+comme une chaudière à condensation de même ancienneté. 11\. Expression du
+besoin d'ECS (Becs) Données d'entrée : cw : température de l'eau froide
+entrant dans le système de préparation d'eau chaude. Sh : surface habitable
+des maisons et appartements (m²). Shmoy : surface habitable moyenne d'un
+appartement dans un immeuble collectif (m²). N : nombre d'appartements dans un
+immeuble collectif d'habitation. Détermination de cw en fonction de la zone
+climatique : ZONE CLIMATIQUE cw H1 10,5 H2 12 H3 14,5 Le besoin d'ECS est
+calculé de façon conventionnelle sur la base d'un profil d'occupation standard
+du bâtiment. 11.1. Surface habitable ≤ 27 m²11.1.1. Maison ou appartementBecs
+= 0,988 × (40 ― cw) × Sh (kWh)11.1.2. Immeuble de N appartements Becs = N ×
+0,988 × (40 ― cw) × Shmoy (kWh) 11.2. Surface habitable > 27 m²11.2.1. Maison
+ou appartementBecs = 0,0558 × (470,9 × ln(Sh) ― 1 075) × (40 ― cw) (kWh)
+11.2.2. Immeuble de N appartements Becs = N × 0,0558 × (470,9 × ln(Shmoy) ― 1
+075) × (40 ― cw) (kWh) 12\. Calcul de la consommation d'ECS Données d'entrée :
+Rendement de génération : Rg (sans dimension) Rendement de distribution : Rd
+(sans dimension) Rendement de stockage : Rs (sans dimension) Type
+d'installation d'ECS : avec ou sans solaire Type d'installation Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Cecs :
+consommation liée au système de production d'ECS (kWh PCI). Becs : besoin
+d'ECS (kWh). 12.1. Un seul système d'ECS avec solaireCecs = Becs × (1 ― Fecs)
+× Iecs Prodecs―sol = Becs × Fecs × Iecs Fecs : facteur de couverture solaire
+(voir annexe). Cecs : consommation liée au système principal de production
+d'ECS (kWh PCI). Prodchauf-sol : production d'ECS solaire (kWh PCI). 12.2.
+Deux systèmes d'ECS dans une maison ou un appartementCecsl = 0,5 × Becs ×
+Iecsl Cecs2 = 0,5 × Becs × Iecs213. Rendement de distribution de l'ECS Données
+d'entrée : Type d'installation Localisation de la production Configuration des
+logements Isolation du réseau collectif 13.1. Installation individuelle
+PRODUCTION EN VOLUME HABITABLE RENDEMENT DE DISTRIBUTION Rd Pièces alimentées
+contiguës Pièces alimentées non contiguës PRODUCTIONhors volume habitable
+Electrique classique 0,9 0,85 0,8 Electrique thermodynamique 0,95 0,9 0,85
+Autre type de chauffe-eau 0,92 0,87 0,82 Les pièces considérées sont les
+salles de bains et les cuisines. S'il existe plusieurs salles de bains en plus
+de la cuisine, il faut vérifier leur contiguïté verticale ou horizontale.
+13.2. Installation collective MAJORITÉ DES LOGEMENTS Rendement de distribution
+Rd Pièces alimentées contiguës Pièces alimentées non contiguës Réseau
+collectif non isolé 0,276 0,261 Réseau collectif isolé 0,552 0,522 14\.
+Rendement de stockage de l'ECS Données d'entrée : Volume des ballons Type de
+ballon Le scénario conventionnel considère une semaine de vacances en hiver et
+deux semaines en été, soit un total de 21 jours d'absence. La température de
+stockage de l'ECS dans les ballons est prise à 60 °C. 14.1. Pertes de stockage
+des ballons d'accumulation La présence d'un ballon de préparation de l'ECS est
+responsable de pertes de stockage : Vous pouvez consulter le tableau dans le
+JOn° 262 du 10/11/2012 texte numéro 9 Vs : le volume du ballon de stockage
+(L). S'il n'y a pas de stockage Qg,w = 0. 14.2. Pertes des ballons électriques
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Qg,w = 13,76 × Vs × Cr Qg,w : pertes de stockage (kWh). Vs : Volume de
+stockage d'ECS (L). Cr : Constante de refroidissement (Wh/L.K.J). 14.3.
+Rendement de stockage En cas de production instantanée (sans accumulation) :
+Rs = 1. Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Pour les ballons électriques recommandés : Rsballon_recommandé = 1,08
+× RSballon_existant 15\. Rendement de génération d'ECS Données d'entrée : Type
+de production Puissance nominale Rendements à pleine charge et à charge
+intermédiaire Pertes à l'arrêt Volume de stockage Isolation de la distribution
+Type de distribution Température de distribution Type d'alimentation Lorsqu'un
+système de production d'ECS est électrique, son rendement de génération Rg est
+pris égal à 1. 15.1. Générateurs à combustion Le scénario conventionnel pour
+la production d'ECS suppose une absence de consommation pendant 1 semaine en
+hiver et pendant 2 semaines en été. Il est donc considéré dans la suite de
+façon conventionnelle : ― nombre annuel d'heures de fonctionnement de l'ECS :
+1 720 h (5 heures par jour) ; ― nombre d'heures de vacances : 504 h ; ― les
+générateurs de production d'ECS ne sont pas maintenus en température. 15.1.1.
+Production d'ECS seule par chaudière gaz, fioul ou chauffe-eau gaz Le
+rendement conventionnel annuel moyen de génération d'ECS a pour expression :
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Becs : énergie annuelle à fournir par le générateur pour l'ECS (kWh). Pveil :
+puissance de la veilleuse (kW). QP0 : pertes à l'arrêt du générateur (kW). RPn
+: rendement à pleine charge du générateur. Pour un chauffe-eau gaz, les
+valeurs de Pveil, QP0 et RPn sont données dans le tableau suivant : Pn ≤ 10 kW
+Pn > 10 kW Ancienneté Rendement (PCI)RPn (%) QP0 en %de la puissancenominale
+Pn Rendement (PCI)RPn (%) QP0 en %de la puissancenominale Pn Puissance
+veilleuseen W (si veilleuse) Avant 1981 70 % 4 % 70 % 4 % 150 1981 ― 1989 75 %
+2 % 75 % 2 % 120 1990 ― 2000 81 % 1,2 % 82 % 1,2 % 120 Après 2000 (*) 82 % 1 %
+84 % 1 % 100 (*) Pour les recommandations, les valeurs de la base
+http://www.rt2012-chauffage.com/ peuvent aussi être utilisées. Pour les
+caractéristiques des autres générateurs, voir le paragraphe sur le rendement
+des générateurs à combustion. 15.1.2. Production par chaudière gaz, fioul ou
+bois Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 QP0 : pertes à l'arrêt de la chaudière (kW). RPn : rendement à 100 %
+de charge de la chaudière à récupérer au chapitre 10 « Rendement de génération
+des générateurs à combustion ». Becs : besoin de chauffage (kWh). 15.1.3.
+Accumulateur gaz Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Avec : Qg,w = 11 × Vs²/³ + 0,015 × Pn (kWh) Les
+caractéristiques par défaut peuvent être retrouvées dans les tableaux suivants
+: ANCIENNETÉ TYPE DE CHAUDIÈRE Qp0 EN % DE Pn Avant 1990 2 % 1990-2000
+Classique 1,2 % Après 2000 1 % 1996-2000 1 % Après 2000 Condensation 1 %
+ANCIENNETÉ TYPE RPn (RENDEMENT PCIà 100 % de charge Pveil(puissance de la
+veilleuse) W Avant 1990 81 % 200 1990 ― 2000 Classique 84 % 150 Après 2000 84
+% 150 1996 ― 2000 Après 2000 (*) A condensation 98 % NA 15.1.4. Chauffe-bain
+au gaz à production instantanée Le rendement de stockage est égal à 1. Pour un
+chauffe-bain sans veilleuse : Vous pouvez consulter le tableau dans le JOn°
+262 du 10/11/2012 texte numéro 9 Pour un chauffe-bain avec veilleuse : Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+15.2. Chauffe-eau thermodynamique à accumulation En présence d'un appoint
+électrique : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012
+texte numéro 9 Sans appoint électrique : Vous pouvez consulter le tableau dans
+le JOn° 262 du 10/11/2012 texte numéro 9 COP : coefficient de performance du
+chauffe-eau : ― chauffe-eau sur air extrait : COP = 2,4 ; ― chauffe-eau sur
+air extérieur : COP = 2,1. Cr : coefficient de refroidissement (Wh/L °C.jour)
+à calculer à partir du tableau présenté au paragraphe 14.2 « Pertes des
+ballons électriques ». Vs : volume de stockage du chauffe-eau (L). Rd :
+rendement de distribution. Pn : puissance nominale du chauffe-eau (W). Becs :
+besoin d'ECS (kWh). Cef : coefficient d'emplacement et de fonctionnement. CEF
+BALLON EN VOLUME HABITABLE BALLON HORS VOLUME HABITABLE Alimentation heure
+creuse 0,6 0,75 Alimentation permanente 0,9 1,1 Calcul de la puissance Pn des
+chauffe-eau thermodynamiques : Pn = Pecs COP Avec : COP : coefficient de
+performance du chauffe-eau thermodynamique (COP = 2,1 sur air extérieur et 2,4
+sur air extrait). Pecs : puissance calorifique du chauffe-eau (kW). Vous
+pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+15.3. Réseau de chaleur Les rendements de stockage et de génération sont
+remplacés par le rendement d'échange de la sous-station : ― si l'installation
+est isolée : Rs*Rg = 0.9 ; ― sinon : Rs*Rg = 0.75. 16\. Expression des
+consommations de refroidissement16.1. Cas des maisonsCclim = Rclim × Sclim
+Données d'entrée : Surface habitable (m²) : Sh Pourcentage de surface
+habitable climatisée : Zone climatique été Calcul de Sclim : (Sclim = × Sh (0
+≤ ≤ 1) Calcul de Rclim : Rclim Sclim < 150 m² Sclim ≥ 150 m² Zone Ea 2 4 Eb 3
+5 Ec 4 6 Ed 5 7 16.2. Cas des immeubles Données d'entrée : Surface habitable
+(m²) : Sh Pourcentage de surface habitable climatisée : Zone climatique été
+Type de climatisation Etage Cclim = Rclim × Sclim × CORclim (kWh PCS) Calcul
+de Sclim : (Sclim = × Sh (0 ≤ ≤ 1) Calcul de Rclim : Rclim AUTRE DERNIER ÉTAGE
+Zone Ea 1,5 2 Eb 2 3 Ec 3 4 Ed 4 5 Calcul de CORclim : Si refroidissement au
+gaz naturel : CORclim = 2.8 ; sinon CORclim = 1. Gaz naturel : Consommation
+PCS = 1.11*Consommation PCI. 17\. Prise en compte de la production d'énergie
+Production d'électricité par des capteurs photovoltaïques (Ppv) : Ppv = 100 ×
+Scapteurs (kWh/an). Production d'électricité par une micro-éolienne (Peo) :Peo
+= 2 000 (kWh/an). Production de chauffage et d'électricité par cogénération :
+― pour le chauffage, assimiler les rendements à une chaudière à condensation ;
+― pour l'électricité : Pco = Cch ― pour l'électricité : Pco = 8 Ces
+productions d'électricité spécifique peuvent être saisies directement si une
+étude plus précise a été effectuée. 18\. Traitement de configurations
+particulières18.1. DPE à l'immeuble équipé de plusieurs systèmesde chauffage
+ou d'ECS Pour un DPE réalisé sur un immeuble de surface habitable Sh et de N
+appartements pourvu de plusieurs types d'équipements individuels pour la
+production de chauffage ou d'ECS, il est possible de généraliser à l'immeuble
+la proportion que représente chaque type d'équipement dans un échantillon
+d'appartements représentatifs. La démarche est la suivante : Un échantillon
+représentatif d'appartements de l'immeuble est composé de : Appartements avec
+l'équipement Ei de production de chauffage ou d'ECS alimentant une surface Si.
+La proportion de chaque équipement Ei dans l'échantillon permet de déterminer
+après généralisation à l'immeuble la répartition des équipements sur tout le
+bâtiment, c'est-à-dire déterminer pour chaque équipement Ei le nombre Nj
+d'appartements qui sont alimentés. Ce nombre Nj est arrondi à l'entier le plus
+proche : Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte
+numéro 9 Avec : Ne : nombre d'appartements de l'échantillon. De même, les
+surfaces Shi associées à l'équipement Ei dans l'échantillon peuvent être
+généralisées à l'immeuble en appliquant leur proportion de surface à la
+surface totale de l'immeuble. La surface Shj obtenue est : Vous pouvez
+consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9 Avec : She
+: surface habitable de l'échantillon (m²). La répartition des équipements Ei
+sur l'immeuble est donc : Nj appartements avec l'équipement Ei de production
+de chauffage ou d'ECS alimentant une surface Sj. Pour chaque surface Sj le
+besoin d'ECS est calculé selon la méthode présentée au paragraphe 11 «
+Expression du besoin d'ECS » à la section relative à l'immeuble. 18.2.
+Comptage sur les installations collectivesen l'absence de DPE à l'immeuble
+Pour les générateurs autres qu'à combustion, le calcul à l'appartement est
+réalisé avec le générateur de l'immeuble. Pour les générateurs à combustion
+utilisés pour la production de chauffage ou d'ECS, le rendement étant
+dépendant de la puissance du générateur, la méthode consiste à affecter à
+l'appartement un générateur identique au générateur du bâtiment mais avec une
+puissance Pi telle que : Vous pouvez consulter le tableau dans le JOn° 262 du
+10/11/2012 texte numéro 9 Avec : Shi : surface de l'appartement (m²). Sh :
+surface de l'immeuble (m²). Pi : puissance du générateur virtuel alimentant
+l'appartement (kW). P : puissance du générateur alimentant l'immeuble (kW).
+Avec ce générateur virtuel, un calcul classique à l'appartement est réalisé.
+Dans ce cas, pour le chauffage Rd = 0,87 et pour l'ECS Rd = 0,522. 19\.
+Détermination des abonnements d'électricité19.1. Evaluation de la puissance
+souscrite PsPs = 2 + 0,025 × Sh + Pch Sh : surface habitable (m²). Ps :
+puissance souscrite (kVA). Pch : puissance électrique pour le chauffage (kW).
+Vous pouvez consulter le tableau dans le JOn° 262 du 10/11/2012 texte numéro 9
+Avec : GV : déperditions du bâtiment (W/K). Rg : rendement de génération ou
+Cop du générateur électrique. Re : rendement d'émission des émetteurs. Rr :
+rendement de régulation de l'installation. Rd : rendement de distribution de
+l'installation. 19.2. Tarif des énergies L'abonnement double tarif sera retenu
+en présence d'un équipement électrique à accumulation pour le chauffage et/ou
+pour l'ECS. Dans ce cas, la consommation de cet équipement sera prise
+uniquement en heure creuse. Vous pouvez consulter le tableau dans le JOn° 262
+du 10/11/2012 texte numéro 9 20\. Annexes20.1. Fecs pour une maison avec ECS
+solaire seule Une installation ancienne est une installation de plus de 5 ans.
+DÉPARTEMENT ANCIENNE RÉCENTE 01 - Ain 51,2 65,3 02 - Aisne 48 61,8 03 - Allier
+51,8 66,4 04 - Alpes-de-Haute-Provence 63 78,9 05 - Hautes-Alpes 57,7 74,4 06
+- Alpes-Maritimes 65,7 82,2 07 - Ardèche 60,4 75,6 08 - Ardennes 48 61,8 09 -
+Ariège 60 74,6 10 - Aube 50 64,2 11 - Aude 60 74,6 12 - Aveyron 57,1 73,1 13 -
+Bouches-du-Rhône 64,6 80,4 14 - Calvados 50 65 15 - Cantal 53,7 69,2 16 -
+Charente 58,7 74,3 17 - Charente-Maritime 58,7 74,3 18 - Cher 51,7 66,2 19 -
+Corrèze 53,9 69,5 2A - Corse-du-Sud 65,9 81,8 2B - Haute-Corse 65,5 81,8 21 -
+Côte-d'Or 50,8 65 22 - Côtes-d'Armor 50,9 66 23 - Creuse 53,9 69,5 24 -
+Dordogne 58,8 73,5 25 - Doubs 50,9 65,2 26 - Drôme 60,4 75,6 27 - Eure 48,6
+62,7 28 - Eure-et-Loir 50,5 64,9 29 - Finistère 50,4 65,5 30 - Gard 63,1 78,8
+31 - Haute-Garonne 58,1 73,7 32 - Gers 58,1 73,7 33 - Gironde 58,8 73,5 34 -
+Hérault 63,4 79,5 35 - Ille-et-Vilaine 51,8 66,9 36 - Indre 51,7 66,2 37 -
+Indre-et-Loire 52 66,5 38 - Isère 54,5 68,9 39 - Jura 50,9 65,2 40 - Landes
+57,1 72,9 41 - Loir-et-Cher 52 66,5 42 - Loire 53,5 67,8 43 - Haute-Loire 53,7
+69,2 44 - Loire-Atlantique 53,4 68,7 45 - Loiret 50,5 64,9 46 - Lot 56 71,1 47
+- Lot-et-Garonne 57,3 72,5 48 - Lozère 57,1 73,1 49 - Maine-et-Loire 53,4 68,7
+50 - Manche 50 65 51 - Marne 49,7 64,1 52 - Haute-Marne 50 64,2 53 - Mayenne
+51,8 66,9 54 - Meurthe-et-Moselle 48,9 62,9 55 - Meuse 49,7 64,1 56 - Morbihan
+51,8 66,9 57 - Moselle 48,8 62,4 58 - Nièvre 51 65,6 59 - Nord 45,7 59,1 60 -
+Oise 48,5 62,7 61 - Orne 50 65 62 - Pas-de-Calais 45,7 59,1 63 - Puy-de-Dôme
+53 68,2 64 - Pyrénées-Atlantiques 58 73,7 65 - Hautes-Pyrénées 58,1 73,7 66 -
+Pyrénées-Orientales 61,9 80,6 67 - Bas-Rhin 49,1 62,8 68 - Haut-Rhin 50 64,2
+69 - Rhône 53,5 67,8 70 - Haute-Saône 50,9 65,2 71 - Saône-et-Loire 52,8 67 72
+- Sarthe 51,8 66,5 73 - Savoie 54,5 68,9 74 - Haute-Savoie 51,2 65,3 75 -
+Paris 49,5 63,9 76 - Seine-Maritime 48,6 62,7 77 - Seine-et-Marne 49,5 63,9 78
+- Yvelines 49,5 63,9 79 - Deux-Sèvres 58,7 74,3 80 - Somme 48,5 62,7 81 - Tarn
+58,1 73,7 82 - Tarn-et-Garonne 58,1 73,7 83 - Var 67,2 83,4 84 - Vaucluse 63
+78,9 85 - Vendée 53,4 68,7 86 - Vienne 54,7 69,9 87 - Haute-Vienne 53,9 69,5
+88 - Vosges 50 64,2 89 - Yonne 50,3 64,6 90 - Territoire de Belfort 50 64,2 91
+- Essonne 49,5 63,9 92 - Hauts-de-Seine 49,5 63,9 93 - Seine-Saint-Denis 49,5
+63,9 94 - Val-de-Marne 49,5 63,9 95 - Val-d'Oise 49,5 63,9 Fecs peut être
+inséré directement si un calcul plus précis a été fait. 20.2. Fecs pour une
+maison avec chauffage et ECS solaires DÉPARTEMENT Fecs (%) 01 - Ain 89 02 -
+Aisne 86 03 - Allier 90 04 - Alpes-de-Haute-Provence 96 05 - Hautes-Alpes 95
+06 - Alpes-Maritimes 98 07 - Ardèche 96 08 - Ardennes 86 09 - Ariège 96 10 -
+Aube 88 11 - Aude 96 12 - Aveyron 94 13 - Bouches-du-Rhône 96 14 - Calvados 89
+15 - Cantal 91 16 - Charente 94 17 - Charente-Maritime 94 18 - Cher 89 19 -
+Corrèze 91 2A - Corse-du-Sud 98 2B - Haute-Corse 98 21 - Côte-d'Or 88 22 -
+Côtes-d'Armor 89 23 - Creuse 91 24 - Dordogne 94 25 - Doubs 89 26 - Drôme 96
+27 - Eure 87 28 - Eure-et-Loir 89 29 - Finistère 90 30 - Gard 97 31 - Haute-
+Garonne 94 32 - Gers 94 33 - Gironde 94 34 - Hérault 97 35 - Ille-et-Vilaine
+90 36 - Indre 89 37 - Indre-et-Loire 89 38 - Isère 92 39 - Jura 89 40 - Landes
+96 41 - Loir-et-Cher 89 42 - Loire 90 43 - Haute-Loire 91 44 - Loire-
+Atlantique 92 45 - Loiret 89 46 - Lot 93 47 - Lot-et-Garonne 94 48 - Lozère 94
+49 - Maine-et-Loire 92 50 - Manche 89 51 - Marne 86 52 - Haute-Marne 88 53 -
+Mayenne 90 54 - Meurthe-et-Moselle 87 55 - Meuse 86 56 - Morbihan 90 57 -
+Moselle 86 58 - Nièvre 89 59 - Nord 86 60 - Oise 87 61 - Orne 89 62 - Pas-de-
+Calais 86 63 - Puy-de-Dôme 91 64 - Pyrénées-Atlantiques 98 65 - Hautes-
+Pyrénées 94 66 - Pyrénées-Orientales 99 67 - Bas-Rhin 86 68 - Haut-Rhin 88 69
+- Rhône 90 70 - Haute-Saône 89 71 - Saône-et-Loire 89 72 - Sarthe 89 73 -
+Savoie 92 74 - Haute-Savoie 89 75 - Paris 87 76 - Seine-Maritime 87 77 -
+Seine-et-Marne 87 78 - Yvelines 87 79 - Deux-Sèvres 99 80 - Somme 87 81 - Tarn
+94 82 - Tarn-et-Garonne 94 83 - Var 100 84 - Vaucluse 96 85 - Vendée 92 86 -
+Vienne 91 87 - Haute-Vienne 91 88 - Vosges 88 89 - Yonne 89 90 - Territoire de
+Belfort 88 91 - Essonne 87 92 - Hauts-de-Seine 87 93 - Seine-Saint-Denis 87 94
+- Val-de-Marne 87 95 - Val-d'Oise 87 Fecs peut être inséré directement si un
+calcul plus précis a été fait. 20.3. Fch pour une maison avec chauffage
+solaire seul DÉPARTEMENT Fch (%) 01 - Ain 26 02 - Aisne 24,3 03 - Allier 29 04
+- Alpes-de-Haute-Provence 42,4 05 - Hautes-Alpes 41,5 06 - Alpes-Maritimes 67
+07 - Ardèche 36,9 08 - Ardennes 24,3 09 - Ariège 40 10 - Aube 22,4 11 - Aude
+40 12 - Aveyron 36 13 - Bouches-du-Rhône 44,7 14 - Calvados 33,4 15 - Cantal
+29,2 16 - Charente 44 17 - Charente-Maritime 44 18 - Cher 25,5 19 - Corrèze
+29,8 2A - Corse-du-Sud 52 2B - Haute-Corse 52 21 - Côte-d'Or 22,4 22 -
+Côtes-d'Armor 35 23 - Creuse 29,8 24 - Dordogne 37,8 25 - Doubs 23,8 26 -
+Drôme 36,9 27 - Eure 27 28 - Eure-et-Loir 25,1 29 - Finistère 36,3 30 - Gard
+51 31 - Haute-Garonne 33,3 32 - Gers 33,3 33 - Gironde 37,8 34 - Hérault 48,3
+35 - Ille-et-Vilaine 32,9 36 - Indre 25,5 37 - Indre-et-Loire 26,1 38 - Isère
+26,1 39 - Jura 23,8 40 - Landes 39,1 41 - Loir-et-Cher 26,1 42 - Loire 25,2 43
+- Haute-Loire 29,2 44 - Loire-Atlantique 35 45 - Loiret 25,1 46 - Lot 33 47 -
+Lot-et-Garonne 33,7 48 - Lozère 36 49 - Maine-et-Loire 35 50 - Manche 33,4 51
+- Marne 21,5 52 - Haute-Marne 22,4 53 - Mayenne 32,9 54 - Meurthe-et-Moselle
+20,8 55 - Meuse 21,5 56 - Morbihan 32,9 57 - Moselle 18,6 58 - Nièvre 26 59 -
+Nord 22,5 60 - Oise 23,4 61 - Orne 33,4 62 - Pas-de-Calais 22,5 63 - Puy-de-
+Dôme 29,2 64 - Pyrénées-Atlantiques 67,7 65 - Hautes-Pyrénées 33,3 66 -
+Pyrénées-Orientales 48,3 67 - Bas-Rhin 18,6 68 - Haut-Rhin 21,4 69 - Rhône
+25,2 70 - Haute-Saône 23,8 71 - Saône-et-Loire 24,4 72 - Sarthe 27,9 73 -
+Savoie 29,7 74 - Haute-Savoie 26 75 - Paris 24 76 - Seine-Maritime 27 77 -
+Seine-et-Marne 24 78 - Yvelines 24 79 - Deux-Sèvres 44 80 - Somme 23 81 - Tarn
+33,3 82 - Tarn-et-Garonne 33,3 83 - Var 68,4 84 - Vaucluse 42,4 85 - Vendée 35
+86 - Vienne 29,5 87 - Haute-Vienne 29,8 88 - Vosges 22,4 89 - Yonne 24,3 90 -
+Territoire de Belfort 21,4 91 - Essonne 24 92 - Hauts-de-Seine 24 93 - Seine-
+Saint-Denis 24 94 - Val-de-Marne 24 95 - Val-d'Oise 24 Fch peut être inséré
+directement si un calcul plus précis a été fait. 20.4. Fecs pour un immeuble
+avec ECS solaire seule Une installation ancienne est une installation de plus
+de 5 ans. DÉPARTEMENT ANCIENNE RÉCENTE 01 - Ain 30 42 02 - Aisne 26 38 03 -
+Allier 32 45 04 - Alpes-de-Haute-Provence 39 58 05 - Hautes-Alpes 43 60 06 -
+Alpes-Maritimes 41 59 07 - Ardèche 39 58 08 - Ardennes 26 38 09 - Ariège 34 50
+10 - Aube 28 40 11 - Aude 34 50 12 - Aveyron 35 49 13 - Bouches-du-Rhône 43 62
+14 - Calvados 28 40 15 - Cantal 32 47 16 - Charente 35 51 17 - Charente-
+Maritime 35 51 18 - Cher 29 42 19 - Corrèze 31 46 2A - Corse-du-Sud 42 60 2B -
+Haute-Corse 42 60 21 - Côte-d'Or 30 42 22 - Côtes-d'Armor 28 41 23 - Creuse 31
+46 24 - Dordogne 34 49 25 - Doubs 28 41 26 - Drôme 39 58 27 - Eure 26 38 28 -
+Eure-et-Loir 28 42 29 - Finistère 27 40 30 - Gard 40 58 31 - Haute-Garonne 35
+51 32 - Gers 35 51 33 - Gironde 34 49 34 - Hérault 38 57 35 - Ille-et-Vilaine
+28 41 36 - Indre 29 42 37 - Indre-et-Loire 32 47 38 - Isère 31 44 39 - Jura 28
+41 40 - Landes 33 49 41 - Loir-et-Cher 32 47 42 - Loire 29 43 43 - Haute-Loire
+32 47 44 - Loire-Atlantique 30 45 45 - Loiret 28 42 46 - Lot 33 48 47 - Lot-
+et-Garonne 34 49 48 - Lozère 35 49 49 - Maine-et-Loire 30 45 50 - Manche 28 40
+51 - Marne 28 40 52 - Haute-Marne 28 40 53 - Mayenne 28 41 54 - Meurthe-et-
+Moselle 26 39 55 - Meuse 28 40 56 - Morbihan 28 41 57 - Moselle 26 38 58 -
+Nièvre 28 42 59 - Nord 24 36 60 - Oise 26 38 61 - Orne 28 40 62 - Pas-de-
+Calais 24 36 63 - Puy-de-Dôme 32 45 64 - Pyrénées-Atlantiques 33 49 65 -
+Hautes-Pyrénées 35 51 66 - Pyrénées-Orientales 40 58 67 - Bas-Rhin 26 38 68 -
+Haut-Rhin 27 38 69 - Rhône 29 43 70 - Haute-Saône 28 41 71 - Saône-et-Loire 29
+43 72 - Sarthe 32 46 73 - Savoie 29 43 74 - Haute-Savoie 30 42 75 - Paris 26
+38 76 - Seine-Maritime 26 38 77 - Seine-et-Marne 26 38 78 - Yvelines 26 38 79
+- Deux-Sèvres 35 51 80 - Somme 25 37 81 - Tarn 35 51 82 - Tarn-et-Garonne 35
+51 83 - Var 42 62 84 - Vaucluse 39 58 85 - Vendée 30 45 86 - Vienne 33 48 87 -
+Haute-Vienne 31 46 88 - Vosges 28 40 89 - Yonne 29 43 90 - Territoire de
+Belfort 27 38 91 - Essonne 26 38 92 - Hauts-de-Seine 26 38 93 - Seine-Saint-
+Denis 26 38 94 - Val-de-Marne 26 38 95 - Val-d'Oise 26 38 Fecs peut être
+inséré directement si un calcul plus précis a été fait. Le cas des immeubles
+avec chauffage et ECS solaires n'est pas traité. Fait le 17 octobre 2012. La
+ministre de l'égalité des territoires et du logement, Pour la ministre et par
+délégation : Le directeur de l'habitat, de l'urbanisme et des paysages, E.
+Crépon La ministre de l'écologie, du développement durable et de l'énergie,
+Pour la ministre et par délégation : Le directeur de l'habitat, de l'urbanisme
+et des paysages, E. Crépon Le directeur général de l'énergie et du climat,
+P.-F. Chevet Télécharger le document en RTF (poids < 1Mo) Extrait du Journal
+officiel électronique authentifié (format: pdf, poids : 8.11 Mo) Télécharger
+le document en RDF (format: rdf, poids < 1 Mo) Masquer le panneau de
+navigation Imprimer À propos de l'ordre juridique français Licences Quoi de
+neuf sur le site ? À propos du site Plan du site Accessibilité Aide générale
+Nous écrire Établir un lien
+

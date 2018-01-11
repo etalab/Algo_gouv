@@ -1,0 +1,385 @@
+Délibération du 30 octobre 2014 portant décision sur les missions des
+gestionnaires de réseaux d'électricité relative aux tarifs à effacement de
+type Tempo | Legifrance Legifrance - Le service public de l'accès au droit
+Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération du 30 octobre 2014
+portant décision sur les missions des gestionnaires de réseaux d'électricité
+relative aux tarifs à effacement de type Tempo Délibération du 30 octobre 2014
+portant décision sur les missions des gestionnaires de réseaux d'électricité
+relative aux tarifs à effacement de type Tempo Masquer le panneau de
+navigation Imprimer Informations sur ce texte JORF n°0254 du 1 novembre 2014
+texte n° 124 Délibération du 30 octobre 2014 portant décision sur les missions
+des gestionnaires de réseaux d'électricité relative aux tarifs à effacement de
+type Tempo NOR: CREE1425924X ELI: Non disponible Participaient à la séance :
+Philippe de LADOUCETTE, président, Olivier CHALLAN BELVAL, Hélène GASSIN,
+Jean-Pierre SOTURA et Michel THIOLLIÈRE, commissaires.En application des
+dispositions de l'article L. 134-1 (1° et 3°) du code de l'énergie, « dans le
+respect des dispositions législatives et réglementaires, la Commission de
+régulation de l'énergie précise, par décision publiée au Journal officiel de
+la République française, les règles concernant :1° Les missions des
+gestionnaires de réseaux publics de transport et de distribution d'électricité
+en matière d'exploitation et de développement des réseaux ;(…)3° Les
+conditions d'accès aux réseaux et de leur utilisation, y compris la
+méthodologie de calcul des tarifs d'utilisation des réseaux et les évolutions
+de ces tarifs ».Le Conseil supérieur de l'énergie, consulté par la CRE sur le
+projet de décision, a rendu son avis le 23 octobre 2014. 1\. Contexte Les
+fournisseurs d'électricité historiques (EDF et les entreprises locales de
+distribution [ELD]) proposent actuellement à leurs clients des tarifs
+réglementés de vente d'électricité comportant des options dites à effacement :
+les options tarifaires « EJP » (Effacement Jour de Pointe) et « Tempo ». Ces
+offres se caractérisent par des périodes, signalées à l'avance au consommateur
+(généralement la veille pour le lendemain), au cours desquelles le prix du kWh
+est plus élevé que le reste de l'année, le consommateur étant ainsi incité à
+limiter sa consommation. Les fournisseurs historiques déterminent ces périodes
+en application des dispositions de l'arrêté du 26 juillet 2013 (1). Le
+déclenchement de ces périodes se traduit par l'envoi d'un ordre au compteur du
+consommateur par le biais du signal TCFM (« Télécommande centralisée à
+fréquence musicale ») afin que ce compteur décompte séparément l'énergie
+consommée pendant les différentes périodes. Les gestionnaires de réseau de
+distribution (GRD) sont responsables de la transmission du signal jusqu'aux
+compteurs des clients concernés.En 2013, le ministre de l'écologie, du
+développement durable et de l'énergie a annoncé le lancement d'un groupe de
+travail visant à relancer les tarifs à effacement. Dans ce cadre, le ministre
+chargé de l'énergie a adressé à la Commission de régulation de l'énergie
+(CRE), le 26 décembre 2013, un courrier sollicitant le lancement des travaux
+sur les tarifs à effacement, ces derniers visant, pour l'été 2014, à : \-
+relancer la souscription de tarifs à effacement afin de contribuer à la
+maîtrise de la pointe électrique et permettre aux ménages qui adaptent leur
+comportement de réaliser des économies ;- permettre aux fournisseurs
+alternatifs de proposer de telles offres à leurs clients. Ce groupe de travail
+a été créé dans le cadre des groupes de concertation pilotés par la CRE en
+2014, ainsi qu'annoncé dans la délibération du 30 janvier 2014 portant bilan
+et orientations pour les travaux des instances de concertation relatifs au
+fonctionnement des marchés de détail de l'électricité et du gaz naturel.Cette
+délibération précise en effet que : « Les travaux consisteront à examiner les
+modalités pratiques d'activation des jours d'effacement par RTE
+(responsabilité éventuellement à terme partagée avec les gestionnaires de
+réseaux de distribution) et devront conduire à proposer des règles et
+procédures adéquates permettant à tous les fournisseurs de proposer des offres
+à effacement à partir de l'été 2014. » 1.1. Rappels concernant les offres à
+effacement actuellement proposées par les fournisseurs historiques
+d'électricité L'option tarifaire « EJP », actuellement en extinction pour les
+clients basse tension dont la puissance souscrite est inférieure ou égale à 36
+kVA, se caractérise par une pointe mobile d'une durée de 18 heures, allant de
+7 heures du matin à 1 heure du matin le lendemain et qui est déclenchée vingt-
+deux jours par an, entre le 1 er novembre et le 31 mars. La grille tarifaire «
+EJP » pour les clients basse tension se caractérise par deux prix de l'énergie
+: un pour les heures normales (réduit par rapport à celui de l'option
+tarifaire « BASE ») et un pour les heures de pointe mobile (près de cinq fois
+plus cher que le prix des heures normales).Le tarif « Tempo » est la
+combinaison d'un tarif horosaisonnier et d'un tarif pointe mobile pour les
+clients résidentiels de 9 à 36 kVA (option en extinction pour le tarif bleu
+pro). Ce tarif distingue 3 types de jours : 22 jours rouges, 43 jours blancs
+et 300 jours bleus, le prix de l'électricité étant maximal pour les jours
+rouges et minimal pour les jours bleus. Une année « Tempo » débute au 1er
+septembre. Les jours rouges sont activés entre le 1er novembre et le 31 mars,
+sauf le week-end et les jours fériés nationaux, dans la limite de 5 jours
+rouges consécutifs. Les jours blancs peuvent être activés toute l'année, sauf
+le dimanche. Au sein de chaque jour on distingue deux périodes tarifaires : 8
+heures d'heures creuses (22 heures-6 heures) et 16 heures d'heures
+pleines.Pour les clients ayant souscrit ces offres, les consommations sur les
+différentes plages horosaisonnières sont mesurées par des compteurs à
+plusieurs cadrans installés au préalable et pilotés par le signal TCFM, plus
+généralement utilisé par les gestionnaires de réseau de distribution pour la
+transmission des signaux tarifaires et ordres de comptage. Ce signal est
+transmis simultanément sur l'ensemble du réseau. Sur le territoire des
+entreprises locales de distributions (ELD), le signal TCFM utilisé est parfois
+caractérisé par une fréquence différente de celle utilisée sur le périmètre
+ERDF (175 Hz) mais sa finalité reste la même. 1.2. Synthèse des échanges issus
+de la concertation au cours du premier semestre 2014 Le groupe de concertation
+portant sur les tarifs à effacement s'est réuni quatre fois entre mars et
+juillet 2014. Les échanges ont permis de fixer les modalités permettant la
+relance des tarifs à effacement à l'hiver 2014 et d'identifier les points que
+cette concertation devra instruire à moyen terme.Au cours de ces réunions
+étaient représentés : \- cinq fournisseurs d'électricité (EDF, Direct Energie,
+GDF Suez, EON, ENEL) ;- les gestionnaires de réseau, ELD et associations de
+gestionnaires de réseaux d'ELD (RTE, ERDF, ADEef, Uneleg, Anroc, FNSicae) ;-
+trois associations de consommateurs (AFL 75, CNAFC, Familles de France) et une
+association professionnelle (UFE) ;- les pouvoirs publics (direction générale
+de l'énergie et du climat, médiateur national de l'énergie, Institut national
+de la consommation). Périmètre de la relance Compte tenu des délais de mise en
+œuvre des évolutions et d'un calendrier très contraint, les services de la CRE
+ont limité les modalités de la concertation du premier semestre 2014 au
+périmètre des offres de type Tempo pour le segment résidentiel. Plusieurs
+fournisseurs ont néanmoins rappelé la nécessité d'étendre la relance des
+tarifs à effacement de type « Tempo » aux clients professionnels et
+industriels et aux offres de type « EJP ». Caractéristiques des offres à
+effacement Les caractéristiques du nouveau tarif réglementé de vente de type «
+Tempo » envisagé par la direction générale de l'énergie et du climat (DGEC)
+ont été présentées dans le cadre de la concertation. Cette option tarifaire
+comprendra 22 jours rouges et 343 jours bleus le reste de l'année. Pour ces
+futurs tarifs, l'activation des jours blancs n'est dès lors plus nécessaire.
+Toutefois, le déclenchement des jours blancs devra être maintenu pour l'option
+« Tempo » historique, même si celle-ci est mise en extinction au lancement du
+nouveau tarif réglementé de vente « Tempo ».Le nombre de jours rouges ainsi
+que les horaires des périodes d'effacement de ce nouveau tarif seront
+identiques à l'offre « Tempo » historique.Deux fournisseurs ont déclaré être
+favorables à une convergence des horaires des périodes d'effacement des jours
+rouges et blancs avec celles de la période PP1 du mécanisme de capacité. Une
+telle évolution sera traitée ultérieurement, dans une seconde phase de la
+concertation. Critères de sélection des jours d'effacement RTE a présenté aux
+acteurs plusieurs propositions pour sélectionner les jours rouges et
+blancs.Pour les jours rouges, les propositions sont les suivantes : \- critère
+« consommation nationale brute », information disponible à 10 h 30 en J-1 ;-
+critère « consommation nationale nette » (production fatale déduite),
+information disponible à 10 h 30 en J-1 ;- critère mixte « consommation
+nationale brute »/« tension du système », information disponible à 10 h 30
+pour les jours tirés selon le critère consommation, 19 heures pour les autres
+;- critère mixte « consommation nationale nette »/« tension du système »,
+information disponible à 10 h 30 pour les jours tirés selon le critère
+consommation, 19 heures pour les autres. Pour les jours blancs, RTE a proposé
+les critères de sélection suivants : \- critère « consommation nationale nette
+» (production fatale déduite), information disponible à 10 h 30 en J-1 ;-
+critère mixte « consommation nationale nette »/« tension du système »,
+information disponible à 10 h 30 pour les jours tirés selon le critère
+consommation nette, 19 heures pour les autres ;- exclusion des jours blancs de
+la gouvernance confiée à RTE et maintien du choix des jours blancs par EDF ;
+cette solution a été exclue dès le début de la concertation car le signal TCFM
+sera utilisable par l'ensemble des fournisseurs, y compris pour le
+déclenchement des jours blancs. Il n'est donc pas envisageable de laisser le
+choix de ces jours à la main d'un fournisseur. La majorité des fournisseurs
+est favorable à l'utilisation de critères économiques, fondés sur les prix de
+marchés européens, sans être opposée à l'utilisation d'un critère de
+consommation nette. Un fournisseur est favorable à l'utilisation de critères
+économiques mais juge les prix des marchés européens inadaptés ; il se déclare
+par conséquent favorable à l'utilisation d'un critère de consommation
+nette.Les fournisseurs historiques ont attiré l'attention des acteurs sur la
+perte de valorisation des effacements qui résultera du changement de critère
+de détermination des jours d'effacement. Modalités d'information des acteurs
+en J-1 EDF et les ELD insistent sur la nécessité de mettre à disposition
+l'information sur la nature du jour suivant le plus tôt possible. Les
+représentants des ELD déclarent qu'il est indispensable de choisir des
+critères de déclenchement compatibles avec une transmission de cette
+information avant 15 h 30 la veille. EDF est favorable à un signalement en J-1
+dès 8 heures.RTE est favorable à l'utilisation d'un mode de communication
+simple et unique afin d'en faciliter la gestion. RTE a proposé de diffuser
+l'information à caractère engageant sur la nature du jour suivant par le biais
+d'une page internet publique, complétée par l'envoi d'un courriel à caractère
+informatif à une liste de diffusion.A la demande de plusieurs fournisseurs,
+RTE a accepté de proposer, lorsque les prévisions de consommation du jour le
+permettront, des informations non engageantes sur la nature probable du jour
+suivant dès 8 heures en J-1 sur son site internet. La teneur précise des
+informations qui seront diffusées sera fixée après échanges avec les
+fournisseurs intéressés. Modalités d'interaction entre GRD et fournisseurs
+ERDF a indiqué que son système d'information évoluera afin que tous les
+fournisseurs puissent proposer des offres sur des structures de comptage à six
+cadrans à compter du 1er août 2014.Les représentants des ELD indiquent que les
+ELD mettront en place des solutions provisoires d'échange de données pour
+permettre la proposition d'offres à six postes horosaisonniers par des
+fournisseurs alternatifs sur leurs territoires. Suites de la concertation
+Plusieurs points ont été soulevés par les acteurs et feront l'objet de travaux
+ultérieurs à partir de septembre 2014 : \- réalisation d'un retour
+d'expérience (REX) de la gouvernance des jours d'effacement Tempo pour l'année
+2014-2015 ;- mise en place d'un comité de suivi du dispositif chargé
+d'analyser le REX et de convenir des évolutions éventuelles à mener sur la
+structure des offres et les règles de déclenchement ;- ouverture aux
+fournisseurs alternatifs des offres à effacement de type Tempo proposées aux
+professionnels et des offres de type EJP ;- évolution du dispositif avec le
+déploiement de Linky. Points évoqués mais non traités en concertation En
+parallèle de cette concertation, le sujet du traitement des offres à
+effacement en Recoflux a été traité dans le cadre du comité de gouvernance du
+profilage (CGP) présidé par ERDF afin d'identifier les évolutions nécessaires
+à l'intégration des nouvelles offres à effacement dans la reconstitution des
+flux.A l'heure actuelle, les clients Tempo résidentiels sont profilés. Le
+profil utilisé est le profil RES3, comportant six sous-profils correspondant
+aux jours bleus, blancs et rouges. Les offres qui devraient voir le jour pour
+l'hiver 2014 seront profilées en utilisant le profil RES3 dans un premier
+temps. Une fois les volumes de souscription aux nouvelles offres Tempo
+suffisants atteints, un nouveau profil pourra être créé pour ces offres.En
+outre, la CRE poursuivra ses travaux sur les conséquences de la mise en œuvre
+du dispositif notamment dans ses aspects économiques. 2\. Propositions issues
+de la concertation relatives à la gouvernance du signal 175 Hz pour les offres
+à effacement et analyse de la CRE2.1. Gouvernance du dispositif par le
+gestionnaire du réseau de Transport RTE La concertation a été menée en
+retenant le principe d'une gouvernance du signal TCFM pour les offres de type
+Tempo confiée à RTE, conformément au principe énoncé dans la délibération du
+30 janvier 2014 portant bilan et orientations pour les travaux des instances
+de concertation relatifs au fonctionnement des marchés de détail de
+l'électricité et du gaz naturel. Cette gouvernance s'applique pour l'ensemble
+des offres à effacement de type Tempo proposées sur le territoire d'ERDF et
+des ELD à compter du 1er novembre 2014.Compte tenu des délais, seules les
+évolutions visant à ouvrir les offres Tempo pour les particuliers aux
+fournisseurs alternatifs seront menées à temps pour une mise en œuvre
+effective à l'hiver 2014-2015. Il n'est pas envisageable de mener les
+évolutions relatives aux systèmes d'information nécessaires à l'ouverture du
+signal « EJP » à l'ensemble des fournisseurs pour cette échéance. De même,
+l'ouverture du signal pour le pilotage des offres « Tempo » sur le segment des
+professionnels n'est pas envisageable pour l'hiver 2014.RTE, en tant que
+gestionnaire du réseau de transport sur l'ensemble du territoire et acteur
+indépendant du marché de l'électricité, pourrait exercer la gouvernance du
+signal TCFM pour les offres de type Tempo, comme proposé dans le rapport
+Poignant-Sido d'avril 2010 et dans l'avis de l'Autorité de la concurrence du
+20 décembre 2013 relatif aux effacements. Ce choix facilite par ailleurs la
+cohérence du mécanisme de déclenchement des jours d'effacement avec le
+mécanisme de capacité qui permettra, à terme, une valorisation complémentaire
+des effacements de consommation.Cette mission s'inscrit en outre dans le cadre
+des dispositions de l'article L. 341-4 du code de l'énergie, énonçant que : «
+Les gestionnaires des réseaux publics de transport et de distribution
+d'électricité mettent en œuvre des dispositifs permettant aux fournisseurs de
+proposer à leurs clients des prix différents suivant les périodes de l'année
+ou de la journée et incitant les utilisateurs des réseaux à limiter leur
+consommation pendant les périodes où la consommation de l'ensemble des
+consommateurs est la plus élevée. »Dès lors, RTE sélectionnera les jours
+d'effacement rouges et blancs dans le respect des caractéristiques explicitées
+ci-après et issues de la concertation à compter du 1er novembre 2014.RTE
+mettra en œuvre ces critères sur la base d'une méthode stochastique de gestion
+des stocks en univers incertain. La CRE pourra, le cas échéant, contrôler
+l'algorithme utilisé afin de vérifier le respect de ces critères. Les acteurs
+fixeront en concertation les éléments méthodologiques relatifs à l'algorithme
+devant faire l'objet d'un partage auprès des fournisseurs. Règles et critères
+de sélection des jours d'effacement La concertation a permis de fixer les
+critères de détermination des jours d'effacement rouges et blancs. Ils seront
+sélectionnés selon un critère de consommation nette (i.e. consommation
+nationale de laquelle est déduite la production d'électricité fatale). Ce
+critère répond à l'objectif fixé par les dispositions de l'article L. 341-4 du
+code de l'énergie,lesquelles précisent que : « Les gestionnaires des réseaux
+publics de transport et de distribution d'électricité mettent en œuvre des
+dispositifs permettant aux fournisseurs de proposer à leurs clients des prix
+différents suivant les périodes de l'année ou de la journée et incitant les
+utilisateurs des réseaux à limiter leur consommation pendant les périodes où
+la consommation de l'ensemble des consommateurs est la plus élevée . » La
+proposition d'utiliser des critères économiques pour le déclenchement des
+jours d'effacement n'a pas été retenue car jugée incompatible avec les
+missions du gestionnaire de réseau de transport.Par ailleurs, les tarifs
+réglementés de vente « Tempo » seront maintenus pour l'année « Tempo »
+2014-2015 telle que définie ci-après. Du fait de l'unicité du signal, le
+nombre de jours rouges et blancs à activer devra être identique à celui prévu
+dans les tarifs réglementés de vente tempo, soit 22 jours rouges et 43 jours
+blancs.Plusieurs règles de déclenchement des jours d'effacement existant pour
+l'option « Tempo » actuelle seront également maintenues : \- les jours rouges
+sont tirés entre le 1er novembre et le 31 mars ;- les jours rouges ne peuvent
+être tirés le week-end et les jours fériés nationaux ;- un maximum de 5 jours
+rouges consécutifs peut être tiré ;- les jours blancs peuvent être tirés toute
+l'année, sauf le dimanche. Modalités spécifiques de gouvernance du signal pour
+l'année Tempo 2014-2015 Une année « Tempo » s'étend du 1er septembre d'une
+année au 31 août de l'année suivante. L'année « Tempo » 2014-2015 sera donc
+marquée par un transfert de la gouvernance du signal d'effacement des
+fournisseurs historiques vers RTE en cours d'année (au 1er novembre 2014). Les
+fournisseurs d'électricité historiques (EDF et les ELD) devront convenir d'un
+nombre identique de jours blancs à déclencher sur cette période selon les
+modalités de leur choix, afin que les caractéristiques de l'offre « Tempo »
+(22 jours rouges et 43 jours blancs) puissent être respectées uniformément sur
+le territoire. RTE sélectionnera les jours blancs restant à tirer pour l'année
+en cours entre le 1er novembre 2014 et le 31 août 2015. 2.2. Information des
+acteurs sur la nature du jour suivant par RTE La couleur d'un jour
+d'effacement sera fixée en J-1 et diffusée aux acteurs à 10 h 30 en J-1 par
+RTE. Cet horaire de signalement est cohérent avec les attentes exprimées par
+les acteurs souhaitant disposer de l'information le plus tôt possible, les
+autres critères de déclenchement proposés ne permettant pas un signalement en
+J-1 plus tôt que 10 h 30.L'information sur la nature du jour suivant sera
+accessible à l'ensemble des acteurs par le biais d'une page publique sur le
+site internet de RTE. Afin de lever toute ambiguïté, chaque jour, quelle que
+soit la couleur qui lui est associée, fera l'objet d'un signalement le jour
+précédent. Le signalement publié sur le site à 10 h 30 sera définitif et ne
+pourra faire l'objet d'aucune modification par RTE après sa publication.En
+complément de ce dispositif, les fournisseurs qui le souhaitent pourront
+s'inscrire sur une liste de diffusion afin de recevoir l'information par
+courriel. Un courriel sera envoyé quotidiennement et précisera si le jour
+suivant est un jour rouge, blanc ou bleu. Cet envoi est à caractère informatif
+et non engageant, l'information de référence étant celle publiée sur le site
+internet de RTE.Afin de pallier d'éventuels dysfonctionnements de ses systèmes
+dans la publication de l'information, RTE met en place des dispositifs
+permettant de gérer les modes dégradés sous forme d'assistance
+téléphonique.Pour les jours où les informations disponibles à 8 heures
+permettront à RTE d'apporter de premières indications aux acteurs quant à la
+nature supposée du jour suivant, un présignalement à caractère purement
+informatif sera publié sur le site internet de RTE dès 8 heures. La nature des
+informations transmises en cas de présignalement devra être précisée par RTE
+après identification des besoins des acteurs intéressés.L'information sur la
+couleur du jour du lendemain par le biais d'une page publique du site internet
+de RTE permettra de garantir que chaque acteur intéressé pourra en disposer de
+façon non discriminatoire avec un coût de gestion modéré pour RTE. 2.3.
+Déclenchement du signal TCFM par les gestionnaires de réseaux Les délais de
+mise en œuvre de la relance des tarifs à effacement pour l'hiver 2014 ne
+permettent pas de mener les évolutions matérielles et celles relatives aux
+systèmes d'informations, nécessaires à un déclenchement centralisé et
+automatisé du signal TCFM sur l'ensemble du territoire. Pour l'hiver
+2014-2015, le déclenchement s'effectuera donc en utilisant les dispositifs
+techniques existants à la main des fournisseurs historiques, dans le respect
+des informations publiées par RTE sur la nature du jour « Tempo ».Les
+modalités de déclenchement du signal TCFM par les gestionnaires de réseaux à
+partir de l'hiver 2015-2016 devront faire l'objet d'une réflexion tenant
+compte, d'une part, des coûts de mise en œuvre d'un tel transfert et, d'autre
+part, du caractère transitoire du dispositif ainsi construit dans l'attente du
+déploiement généralisé des compteurs Linky. Déclenchement du signal sur le
+territoire d'ERDF Pour l'hiver 2014-2015, le déclenchement du signal TCFM sur
+le réseau d'ERDF sera effectué par EDF grâce au dispositif existant (T-90)
+utilisé actuellement pour le déclenchement des jours « Tempo » sur les
+segments résidentiel et professionnel. ERDF sera responsable du déclenchement
+du signal en mode dégradé par la transmission par téléphone de la nature du
+jour Tempo suivant aux agences de conduite régionales (ACR) d'ERDF pour
+déclenchement du signal au niveau de leurs postes.Les nouvelles modalités de
+déclenchement du signal TCFM nécessitent une évolution du contrat relatif aux
+signaux tarifaires entre EDF et ERDF.EDF déclenche le signal à réception de
+l'information transmise par RTE en J-1 selon les modalités prévues au
+paragraphe 2.2. La société EDF ne sera pas informée de la nature du jour du
+lendemain par RTE avant la transmission à l'ensemble des acteurs. Cette
+condition garantit un accès non discriminant à l'information entre les
+fournisseurs.A l'issue de l'année Tempo 2014-2015, le déclenchement du signal
+TCFM ne sera plus assuré par EDF. Les modalités de déclenchement devront être
+précisées par les deux gestionnaires de réseaux RTE et ERDF. Déclenchement du
+signal sur le territoire des ELD Sur le réseau des ELD ayant accès au signal
+TCFM transitant sur le réseau ERDF, le déclenchement du signal sera assuré
+selon les modalités précisées au paragraphe « Déclenchement du signal sur le
+territoire d'ERDF ».Les ELD ne bénéficiant pas du signal TCFM transitant sur
+le réseau ERDF sont responsables du déclenchement du signal TCFM pour les
+offres Tempo à la suite de la publication de l'information sur la nature du
+jour par RTE en J-1.L'information sur la nature du jour suivant sera transmise
+par RTE aux ELD selon les modalités précisées au paragraphe 2.2, ce qui
+garantit également un accès non discriminant à l'information entre les
+fournisseurs.Une réflexion sera menée conjointement par RTE et les ELD afin
+d'identifier les évolutions techniques à mettre en œuvre pour permettre une
+automatisation de la transmission du signal à partir de l'hiver 2015-2016.
+2.4. Relations GRD - fournisseurs L'accès des fournisseurs alternatifs aux
+systèmes de comptage à six cadrans pilotés par le signal TCFM pour le
+déclenchement des offres à effacement implique des évolutions des systèmes
+d'informations des gestionnaires de réseaux de distribution.Les évolutions du
+SI d'ERDF sont actuellement en cours de mise en œuvre. A compter du 1er août
+2014, le système de gestion des échanges SGE entre ERDF et les fournisseurs
+proposera un panel de prestations accessibles sur des structures de comptage à
+six cadrans. Ce panel sera progressivement étoffé.Des évolutions conséquentes
+des systèmes d'informations des ELD sont également nécessaires afin de
+permettre la transmission aux fournisseurs des flux de données pour des offres
+de marché à six postes horosaisonniers. En outre, pour certaines ELD soumises
+à l'obligation de tenir une comptabilité dissociée, le calcul de
+l'acheminement des tarifs « Tempo » est actuellement réalisé en dehors du
+système d'informations de facturation, par l'intermédiaire d'autres outils.Ces
+évolutions ne pourront pas être menées d'ici à l'hiver 2014-2015. Néanmoins,
+les ELD mettront en place, à partir du 1er novembre 2014, des solutions
+provisoires d'échanges de données (échanges de fichiers.xls,.xml,.txt, etc.)
+pour permettre la souscription d'offres à six postes horosaisonniers proposées
+par des fournisseurs alternatifs sur leurs territoires. Les modalités
+pratiques de ces échanges devront être précisées par les ELD et publiées sur
+un site internet. 3\. Décision de la CRE Les gestionnaires de réseau mettront
+en œuvre les mesures suivantes : \- RTE sélectionne les jours d'effacement
+rouges et blancs dans le respect des caractéristiques explicitées au
+paragraphe 2.1 à compter du 1er novembre 2014. L'algorithme conçu et utilisé
+par RTE pourra faire l'objet le cas échéant d'un contrôle du régulateur ;- RTE
+informe les acteurs de la nature du jour Tempo en J-1 à 10 h 30 par le biais
+d'une page publique sur son site internet. Cette information fait référence.
+Ce mode de communication est complété par la diffusion d'un mail quotidien non
+engageant, dès parution de l'information sur le site de RTE, précisant la
+nature du jour suivant. RTE prévoit des dispositions pour gérer d'éventuels
+dysfonctionnements de ses systèmes en mode dégradé, sous forme d'assistance
+téléphonique. A titre purement informatif, RTE diffuse un présignalement à 8
+heures en J-1 lorsque les informations à sa disposition le permettent ;- ERDF
+est responsable du déclenchement du signal en mode dégradé par la transmission
+par téléphone de la nature du jour Tempo suivant aux ACR d'ERDF pour
+déclenchement du signal au niveau de leurs postes ;- les gestionnaires de
+réseaux RTE, ERDF et ELD fixent les modalités de déclenchement du signal TCFM
+sur le territoire à l'issue de l'année « Tempo » 2014-2015 et mettent en œuvre
+les évolutions techniques et les systèmes d'informations nécessaires à leur
+mise en œuvre ;- les ELD précisent sur un site internet les modalités
+pratiques d'échanges de données avec les fournisseurs alternatifs. En
+application de l'article L. 134-1 du code de l'énergie, la présente
+délibération sera publiée au Journal officiel de la République française. Fait
+à Paris, le 30 octobre 2014. Pour la Commission de régulation de l'énergie :
+Le président, P. de Ladoucette (1) Arrêté du 26 juillet 2013 relatif aux
+tarifs réglementés de vente de l'électricité. Télécharger le document en RTF
+(poids < 1Mo) Extrait du Journal officiel électronique authentifié (format:
+pdf, poids : 0.26 Mo) Masquer le panneau de navigation Imprimer À propos de
+l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

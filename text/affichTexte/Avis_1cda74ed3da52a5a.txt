@@ -1,0 +1,81 @@
+Avis de vacance d'emplois de chargé de projet et de développement, expert en
+investigations numériques et en sciences des données à la division analyse et
+investigation criminelles du pôle judiciaire de la gendarmerie nationale à
+Pontoise | Legifrance Legifrance - Le service public de l'accès au droit Aller
+au contenu Aller à la navigation générale mardi 4 juillet 2017 Informations de
+mise à jour Accueil Droit français Droit européen Droit international
+Traductions Bases de données Vous êtes dans : Accueil> Rechercher un numéro du
+JO depuis 1990> Avis de vacance d'emplois de chargé de projet et de
+développement, expert en investigations numériques et en sciences des données
+à la division analyse et investigation criminelles du pôle judiciaire de la
+gendarmerie nationale à Pontoise Avis de vacance d'emplois de chargé de projet
+et de développement, expert en investigations numériques et en sciences des
+données à la division analyse et investigation criminelles du pôle judiciaire
+de la gendarmerie nationale à Pontoise Masquer le panneau de navigation Retour
+au sommaire du JO \- Imprimer Navigation AVIS du Version initiale Informations
+sur ce texte JORF n°0073 du 27 mars 2015 texte n° 117 Avis de vacance
+d'emplois de chargé de projet et de développement, expert en investigations
+numériques et en sciences des données à la division analyse et investigation
+criminelles du pôle judiciaire de la gendarmerie nationale à Pontoise (95)
+NOR: INTJ1507503V ELI: Non disponible Deux postes de chargé de projet et de
+développement expert en investigations numériques et en sciences des données à
+la division analyse et investigation criminelles sont ouverts au pôle
+judiciaire de la gendarmerie nationale à Pontoise (95). Ils sont ouverts aux
+candidats titulaires d'un diplôme sanctionnant une formation supérieure type
+école d'ingénieur (ENSEA, ENSAI, Télécom Paris Tech, …) ou universitaire
+(doctorat, post doctorat). Intérêt du poste et missions Le titulaire du poste
+sera chargé du développement des méthodes et outils nécessaires à la mise en
+oeuvre d'analyses dédiées à la lutte contre la criminalité au niveau central
+ainsi que d'assurer la pertinence et la robustesse des méthodes déjà
+développées.Dans le cadre d'une activité de data science, il devra
+parallèlement mettre en place les outils d'analyse de données en vue
+d'exploiter les informations issues de données hétérogènes et contribuer à la
+mise au point d'interfaces utilisateurs.Il sera également chargé de définir et
+conduire une politique de veille technologique et d'encadrer ou co-encadrer
+avec un partenaire académique des stages de courte et longue durée comme des
+thèses de doctorat. Il conduira la politique de valorisation (publication dans
+des revues, recherche de partenaires, développement de modules de formation
+avancée) à un niveau national comme international.Enfin, il animera l'activité
+du groupe recherche et développement sur le plan humain et matériel.Les
+compétences et connaissances techniques attendues pour ce poste sont les
+suivantes : \- capacités de développement avancées (langage C/C++, R, Python,
+Perl et environnement de bases de données SQL et big data, NoSQL) ;-
+connaissance d'un ou plusieurs des domaines innovants nécessaires au
+développement de l'activité (big data, data science, intelligence
+artificielle, informatique décisionnel…) ;- connaissance des technologies
+numériques ;- capacités avérées à acquérir de nouvelles compétences (notamment
+en géomatique) ;- capacités confirmées d'analyse, de synthèse, de conception
+et de rédaction ;- connaissance du développement d'algorithmes de simulation
+et de modélisation et du concept de machine learning ;- pratique courante de
+l'anglais écrite et parlée. Le titulaire du poste devra disposer d'une
+disponibilité opérationnelle, d'esprit d'initiative et de décision,
+d'ouverture d'esprit, de capacité d'adaptation et avoir du goût pour le
+travail en équipe et les relations humaines. Statut. - Environnement Les
+candidats retenus seront recrutés en qualité d'officiers commissionnés
+rattachés aux officiers du corps des officiers de la gendarmerie. Contractuel
+dans la limite de 17 ans de service, ils se verront proposer un contrat
+initial de 5 ans au grade de capitaine.Le dispositif juridique relatif aux
+militaires commissionnés est précisé par : \- l'article L. 4132-10 du code de
+la défense ;- le décret n° 2008-946 du 12 septembre 2008 modifié portant
+statut particulier des officiers de gendarmerie ;- le décret n° 2008-959 du 12
+septembre 2008 modifié relatif aux militaires commissionnés ;- l'arrêté du 21
+janvier 2011 fixant la liste des emplois d'officiers et de sous-officiers
+commissionnés recrutés au titre de l'article L. 4132-10 du code de la défense
+au sein de la gendarmerie nationale. Les fonctions de chargé de projet et de
+développement expert en investigations numériques et en sciences des données à
+la division analyse et investigation criminelles du pôle judiciaire de la
+gendarmerie nationale exercées au sein de la gendarmerie par un officier
+commissionné sous-tendent les qualités fondamentales de l'état de militaire
+suivantes : neutralité et droit de réserve, très haute moralité,
+disponibilité, adaptabilité, loyauté et sens élevé du service. Personne à
+contacter Les candidatures accompagnées d'une lettre de motivation et d'un
+curriculum vitae détaillé sont à adresser dans un délai de 30 jours à compter
+de la date de publication du présent avis au lieutenant-colonel PERROT, chef
+de la division analyse et investigation criminelles du pôle judiciaire de la
+gendarmerie nationale, patrick.perrot@gendarmerie.interieur.gouv.fr.
+Télécharger le document en RTF (poids < 1Mo) Extrait du Journal officiel
+électronique authentifié (format: pdf, poids : 0.17 Mo) Masquer le panneau de
+navigation Retour au sommaire du JO \- Imprimer À propos de l'ordre juridique
+français Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

@@ -1,0 +1,481 @@
+Avis relatifs à l'homologation et à l'annulation de normes | Legifrance
+Legifrance - Le service public de l'accès au droit Aller au contenu Aller à la
+navigation générale mardi 4 juillet 2017 Informations de mise à jour Accueil
+Droit français Droit européen Droit international Traductions Bases de données
+Vous êtes dans : Accueil> Les autres textes législatifs et réglementaires>
+Avis relatifs à l'homologation et à l'annulation de normes Avis relatifs à
+l'homologation et à l'annulation de normes Masquer le panneau de navigation
+Imprimer Navigation Avis Version initiale Informations sur ce texte JORF n°120
+du 24 mai 2003 page 8943 texte n° 80 Avis relatifs à l'homologation et à
+l'annulation de normes NOR: INDI0310033V ELI: Non disponible En application du
+décret n° 84-74 du 26 janvier 1984 modifié, en l'absence d'opposition du
+délégué interministériel aux normes, le conseil d'administration de
+l'Association française de normalisation, par décision n° 2003-24 du 20 avril
+2003, a prononcé : A. - L'homologation, pour prendre effet à compter du 20 mai
+2003, des cent trente-quatre normes françaises suivantes : AGROALIMENTAIRE NF
+T60-720. - Produits d'origine végétale. - Caractérisation des qualités
+environnementales des adjuvants phytosanitaires d'origine végétale (indice de
+classement : T60-720).NF ISO 7358. - Huiles essentielles de bergamote, de
+citron, de bigarade et de limette complètement ou partiellement privées de
+bergaptène. - Détermination de la teneur en bergaptène par chromatographie
+liquide à haute pression (CLHP) (indice de classement : T75-451).NF U47-103. -
+Méthodes d'analyse en santé animale. - Isolement et identification de
+mycobacterium avium subsp. paratuberculosis à partir de prélèvements (fèces ou
+organes) de ruminants (indice de classement : U47-103).U47-104. - Méthodes
+d'analyse en santé animale. - Isolement et identification des mycobactéries
+autres que mycobacterium avium subsp. paratuberculosis chez l'animal (indice
+de classement : U47-104).EN ISO 5764. - Lait. - Détermination du point de
+congélation. - Méthode au cryoscope à thermistance (méthode de référence)
+(indice de classement : V04-205).EN ISO 4833. - Microbiologie des aliments. -
+Méthode horizontale pour le dénombrement des micro-organismes. - Technique de
+comptage des colonies à 30 °C (indice de classement : V08-011).NF V08-037. -
+Microbiologie des aliments. - Surfaces d'environnement agroalimentaire. -
+Prélèvement d'échantillons destinés à l'analyse microbiologique (indice de
+classement : V08-037). ÉLECTROTECHNIQUE ET ÉLECTRONIQUE NF EN 61360-1. - Types
+normalisés d'éléments de données avec plan de classification pour composants
+électriques. - Partie 1 : définitions. - Principes et méthodes (indice de
+classement : C03-501).NF EN 61360-2. - Types normalisés d'éléments de données
+avec plan de classification pour composants électriques. - Partie 2 : schéma
+d'un dictionnaire EXPRESS (indice de classement : C03-502).NF EN 60073. -
+Principes fondamentaux et de sécurité pour l'interface homme-machine, le
+marquage et l'identification. - Principes de codage pour les indicateurs et
+les organes de commande (indice de classement : C20-070).NF EN 60695-5-1. -
+Essais relatifs aux risques du feu. - Partie 5-1 : effets des dommages de
+corrosion des effluents du feu. - Guide général (indice de classement :
+C20-924-5-1).NF EN 60554-2. - Papiers cellulosiques à usages électriques. -
+Partie 2 : méthodes d'essai (indice de classement : C26-197).NF EN 61857-22. -
+Systèmes d'isolation électrique. - Procédures d'évaluation thermique. - Partie
+22 : exigences particulières pour modèle de bobines encapsulées. - Système
+d'isolation électrique (SIE) à enroulements à fil (indice de classement :
+C26-310-22).NF EN 61857-23. - Systèmes d'isolation électrique. - Procédures
+d'évaluation thermique. - Partie 23 : exigences particulières pour le modèle
+d'usage général à chemin haut. - Système d'isolation électrique (SIE) à
+enroulements à fil (indice de classement : C26-310-23).NF EN 61788-10. -
+Supraconductivité. - Partie 10 : mesure de la température critique. -
+Température critique des composites supraconducteurs Nb-Ti, Nb3Sn ainsi que
+des oxydes supraconducteurs à base Bi par une méthode par résistance (indice
+de classement : C31-888-10).NF EN 61788-12. - Supraconductivité. - Partie 12 :
+mesure du rapport volumique matrice/supraconducteur. - Rapport volumique
+cuivre/non-cuivre des fils en composite supraconducteur Nb3Sn (indice de
+classement : C31-888-12).NF C32-102-14. - Conducteurs et câbles isolés avec
+des matériaux réticulés de tension assignée au plus égale à 450/750 V. -
+Partie 14 : câbles pour applications nécessitant une flexibilité élevée
+(indice de classement : C32-102-14).NF C32-201-1. - Conducteurs et câbles
+isolés avec des matériaux thermoplastiques de tension assignée au plus égale à
+450/750 V. - Partie 1 : prescriptions générales (indice de classement :
+C32-201-1).NF C32-201-2/A1. - Conducteurs et câbles isolés avec des matériaux
+thermoplastiques de tension assignée au plus égale à 450/750 V. - Partie 2 :
+méthodes d'essais (indice de classement : C32-201-2/A1).NF EN 60044-1/A2. -
+Transformateurs de mesure. - Partie 1 : transformateurs de courant (indice de
+classement : C42-544-1/A2).NF EN 60044-2/A2. - Transformateurs de mesure. -
+Partie 2 : transformateurs inductifs de tension (indice de classement :
+C42-544-2/A2).NF EN 60034-12. - Machines électriques tournantes. - Partie 12 :
+caractéristiques de démarrage des moteurs triphasés à induction à cage à une
+seule vitesse (indice de classement : C51-312).NF EN 50216-2/A1. - Accessoires
+pour transformateurs de puissance et bobines d'inductance. - Partie 2 : relais
+de protection (dégagement gazeux, niveau d'huile) pour transformateur et
+réactance immergés dans un diélectrique liquide équipés d'un conservateur
+(indice de classement : C52-216-2/A1).NF EN 50216-3/A1. - Accessoires pour
+transformateurs de puissance et bobines d'inductance. - Partie 3 : relais de
+protection pour transformateurs et bobines d'inductance hermétiques immergés
+dans un liquide et sans matelas gazeux (indice de classement :
+C52-216-3/A1).NF EN 50216-5/A1. - Accessoires pour transformateurs de
+puissance et bobines d'inductance. - Partie 5 : indicateurs de niveau de
+liquide isolant, manomètres et indicateurs de circulation de liquide isolant
+(indice de classement : C52-216-5/A1).NF EN 61558-2-9. - Sécurité des
+transformateurs, blocs d'alimentation et produits analogues. - Partie 2-9 :
+règles particulières pour les transformateurs pour baladeuses de classe III
+pour lampes à filament de tungstène (indice de classement : C52-558-2-9).NF EN
+60831-1/A1. - Condensateurs shunt de puissance autorégénérateurs pour réseaux
+à courant alternatif de tension assignée inférieure ou égale à 1 kV. - Partie
+1 : généralités. - Caractéristiques fonctionnelles, essais et valeurs
+assignées. - Règles de sécurité. - Guide d'installation et d'exploitation
+(indice de classement : C54-108/A1).NF EN 60931-1/A1. - Condensateurs shunt de
+puissance non autorégénérateurs pour réseaux à courant alternatif de tension
+assignée inférieure ou égale à 1 kV. - Partie 1 : Généralités. -
+Caractéristiques fonctionnelles, essais et valeurs assignées. - Règles de
+sécurité. - Guide d'installation et d'exploitation (indice de classement :
+C54-118/A1).NF EN 60127-1/A2. - Coupe-circuit miniatures. - Partie 1 :
+définitions pour coupe-circuit miniatures et prescriptions générales pour
+éléments de remplacement miniatures (indice de classement : C60-430/A2).NF EN
+60127-3/A2. - Coupe-circuit miniatures. - Partie 3 : éléments de remplacement
+subminiatures (indice de classement : C60-432/A2).NF EN 60127-6/A2. - Coupe-
+circuit miniatures. - Partie 6 : ensembles-porteurs pour éléments de
+remplacement miniatures (indice de classement : C60-436/A2).NF EN 62094-1. -
+Voyants lumineux pour installations électriques fixes domestiques et
+analogues. - Partie 1 : prescriptions générales (indice de classement :
+C61-311).NF EN 60282-1. - Fusibles à haute tension. - Partie 1 : fusibles
+limiteurs de courant (indice de classement : C64-200).NF EN 61952. -
+Isolateurs pour lignes aériennes. - Isolateurs composites rigides à socle pour
+courant alternatif de tension nominale supérieur à 1 000 V (indice de
+classement : C66-052).NF EN 60357. - Lampes tungstène-halogène (véhicules
+exceptés). - Prescriptions de performance (indice de classement : C72-105).NF
+EN 60335-2-21/A12. - Sécurité des appareils électrodomestiques et analogues. -
+Partie 2-21 : règles particulières pour les chauffe-eau à accumulation (indice
+de classement : C73-821/A12).NF EN 60335-2-89. - Appareils électrodomestiques
+et analogues. - Sécurité. - Partie 2-89 : règles particulières pour les
+appareils de réfrigération à usage commercial avec une unité de condensation
+du fluide frigorigène ou un compresseur incorporé ou à distance (indice de
+classement : C73-889).NF EN 60335-2-101. - Appareils électrodomestiques et
+analogues. - Sécurité. - Partie 2-101 : règles particulières pour les
+vaporisateurs (indice de classement : C73-901).NF EN 50065-4-2/A1. -
+Transmission de signaux sur les réseaux électriques basse tension dans la
+bande de fréquences de 3 kHz à 148,5 kHz. - Partie 4-2 : filtres basse tension
+de découplage. - Exigences de sécurité (indice de classement :
+C90-201-4-2/A1).NF EN 60684-3-246. - Gaines isolantes souples. - Partie 3 :
+spécifications pour types particuliers de gaines. - Feuille 246 : gaines
+thermorétractables en polyoléfine, à double paroi, non retardées à la flamme
+(indice de classement : C93-643-246).NF EN 60749-18. - Dispositifs à
+semiconducteurs. - Méthodes d'essais mécaniques et climatiques. - Partie 18 :
+rayonnements ionisants (dose totale) (indice de classement : C96-022-18).NF EN
+50125-2. - Applications ferroviaires. - Conditions d'environnement pour le
+matériel. - Partie 2 : installations électriques fixes (indice de classement :
+F00-125-2).NF EN 50125-3. - Applications ferroviaires. - Conditions
+d'environnement pour le matériel. - Partie 3 : équipement pour la
+signalisation et les télécommunications (indice de classement : F00-125-3).NF
+EN 50238. - Applications ferroviaires. - Compatibilité entre matériel roulant
+et systèmes de détection de train (indice de classement : F07-238).NF EN
+50149. - Applications ferroviaires. - Installations fixes Traction électrique.
+- Fils rainurés en cuivre et cuivre allié (indice de classement : F42-149).NF
+EN 60349-1/A1. - Traction électrique. - Machines électriques tournantes des
+véhicules ferroviaires et routiers. - Partie 1 : machines autres que les
+moteurs à courant alternatif alimentés par convertisseur électronique (indice
+de classement : F65-349-1/A1).NF EN 50129. - Applications ferroviaires. -
+Systèmes de signalisation, de télécommunications et de traitement. - Systèmes
+électroniques de sécurité pour la signalisation (indice de classement :
+F74-129). BÂTIMENT ET TRAVAUX PUBLICS NF EN 13755. - Méthodes d'essai pour
+pierres naturelles. - Détermination de l'absorption d'eau à la pression
+atmosphérique (indice de classement : B10-628).NF EN 1434-1/A1. - Compteurs
+d'énergie thermique. - Partie 1 : prescriptions générales (indice de
+classement : E17-401-1/A1).NF EN 1434-2/A1. - Compteurs d'énergie thermique. -
+Partie 2 : prescriptions de fabrication (indice de classement :
+E17-401-2/A1).NF EN 1434-4/A1. - Compteurs d'énergie thermique. - Partie 4 :
+essais en vue de l'approbation de modèle (indice de classement :
+E17-401-4/A1).NF EN 1434-5/A1. - Compteurs d'énergie thermique. - Partie 5 :
+essais de vérification primitive (indice de classement : E17-401-5/A1).NF EN
+1434-6/A1. - Compteurs d'énergie thermique. - Partie 6 : installation, mise en
+service, surveillance et maintenance (indice de classement : E17-401-6/A1).NF
+EN 1015-18. - Méthodes d'essai des mortiers pour maçonnerie. - Partie 18 :
+détermination du coefficient d'absorption d'eau par capillarité du mortier
+durci (indice de classement : P12-318).NF EN 1015-21. - Méthodes d'essai des
+mortiers pour maçonnerie. - Partie 21 : détermination de la compatibilité des
+mortiers d'enduit extérieur monocouche avec les supports (indice de classement
+: P12-321).NF EN 990. - Méthodes d'essai pour la vérification de la protection
+contre la corrosion des armatures dans le béton cellulaire autoclavé et le
+béton de granulats légers à structure ouverte (indice de classement :
+P19-112).NF P21-400. - Bois de structure et produits à base de bois. - Classes
+de résistance et contraintes admissibles associées (indice de classement :
+P21-400).NF EN 14085. - Revêtements de sol résilients. - Spécification des
+panneaux de plancher pour pose flottante (indice de classement : P62-309).NF
+EN 673/A2. - Verre dans la construction. - Détermination du coefficient de
+transmission thermique (valeur U). - Méthode de calcul (indice de classement :
+P78-460/A2).NF EN ISO 14688-1. - Reconnaissance et essais géotechniques. -
+Dénomination, description et classification des sols. - Partie 1 :
+dénomination et description (indice de classement : P94-400/1). CONSTRUCTION
+MÉCANIQUE NF EN 12680-1. - Fonderie. - Contrôle par ultrasons. - Partie 1 :
+pièces moulées en acier pour usages généraux (indice de classement :
+A04-162-1).NF EN 12680-2. - Fonderie. - Contrôle par ultrasons. - Partie 2 :
+pièces moulées en acier par composants fortement sollicités (indice de
+classement : A04-162-2).NF EN 12680-3. - Fonderie. - Contrôle par ultrasons. -
+Partie 3 : pièces moulées en fonte à graphite sphéroïdal (indice de classement
+: A04-162-3).NF EN 12681. - Fonderie. - Contrôle par radiographie (indice de
+classement : A04-190).NF EN 1792. - Soudage. - Liste multilingue de termes
+concernant le soudage et les techniques connexes (indice de classement :
+A80-002).NF EN 13709. - Robinetterie industrielle. - Robinets à soupape et
+robinets à clapet libre blocable en acier (indice de classement : E29-350).NF
+EN ISO 15783. - Pompes rotodynamiques sans dispositif d'étanchéité d'arbre. -
+Classe II. - Spécifications (indice de classement : E44-160). MATÉRIAUX ET
+LEURS TRANSFORMATIONS NF EN ISO 9513. - Matériaux métalliques. - Etalonnage
+des extensomètres utilisés lors d'essais uniaxiaux (indice de classement :
+A03-004).NF EN 10314. - Méthode de dérivation des valeurs minimales de la
+limite conventionnelle d'élasticité des aciers à températures élevées (indice
+de classement : A03-035).NF EN 12499. - Protection cathodique interne des
+structures métalliques (indice de classement : A05-676).NF EN 10305-1. - Tubes
+de précision en acier. - Conditions techniques de livraison. - Partie 1 :
+tubes sans soudure étirés à froid (indice de classement : A49-300-1).NF EN
+10305-2. - Tubes de précision en acier. - Conditions techniques de livraison.
+- Partie 2 : tubes soudés étirés à froid (indice de classement : A49-300-2).NF
+EN 10305-3. - Tubes de précision en acier. - Conditions techniques de
+livraison. - Partie 3 : tubes soudés calibrés (indice de classement :
+A49-300-3).NF EN 14057. - Plomb et alliages de plomb. - Scrappes (matières
+premières de recyclage). - Termes et définitions (indice de classement :
+A55-999).NF EN 13144. - Revêtements métalliques et autres revêtements non
+organiques. - Méthode de mesurage quantitatif de l'adhérence par essai de
+traction (indice de classement : A91-142).NF EN 13143. - Revêtements
+métalliques et autres revêtements non organiques. - Définitions et principes
+concernant la porosité (indice de classement : A91-147).NF EN 14118-1. -
+Renfort. - Spécifications des mats de verre textile (mats à fils coupés et
+mats à fils continus). - Partie 1 : désignation (indice de classement :
+B38-307-1).NF EN 14118-2. - Renfort. - Spécifications des mats de verre
+textile (mats à fils coupés et mats à fils continus). - Partie 2 : méthodes
+d'essai et exigences générales (indice de classement : B38-307-2).NF EN
+14118-3. - Renfort. - Spécifications des mats de verre textile (mats à fils
+coupés et mats à fils continus). - Partie 3 : exigences spécifiques (indice de
+classement : B38-307-3).NF EN ISO 105-C09. - Textiles. - Essais de solidité
+des teintures. - Partie C09 : solidité des teintures aux lavages domestiques
+et industriels. - Blanchiment par oxydation utilisant un détergent de
+référence sans phosphate comprenant un activateur de blanchiment à basse
+température (indice de classement : G07-093-9).NF EN ISO 9073-6. - Textiles. -
+Méthodes d'essai pour non-tissés. - Partie 6 : absorption (indice de
+classement : G07-171-6).NF EN 14182. - Emballage. - Terminologie. - Termes de
+base et définitions (indice de classement : H00-003).NF EN ISO 12777-3. -
+Méthodes d'essai des assemblages de palettes. - Partie 3 : détermination de la
+résistance des assemblages de palettes (indice de classement : H50-010-3).NF
+EN ISO 5264-2. - Pâtes. - Raffinage de laboratoire. - Partie 2 : méthode au
+moulin PFI (indice de classement : Q50-008-2).NF EN ISO 3668. - Peintures et
+vernis. - Comparaison visuelle de la couleur des peintures (indice de
+classement : T30-095).NF EN ISO 11403-1. - Plastiques. - Acquisition et
+présentation de données multiples comparables. - Partie 1 : propriétés
+mécaniques (indice de classement : T50-064-1).NF EN ISO 178. - Plastiques. -
+Détermination des propriétés en flexion (indice de classement : T51-001).NF EN
+ISO 2039-1. - Plastiques. - Détermination de la dureté. - Partie 1 : méthode
+de pénétration à la bille (indice de classement : T51-024-1).NF EN ISO 294-4.
+- Plastiques. - Moulage par injection des éprouvettes de matériaux
+thermoplastiques. - Partie 4 : détermination du retrait au moulage (indice de
+classement : T51-294-4).NF EN ISO 13927. - Plastiques. - Essai simple pour la
+détermination du débit calorifique au moyen d'un radiateur conique et d'une
+sonde à thermopile (indice de classement : T51-831).NF EN 13677-1. -
+Préimprégnés renforcés thermoplastiques. - Spécifications des GMT. - Partie 1
+: désignation (indice de classement : T57-540-1).NF EN 13677-2. - Préimprégnés
+renforcés thermoplastiques. - Spécifications des GMT. - Partie 2 : méthodes
+d'essai et exigences générales (indice de classement : T57-540-2).NF EN
+13677-3. - Préimprégnés renforcés thermoplastiques. - Spécifications des GMT.
+- Partie 3 : exigences particulières (indice de classement : T57-540-3).NF EN
+13405. - Agents de surface. - Détermination de la teneur en dialkyltétralines
+dans les alkylbenzènes linéaires par chromatographie liquide à haute
+performance (CLHP) (indice de classement : T73-279).NF EN 13717. - Agents de
+surface. - Détermination de la teneur en azote sous forme amine primaire,
+secondaire et tertiaire. - Titrage potentiométrique (indice de classement :
+T73-283).NF EN 13955. - Agents de surface. - Détermination du point de Krafft
+et de la solubilité des agents de surface ioniques (indice de classement :
+T73-424). TRANSPORTS NF EN 4549. - Série aérospatiale. - Système de
+raccordement, en acier résistant à chaud ou en alliage de nickel résistant à
+chaud. - Extrémités à souder. - Configuration géométrique. - Série inch
+(indice de classement : L43-613).NF EN 4550-1. - Série aérospatiale. - Système
+de raccordement 37°. - Configuration géométrique. - Série inch. - Partie 1 :
+extrémités d'étanchéité mâles, sphériques (indice de classement : L43-614).NF
+EN 4550-2. - Série aérospatiale. - Système de raccordement 37°. -
+Configuration géométrique. - Série inch. - Partie 2 : extrémité à implanter
+(indice de classement : L43-615).NF EN 4550-3. - Série aérospatiale. - Système
+de raccordement 37°. - Configuration géométrique. - Série inch. - Partie 3 :
+implantations (indice de classement : L43-616).NF EN 4550-4. - Série
+aérospatiale. - Système de raccordement 37°. - Configuration géométrique. -
+Série inch. - Partie 4 : extrémités d'étanchéité femelles (indice de
+classement : L43-617). HYGIÈNE ET SÉCURITÉ DU TRAVAIL NF ISO 16057. - Produits
+abrasifs appliqués. - Disques en fibres vulcanisées (indice de classement :
+E75-087).NF EN 14031. - Atmosphères des lieux de travail. - Détermination des
+endotoxines en suspension dans l'air (indice de classement : X43-240).
+MANAGEMENT ET SERVICES NF X50-110. - Qualité en expertise. - Prescriptions
+générales de compétence pour une expertise (indice de classement : X50-110).
+HABITAT. - SPORTS ET LOISIRS NF EN 13750. - Bouilloires à usage domestique
+pour cuisinières et plaques de cuisson. - Prescriptions et méthodes d'essai
+(indice de classement : D21-302).NF EN ISO 8442-5. - Matériaux et objets en
+contact avec les denrées alimentaires. - Coutellerie et orfèvrerie de table. -
+Partie 5 : spécification du tranchant et essai de conservation du tranchant
+(indice de classement : D29-011-5).NF S52-105. - Pistes de ski. - Fabrication
+des matelas pour dispositif de protection (indice de classement : S52-105).NF
+S52-106. - Pistes de ski. - Fabrication des filets pour dispositif de
+protection (indice de classement : S52-106).NF ISO 8936. - Auvents de
+caravane. - Exigences de sécurité (indice de classement : S52-802).NF ISO
+6426-2. - Vocabulaire horloger. - Partie 2 : définitions technico-commerciales
+(indice de classement : S80-801-2).NF ISO 764. - Horlogerie. - Montres
+antimagnétiques (indice de classement : S81-520). CYCLE DE L'EAU NF EN 12541.
+- Robinetterie sanitaire. - Robinets de chasse d'eau et d'urinoirs à fermeture
+hydraulique automatique PN 10 (indice de classement : D18-216).NF EN 13566-1.
+- Systèmes de canalisations plastiques pour la rénovation des réseaux
+d'assainissement enterrés sans pression. - Partie 1 : généralités (indice de
+classement : P16-364-1).NF EN 682. - Garnitures d'étanchéité en caoutchouc. -
+Spécification des matériaux pour garnitures d'étanchéité pour joints de
+canalisations et des raccords véhiculant du gaz et des fluides hydrocarbures
+(indice de classement : T47-306). ENVIRONNEMENT NF ISO 10381-1. - Qualité du
+sol. - Echantillonnage. - Partie 1 : lignes directrices pour l'établissement
+des programmes d'échantillonnage (indice de classement : X31-008-1).NF
+X31-120. - Qualité des sols. - Détermination du cuivre, du fer, du manganèse
+et du zinc. - Extraction par l'acétate d'ammonium en présence d'EDTA (indice
+de classement : X31-120).NF X43-329. - Emissions de sources fixes. -
+Prélèvements et mesurage d'hydrocarbures aromatiques polycycliques à
+l'émission (indice de classement : X43-329). TECHNOLOGIES DE L'INFORMATIONET
+DE LA COMMUNICATION NF EN ISO 15187. - Robots manipulateurs industriels. -
+Interfaces graphiques utilisateur pour la programmation et l'utilisation de
+robots (GUI-R) (indice de classement : E61-187).NF EN 301934-1. -
+Télécommunications. - Réseaux intelligents (RI). - Groupes de ressources 3 des
+réseaux intelligents (CS-3), suites d'essais abstraits (ATS) et spécifications
+des formulaires d'informations complémentaires de mise en oeuvre partielle de
+protocoles pour les essais (PIXIT). - Partie 1 : groupe de ressources de bas
+du CS-3 (V.1.1.1) (indice de classement : Z82-934-1).NF EN 301934-2. -
+Télécommunications. - Réseaux intelligents (RI). - Groupes de ressources 3 des
+réseaux intelligents (CS-3), suites de tests abstraits (ATS) et spécifications
+des formulaires d'informations complémentaires de mise en oeuvre partielle de
+protocoles pour les essais (PIXIT). - Partie 2 : contrôle de plusieurs parties
+dans un même rappel (V.1.1.1) (indice de classement : Z82-934-2).NF EN
+300132-2. - Télécommunications. - Ingénierie de l'environnement (EE). -
+Interface d'alimentation en énergie à l'entrée des équipements de
+télécommunications. - Partie 2 : fonctionnement en courant direct (V2.1.1)
+(indice de classement : Z87-132-2). DIVERS NF T70-364. - Matériaux
+énergétiques de défense. - Propriétés et analyses physico-chimiques. -
+Aptitude à la mise en oeuvre par compression des matières explosives
+pulvérulentes (indice de classement : T70-364).NF T70-365. - Matériaux
+énergétiques de défense. - Propriétés et analyses physico-chimiques. -
+Caractérisation de la liaison entre matériaux énergétiques et d'aménagement
+interne, cisaillement (indice de classement : T70-365).NF T70-366. - Matériaux
+énergétiques de défense. - Propriétés et analyses physico-chimiques. -
+Caractérisation de la liaison entre matériaux énergétiques et d'aménagement
+interne, traction normale (indice de classement : T70-366).NF T70-519. -
+Matériaux énergétiques de défense. - Sécurité, vulnérabilité. - Dossier de
+définition de la maquette poudre. - Jupe combustible diamètre 90 mm (indice de
+classement : T70-519).NF T70-520. - Matériaux énergétiques de défense. -
+Sécurité, vulnérabilité. - Dossier de définition de la maquette poudre. -
+Conteneur métallique diamètre 90 mm (indice de classement : T70-520).NF
+T70-526. - Matériaux énergétiques de défense. - Sécurité, vulnérabilité. -
+Température critique de thermo-initiation (cook-off) (indice de classement :
+T70-526).NF T70-527. - Matériaux énergétiques de défense. - Sécurité,
+vulnérabilité. - Sensibilité aux décharges capacitives (indice de classement :
+T70-527).NF T70-528. - Matériaux énergétiques de défense. - Sécurité,
+vulnérabilité. - Amorçage de la détonation à travers une barrière en diamètre
+75 mm (indice de classement : T70-528).NF T70-530. - Matériaux énergétiques de
+défense. - Sécurité, vulnérabilité. - Impact de balle de 12,7 mm (indice de
+classement : T70-530).NF T70-531. - Matériaux énergétiques de défense. -
+Sécurité, vulnérabilité. - Epreuve sous vide au tube de mercure (indice de
+classement : T70-531).NF T70-538. - Matériaux énergétiques de défense. -
+Sécurité, vulnérabilité. - Compatibilité par analyse thermogravimétrique
+(indice de classement : T70-538).NF T70-712. - Matériaux énergétiques de
+défense. - Performances. - Mesure des énergies des explosifs en immersion sous
+confinement (indice de classement : T70-712).NF T70-713. - Matériaux
+énergétiques de défense. - Performances. - Efficacité balistique des
+explosifs. - Epreuve du relèvement double symétrique (indice de classement :
+T70-713). B. - L'annulation, pour prendre effet à compter du 20 mai 2003, des
+quarante-neuf normes françaises suivantes : AGROALIMENTAIRE NF T75-451
+(juillet 1983). - Huiles essentielles de bergamote, citron bigarade et lime
+complètes ou partiellement privées de bergaptène. - Dosage du bergaptène par
+chromatographie liquide sous pression (homologuée le 21 juin 1983) (indice de
+classement : T75-451).NF V04-153 (octobre 1978). - Lait et produits laitiers.
+- Détermination de la teneur en cuivre. - Méthode photométrique (homologuée le
+15 octobre 1978) (indice de classement : V04-153).NF V04-205 (janvier 1990). -
+Lait. - Détermination du point de congélation. - Méthode au cryoscope à
+thermistance (homologuée le 5 décembre 1989) (indice de classement :
+V04-205).NF V04-213 (janvier 1971). - Lait. - Détermination de la teneur en
+lactose (homologuée le 3 janvier 1971) (indice de classement : V04-213).NF
+V04-288 (décembre 1974). - Fromages. - Détermination de la teneur en chlorures
+(méthode de référence) (homologuée le 4 décembre 1974) (indice de classement :
+V04-288).NF V04-389 (février 1985). - Caséines et caséinates. - Détermination
+de la teneur en particules brûlées (homologuée le 20 janvier 1985) (indice de
+classement : V04-389).NF V04-413 (octobre 1983). - Viandes et produits à base
+de viande. - Recherche des polyphosphates (homologuée le 8 septembre 1983)
+(indice de classement : V04-413).NF ISO 4833 (juillet 1991). - Microbiologie.
+- Directives générales pour le dénombrement des micro-organismes. - Méthode
+par comptage des colonies obtenues à 30 degrés Celsius (homologuée le 28 juin
+1991) (indice de classement : V08-011). ÉLECTROTECHNIQUE ET ÉLECTRONIQUE NF EN
+61360-1 (janvier 1996). - Types normalisés d'éléments de données avec plan de
+classification pour composants électriques. - Partie 1 : définitions. -
+Principes et méthodes (homologuée le 20 décembre 1995) (indice de classement :
+C03-501).NF EN 60073 (mars 1997). - Principes fondamentaux et de sécurité pour
+les interfaces homme-machines, le marquage et l'identification. - Principes de
+codage pour les dispositifs indicateurs et les organes de commande (homologuée
+le 5 février 1997) (indice de classement : C20-070).NF EN 60695-5-1 (juillet
+1994). - Essais relatifs aux risques du feu. - Partie 5 : évaluation des
+dommages potentiels de corrosion provoqués par les effluents du feu. - Section
+1 : guide général (homologuée le 5 juin 1994) (indice de classement :
+C20-951).NF C32-102-14 (août 1999). - Conducteurs et câbles isolés au
+caoutchouc, de tension assignée au plus égale à 450/750 V. - Partie 14 :
+câbles pour applications nécessitant une flexibilité élevée (homologuée le 5
+juillet 1999) (indice de classement : C32-102-14).NF C32-102-14/A1 (décembre
+1999). - Conducteurs et câbles isolés au caoutchouc, de tension assignée au
+plus égale à 450/750 V. - Partie 14 : câbles pour applications nécessitant une
+flexibilité élevée (homologuée le 5 novembre 1999) (indice de classement :
+C32-102-14/A1).NF C32-201-1 (octobre 1998). - Conducteurs et câbles isolés au
+polychlorure de vinyle, de tension assignée au plus égale à 450/750 V. -
+Partie 1 : prescriptions générales (homologuée le 20 septembre 1998) (indice
+de classement : C32-201-1).NF EN 60034-12 + A2 (mars 1996). - Machines
+électriques tournantes. - Partie 12 : caractéristiques de démarrage des
+moteurs triphasés à induction à cage à une seule vitesse pour des tensions
+d'alimentation inférieures ou égales à 690 V, 50 Hz (homologuée le 20 février
+1996) (indice de classement : C51-312).NF EN 60034-12/A11 (novembre 2000). -
+Machines électriques tournantes. - Partie 12 : caractéristiques de démarrage
+des moteurs triphasés à induction à cage à une seule vitesse pour des tensions
+d'alimentation inférieures ou égales à 690 V, 50 Hz (homologuée le 20 octobre
+2000) (indice de classement : C51-312/A11).NF EN 60742 (juillet 1997). -
+Transformateurs de séparation des circuits et transformateurs de sécurité. -
+Règles (homologuée le 20 juin 1997) (indice de classement : C52-742).NF EN
+60282-1 (mai 1996). - Fusibles à haute tension. - Partie 1 : fusibles
+limiteurs de courant (homologuée le 20 avril 1996) (indice de classement :
+C64-200).NF EN 60282-1/A1 (juin 1996). - Amendement 1 à la norme NF EN 60282-1
+de mai 1996 (homologuée le 20 mai 1996) (indice de classement : C64-200/A1).NF
+EN 60357 (juin 1988). - Lampes tungstène-halogène (véhicules exceptés)
+(homologuée le 5 mai 1988) (indice de classement : C72-105).NF EN 60357/A10
+(septembre 1998). - Lampes tungstène-halogène (véhicules exceptés) (homologuée
+le 5 août 1998) (indice de classement : C72-105/A10).NF EN 60357/A11
+(septembre 1998). - Lampes tungstène-halogène (véhicules exceptés) (homologuée
+le 5 août 1998) (indice de classement : C72-105/A11).NF EN 60357/A12 (juillet
+2001). - Lampes tungstène-halogène (véhicules exceptés) (homologuée le 20 juin
+2001) (indice de classement : C72-105/A12).NF EN 60357/A13 (avril 2001). -
+Lampes tungstène-halogène (véhicules exceptés) (homologuée le 20 mars 2001)
+(indice de classement : C72-105/A13).NF EN 60357/A4 (octobre 1992). - Lampes
+tungstène-halogène (véhicules exceptés) (homologuée le 20 septembre 1992)
+(indice de classement : C72-105/A4).NF EN 60357/A5 (février 1995). - Lampes
+tungstène-halogène (véhicules exceptés) (homologuée le 5 janvier 1995) (indice
+de classement : C72-105/A5).NF EN 60357/A6 (février 1995). - Lampes tungstène-
+halogène (véhicules exceptés) (homologuée le 5 janvier 1995) (indice de
+classement : C72-105/A6).NF EN 60357/A7 (août 1995). - Lampes tungstène-
+halogène (véhicules exceptés) (homologuée le 20 juillet 1995) (indice de
+classement : C72-105/A7).NF EN 60357/A8 (septembre 1998). - Lampes tungstène-
+halogène (véhicules exceptés) (homologuée le 5 août 1998) (indice de
+classement : C72-105/A8).NF EN 60357/A9 (septembre 1998). - Lampes tungstène-
+halogène (véhicules exceptés) (homologuée le 5 août 1998) (indice de
+classement : C72-105/A9).NF EN 60684-3-246 (août 1995). - Spécification pour
+gaines isolantes souples. - Partie 3 : spécifications particulières aux types
+particuliers de gaines. - Feuille 246 : gaines thermorétractables en
+polyoléfine, à double paroi, non retardées à la flamme (homologuée le 5
+juillet 1995) (indice de classement : C93-643-246). BÂTIMENT ET TRAVAUX
+PUBLICS NF EN 990 (décembre 1995). - Méthodes d'essai pour la vérification de
+la protection contre la corrosion des armatures dans le béton cellulaire
+autoclave et le béton de granulats légers à structure ouverte (homologuée le
+20 novembre 1995) (indice de classement : P19-112). CONSTRUCTION MÉCANIQUE NF
+A04-150 (novembre 1984). - Produits de fonderie. - Contrôle par radiographie
+des pièces moulées en alliages d'aluminium et de magnésium (homologuée le 20
+octobre 1984) (indice de classement : A04-150).NF A04-160 (mai 1990). -
+Produits de fonderie. - Pièces moulées en acier. - Contrôle par radiographie.
+- Critères d'acceptation (homologuée le 20 avril 1990) (indice de classement :
+A04-160).NF A04-162 (octobre 1991). - Produits de fonderie. - Pièces en acier
+moulé. - Contrôle par ultrasons (homologuée le 20 septembre 1991) (indice de
+classement : A04-162).NF EN 1792 (février 1998). - Soudage. - Liste
+multilingue de termes concernant le soudage et les techniques connexes
+(homologuée le 20 janvier 1998) (indice de classement : A80-002).NF E29-350
+(juin 1987). - Robinetterie industrielle. - Robinets à soupape et dérivés en
+aciers. - Spécifications (homologuée le 20 mai 1987) (indice de classement :
+E29-350). MATÉRIAUX ET LEURS TRANSFORMATIONS NF EN 10002-4 (juillet 1995). -
+Matériaux métalliques. - Essai de traction. - Partie 4 : vérification des
+extensiomètres utilisés dans les essais uniaxiaux (homologuée le 20 juin 1995)
+(indice de classement : A03-004). NF A49-310 (décembre 1994). - Tubes en
+acier. - Tubes sans soudure de précision pour usage mécanique. - Dimensions. -
+Conditions techniques de livraison (homologuée le 5 novembre 1994) (indice de
+classement : A49-310).NF EN 25264-2 (novembre 1994). - Pâtes. - Raffinage de
+laboratoire. - Partie 2 : méthode au moulin PFI (homologuée le 5 octobre 1994)
+(indice de classement : Q50-008-2).NF T30-061 (avril 1981). - Peinture. -
+Comparaison visuelle de la couleur des peintures (enregistrée le 25 mars 1981)
+(indice de classement : T30-061).NF EN ISO 11403-1 (octobre 1999). -
+Plastiques. - Acquisition et présentation de données multiples comparables. -
+Partie 1 : propriétés mécaniques (homologuée le 5 septembre 1999) (indice de
+classement : T50-064-1).NF EN ISO 178 (mars 1997). - Plastiques. -
+Détermination des propriétés en flexion (homologuée le 20 février 1997)
+(indice de classement : T51-001).NF EN ISO 2039-1 (février 1997). -
+Plastiques. - Détermination de la dureté. - Partie 1 : méthode de pénétration
+à la bille (homologuée le 20 janvier 1997) (indice de classement :
+T51-024-1).NF EN ISO 294-4 (novembre 1998). - Plastiques. - Moulage par
+injection des éprouvettes de matériaux thermoplastiques. - Partie 4 :
+détermination du retrait au moulage (homologuée le 5 octobre 1998) (indice de
+classement : T51-294-4). HABITAT. - SPORTS ET LOISIRS NF ISO 8936 (septembre
+1994). - Auvents de caravane. - Exigences de sécurité (homologuée le 20 août
+1994) (indice de classement : S52-802).NF S80-801-2 (juin 1996). - Horlogerie.
+- Définitions techniques. - Partie 2 : terminologie technico-commerciale
+(homologuée le 20 mai 1996) (indice de classement : S80-801-2).NF S81-520-1
+(juin 1996). - Horlogerie. - Montres « antimagnétiques ». - Partie 1 : type
+mécanique, d'usage courant (homologuée le 20 mai 1996) (indice de classement :
+S81-520-1). ENVIRONNEMENT NF X31-120 (novembre 1992). - Qualité des sols. -
+Détermination du cuivre, du manganèse et du zinc. - Extraction par l'acétate
+d'ammonium en présence d'EDTA (homologuée le 20 octobre 1992) (indice de
+classement : X31-120). Télécharger le document en RTF (poids < 1Mo) Fac-similé
+(format: pdf, poids < 3.5 Mo) Masquer le panneau de navigation Imprimer À
+propos de l'ordre juridique français Licences Quoi de neuf sur le site ? À
+propos du site Plan du site Accessibilité Aide générale Nous écrire Établir un
+lien
+

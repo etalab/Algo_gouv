@@ -1,0 +1,159 @@
+Arrêté du 8 août 2000 modifiant l'arrêté du 3 juillet 1995 définissant les
+objectifs de formation et le programme des première et seconde années des
+classes préparatoires de biologie, chimie, physique et sciences de la terre
+(BCPST) | Legifrance Legifrance - Le service public de l'accès au droit Aller
+au contenu Aller à la navigation générale mardi 4 juillet 2017 Informations de
+mise à jour Accueil Droit français Droit européen Droit international
+Traductions Bases de données Vous êtes dans : Accueil> Les autres textes
+législatifs et réglementaires> Arrêté du 8 août 2000 modifiant l'arrêté du 3
+juillet 1995 définissant les objectifs de formation et le programme des
+première et seconde années des classes préparatoires de biologie, chimie,
+physique et sciences de la terre (BCPST) Arrêté du 8 août 2000 modifiant
+l'arrêté du 3 juillet 1995 définissant les objectifs de formation et le
+programme des première et seconde années des classes préparatoires de
+biologie, chimie, physique et sciences de la terre (BCPST) Masquer le panneau
+de navigation Imprimer Navigation Arrêté du 8 août 2000 Version initiale En
+savoir plus sur ce texte... Informations sur ce texte Résumé Le texte de
+l'annexe I du présent arrêté se substitue au titre de l'annexe V de l'arrêté
+susvisé.Les dispositions du présent arrêté s'appliquent à partir de la rentrée
+scolaire 2000. Mots-clés EDUCATION NATIONALE , ENSEIGNEMENT SUPERIEUR ,
+ENSEIGNEMENT TECHNOLOGIQUE , CLASSE PREPARATOIRE , PREMIERE ANNEE , SECONDE
+ANNEE , SCIENCES , GRANDE ECOLE , GRANDE ECOLE SCIENTIFIQUE , ORGANISATION
+D'ETUDE , FORMATION , PROGRAMME , EPREUVE , BCPST , BIOLOGIE , CHIMIE ,
+PHYSIQUE , SCIENCES DE LA TERRE , RENTREE SCOLAIRE , 2000 JORF n°210 du 10
+septembre 2000 page 14240 texte n° 28 Arrêté du 8 août 2000 modifiant l'arrêté
+du 3 juillet 1995 définissant les objectifs de formation et le programme des
+première et seconde années des classes préparatoires de biologie, chimie,
+physique et sciences de la terre (BCPST) NOR: MENS0002005A ELI: Non disponible
+Le ministre de l'éducation nationale, Vu le décret no 94-1015 du 23 novembre
+1994 relatif à l'organisation et au fonctionnement des classes préparatoires
+aux grandes écoles organisées dans les lycées relevant des ministres chargés
+de l'éducation, de l'agriculture et des armées, notamment l'article 11 ; Vu
+l'arrêté du 3 juillet 1995 définissant les objectifs de formation et le
+programme des première et seconde années des classes préparatoires de
+biologie, chimie, physiques et science de la terre (BCPST), et notamment son
+annexe V ; Vu l'avis du ministre de l'agriculture et de la pêche du 2 mai 2000
+; Vu l'avis du Conseil supérieur de l'éducation du 30 juin 2000 ; Vu l'avis du
+Conseil national de l'enseignement supérieur et de la recherche du 3 juillet
+2000, Arrête : Art. 1er. - Le texte de l'annexe I du présent arrêté se
+substitue au texte de l'annexe V de l'arrêté du 3 juillet 1995 définissant les
+objectifs de formation et le programme des première et seconde années des
+classes préparatoires de biologie, chimie, physique et sciences de la terre
+(BCPST). Art. 2. - Les dispositions du présent arrêté s'appliquent à partir de
+la rentrée scolaire 2000. Art. 3. - La directrice de l'enseignement supérieur
+est chargée de l'exécution du présent arrêté, qui sera publié au Journal
+officiel de la République française. A N N E X E I INFORMATIQUE I. - Objectifs
+de formation L'enseignement de l'informatique en classe préparatoire de
+première année BCPST représente avant tout un premier contact avec l'outil
+informatique quotidien du futur ingénieur. Il doit permettre aux étudiants :
+a) De comprendre les principes et les limites de la résolution d'un problème à
+l'aide de cet outil ; b) De composer des algorithmes destinés à résoudre des
+problèmes simples ; c) De réaliser des programmes informatiques correspondant
+aux algorithmes ; d) D'utiliser des logiciels scientifiques (gestion de bases
+de données, acquisition et exploitation de résultats expérimentaux, calcul
+formel et numérique, simulation, modélisation). 1\. Algorithmique et
+programmation La réalisation des objectifs a, b, c passe par une introduction
+à la programmation élémentaire. La construction d'un programme informatique
+pour résoudre un problème est considérée comme une démarche en deux étapes :
+1\. Analyse et résolution algorithmique du problème ; 2\. Traduction de
+l'algorithme ainsi obtenu dans un langage de programmation. L'introduction à
+la programmation est orientée vers la présentation d'une algorithmique
+généraliste, et non pas seulement vers la résolution de problèmes numériques.
+Cette introduction à la programmation permet aussi de comprendre les principes
+de fonctionnement d'un outil informatique, d'en bien discerner le rôle et les
+modes d'utilisation. On fera prendre conscience des limites qu'entraînent sur
+le traitement et ses résultats : \- la taille de la mémoire de stockage ; \-
+la taille de la mémoire de travail ; \- la vitesse de traitement de
+l'information ; \- le caractère fini du codage de l'information. En revanche,
+aucune connaissance sur ces points n'est exigible. Il est souhaitable que
+certains exercices d'application soient directement inspirés par les
+enseignements de biologie et géologie, de physique et chimie, ou de
+mathématiques. 2\. Utilisation de logiciels L'objectif d vise à une plus
+grande intégration de l'outil informatique dans les disciplines scientifiques,
+en particulier pour les travaux d'initiative personnelle encadrés. Il convient
+d'entraîner les étudiants à utiliser des logiciels dans le cadre de
+l'enseignement des disciplines scientifiques. 3\. Cadre horaire L'initiation à
+l'algorithmique élémentaire et à la programmation est faite en première année.
+Cette formation est complétée, en première et seconde année, par des séances
+d'interrogations orales, en salle d'informatique. Elles ont pour objet non
+seulement la pratique de la programmation mais aussi l'initiation des
+étudiants à l'utilisation de logiciels plus spécialisés en modélisation,
+simulation, acquisition et traitement de données, gestion de bases de données.
+Il est très souhaitable que ces séances soient encadrées, au moins
+partiellement, par les professeurs scientifiques de la classe. Dans tous les
+cas, ces professeurs restent responsables de la définition des contenus des
+activités. Bien que l'apprentissage de l'outil informatique soit limité aux
+heures de formation théorique et aux séances d'interrogations orales pour les
+étudiants, l'emploi d'un tel outil par les enseignants dans les cours et les
+TD des diverses disciplines scientifiques est fortement encouragé en vue de sa
+bonne intégration pédagogique. Les séances d'interrogations orales utilisent
+des postes de travail munis d'un interface graphique, de type fenêtre/souris.
+Le logiciel de développement utilisé doit offrir des facultés d'édition pleine
+page, d'exécution, de correction d'erreurs, et des fonctionnalités graphiques.
+II. - Programme 1\. Algorithmique élémentaire On considère ici qu'un
+algorithme peut être défini de la manière suivante : « Etant donné un problème
+X et un processeur informatique P, un algorithme de X pour P est la
+description d'une solution de X réalisable avec P. Cette description comprend
+deux parties : la première décrit les objets utilisables par P, la seconde les
+actions que P doit exécuter sur ces objets » ; et l'on présente, pour la
+construction d'algorithmes, des types d'objets et d'actions décrits ci-après.
+La présentation d'un algorithme doit respecter un formalisme clair, précis et
+non ambigu. Un tel formalisme peut s'accommoder d'une relative liberté
+d'expression : l'important, au niveau de la construction de l'algorithme, est
+bien davantage la rigueur du raisonnement que des préoccupations syntaxiques.
+Celles-ci ne deviennent essentielles qu'au moment de la traduction dans le
+langage de programmation. 1.1. Objets manipulés On considère ici que les
+objets qui peuvent être utilisés dans un algorithme sont des variables ou des
+constantes élémentaires ou structurées. Un objet élémentaire est de l'un des
+types suivants : \- numérique (entier ou réel) ; \- caractère ; \- logique. Un
+objet structuré peut être : \- une chaîne de caractères ; \- un objet composé
+de plusieurs objets distincts, de types non forcément identiques, élémentaires
+ou eux-mêmes composés ; \- un tableau de une ou plusieurs dimensions pour
+lesquels les indices sont entiers, décrivant un intervalle. Les étudiants
+doivent définir correctement chaque objet employé dans un algorithme. La forme
+d'une telle définition peut être relativement libre, mais doit obligatoirement
+préciser le nom, le type de l'objet ainsi que le rôle qu'il joue dans
+l'algorithme. 1.2. Actions utilisées Pour les actions à exprimer dans un
+algorithme, on distinguera entre les opérations élémentaires et les autres
+qu'il convient de décomposer en actions élémentaires. On montrera comment la
+décomposition d'un énoncé permet la construction d'un algorithme par analyse
+descendante et la structuration modulaire d'un programme. Les actions
+élémentaires sont : \- l'affectation d'une valeur à une variable ; \- les
+actions d'échange avec l'extérieur : lecture au clavier, affichage à l'écran
+ou impression de résultats ; \- l'appel d'un algorithme connu ou décrit par
+ailleurs. Les actions composées font intervenir des enchaînements d'actions
+élémentaires et des structures conditionnelles et itératives. La construction
+d'algorithmes avec paramètres est également étudiée. On évite d'utiliser des
+algorithmes récursifs : aucune connaissance sur la récursivité ne peut être
+exigée des étudiants. 2\. Utilisation des logiciels scientifiques et
+programmation Dans le cadre du présent programme, seules les fonctionnalités
+décrites dans ce paragraphe sont exigibles des étudiants. Ils doivent être
+néanmoins familiarisés à l'utilisation de fonctions ou procédures prédéfinies
+et documentées. Les expressions calculées utilisent les opérations suivantes :
+\- opérateurs unaires ; \- opérateurs arithmétiques ; \- opérateurs de
+comparaison ; \- opérateurs logiques. Pour la manipulation des chaînes de
+caractères, on se limitera aux opérations de comparaison et de concaténation.
+La structure d'un programme peut comprendre des définitions de procédures et
+fonctions. Une procédure ou une fonction peut comporter des paramètres. Les
+énoncés simples sont l'affectation, l'appel de procédure, la lecture au
+clavier, l'affichage à l'écran, l'impression. Les énoncés composés inclus à un
+programme peuvent être conditionnels ou répétitifs. On se limitera à un seul
+niveau de définition : aucune fonction ni procédure ne sera définie à
+l'intérieur d'une autre fonction ou procédure. Les variables sont définies le
+plus localement possible. Les étudiants doivent connaître les différentes
+fonctions d'un paramètre : Paramètre-donnée ; Paramètre-résultat ; Paramètre-
+donnée/résultat. 3\. Environnement de programmation L'environnement de
+programmation utilisé par les étudiants en travaux pratiques permet leur
+familiarisation à l'utilisation interactive d'un ordinateur. Il comprend : \-
+l'édition de texte en mode plein écran pour la saisie et la mise à jour des
+programmes ; \- l'exécution d'un programme avec saisie de données au clavier
+et affichage ou impression des résultats ; \- la sauvegarde des programmes sur
+disque ou disquette ; \- l'impression du texte d'un programme. Un tel
+environnement est le seul dont la connaissance et la maîtrise sont exigibles
+des étudiants. Fait à Paris, le 8 août 2000. Pour le ministre et par
+délégation : La directrice de l'enseignement supérieur, F. Demichel
+Télécharger le document en RTF (poids < 1Mo) Fac-similé (format: pdf, poids <
+3.5 Mo) Masquer le panneau de navigation Imprimer À propos de l'ordre
+juridique français Licences Quoi de neuf sur le site ? À propos du site Plan
+du site Accessibilité Aide générale Nous écrire Établir un lien
+

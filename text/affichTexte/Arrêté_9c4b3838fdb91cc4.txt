@@ -1,0 +1,255 @@
+Arrêté du 20 septembre 1994 relatif au recueil et au traitement des données
+d'activité médicale et de coût, visées à l'article L. 710-5 du code de la
+santé publique, par les établissements de santé publics et privés visés aux
+articles L. 714-1, L. 715-5 du code de la santé publique et aux articles L.
+162-23, L. 162-23-1 et L. 162-25 du code de la sécurité sociale et à la
+transmission aux services de l'Etat et aux organismes d'assurance maladie
+d'informations issues de ces traitements | Legifrance Legifrance - Le service
+public de l'accès au droit Aller au contenu Aller à la navigation générale
+mardi 4 juillet 2017 Informations de mise à jour Accueil Droit français Droit
+européen Droit international Traductions Bases de données Vous êtes dans :
+Accueil> Les autres textes législatifs et réglementaires> Arrêté du 20
+septembre 1994 relatif au recueil et au traitement des données d'activité
+médicale et de coût, visées à l'article L. 710-5 du code de la santé publique,
+par les établissements de santé publics et privés visés aux articles L. 714-1,
+L. 715-5 du code de la santé publique et aux articles L. 162-23, L. 162-23-1
+et L. 162-25 du code de la sécurité sociale et à la transmission aux services
+de l'Etat et aux organismes d'assurance maladie d'informations issues de ces
+traitements Arrêté du 20 septembre 1994 relatif au recueil et au traitement
+des données d'activité médicale et de coût, visées à l'article L. 710-5 du
+code de la santé publique, par les établissements de santé publics et privés
+visés aux articles L. 714-1, L. 715-5 du code de la santé publique et aux
+articles L. 162-23, L. 162-23-1 et L. 162-25 du code de la sécurité sociale et
+à la transmission aux services de l'Etat et aux organismes d'assurance maladie
+d'informations issues de ces traitements Masquer le panneau de navigation
+Imprimer Navigation Arrêté du 20 septembre 1994 (Dernière modification : 11
+février 2004) Version initiale Version abrogée le 11 février 2004 Version
+consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier Février Mars Avril Mai
+Juin Juillet Août Septembre Octobre Novembre Décembre Année Ex: 2017 Sommaire
+Article 1 Article 2 Article 3 Article 4 Article 5 Article 6 Article 7 Article
+8 Article 9 Version consolidée résultant des modifications suivantes : arrêté
+2003-12-31 art. 9 JORF 11 février 2004 arrêté 2003-12-31 art. 9 JORF 11
+février 2004 arrêté 2003-12-31 art. 9 JORF 11 février 2004 arrêté 2003-12-31
+art. 9 JORF 11 février 2004 Arrêté 1996-06-18 art. 1 JORF 28 juin 1996 arrêté
+2003-12-31 art. 9 JORF 11 février 2004 arrêté 2003-12-31 art. 9 JORF 11
+février 2004 arrêté 2003-12-31 art. 9 JORF 11 février 2004 arrêté 2003-12-31
+art. 9 JORF 11 février 2004 arrêté 2003-12-31 art. 9 JORF 11 février 2004
+Arrêté du 20 septembre 1994 relatif au recueil et au traitement des données
+d'activité médicale et de coût, visées à l'article L. 710-5 du code de la
+santé publique, par les établissements de santé publics et privés visés aux
+articles L. 714-1, L. 715-5 du code de la santé publique et aux articles L.
+162-23, L. 162-23-1 et L. 162-25 du code de la sécurité sociale et à la
+transmission aux services de l'Etat et aux organismes d'assurance maladie
+d'informations issues de ces traitements NOR: SPSH9402990A Le ministre d'Etat,
+ministre des affaires sociales, de la santé et de la ville, et le ministre
+délégué à la santé, Vu le code de la santé publique, notamment ses articles L.
+710-5, R. 710-5-1 à R. 710-5-11, R. 712-52 à R. 712-59 et R. 714-3-43 ; Vu le
+code de déontologie médicale ; Vu la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17
+juillet 1978, modifié par les décrets n° 78-1823 du 28 décembre 1978 et n°
+79-421 du 30 mai 1979 ; Vu le décret n° 86-565 du 14 mars 1986 relatif aux
+missions et à l'organisation des directions régionales et départementales des
+affaires sanitaires et sociales ; Vu le décret n° 84-1042 du 28 novembre 1984
+relatif à l'exercice du contrôle médical dans les établissements, services et
+institutions recevant des bénéficiaires des différents régimes obligatoires
+d'assurance maladie ; Vu le décret n° 91-1025 du 7 octobre 1991 relatif au
+statut particulier des médecins inspecteurs de santé publique ; Vu l'avis du
+Conseil national de l'ordre des médecins en date du 6 juillet 1993 ; Vu l'avis
+de la commission des systèmes d'information sur les établissements de santé en
+date du 11 juillet 1994, Article 1 (abrogé au 11 février 2004) En savoir plus
+sur cet article... Abrogé par arrêté 2003-12-31 art. 9 JORF 11 février 2004 I.
+- Afin de procéder notamment à l'analyse médico-économique de leur activité de
+soins, les établissements de santé visés aux articles L. 714-1, L. 715-5 du
+code de la santé publique et aux articles L. 162-23, L. 162-23-1 et L. 162-25
+du code de la sécurité sociale mettent en oeuvre des traitements automatisés
+des données nominatives suivantes : 1° Résumés de sortie standardisés
+(R.S.S.), constitués d'un ou plusieurs résumés d'unité médicale (R.U.M.) pour
+tous les patients admis dans les unités d'hospitalisation complète ou
+incomplète de médecine, chirurgie ou obstétrique, y compris pour les nouveau-
+nés dits " non hospitalisés " ; 2° Nature et coût des prestations
+diagnostiques et thérapeutiques dont chaque patient a bénéficié au cours de
+son séjour ou de ses venues dans l'établissement. II. - La mise en oeuvre de
+ces traitements automatisés doit être précédée d'une demande d'avis ou d'une
+déclaration auprès de la Commission nationale de l'informatique et des
+libertés (C.N.I.L.), émanant des établissements concernés. III. - Ces
+établissements prennent toutes dispositions utiles afin de permettre aux
+patients d'exercer auprès du médecin responsable de l'information médicale,
+par l'intermédiaire du praticien responsable de la structure médicale dans
+laquelle ils ont reçu des soins ou du praticien ayant constitué leur dossier,
+leurs droits d'accès et de rectification tels que prévus aux articles 34 et 40
+de la loi du 6 janvier 1978 susvisée. IV. - Après avoir été rendues anonymes,
+certaines des informations des résumés de sortie standardisés sont
+communiquées aux services de l'Etat sous forme de résumés de sortie anonymes
+(R.S.A.) tels que décrits à l'article 5, selon les modalités décrites à
+l'article 6 ci-dessous. Article 2 (abrogé au 11 février 2004) En savoir plus
+sur cet article... Modifié par Arrêté 1996-06-18 art. 1 JORF 28 juin 1996
+Abrogé par arrêté 2003-12-31 art. 9 JORF 11 février 2004 I. - Dans chaque
+unité médicale de médecine, chirurgie ou obstétrique, les catégories
+d'informations enregistrées sur les R.U.M. sont les suivantes : 1°
+Informations relatives à l'identification des malades : \- identifiant
+correspondant à l'ensemble du séjour dans les unités de médecine, chirurgie ou
+obstétrique de l'établissement ; \- date de naissance ; \- sexe ; \- code
+postal du lieu de résidence ; 2° Autres informations obligatoires : \- numéro
+de l'établissement dans le fichier national des établissements sanitaires et
+sociaux (Finess) ; \- numéro de l'unité médicale (unité définie au gré de
+l'établissement pour les besoins du codage médical des séjours) ; \- date et
+mode d'entrée dans l'unité ; \- date et mode de sortie de l'unité ; \- type de
+mutation ou de transfert ; \- hospitalisation inférieure à vingt-quatre heures
+(le cas échéant) ; \- existence d'une hospitalisation au cours des trente
+jours précédant la date d'entrée dans l'établissement ; \- nombre de séances ;
+\- diagnostic principal ; \- diagnostics associés ; \- actes signalés comme "
+actes classants " dans le catalogue des actes médicaux ; \- poids à la
+naissance (pour les nouveau-nés). 3° Informations obligatoires pour les
+patients adultes relevant des disciplines de réanimation, de soins intensifs
+ou de surveillance continue : indice de gravité simplifié II (IGS II). II. -
+Par exception au 1° ci-dessus, si la personne a été soignée sous le couvert de
+l'anonymat, les informations d'identité sont limitées à l'année de naissance,
+au sexe et au numéro d'hospitalisation. III. - Par exception au 2° ci-dessus,
+il peut être réalisé un R.S.S. unique par mois, trimestre ou semestre pour
+certains traitements de nature itérative constitués chacun d'une série de
+séances semblables concernant le même malade. Dans ce cas, la date d'entrée
+correspond à la première séance et la date de sortie à la dernière séance du
+mois, trimestre ou semestre considéré. En aucun cas il n'est fait mention de
+séances dans les R.S.S. correspondant à des prises en charge hospitalières de
+plus de vingt-quatre heures. IV. - Dans le cadre de protocoles approuvés par
+la commission médicale ou la conférence médicale de l'établissement, après
+avis de la Commission nationale de l'informatique et des libertés, d'autres
+informations, notamment de nature médicale, peuvent être enregistrées au sein
+d'une unité médicale ou de l'établissement. Article 3 (abrogé au 11 février
+2004) En savoir plus sur cet article... Abrogé par arrêté 2003-12-31 art. 9
+JORF 11 février 2004 I. - Afin de déterminer des groupes homogènes de malades
+(G.H.M.), il est constitué, sous la responsabilité du médecin désigné à
+l'article 4, des fichiers de R.S.S. Le R.S.S. est constitué de l'ensemble des
+R.U.M. relatifs au même séjour d'un malade dans une ou plusieurs unités de
+médecine, chirurgie ou obstétrique, fréquentées successivement dans
+l'établissement. Il est identifié par un numéro, attribué selon un mode
+séquentiel ou aléatoire, et dit " numéro de R.S.S. ". II. - L'établissement
+visé au présent arrêté s'entend de l'entité juridique, sauf, le cas échéant,
+pour les établissements de santé qui, sur dérogation de l'autorité de tutelle,
+peuvent constituer et grouper les R.S.S. par établissement ou groupe
+hospitalier. III. - Les diagnostics sont codés selon la classification
+internationale des maladies de l'Organisation mondiale de la santé, les actes
+médicaux selon le catalogue des actes médicaux paru au Bulletin officiel. IV.
+- Un guide méthodologique, édité au Bulletin officiel, précise les modalités
+de production, de codage et du groupage des R.S.S. et de constitution des
+R.S.A. Les groupes homogènes de malades (G.H.M.) sont répertoriés et décrits
+selon la classification publiée au Bulletin officiel. Article 4 (abrogé au 11
+février 2004) En savoir plus sur cet article... Abrogé par arrêté 2003-12-31
+art. 9 JORF 11 février 2004 I. - Le médecin responsable de l'information
+médicale pour l'établissement, visé aux troisième et quatrième alinéas de
+l'article L. 710-5 du code de la santé publique : \- effectue le groupage des
+R.S.S. en G.H.M., produisant ainsi un fichier de R.S.S. groupés ; \- veille à
+la qualité des données, conseille les structures médicales et médico-
+techniques pour leur production et les fait bénéficier de retours
+d'information sans lesquels la validation des données ne peut être acquise ;
+\- assure en tant que de besoin la correspondance entre les fichiers de R.S.S.
+et les fichiers de données nominatives de consommation ou de coût ; \-
+effectue les traitements des données médicales nominatives nécessaires à
+l'analyse de l'activité ; \- assure la diffusion des informations auprès des
+praticiens responsables d'une structure médicale ou médico-technique, des
+praticiens ayant dispensé les soins et auprès de la direction de
+l'établissement et du président de la commission médicale d'établissement ou
+de la conférence médicale, selon des modalités arrêtées après avis desdites
+commission ou conférence, dans des conditions garantissant la confidentialité
+et l'anonymat des patients. II. - Les médecins inspecteurs de la santé
+publique et les praticiens-conseils des organismes d'assurance maladie ont
+accès, par l'intermédiaire du médecin chargé de l'information médicale, aux
+fichiers de R.S.S. Dans le cadre des procédures de contrôle de la qualité des
+données, ils préviennent les praticiens responsables des structures médicales
+concernées préalablement à toute confrontation de R.U.M. ou de R.S.S. avec un
+dossier médical. III. - La durée minimale de conservation des fichiers
+semestriels de R.S.S. groupés est de quatre ans. Sauf disposition contraire
+prise sur avis conforme de la Commission nationale de l'informatique et des
+libertés, les fichiers de R.S.S. groupés conservés dans l'établissement à des
+fins de contrôle ne peuvent contenir de données relatives à des séjours
+hospitaliers dont la date de sortie serait antérieure de plus de cinq ans à la
+date du 1er janvier de l'année en cours. Article 5 (abrogé au 11 février 2004)
+En savoir plus sur cet article... Abrogé par arrêté 2003-12-31 art. 9 JORF 11
+février 2004 I. - A partir des fichiers de R.S.S. groupés, il est constitué,
+sous la responsabilité du médecin visé à l'article 4, des fichiers de résumés
+de sortie anonymes (R.S.A.). Produits par un programme informatique générateur
+de R.S.A., propriété de l'Etat, qui attribue à chacun une clé cryptée
+certifiant qu'il est issu d'un R.S.S. groupé, les R.S.A. ne comportent : \- ni
+le numéro du R.S.S. ; \- ni la date de naissance, remplacée par l'âge calculé
+à la date d'entrée (en jours pour les enfants de moins de un an à cette date)
+; \- ni les numéros d'unité médicale (seul figure le nombre d'unités médicales
+fréquentées au cours du séjour) ; \- ni le code postal, remplacé par un code
+géographique attribué selon une liste convenue au niveau national, en accord
+avec la C.N.I.L. ; \- ni les dates d'entrée et de sortie, remplacées par la
+durée de séjour, le mois et l'année de sortie. II. - Le directeur et le
+président de la commission médicale ou de la conférence médicale de
+l'établissement sont destinataires de statistiques agrégées par unité médicale
+et pour l'ensemble de l'établissement ou, sur leur demande, de fichiers de
+R.S.A. ou d'autres fichiers de données individuelles préalablement rendues
+anonymes vis-à-vis des personnes soignées. Article 6 (abrogé au 11 février
+2004) En savoir plus sur cet article... Abrogé par arrêté 2003-12-31 art. 9
+JORF 11 février 2004 I. - L'établissement transmet à la direction régionale
+des affaires sanitaires et sociales, sur un support magnétique agréé par les
+services de l'Etat concernés, le fichier de R.S.A. relatif aux patients sortis
+pendant le semestre. Ce fichier est issu de la plus récente version du
+générateur de R.S.A. visé à l'article 5 ci-dessus ; il est transmis trois mois
+au plus tard après la fin du semestre considéré. II. - Dans le mois suivant la
+réception, la D.R.A.S.S. transmet ces informations à la caisse régionale
+d'assurance maladie et à la caisse pivot dont dépend l'établissement, selon
+des modalités définies par un protocole local signé entre le représentant de
+l'Etat au niveau de la région et les organismes locaux d'assurance maladie.
+Les services médicaux placés près des caisses destinataires ont accès à ces
+informations. III. - Dans chaque établissement, le médecin chargé de
+l'information médicale sauvegarde le fichier de R.S.S. groupés qui est à la
+source du fichier de R.S.A. et assure la conservation de la copie produite.
+IV. - La modification d'un ou plusieurs R.S.A. antérieurement transmis ou
+l'intégration de R.S.A. précédemment omis exigent le remplacement complet du
+fichier relatif au semestre considéré. Les services de l'Etat ne procèdent à
+une telle substitution de fichiers que dans des cas exceptionnels, à la suite
+d'un contrôle, ou sur demande motivée de l'établissement. Dans de tels cas,
+une copie-source du fichier modifié doit également être conservée par
+l'établissement émetteur. V. - Si des séjours sont classés par le logiciel
+dans le groupe " acte(s) sans relation avec le diagnostic principal ", en
+raison de ce qui lui apparaît comme une insuffisance de l'algorithme de
+classification en vigueur, l'établissement propose et motive brièvement, pour
+chacun des R.S.A. concernés, une affectation par assimilation dans un G.H.M.
+correspondant le mieux à la prestation fournie au patient. Article 7 (abrogé
+au 11 février 2004) En savoir plus sur cet article... Abrogé par arrêté
+2003-12-31 art. 9 JORF 11 février 2004 I. - Les établissements de santé
+adaptent progressivement leur comptabilité analytique, dans le cadre de leur
+schéma directeur d'information, pour permettre une affectation des charges par
+séjour. II. - La nature des traitements de données et des retours
+d'information est arrêtée par le directeur de l'établissement, après avis de
+la commission médicale ou de la conférence médicale de l'établissement. Leur
+mise en oeuvre requiert, pour ce qui est de la liaison avec les données
+médicales nominatives, l'intervention du médecin responsable de l'information
+médicale. III. - Ces traitements font l'objet, préalablement à leur mise en
+oeuvre, d'une déclaration ou d'une demande d'avis par l'établissement auprès
+de la Commission nationale de l'informatique et des libertés. IV. - Pour
+faciliter la comparaison des coûts et l'analyse des écarts, les services de
+l'Etat mettent en oeuvre une enquête permanente sur un échantillon
+représentatif des catégories d'établissements concernés. Ils publient
+annuellement les références ainsi produites et précisent la méthode de calcul
+des coûts employée. Article 8 (abrogé au 11 février 2004) En savoir plus sur
+cet article... Abrogé par arrêté 2003-12-31 art. 9 JORF 11 février 2004 I. -
+L'arrêté du 3 octobre 1985 du ministre des affaires sociales et de la
+solidarité nationale autorisant l'informatisation des résumés de sortie
+standardisés dans les établissements d'hospitalisation publics et privés
+participant au service public est abrogé. II. - A titre transitoire, jusqu'au
+1er juillet 1995, le recueil ou le calcul et le traitement des informations
+suivantes reste facultatif : date de naissance complète (l'année suffit), code
+postal du lieu de résidence, type de mutation ou de transfert, durée
+d'hospitalisation inférieure à vingt-quatre heures, poids à la naissance et
+âge en jours des nouveau-nés, existence d'une hospitalisation au cours des
+trente jours précédant la date d'entrée dans l'établissement. III. - Sauf
+dispositions contraires, prises sur avis conforme de la Commission nationale
+de l'informatique et des libertés, les fichiers de R.S.S. détenus par d'autres
+organismes que les établissements de santé sont retournés aux établissements
+d'origine ou détruits après transformation en fichiers de R.S.A. dans un délai
+de trois mois à compter de la date de publication du présent arrêté. Article 9
+(abrogé au 11 février 2004) Le directeur des hôpitaux est chargé de
+l'exécution du présent arrêté, qui sera publié au Journal officiel de la
+République française. Le ministre d'Etat, ministre des affaires sociales, de
+la santé et de la ville, Pour le ministre et par délégation : Le directeur des
+hôpitaux, G. VINCENT Le ministre délégué à la santé, Pour le ministre et par
+délégation : Le directeur des hôpitaux, G. VINCENT Télécharger le document en
+RTF (poids < 1Mo) Masquer le panneau de navigation Imprimer À propos de
+l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

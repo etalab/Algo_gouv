@@ -1,0 +1,250 @@
+Délibération n° 2016-218 du 21 juillet 2016 portant avis sur un projet
+d'arrêté autorisant la création d'un traitement automatisé de données à
+caractère personnel dénommé « DOCVERIF » (saisine n° 1969985) | Legifrance
+Legifrance - Le service public de l'accès au droit Aller au contenu Aller à la
+navigation générale mardi 4 juillet 2017 Informations de mise à jour Accueil
+Droit français Droit européen Droit international Traductions Bases de données
+Vous êtes dans : Accueil> Les autres textes législatifs et réglementaires>
+Délibération n° 2016-218 du 21 juillet 2016 portant avis sur un projet
+d'arrêté autorisant la création d'un traitement automatisé de données à
+caractère personnel dénommé « DOCVERIF » (saisine n° 1969985) Délibération n°
+2016-218 du 21 juillet 2016 portant avis sur un projet d'arrêté autorisant la
+création d'un traitement automatisé de données à caractère personnel dénommé «
+DOCVERIF » (saisine n° 1969985) Masquer le panneau de navigation Imprimer
+Informations sur ce texte JORF n°0192 du 19 août 2016 texte n° 44 Délibération
+n° 2016-218 du 21 juillet 2016 portant avis sur un projet d'arrêté autorisant
+la création d'un traitement automatisé de données à caractère personnel
+dénommé « DOCVERIF » (saisine n° 1969985) NOR: CNIX1623449X ELI: Non
+disponible La Commission nationale de l'informatique et des libertés,Saisie
+par le ministre de l'intérieur d'une demande d'avis concernant un projet
+d'arrêté autorisant la création d'un traitement automatisé de données à
+caractère personnel dénommé « DOCVERIF » ;Vu la convention n° 108 du Conseil
+de l'Europe pour la protection des personnes à l'égard du traitement
+automatisé des données à caractère personnel ;Vu la directive 95/46/CE du
+Parlement européen et du Conseil du 24 octobre 1995 relative à la protection
+des personnes physiques à l'égard du traitement des données à caractère
+personnel et à la libre circulation de ces données ;Vu la loi n° 78-17 du 6
+janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés,
+notamment son article 26-I ;Vu le décret n° 55-1397 du 22 octobre 1955 modifié
+instituant la carte nationale d'identité ;Vu le décret n° 2005-1309 du 20
+octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés ;Vu le décret n°
+2005-1726 du 30 décembre 2005 modifié relatif aux passeports ;Vu le décret n°
+2010-569 du 28 mai 2010 modifié relatif au fichier des personnes recherchées
+;Vu l'arrêté du 17 mars 2014 modifié portant autorisation à titre expérimental
+d'un traitement automatisé de données à caractère personnel dénommé « Fichier
+des objets et des véhicules signalés » (FOVeS) ;Après avoir entendu M. Jean-
+François CARREZ, commissaire, en son rapport, et M. Jean-Alexandre SILVY,
+commissaire du Gouvernement, en ses observations,Emet l'avis suivant :La
+Commission nationale de l'informatique et des libertés a été saisie pour avis
+d'un projet d'arrêté autorisant la création, par le ministre de l'intérieur,
+d'un traitement automatisé de données à caractère personnel dénommé « DOCVERIF
+».Ce traitement vise à renforcer l'efficacité de la lutte contre la fraude
+documentaire et l'usurpation d'identité en facilitant le contrôle, par les
+services de la police nationale et de la gendarmerie nationale, de la validité
+de titres d'identité émis par les autorités françaises.Il relève dès lors des
+dispositions de l'article 26-I de la loi du 6 janvier 1978 modifiée et doit
+être autorisé par un arrêté ministériel pris après avis motivé et publié de la
+commission.Sur la finalité du traitement :L'article 1er du projet d'arrêté
+prévoit que la finalité du traitement DOCVERlF, mis en œuvre par l'Agence
+nationale des titres sécurisés, est « de faciliter le contrôle de la validité
+des documents émis par les autorités françaises afin de lutter contre la
+fraude documentaire ».Dans un premier temps, seuls les cartes nationales
+d'identité et les passeports seront concernés, comme le prévoit expressément
+l'article 2 du projet d'arrêté. Le ministère de l'intérieur a cependant
+indiqué que le traitement avait vocation à s'étendre à d'autres documents, en
+particulier aux permis de conduire et aux titres de séjour.Le traitement
+DOCVERIF, alimenté par les données provenant du fichier des titres
+électroniques sécurisés pour les passeports (TES) et du système de gestion
+informatisée des cartes nationales d'identité ou « fichier national de gestion
+» (FNG), a pour unique objet le contrôle de la validité des documents. Sa
+finalité se distingue ainsi de celles prévues par les dispositions relatives
+au TES et au FNG.La finalité du traitement DOCVERIF est également plus
+restreinte que celles définies par les dispositions relatives au fichier des
+personnes recherchées (FPR) et au fichier des objets et véhicules signalés
+(FOVeS), dans la mesure où elle ne concerne que des documents et ne permet pas
+d'effectuer des recherches relatives à des personnes.Ainsi, l'article 5 du
+projet d'arrêté prévoit que l'interrogation du traitement DOCVERIF ne peut
+être effectuée que par la saisie du type et du numéro du document, ce qui
+exclut notamment toute recherche nominative.La consultation de DOCVERIF
+s'effectuera toutefois sans préjudice de l'interrogation complémentaire du FPR
+et du FOVeS.En outre, le traitement DOCVERIF doit apporter une aide aux agents
+procédant aux contrôles en définissant, pour chaque titre invalidé et au
+regard des circonstances particulières de l'invalidation, des éléments sur la
+conduite à tenir. Ces éléments portent essentiellement sur les mesures à
+prendre à l'égard du document invalide et les investigations complémentaires à
+diligenter.Enfin, il permettra de transmettre au Système d'information
+Schengen (fichier européen N-SIS) et au fichier international SLTD (Stolen and
+Lost Travel Documents) géré par Interpol, les informations relatives aux
+cartes nationales d'identité perdues ou volées.Dès lors, la commission
+considère que les finalités du traitement DOCVERIF sont déterminées,
+explicites et légitimes, conformément à l'article 6 (2°) de la loi du 6
+janvier 1978 modifiée.Néanmoins, elle estime que la mention « émis par les
+autorités françaises », utilisée à l'article 1er du projet d'arrêté pour
+qualifier les documents concernés par le traitement, est trop restrictive. En
+effet, si cette expression est pertinente pour les documents perdus, volés ou
+ayant notamment fait l'objet d'une décision de retrait, elle ne recouvre pas
+l'hypothèse de faux documents fabriqués par des autorités incompétentes.La
+commission prend acte que, pour remédier à cette difficulté, le ministère de
+l'intérieur s'engage à modifier l'article 1er du projet d'arrêté autorisant la
+création de DOCVERIF, en ajoutant que le traitement vise également à lutter
+contre la falsification et la contrefaçon des documents.La commission relève
+enfin que les finalités de DOCVERIF recouvrent partiellement celles des
+traitements précités.Elle souligne par conséquent que, si le ministère de
+l'intérieur devait élargir ultérieurement le champ d'application du dispositif
+à de nouveaux destinataires ou à de nouveaux documents, la définition des
+personnels spécifiquement concernés par cette extension et l'articulation des
+conditions de consultation des différents traitements devraient être
+précisément explicitées. Le ministère de l'intérieur devrait également veiller
+à procéder aux modifications requises des textes en vigueur relatifs aux
+traitements alimentant DOCVERIF, afin de mentionner la mise en relation avec
+ce dernier traitement ou l'élargissement éventuel des destinataires.En tout
+état de cause, la commission prend acte que, dans l'hypothèse d'une extension
+du dispositif, elle sera saisie d'une nouvelle demande d'avis du ministère de
+l'intérieur.Sur les données traitées :Le traitement DOCVERIF doit être
+alimenté par les données provenant du TES et du FNG.L'article 4 du projet
+d'arrêté prévoit que les données enregistrées sont les suivantes : \- le type
+et le numéro du document ;- la mention du caractère valide ou non valide du
+document ;- pour les seuls documents invalides, le motif avec la date de
+l'invalidité du document, les nom, prénom(s), date et lieu de naissance
+mentionnés sur le document, ainsi que sa date de délivrance ;- des éléments
+relatifs à la conduite que doivent adopter les agents en cas de découverte
+d'un document invalide. Ainsi, pour les documents valides, seule doit
+apparaître, en cas de consultation par un agent, la confirmation de la
+validité du titre.Concernant les documents invalides, les données accessibles
+sont plus nombreuses et apportent des éléments utiles aux agents sur
+l'identité du titulaire authentique ou les circonstances de l'invalidation,
+notamment pour qu'ils s'assurent que les mentions figurant sur le document
+n'ont pas été falsifiées et qu'ils adaptent leur comportement aux
+particularités de la situation.Les données enregistrées dans DOCVERIF sont
+ainsi strictement limitées aux informations nécessaires à la réalisation du
+contrôle, conformément à l'article 6 (3°) de la loi du 6 janvier 1978
+modifiée.La commission estime qu'une vigilance particulière s'impose toutefois
+en matière de mise à jour des données, compte tenu des conséquences
+importantes qu'emporteraient, pour les personnes contrôlées, d'éventuelles
+erreurs sur le statut du document présenté à l'occasion d'un contrôle.A cet
+égard, les informations concernant la validité des titres seront envoyées tous
+les jours par les applications de gestion FNG et TES. Cette fréquence est de
+nature à éviter que le traitement DOCVERIF ne contienne des données erronées
+ou inexactes, conformément aux dispositions de l'article 6 (4°) de la loi du 6
+janvier 1978 modifiée.En revanche, la commission considère que la notion de
+validité, autour de laquelle s'articule l'ensemble du dispositif et qui
+conditionne notamment l'étendue des données accessibles, devrait faire l'objet
+d'une définition plus rigoureuse.En effet, l'article 3 du projet d'arrêté
+prévoit que « sont considérés comme valides […] les documents [...] qui n'ont
+pas fait l'objet d'une invalidation dans les bases de gestion informatiques
+utilisées dans le cadre de la délivrance desdits documents, à la suite
+notamment d'une perte, d'un vol ou d'une décision de retrait ». Le deuxième
+alinéa du même article précise que la seule péremption du document ne
+constitue pas un motif d'invalidité.Eu égard à l'importance que revêt la
+notion de validité dans le cadre du dispositif projeté, la commission demande
+que les dispositions de l'article 3 comportent un renvoi aux différentes
+dispositions permettant de fonder une décision d'invalidation ou une liste
+limitative des hypothèses d'invalidation susceptibles de fonder une
+inscription dans le traitement.Sur la durée de conservation des données
+:L'article 9 du projet d'arrêté prévoit que la durée de conservation des
+données enregistrées dans le traitement DOCVERIF correspond, pour chaque
+document, à la durée de conservation des données enregistrées dans la base de
+gestion informatique utilisée pour la délivrance de ce titre.Ces durées sont
+de quinze ou dix ans pour le fichier TES, conformément à l'article 24 du
+décret n° 2005-1726 du 30 décembre 2005 précité, et de vingt ou quinze ans
+pour le FNG, aux termes de l'article 9 du décret n° 55-1397 du 22 octobre 1955
+modifié, étant précisé que les durées les plus courtes concernent, dans les
+deux cas, les personnes mineures.La commission considère que ces durées sont
+adaptées aux finalités pour lesquelles les données sont collectées et
+traitées, conformément à l'article 6 (5°) de la loi du 6 janvier 1978
+modifiée.Sur les destinataires des données :Le projet d'arrêté distingue les
+personnels pouvant accéder directement aux données contenues dans DOCVERIF des
+personnes pouvant être destinataires de données.L'article 6 du projet d'arrêté
+prévoit ainsi que seuls peuvent accéder aux données et informations contenues
+dans DOCVERIF, « à raison de leurs attributions légales et dans la limite du
+besoin d'en connaître » : \- les agents de la police nationale
+individuellement désignés et habilités ;- les militaires de la gendarmerie
+nationale individuellement désignés et habilités ;- les agents du ministère de
+l'intérieur (secrétariat général) en charge de l'application de la
+réglementation relative aux cartes nationales d'identité et aux passeports ;-
+les agents de l'Agence nationale des titres sécurisés chargés de la mise en
+œuvre du traitement. Concernant les agents de la police et de la gendarmerie
+nationales, la commission demande qu'il soit précisé que seuls sont concernés
+les agents ayant des missions de contrôle de l'identité des personnes et de
+vérification de la validité des documents, à l'instar de ce qui a été prévu
+par l'article 21 du décret du 30 décembre 2005 modifié relatif aux passeports
+précité.Sous ces réserves, la commission estime qu'un intérêt légitime
+justifie l'accès de ces agents aux données, conformément à l'article 6 (2°) de
+la loi du 6 janvier 1978 modifiée.L'article 7 du projet d'arrêté prévoit en
+outre que, pour les besoins exclusifs de leurs missions, peuvent être
+destinataires des données du traitement les agents chargés de l'application de
+la réglementation relative aux documents concernés au sein des services
+déconcentrés du ministère de l'intérieur et des services du ministère des
+affaires étrangères ainsi que « les autorités judiciaires ».S'agissant des
+premiers, le ministère de l'intérieur a relevé que les agents en cause
+bénéficient actuellement d'un accès aux bases sources relatives aux cartes
+nationales d'identité et aux passeports et que les services de la police ou de
+la gendarmerie nationale pourront être amenés à restituer des documents
+invalidés à la préfecture territorialement compétente.La commission rappelle
+toutefois que ces traitements sources poursuivent des finalités distinctes du
+traitement DOCVERIF, qui vise uniquement à faciliter le contrôle de la
+validité des cartes nationales d'identité et des passeports par la police
+nationale et la gendarmerie nationale. Quant à l'éventuelle restitution de
+documents invalidés à la préfecture, elle ne justifie pas en elle-même que les
+agents des services déconcentrés aient un accès au traitement DOCVERIF dans la
+mesure où, précisément, ces agents bénéficient déjà d'un accès aux bases
+sources.Elle considère dès lors que l'accès des agents mentionnés au 1° de
+l'article 7 du projet d'arrêté n'est pas justifié au regard des finalités
+spécifiques de DOCVERIF.En outre, la commission estime que la seule mention de
+l'expression « autorités judiciaires » ne permet pas de déterminer
+suffisamment les circonstances dans lesquelles cet accès est autorisé. Elle
+demande qu'une définition plus circonscrite de ces destinataires, par exemple
+par une référence aux types de procédures ou aux catégories de magistrats
+concernés, soit prévue.L'article 8 du projet d'arrêté prévoit enfin,
+conformément aux engagements internationaux, que le traitement transmet à
+Interpol et au Système d'information Schengen les informations relatives aux
+cartes nationales d'identité perdues ou volées et permet la transmission de
+données aux autorités compétentes des Etats appliquant la décision
+2007/533/JAI du Conseil du 12 juin 2007 sur le Système d'information Schengen
+de deuxième génération (SIS II) ou aux Etats membres d'Interpol, aux seules
+fins de confirmer l'exactitude et la pertinence d'un signalement.Sur les
+droits des personnes :L'article 11 du projet d'arrêté prévoit que les droits
+d'information et d'opposition prévus aux articles 32 et 38 de la loi du 6
+janvier 1978 modifiée ne s'appliquent pas au traitement DOCVERIF, ce qui
+n'appelle pas d'observation de la part de la commission.Il en va de même des
+dispositions relatives aux droits d'accès et de rectification des données, qui
+s'exercent directement auprès du Secrétaire général du ministère de
+l'intérieur.Sur la sécurité des données et la traçabilité des actions :Des
+profils d'habilitation sont prévus afin de gérer les accès aux données du
+traitement DOCVERIF.Pour la consultation, une authentification unique (SSO :
+Single Sign On) via les portails métiers de la police nationale et de la
+gendarmerie nationale est prévue.L'authentification des agents de l'Agence
+nationale des titres sécurisés, administrateurs du traitement, se fait à
+l'aide d'une carte à puce.Les échanges de données sont réalisés via des canaux
+de communication chiffrés et assurant l'authentification de la source et de la
+destination. L'accès aux données est sécurisé au moyen du protocole https.La
+commission rappelle la nécessité de mettre en œuvre des conditions de sécurité
+effective, de haut niveau et de nature à garantir la confidentialité des
+données pour la mise à disposition de fichiers vers des destinataires
+extérieurs en ce qui concerne le Système d'information Schengen et le fichier
+international SLTD géré par Interpol.Un algorithme conforme à l'état de l'art
+est utilisé pour le chiffrement des données en base active ainsi que pour les
+données sauvegardées.Une journalisation des opérations de consultation du
+traitement est réalisée, étant précisé que la durée de conservation des traces
+de consultations, définie à l'article 10 du projet d'arrêté, est d'un
+an.L'accès aux journaux est restreint aux seuls administrateurs du traitement.
+Afin de détecter tout usage abusif ou frauduleux, la commission recommande de
+réaliser des contrôles réguliers des traces de manière automatique, afin de
+détecter les comportements anormaux et lever des alertes.Un système de purge
+automatique et quotidienne est mis en œuvre.Le réseau sur lequel repose le
+traitement fait l'objet de mesures de filtrage. Les accès distants sont
+sécurisés via un VPN chiffré.Des sauvegardes quotidiennes sont réalisées et
+sont stockées dans un endroit garantissant leur sécurité et leur
+disponibilité.Dans ces conditions, la commission estime que les mesures de
+sécurité décrites par le responsable de traitement sont conformes à l'exigence
+de sécurité prévue par l'article 34 de la loi du 6 janvier 1978 modifiée. La
+commission rappelle toutefois que l'obligation résultant de l'article 34
+susmentionné nécessite la mise à jour des mesures de sécurité au regard de la
+réévaluation régulière des risques. Le vice-président délégué, M.-F. Mazars
+Télécharger le document en RTF (poids < 1Mo) Extrait du Journal officiel
+électronique authentifié (format: pdf, poids : 0.21 Mo) Masquer le panneau de
+navigation Imprimer À propos de l'ordre juridique français Licences Quoi de
+neuf sur le site ? À propos du site Plan du site Accessibilité Aide générale
+Nous écrire Établir un lien
+

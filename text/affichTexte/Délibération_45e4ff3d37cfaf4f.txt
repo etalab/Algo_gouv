@@ -1,0 +1,377 @@
+Délibération n° 2016-006 du 14 janvier 2016 portant avis sur un projet
+d'arrêté autorisant la mise en œuvre par le ministère de l'éducation
+nationale, de l'enseignement supérieur et de la recherche d'un traitement
+automatisé de données à caractère personnel dénommé « suivi de consultation
+bulletin n° 2 » (SCB2) | Legifrance Legifrance - Le service public de l'accès
+au droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération n° 2016-006 du 14
+janvier 2016 portant avis sur un projet d'arrêté autorisant la mise en œuvre
+par le ministère de l'éducation nationale, de l'enseignement supérieur et de
+la recherche d'un traitement automatisé de données à caractère personnel
+dénommé « suivi de consultation bulletin n° 2 » (SCB2) Délibération n°
+2016-006 du 14 janvier 2016 portant avis sur un projet d'arrêté autorisant la
+mise en œuvre par le ministère de l'éducation nationale, de l'enseignement
+supérieur et de la recherche d'un traitement automatisé de données à caractère
+personnel dénommé « suivi de consultation bulletin n° 2 » (SCB2) Masquer le
+panneau de navigation << Article précédent \- Article suivant >> \- Imprimer
+Navigation Retour au texte en version initiale Article Versions de l'article:
+Version initiale Version consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier
+Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre
+Année Ex: 2017 Chemin : Délibération n° 2016-006 du 14 janvier 2016 portant
+avis sur un projet d'arrêté autorisant la mise en œuvre par le ministère de
+l'éducation nationale, de l'enseignement supérieur et de la recherche d'un
+traitement automatisé de données à caractère personnel dénommé « suivi de
+consultation bulletin n° 2 » (SCB2) Article ELI: Non disponible (Demande
+d'avis n° 1912336) La Commission nationale de l'informatique et des
+libertés,Saisie par la ministre de l'éducation nationale, de l'enseignement
+supérieur et de la recherche d'une demande d'avis concernant un projet
+d'arrêté autorisant la mise en œuvre d'un traitement automatisé de données à
+caractère personnel dénommé « suivi de consultation bulletin n° 2 » (SCB2) ;Vu
+la convention n° 108 du Conseil de l'Europe pour la protection des personnes à
+l'égard du traitement automatisé des données à caractère personnel ;Vu la
+directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995
+relative à la protection des personnes physiques à l'égard du traitement des
+données à caractère personnel et à la libre circulation de ces données ;Vu le
+code pénal ;Vu le code de procédure pénale, notamment ses articles 776 et R.
+79 ;Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique,
+aux fichiers et aux libertés, notamment son article 26-1 ;Vu le décret n°
+2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés ;Vu le décret n° 2015-1841 du 30 décembre 2015 relatif à la
+délivrance des extraits de casier judiciaire ;Vu la délibération n° 2015-415
+du 19 novembre 2015 portant avis sur un projet de décret relatif aux
+dispositions concernant le contenu et la délivrance des extraits de casier
+judicaire ;Après avoir entendu M. Gaëtan GORCE, commissaire, en son rapport,
+et M. Jean-Alexandre SILVY, commissaire du Gouvernement, en ses
+observations,Emet l'avis suivant :La commission a été saisie par la ministre
+de l'éducation nationale, de l'enseignement supérieur et de la recherche
+(MENESR) d'une demande d'avis relative à un projet d'arrêté autorisant la mise
+en œuvre par ledit ministère d'un traitement automatisé de données à caractère
+personnel dénommé « Suivi de consultation bulletin n° 2 » (SCB2).L'article R.
+79 du code de procédure pénale, récemment modifié par le décret n° 2015-1841
+du 30 décembre 2015 susvisé, pris après l'avis de la commission en date du 19
+novembre 2015, permet « aux administrations de l'Etat, aux collectivités
+territoriales et à leurs établissements publics, ainsi qu'aux établissements
+de santé sociaux et médico-sociaux mentionnés à l'article 2 de la loi n° 86-33
+du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
+publique hospitalière, pour le contrôle de l'exercice d'emplois dans leurs
+services impliquant un contact habituel avec des mineurs » de recueillir le
+bulletin n° 2 du casier judiciaire (ci-après « B2 ») de leurs agents.Cette
+modification, intervenue dans un contexte où avaient été constatés des
+dysfonctionnements dans le contrôle des professions impliquant un contact avec
+des mineurs, permet à ces administrations de recueillir le B2 hors du seul
+cadre du recrutement de leurs agents, tout au long de leur carrière, afin de
+procéder à ce contrôle.Désormais habilité à solliciter le B2 de certains de
+ses agents afin de contrôler l'exercice de certains emplois et de renforcer
+ainsi la protection des mineurs, le MENESR a décidé, compte tenu de la
+volumétrie des agents concernés par ce contrôle, de mettre en place un
+traitement automatisé de données à caractère personnel.Dans la mesure où le
+traitement SCB2 est mis en œuvre pour le compte de l'Etat et a pour finalité
+d'identifier des condamnations susceptibles d'être incompatibles avec un
+contact habituel avec des mineurs, il a pour objet la prévention d'infractions
+pénales et la sécurité publique. Il doit dès lors, conformément à l'article
+26-I de la loi du 6 janvier 1978 modifiée, être autorisé par un arrêté
+ministériel pris après avis motivé et publié de la commission.Sur les
+finalités et le périmètre du traitement :Aux termes de l'article 1er du projet
+d'arrêté, le traitement SCB2 a pour finalité « d'assurer la protection des
+mineurs, aussi bien au sein des établissements d'enseignement des premier et
+second degrés publics et privés sous contrat dans lesquels ils sont scolarisés
+que dans les services ayant vocation à les recevoir ».Il s'agit pour le
+ministère de s'assurer que ses agents n'ont pas été condamnés pour des
+infractions qu'il juge incompatibles avec l'exercice de leur profession,
+lorsqu'elle s'exerce dans un service impliquant un contact habituel avec des
+mineurs. Pour ce faire, le traitement SCB2 permet à chaque académie de
+procéder à une opération de consultation automatisée du B2, en application de
+l'article R. 79 du CPP.Plus précisément, le recueil du B2 de ces agents
+s'effectue par l'intermédiaire d'un dispositif technique permettant aux
+services du ministère de l'éducation nationale d'interroger le casier par
+listes d'identités, constituées à partir des traitements locaux relatifs à la
+gestion de leurs personnels. Les informations envoyées par le ministère
+transitent par le réseau interministériel de l'Etat (RIE). En retour, le
+service du casier judiciaire national (CJN) transmet une réponse, comportant
+soit la mention « 0 », qui indique un bulletin néant, soit la mention « 1 »,
+signifiant que le retour sera effectué par courrier. Dans cette dernière
+hypothèse, il peut s'agir d'un bulletin comportant des mentions ou d'une
+demande qui fait l'objet d'un rejet (problème d'identité, personne décédée ou
+âgée de plus de 100 ans, etc.).Les courriers adressés par le service du CJN
+sont traités manuellement par des personnels individuellement et dûment
+habilités au sein des académies, afin de trier les B2 et de ne conserver que
+ceux qui contiennent une condamnation susceptible d'être considérée comme
+incompatible avec l'exercice de fonctions en contact avec des mineurs et
+nécessitant une instruction approfondie du dossier.A cet égard, le ministère a
+précisé que ces services devront systématiquement demander communication de la
+copie de la décision ayant donné lieu à une telle condamnation et qu'ils
+devront procéder à une appréciation des faits au cas par cas, au regard de
+l'ensemble du contexte (ancienneté et comportement de l'agent, ancienneté et
+gravité des faits, etc.),Il a en outre précisé qu'afin de garantir une
+homogénéité dans l'appréciation de l'opportunité d'engager des poursuites la
+mise en œuvre d'une procédure disciplinaire serait pilotée par le directeur
+des ressources humaines (DRH) académique, quel que soit le corps des
+personnels en cause.La commission estime que ces mesures permettent de
+garantir le respect des dispositions de l'article 10 de la loi du 6 janvier
+1978 modifiée, qui interdisent à tout responsable de traitement de prendre une
+décision produisant des effets juridiques à l'égard des personnes concernées
+sur le seul fondement d'un traitement automatisé de données,. En tout état de
+cause, les procédures disciplinaires dont feront l'objet les agents concernés
+seront engagées et menées sous le contrôle du juge administratif.Enfin, le
+traitement SCB2 permet le pilotage des opérations de consultation du B2 en
+fournissant aux directions des ressources humaines académiques des tableaux de
+bord destinés à contrôler l'exhaustivité des consultations réalisées et à
+élaborer des statistiques.La commission considère que les finalités
+poursuivies par SCB2 sont déterminées, explicites et légitimes, conformément à
+l'article 6 (2°) de la loi du 6 janvier 1978 modifiée.Toutefois, elle rappelle
+que des garanties appropriées doivent être mises en œuvre, aussi bien
+concernant la délimitation des professionnels concernés que les conséquences
+pour les personnes dont le casier sera consulté, et que des modalités précises
+d'appréciation, par les services du ministère de l'éducation nationale, des
+infractions ayant donné lieu à condamnation afin de les considérer comme
+incompatibles avec l'emploi exercé doivent être formalisées.A cet égard, elle
+prend acte que seront précisés le périmètre et la nature des infractions ayant
+entraîné une condamnation qui pourrait être jugée, par l'administration,
+incompatible avec l'exercice de fonctions en contact avec des mineurs.Il
+ressort des éléments fournis par le ministère de l'éducation nationale qu'une
+circulaire viendra lister ces infractions. Seront ainsi principalement
+recherchées les condamnations pour les infractions mentionnées à l'article
+706-47 du code de procédure pénale, mais également pour les atteintes
+volontaires à la vie prévues aux articles 221-1 à 221-5 du code pénal, les
+tortures et actes de barbarie mentionnés aux articles 222-1 à 222-6 du même
+code, les actes de violences mentionnés aux articles 222-7 à 222-14 lorsque
+ces faits ont été commis sur un mineur de 15 ans, les délits d'exhibition et
+de harcèlement sexuel mentionnés aux articles 222-32 et 222-33 du code pénal,
+le délit de cession de stupéfiants pour usage personnel mentionné au deuxième
+alinéa de l'article 222-39 dudit code, les délits de provocation de mineur à
+usage de stupéfiants, de boissons alcooliques ou à commettre un délit ou un
+crime prévus aux articles 227-18 à 227-21 du code pénal, la provocation, non
+suivie d'effet, à la commission d'infractions sexuelles contre des mineurs
+mentionnée à l'article 227-28-3 et, enfin, les actes de terrorisme énumérés
+aux articles 421-1 à 421-6 du code pénal.La commission relève que cette liste
+d'infractions correspond à celle prévue au projet d'article 706-47-4 du CPP
+tel qu'envisagé par le projet de loi relatif à l'information de
+l'administration par l'institution judiciaire et à la protection des mineurs.
+Sont ainsi visées des infractions dont le mineur est directement la victime ou
+dont la gravité est susceptible de porter atteinte à la sécurité des mineurs,
+c'est-à-dire tant à leur intégrité physique qu'à leur intégrité morale. La
+commission estime, au regard de l'article R. 79 du CPP, que seules les
+infractions répondant à ces critères justifient en effet l'engagement de
+poursuites disciplinaires.Le ministère avait indiqué que les condamnations
+pour des infractions de nature à mettre en cause la protection des mineurs et
+qui contreviendraient gravement « au maintien de l'ordre, à la sécurité des
+personnes ou des biens ou au bon fonctionnement du service public » pourraient
+également, à titre complémentaire, être concernées. A la demande de la
+commission, le ministère a précisé ce périmètre et a fait part d'une liste
+exhaustive d'infractions répondant aux critères précités et qui ne seront
+prises en compte que si elles sont constitutives d'une faute
+professionnelle.Il s'agit de faits de violences avec certaines circonstances
+aggravantes, de certaines infractions prévues par la loi du 29 juillet 1881
+sur la liberté de la presse (injures, diffamations, incitations et
+provocations, apologie, négationnisme, etc.), de certaines infractions de
+discrimination prévues par le code pénal, de certaines infractions de port,
+transport et détention d'armes et de munitions, de vols et extorsions avec
+violence, des menaces de commettre un crime ou un délit, des non-dénonciations
+de certains crimes ou délits et des faits de bizutage.En tout état de cause,
+la commission estime indispensable que soit prévue une liste limitative des
+infractions concernées, afin de s'assurer que les condamnations susceptibles,
+après avoir fait l'objet d'une appréciation au cas par cas, de fonder une
+poursuite disciplinaire s'inscrivent bien dans le cadre de l'article R. 79 du
+CPP, dédié à la protection des mineurs.Enfin, la commission appelle
+l'attention du ministère sur le fait que mettre en œuvre une procédure
+disciplinaire à la suite de la découverte, lors de la consultation du B2
+fondée sur l'article R. 79 du CPP, d'une condamnation pour une infraction qui
+ne serait pas directement liée à l'exercice de fonctions dans un service en
+contact habituel avec un mineur pourrait constituer un détournement de
+finalité du traitement SCB2, et ainsi une violation de l'article 6 (2°) de la
+loi du 6 janvier 1978, quand bien même cette condamnation serait incompatible
+avec le statut de fonctionnaire et pourrait légalement justifier des
+poursuites disciplinaires.Sur les personnes concernées et les données traitées
+:L'article ler du projet d'arrêté précise que pourront faire l'objet d'une
+consultation du B2 les « agents titulaires et non titulaires de l'éducation
+nationale en contact habituel avec des mineurs ». La commission relève que la
+liste exhaustive des typologies de personnels concernés figure en annexe du
+projet d'arrêté.Constituent ainsi des agents en contact habituel avec un
+mineur les personnels de l'éducation nationale affectés dans un établissement
+scolaire, public ou privé sous contrat, ou dans un service accueillant des
+élèves mineurs tels que les centres d'information et d'orientation (CIO),
+quand bien même ils n'exercent pas des missions éducatives. En effet, pour les
+personnels médico-sociaux, administratifs et techniques, le ministère a pris
+soin de ne viser que ceux qui exercent dans des établissements publics locaux
+d'enseignement (EPLE) et, partant, dans un service en contact habituel avec
+des mineurs.Sont donc exclus du contrôle envisagé les personnels exerçant au
+sein de l'administration centrale ou de ses services déconcentrés ainsi que
+les personnels des corps d'inspection, qui ne sont pas en contact habituel
+avec des mineurs. Ne sont en outre pas concernés les personnels stagiaires,
+les contrats aidés, les apprentis et les volontaires du service civique, dès
+lors que leur situation judiciaire a été récemment contrôlée dans le cadre de
+leur recrutement, conformément à l'article 776-1 du CPP.Enfin, si l'article R.
+79 du code de procédure pénale permet également aux collectivités
+territoriales de consulter le B2 de leurs personnels exerçant leurs fonctions
+dans un service impliquant un contact habituel avec les mineurs, le traitement
+SCB2, mis en œuvre par le seul MENESR, ne concerne que les agents titulaires
+ou non titulaires de celui-ci. Ainsi, pour les personnels des collectivités
+territoriales travaillant dans des EPLE, le choix de procéder à une telle
+consultation du casier judiciaire relèvera de la seule collectivité
+territoriale compétente.Au regard de ces éléments, la commission estime que
+cette liste limitative des professions qui pourront donner lieu à la
+consultation du casier judiciaire par le ministère de l'éducation nationale
+est conforme aux dispositions de l'article R. 79 (14°) du code de procédure
+pénale.Elle relève néanmoins que cela représente un grand nombre de personnes
+(environ 900 000), de sorte que la mise en œuvre de ce contrôle nécessite une
+vigilance particulière.S'agissant des données enregistrées dans le traitement
+SCB2, elles sont relatives à l'identité des agents concernés par la
+consultation, à leur fonction, au résultat de la consultation et aux traces
+des accès au traitement.Concernant plus précisément l'identité des personnels
+pour lesquels une consultation du B2 est prévue, sont enregistrés dans
+l'application leurs noms (patronymique et d'usage), prénoms, sexe, date et
+lieu de naissance et leur numéro d'identification de l'éducation nationale
+(NUMEN).Le NUMEN est l'identifiant unique et national attribué à tous les
+agents du MENESR pour leur gestion administrative. Le traitement de cette
+donnée permettra dès lors d'identifier de manière certaine les personnes qui
+verront leur casier judiciaire consulté. La commission constate que cet
+identifiant unique des agents du ministère sera traité de manière sécurisée.
+En effet, il sera chiffré dans l'application avant d'être transmis au service
+du casier judiciaire. Lors de son retour le service du CJN fera mention du
+NUMEN afin que soit automatiquement assuré un lien avec la demande initiale,
+dans SCB2.S'agissant des fonctions des personnels concernés, sont enregistrés
+leur corps d'appartenance ou corps assimilé, selon que l'agent est titulaire
+ou non, leur académie d'exercice et leur lieu d'affectation.En ce qui concerne
+les opérations de consultation du B2, sont enregistrées une mention chiffrée
+relative à la nature de la réponse du casier (état néant ou retour courrier),
+la date de soumission de la demande de B2 au CJN et la date de retour de la
+réponse.La commission prend acte que l'application SCB2 n'enregistre pas le
+contenu des éventuels courriers adressés par le service du casier judiciaire
+national en retour à la demande de consultation. Les bulletins papier qui
+seraient utilisés à des fins de poursuite disciplinaire seront en effet
+uniquement enregistrés et classés dans les dossiers individuels des agents
+concernés.La commission estime que l'ensemble de ces données permet
+d'identifier de façon fiable les personnels concernés, d'opérer un suivi des
+opérations de consultation et de réaliser des statistiques. Elle considère dès
+lors que les données traitées sont adéquates, pertinentes et non excessives au
+regard des finalités du traitement envisagé, conformément à l'article 6 (3°)
+de la loi du 6 janvier 1978 modifiée.Sur les destinataires :L'article 4 du
+projet d'arrêté prévoit que peuvent être destinataires des données les agents
+habilités de la direction générale des ressources humaines (DGRH) du MENESR,
+les secrétaires généraux et les directeurs des ressources humaines des
+rectorats d'académie, ainsi que les secrétaires généraux et les directeurs des
+ressources humaines des services départementaux de l'éducation nationale.Le
+nombre d'utilisateurs de l'application est restreint dès lors que moins de
+cinq personnes par académie sont habilitées à procéder aux opérations d'envoi
+des listes, de traitement des réponses du casier judiciaire et de pilotage
+technique. Par ailleurs, ces habilitations ne permettent aucun accès en saisie
+de données, dès lors qu'il s'agit d'une application destinée à la seule
+consultation des résultats des échanges entre l'éducation nationale et le
+service du casier judiciaire.Les habilitations sont définies au niveau central
+par la direction générale des ressources humaines (DGRH), qui désigne les
+personnes habilitées au sein des DRH académiques. Puis, au niveau local, les
+DRH précisent les utilisateurs habilités.La commission estime que ces
+destinataires ont un intérêt légitime à connaître des données collectées.Le
+service du casier judiciaire national délivre des habilitations par service
+demandeur et non des habilitations individuelles, dont la délivrance revient à
+chaque administration. La commission appelle dès lors l'attention du ministère
+de l'éducation nationale sur la vigilance avec laquelle il devra délivrer ces
+habilitations, chaque administration étant responsable de la délivrance, au
+sein de ses services, de ces habilitations individuelles.Sur les durées de
+conservation :L'article 3 du projet d'arrêté prévoit que les données traitées
+dans l'application SCB2 sont conservées trois ans à compter de la date de la
+réponse du service du casier judiciaire national.Le ministère a indiqué que
+cette durée de conservation permet de ne pas réitérer une consultation pour un
+agent qui changerait d'académie et pour lequel le B2 aurait été vérifié peu de
+temps avant sa mutation. Elle vise en outre à permettre à l'administration de
+justifier qu'elle a bien procédé à la vérification de la situation d'un
+agent.La commission prend dès lors acte de cette durée de conservation, dont
+le respect sera par ailleurs garanti par la mise en œuvre d'un système de
+purge automatique.S'agissant des bulletins papier que les services de
+l'éducation nationale seront susceptibles de recevoir en retour, le ministère
+a précisé que les B2 qui ne donneraient pas lieu à une procédure, soit parce
+qu'ils ne comportent aucune condamnation, soit parce que les condamnations ne
+sont pas jugées incompatibles avec la profession exercée, seront conservés
+pendant une durée maximale de six mois, afin de procéder au dépouillement des
+données, et qu'ils seront détruits à l'issue de cette période.La commission
+rappelle que cette durée de conservation de six mois doit être une durée
+maximale et que les bulletins ne doivent pas être conservés par
+l'administration au-delà du temps nécessaire à ces opérations d'analyse. Elle
+rappelle en outre qu'ils devront être détruits de manière sécurisée.En ce qui
+concerne les B2 qui seraient utilisés dans le cadre d'une procédure
+disciplinaire, le ministère a précisé qu'ils seront conservés dans le dossier
+administratif individuel pendant trois ans ou, le cas échéant, jusqu'à l'issue
+de la procédure disciplinaire mise en œuvre.A cet égard, la commission
+rappelle que, en l'état actuel du droit, le statut des fonctionnaires ne
+prévoit pas de délai de prescription de l'action disciplinaire. Dès lors, elle
+estime qu'en fixant trois ans la durée de conservation des B2 faisant état de
+condamnations incompatibles avec l'exercice d'une fonction dans un service
+impliquant un contact habituel avec des mineurs, le ministère a entouré le
+traitement SCB2 de garanties satisfaisantes. Cette durée de conservation est
+par ailleurs cohérente avec les dispositions législatives projetées, le projet
+de foi relatif à la déontologie et aux droits et obligations des
+fonctionnaires prévoyant en effet qu'aucune procédure disciplinaire ne peut
+être engagée au-delà d'un délai de trois ans à compter du jour où
+l'administration a eu connaissance des faits passibles de sanction.Au regard
+de ces éléments, la commission considère que les durées de conservation
+n'excèdent pas celles nécessaires aux finalités pour lesquelles les données à
+caractère personnel sont collectées et traitées, conformément à l'article 6
+(5°) de la loi du 6 janvier 1978 modifiée.Sur les droits des personnes
+:Concernant l'information des personnes concernées, le ministère a choisi de
+ne pas se prévaloir de l'exclusion prévue à l'article 32-VI de la loi du 6
+janvier 1978 modifiée. Il a en effet indiqué que cette information serait
+délivrée par l'intermédiaire de la publication, au Bulletin officiel du
+ministère de l'éducation nationale, d'une circulaire et par l'information des
+organisations syndicales nationales représentatives.La commission estime que,
+au regard de l'atteinte à la vie privée que peut constituer cette consultation
+du casier judiciaire et de l'ampleur des personnes concernées, cette
+information est opportune.S'agissant des droits d'accès et de rectification
+prévus aux articles 39 et 40 de la loi du 6 janvier 1978 modifiée, l'article 5
+du projet d'arrêté précise qu'ils peuvent s'exercer directement, au choix de
+l'agent, soit auprès de la DGRH soit auprès de la DRH académique dont il
+dépend.En application de l'article 38 de la loi du 6 janvier 1978 modifiée,
+l'article 6 du projet d'arrêté écarte le droit d'opposition.La commission
+estime que ces modalités d'information et d'exercice des droits sont
+satisfaisantes.Sur les mesures de sécurité :L'application SCB2 est hébergée au
+sein d'une infrastructure en hébergement sec chez un prestataire. La sécurité
+physique des locaux du prestataire est assurée.Les échanges, qui ont lieu sur
+le Réseau interministériel de l'Etat (RIE), sont sécurisés au moyen de
+protocoles de chiffrement tels que HTTPS, CFT ou IPSEC selon les modalités de
+transmission. L'ensemble de ces mesures sont de nature à garantir la
+confidentialité des données lors de leur transmission.S'agissant des
+transmissions des documents au format papier, la commission recommande
+l'utilisation d'enveloppes sécurisées lors d'envoi en nombre.Les utilisateurs,
+habilités par les responsables DRH de chaque académie, sont authentifiés au
+moyen de dispositifs OTP (mot de passe à usage unique).Les données présentant
+un enjeu particulier au regard de la protection des données personnelles sont
+chiffrées en base au moyen d'un algorithme conforme à l'état de l'art. Des
+équipements réseau finissent de cloisonner l'accès aux données au niveau des
+couches réseau. Tous ces éléments concourent à garantir que la consultation
+des données n'est possible qu'aux seules personnes ayant besoin d'en
+connaître.Les B2 portant une condamnation ou faisant état d'une incapacité
+pour le casier judiciaire de traiter la demande sont envoyés par courrier
+simple. La commission estime qu'if conviendrait de mettre en place un
+mécanisme de transport de ces B2 qui puisse en assurer la
+confidentialité.Seules les connexions font l'objet d'une traçabilité.
+Toutefois, le nombre réduit d'utilisateurs ainsi que le niveau
+d'automatisation de l'application ne semblent pas justifier une traçabilité
+plus détaillée des actions. L'article 2 (3°) du projet d'arrêté prévoit ainsi
+que les traces des accès et des consultations des données seront conservées
+jusqu'à la date de mise hors service de l'application. La commission rappelle
+que ces traces ne devraient en tout état de cause pas être conservées au-delà
+d'une durée de trois ans, qui correspond à la durée de prescription de
+l'infraction de détournement de finalité, prévue à l'article 226-21 du code
+pénal.S'agissant de la destruction des documents papier, la commission
+recommande d'utiliser un broyeur garantissant une élimination sécurisée des
+documents.Au regard de ces éléments, la commission estime que les mesures de
+sécurité décrites par le responsable de traitement sont de nature à garantir
+un risque limité d'atteinte aux données et sont donc conformes à l'exigence de
+sécurité prévue par l'article 34 de la loi du 6 janvier 1978 modifiée. Elle
+rappelle toutefois que cette obligation nécessite la mise à jour des mesures
+de sécurité au regard de la réévaluation régulière des risques. Liens relatifs
+à cet article Cite: Loi n° 78-17 du 6 janvier 1978 (V) Loi n° 86-33 du 9
+janvier 1986 - art. 2 (V) Décret n°2005-1309 du 20 octobre 2005 (M) Décret
+n°2015-1841 du 30 décembre 2015 (V) Délibération n°2015-415 du 19 novembre
+2015, v. init. Code pénal (V) Code pénal - art. 221-1 (V) Code pénal - art.
+222-32 (M) Code pénal - art. 222-33 (M) Code pénal - art. 226-21 (M) Code
+pénal - art. 227-18 (M) Code pénal - art. 421-1 (M) Code de procédure pénale
+(V) Code de procédure pénale - art. 706-47 (T) Code de procédure pénale - art.
+R79 (V) convention n° 108 Masquer le panneau de navigation << Article
+précédent \- Article suivant >> \- Imprimer À propos de l'ordre juridique
+français Licences Quoi de neuf sur le site ? À propos du site Plan du site
+Accessibilité Aide générale Nous écrire Établir un lien
+

@@ -1,0 +1,933 @@
+Arrêté du 31 mars 2011 relatif à la réglementation technique en application du
+décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en
+application de la loi n° 2008-518 du 3 juin 2008 relative aux opérations
+spatiales | Legifrance Legifrance - Le service public de l'accès au droit
+Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Arrêté du 31 mars 2011 relatif à
+la réglementation technique en application du décret n° 2009-643 du 9 juin
+2009 relatif aux autorisations délivrées en application de la loi n° 2008-518
+du 3 juin 2008 relative aux opérations spatiales Arrêté du 31 mars 2011
+relatif à la réglementation technique en application du décret n° 2009-643 du
+9 juin 2009 relatif aux autorisations délivrées en application de la loi n°
+2008-518 du 3 juin 2008 relative aux opérations spatiales Masquer le panneau
+de navigation Imprimer Informations sur ce texte JORF n°0126 du 31 mai 2011
+page 9415 texte n° 38 Arrêté du 31 mars 2011 relatif à la réglementation
+technique en application du décret n° 2009-643 du 9 juin 2009 relatif aux
+autorisations délivrées en application de la loi n° 2008-518 du 3 juin 2008
+relative aux opérations spatiales NOR: ESRR1103737A ELI:
+https://www.legifrance.gouv.fr/eli/arrete/2011/3/31/ESRR1103737A/jo/texte La
+ministre de l'enseignement supérieur et de la recherche, Vu la directive
+98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une
+procédure d'information dans le domaine des normes et réglementations
+techniques et des règles relatives aux services de la société de
+l'information, et notamment la notification n° 2010/0687/F ; Vu le code de la
+recherche, notamment le chapitre Ier du titre III du livre III ; Vu la loi n°
+2008-518 du 3 juin 2008 modifiée relative aux opérations spatiales ; Vu le
+décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en
+application de la loi du 3 juin 2008 relative aux opérations spatiales, et
+notamment son article 1er, Arrête : PREMIERE PARTIE : DEFINITIONS ET
+DISPOSITIONS PRELIMINAIRES Article 1 En savoir plus sur cet article...
+Définitions. Au sens du présent arrêté, on désigne par : « Allocation » :
+niveau de probabilité affecté à l'occurrence d'un événement redouté ou
+spécifié, lors de l'élaboration des objectifs de sécurité ; « Coefficient de
+sécurité » : rapport entre la limite admissible d'un paramètre caractérisant
+un système ou un élément et sa valeur maximale attendue en fonctionnement
+nominal. Sa valeur intègre la notion de dispersion propre à chaque domaine
+concerné ; « Couloir de vol » : volume dans lequel le véhicule de lancement
+est susceptible d'évoluer et au-delà duquel il est neutralisé ; « Débris
+spatial » : tout objet spatial non fonctionnel d'origine humaine, y compris
+des fragments et des éléments de celui-ci, en orbite terrestre ou rentrant
+dans l'atmosphère terrestre ; « Dispositif bord de neutralisation » : ensemble
+des moyens embarqués concourant à la neutralisation du véhicule de lancement
+en vol ; « Dommage catastrophique » : perte de vie humaine, immédiate ou
+différée, ou blessures graves aux personnes (lésions corporelles, autres
+atteintes irréversibles à la santé, invalidité ou maladie professionnelle,
+permanente ou temporaire) ; « Fin de vie » : fin de la phase de retrait de
+service de l'objet spatial ou perte de contrôle de celui-ci ; « Instant
+irréversible » : pour une opération de lancement, instant de passage de
+l'ordre qui conduit irrémédiablement au décollage du véhicule de lancement ; «
+Marge de sécurité » : rapport entre la limite admissible d'un paramètre
+caractérisant un système ou un élément et sa valeur maximale attendue en
+fonctionnement normal multipliée par le coefficient de sécurité ; «
+Neutralisation » : intervention sur le lanceur tendant à minimiser les
+dommages aux personnes et aux biens. Elle peut notamment se caractériser par
+une action permettant de provoquer la destruction ou l'arrêt de la poussée
+d'un véhicule de lancement, pour mettre fin au vol dudit véhicule ou d'un
+étage ne fonctionnant plus correctement ; « Niveau de risque » : estimation
+probabiliste caractérisant l'insécurité d'un système vis-à-vis d'un événement
+redouté, exprimée par la probabilité d'occurrence de cet événement ; « Nominal
+» : correspondant aux spécifications ou aux performances annoncées par
+l'opérateur ou le concepteur de l'objet spatial ; « Objet spatial » : tout
+objet d'origine humaine, fonctionnel ou non durant son lancement, son séjour
+dans l'espace extra-atmosphérique ou son retour, y compris les éléments d'un
+lanceur mis en orbite ; « Phase de retrait de service » : phase finale de
+l'opération spatiale pendant laquelle sont menées les actions de mise en
+sécurité de l'objet spatial visant à limiter les risques liés aux débris
+spatiaux ; « Phase opérationnelle » : période de temps qui, dans le cadre
+d'une opération de maîtrise dans l'espace extra-atmosphérique, débute à
+l'instant où l'opérateur prend la maîtrise de l'objet spatial et s'achève au
+début de la phase de retrait de service ; « Procédure » : manière spécifiée
+d'effectuer une activité ou un processus ; « Processus » : ensemble
+d'activités corrélées ou interactives qui transforment des éléments d'entrée
+en éléments de sortie ; « Régions protégées » : 1. Région protégée A, orbite
+terrestre basse (LEO) ― région sphérique qui s'étend depuis la surface de la
+Terre jusqu'à une altitude (Z) de 2 000 km ; 2. Région protégée B, région
+géosynchrone ― segment de l'enveloppe sphérique défini comme suit : ― limite
+inférieure = altitude géostationnaire moins 200 km ; ― limite supérieure =
+altitude géostationnaire plus 200 km ; ― latitude comprise entre ― 15 et + 15
+degrés ; ― altitude géostationnaire » (Z GEO) = 35 786 km (altitude de
+l'orbite terrestre géostationnaire) ; « Rentrée non contrôlée » : rentrée
+atmosphérique d'un objet spatial pour laquelle il n'est pas possible de
+prédéfinir la zone d'impact au sol de l'objet ou de ses fragments ; « Rentrée
+contrôlée » : rentrée atmosphérique d'un objet spatial avec une zone
+prédéfinie de contact ou d'impact au sol de l'objet ou de ses fragments ; «
+Retour » : période qui commence à la rentrée de l'objet spatial dans
+l'atmosphère terrestre et prend fin lorsqu'il est immobilisé sur la Terre,
+dans le cadre d'une rentrée contrôlée ou non contrôlée ; « Risque technique »
+: risque d'origine technologique, industrielle, opérationnelle, humaine ou
+naturelle. Expression utilisée pour différencier le risque de nature technique
+de tout autre type de risque, notamment à caractère financier ou lié à la
+sûreté des installations ; « Sécurité » : ensemble des dispositions destinées
+à maîtriser les risques dans le but d'assurer la protection des personnes, des
+biens et la protection de la santé publique et de l'environnement ; « Système
+spatial » : ensemble constitué par un ou plusieurs objets spatiaux et par les
+équipements et installations qui leur sont associés pour remplir une mission
+déterminée. S'agissant d'une opération de lancement, le système spatial est un
+ensemble constitué du lanceur, de la base de lancement en interface, y compris
+les stations de poursuite, et de l'objet spatial destiné à être lancé ;
+S'agissant d'une opération de maîtrise, le système spatial est un ensemble
+constitué de l'objet spatial et du segment sol en interface ; « Véhicule de
+lancement » : ensemble constitué du lanceur et des objets spatiaux destinés à
+être mis en orbite. Article 2 En savoir plus sur cet article... Dispositions
+préliminaires. 1. Le présent arrêté a pour objet de préciser la réglementation
+technique sur la base de laquelle le ministre chargé de l'espace délivre,
+après exercice d'un contrôle de conformité par le Centre national d'études
+spatiales, une autorisation de conduite d'une opération spatiale, conformément
+à la loi du 3 juin 2008 susvisée. 2. Les dispositions du présent arrêté
+s'appliquent aux opérations spatiales mentionnées aux articles 2 et 3 de la
+loi du 3 juin 2008 susvisée, à l'exception de celles pour lesquelles une
+dispense du contrôle de conformité est accordée dans les conditions du
+quatrième alinéa de l'article 4 de la loi précitée. 3. Les dispositions du
+présent arrêté s'appliquent uniquement : a) A une opération de lancement qui
+remplit les trois critères cumulatifs suivants : ― décollage depuis le sol ; ―
+propulsion par réaction ; ― vol non habité ; b) A une opération de maîtrise
+dans l'espace extra-atmosphérique d'un objet spatial non habité ; c) A une
+opération de retour sur Terre d'un objet spatial non habité. La réglementation
+technique applicable aux opérations spatiales non mentionnées ci-dessus fera
+l'objet d'un arrêté spécifique. 4. Le respect des exigences du présent arrêté
+ne saurait exonérer l'opérateur de sa responsabilité en matière de dommages
+causés aux tiers, telle que prévue à l'article 13 de la loi du 3 juin 2008
+susvisée. 5. Les agents qui, en application de l'article 7 de la loi du 3 juin
+2008 susvisée, sont habilités à effectuer le contrôle du respect des
+prescriptions techniques édictées par référence à la présente réglementation
+technique et annexées à l'arrêté d'autorisation sont placés sous l'autorité du
+président du Centre national d'études spatiales dans les conditions fixées par
+l'arrêté les habilitant. DEUXIEME PARTIE : LANCEMENT D'UN OBJET SPATIAL TITRE
+IER : CHAMP D'APPLICATION Article 3 En savoir plus sur cet article... Les
+dispositions de la présente partie s'appliquent à l'opération de lancement,
+jusqu'à la fin de vie des étages et éléments du lanceur. TITRE II : DOSSIER
+TECHNIQUE CHAPITRE IER : DOCUMENTATION A FOURNIR Article 4 En savoir plus sur
+cet article... Description de l'opération spatiale et des systèmes et
+procédures. La description de l'opération spatiale et des systèmes et
+procédures mentionnée au II (1°) de l'article 1er du décret du 9 juin 2009
+susvisé présente les composantes du système de lancement, les caractéristiques
+de l'objet spatial destiné à être lancé et de la mission envisagée. Article 5
+En savoir plus sur cet article... Notice générale de conformité. 1.
+L'opérateur de lancement établit, conformément au II (2°, a) de l'article 1er
+du décret du 9 juin 2009 susvisé, une notice générale de conformité à la
+présente réglementation technique. 2. Cette notice générale de conformité
+identifie les documents fournis au titre des articles 6 à 10 du présent arrêté
+et établit l'état de conformité en résultant. Article 6 En savoir plus sur cet
+article... Normes internes et dispositions de gestion de la qualité.
+L'opérateur de lancement établit, conformément au II (2°, b) de l'article 1er
+du décret du 9 juin 2009 susvisé, les documents justifiant du respect des
+dispositions du chapitre 2 du présent titre. Article 7 En savoir plus sur cet
+article... Etude des dangers. L'opérateur de lancement réalise, conformément
+au II (2°, c) de l'article 1er du décret du 9 juin 2009 susvisé, une étude
+exposant les dangers que peut présenter l'opération spatiale envisagée. Cette
+étude comprend une description de l'ensemble des dangers liés à l'opération
+dans les cas de fonctionnement nominal et accidentels, que leur cause soit
+d'origine interne ou externe. L'étude précise la nature et l'étendue des
+conséquences que peuvent avoir tous ces cas de fonctionnement. S'agissant des
+éléments du véhicule de lancement faisant l'objet d'un retour ou d'une
+retombée et susceptibles d'atteindre le sol, l'étude présente les constituants
+de ces éléments en indiquant les dimensions, les masses et les matériaux
+utilisés. L'opérateur de lancement doit à ce titre : ― démontrer le respect
+des dispositions de l'article 20 du présent arrêté s'agissant des risques de
+dommages aux personnes ; ― évaluer les effets sur la santé publique et
+l'environnement dans les cas accidentels. Cette étude doit traiter des
+événements suivants, dans les conditions prévues au chapitre III du présent
+titre : ― dommages liés à la retombée d'éléments prévus de se détacher du
+lanceur ; ― dommages liés à la rentrée contrôlée ou non contrôlée des éléments
+du lanceur placés sur une orbite terrestre ; ― dommages liés à la défaillance
+du véhicule de lancement ; ― collision avec les objets spatiaux habités dont
+les paramètres orbitaux sont connus avec précision et disponibles ; ― dommages
+liés à l'explosion d'un étage en orbite ; ― collision avec un corps céleste.
+L'étude doit présenter l'analyse exhaustive des causes et des conséquences
+ainsi que les probabilités des événements redoutés mentionnés ci-dessus. Les
+mesures de réduction des risques permettant de respecter les dispositions des
+articles 18 à 26 du présent arrêté sont listées dans les plans de maîtrise des
+risques prévus à l'article 9 du présent arrêté. Article 8 En savoir plus sur
+cet article... Etude d'impact. L'opérateur de lancement réalise, conformément
+au II (2°, d) de l'article 1er du décret du 9 juin 2009 susvisé, l'étude
+d'impact sur l'environnement de l'opération envisagée. L'étude d'impact doit
+traiter, lors du fonctionnement nominal du système de lancement, de l'impact
+de l'opération envisagée sur la santé publique et l'environnement au regard
+des dispositions de l'article L. 161-1 du code de l'environnement ainsi que de
+l'impact en matière de génération de débris spatiaux conformément aux
+dispositions de l'article 21 du présent arrêté. Cette étude d'impact prend en
+compte : ― le fonctionnement des moteurs, notamment la caractérisation de la
+nature et la quantification des débits des produits de combustion
+atmosphérique et extra-atmosphérique, en phase propulsée ; ― la retombée des
+éléments du lanceur, notamment la caractérisation de la nature et la
+quantification des produits retombant sur terre, en mer ou sur un corps
+céleste. Cette étude traite également de l'impact de : ― la production de
+débris spatiaux ; ― le cas échéant, l'emport de matières radioactives à bord
+du véhicule de lancement. Article 9 En savoir plus sur cet article... Mesures
+de maîtrise des risques. L'opérateur de lancement établit et met en œuvre,
+conformément au II (2°, e) de l'article 1er du décret du 9 juin 2009 susvisé,
+à partir des conclusions des études de danger et d'impact mentionnées aux
+articles 7 et 8 ci-dessus, les plans de maîtrise des risques suivants : ― le
+plan de prévention des dommages environnementaux qui liste les mesures prises
+pour modérer les impacts négatifs sur l'environnement identifiés dans l'étude
+d'impact mentionnées à l'article 8 du présent arrêté, à l'exception de celles
+relatives à la limitation des débris spatiaux et à la sûreté nucléaire ; ― le
+plan de limitation des débris spatiaux, qui démontre le respect des
+dispositions de l'article 21 du présent arrêté ; ― le plan de prévention des
+risques induits par la retombée de l'objet spatial ou de ses fragments, qui
+démontre le respect des dispositions des articles 20, 23 et 24 du présent
+arrêté ; ― le plan de prévention des risques de collision, qui démontre le
+respect des dispositions de l'article 22 du présent arrêté ; ― le cas échéant,
+le plan de sûreté nucléaire, qui démontre le respect des dispositions de
+l'article 25 du présent arrêté ; ― le cas échéant, le plan de protection
+planétaire, qui démontre le respect des dispositions de l'article 26 du
+présent arrêté. Article 10 En savoir plus sur cet article... Mesures de
+secours. L'opérateur de lancement liste, conformément au II (2°, f) de
+l'article 1er du décret du 9 juin 2009 susvisé, les mesures de secours prévues
+et l'organisation mise en place aux fins de protection des personnes. En
+particulier, cette liste doit inclure les moyens nécessaires à la mise en
+œuvre du troisième alinéa de l'article 23 du présent arrêté. CHAPITRE II :
+EXIGENCES SYSTEME QUALITE Article 11 En savoir plus sur cet article...
+Assurance qualité. 1. L'opérateur de lancement doit mettre en œuvre et gérer,
+pour la conduite de l'opération spatiale, un système de management de la
+qualité ainsi que des normes internes et des dispositions de gestion de la
+qualité conformément à l'article 1er du décret du 9 juin 2009 susvisé. Ce
+système de management doit traiter de l'assurance qualité, de la sûreté de
+fonctionnement, de la gestion de configuration et de la conduite des travaux.
+2. Le système spatial doit être conçu, produit, intégré et mis en œuvre de
+manière à maîtriser les risques induits par les activités critiques. Une
+activité est critique si une erreur humaine ou une défaillance de moyens
+utilisés augmente les risques de dommage aux personnes durant l'opération de
+lancement. 3. Un système de surveillance et de maîtrise des dérives de
+fabrication et de mise en œuvre doit être mis en place. Ce système doit
+permettre la traçabilité des faits techniques et organisationnels affectant
+les activités d'ingénierie et de production. 4. Le système de management de la
+qualité doit traiter, en particulier, des faits techniques ou d'organisation
+suivants : ― les écarts (anomalies, évolutions) par rapport à la configuration
+(définition, processus de production et mise en œuvre du système de lancement)
+ayant fait l'objet de l'autorisation ou, le cas échéant, de la licence ; ― les
+écarts (anomalies, évolutions) issus de l'exploitation des paramètres
+enregistrés en vol susceptibles de remettre en cause les conditions dans
+lesquelles l'autorisation ou le cas échéant la licence ont été acquises. 5. La
+description et la justification du comportement du lanceur ainsi que la
+définition des matériaux utilisés doivent être conservés jusqu'à la fin de
+l'opération spatiale concernée. A l'issue de celle-ci, ces éléments sont
+transmis au Centre national d'études spatiales avec la description de l'état
+atteint. Article 12 En savoir plus sur cet article... Compétence, moyens,
+organisation et installations. L'opérateur de lancement doit disposer des
+compétences, des moyens et de l'organisation nécessaires pour préparer et
+mettre en œuvre l'opération de lancement envisagée : ― installations et
+organisation appropriées ; ― équipements, outils et matériels adaptés à
+l'opération envisagée ; ― documentation relative aux tâches et aux procédures
+; ― accès aux données utiles à la préparation de l'opération envisagée ; ―
+enregistrement, exploitation et archivage des données techniques ; ― postes
+clés et processus de formation associé. Article 13 En savoir plus sur cet
+article... Visibilité technique. L'opérateur de lancement doit mettre en place
+une organisation lui permettant d'informer sans délai, au titre de l'article 7
+du décret du 9 juin 2009 susvisé, le Centre national d'études spatiales de
+tous les faits techniques ou d'organisation mentionnés au quatrième alinéa de
+l'article 11 du présent arrêté. Article 14 En savoir plus sur cet article...
+Revues techniques. 1. Des revues techniques visant à la vérification de la
+mise en œuvre des dispositions du présent arrêté doivent être planifiées par
+l'opérateur de lancement. Ces revues peuvent être également pratiquées dans le
+cadre de revues conduites par ailleurs. 2. L'opérateur de lancement doit
+informer le Centre national d'études spatiales des revues préalables au
+lancement. Les agents habilités au titre de l'article 7 de la loi du 3 juin
+2008 susvisée peuvent y assister dans les conditions fixées au même article.
+Article 15 En savoir plus sur cet article... Cocontractants, sous-traitants et
+clients. 1. L'opérateur de lancement doit faire appliquer par ses
+cocontractants, sous-traitants et clients des dispositions nécessaires à
+l'établissement et au maintien de la conformité à la présente réglementation
+technique. 2. L'opérateur de lancement doit faire appliquer, sous sa
+responsabilité, par les personnes visées ci-dessus des dispositions liées à
+l'organisation, l'assurance qualité et l'ingénierie conformes à des normes et
+pratiques reconnues par la profession. 3. L'opérateur de lancement doit faire
+appliquer, sous sa responsabilité, par ses clients les dispositions permettant
+de garantir la compatibilité (géométrique, mécanique, dynamique, thermique,
+électromagnétique et radioélectrique) entre les objets spatiaux destinés à
+être mis en orbite et le système de lancement, et en vérifie la prise en
+compte. CHAPITRE III : EXIGENCES TECHNIQUES SPECIFIQUES POUR LES OPERATIONS DE
+LANCEMENT SECTION 1 : EXIGENCES TECHNIQUES GENERALES LIEES A L'OPERATION DE
+LANCEMENT Article 16 En savoir plus sur cet article... Justifications
+requises. 1. Pour assurer la maîtrise technique du système et des procédures
+vis-à-vis des événements redoutés mentionnés à l'article 7 du présent arrêté,
+l'opérateur de lancement doit justifier : a) Le référentiel normatif technique
+retenu ; b) La prise en compte de l'environnement climatique dans lequel le
+système est opéré ; c) L'aptitude du système de lancement et de ses sous-
+systèmes à remplir la mission. Ceci inclut : ― la description, le
+dimensionnement ; ― les essais et/ou les modélisations, le recalage et la
+précision des modèles associés qui doivent mettre en exergue les interfaces et
+interactions entre les différents sous-systèmes et entre les différentes
+disciplines ; ― les coefficients de sécurité et marges de sécurité ; ― les
+réglages des moyens sol de lancement en interface avec le lanceur (seuils de
+surveillance) ; d) La maîtrise et la reproductibilité, le cas échéant, des
+processus industriels de fabrication, de contrôle et de mise en œuvre ; e) La
+prise en compte, dans la conception, des analyses de sûreté de fonctionnement,
+comprenant les évaluations de fiabilité et les identifications de criticité ;
+f) La prise en compte des mesures issues des analyses de risque du système de
+lancement et des analyses de risque en opérations ; g) La prise en compte du
+retour d'expérience lié au traitement des faits techniques de développement,
+de production, des essais et des vols ; h) Les scénarios de fragmentation et
+de génération de débris spatiaux à la rentrée ou à la neutralisation du
+véhicule de lancement. 2. Les justifications mentionnées au premier alinéa ci-
+dessus doivent être apportées dans chacun des cas suivants : ― domaine de vol
+(cas nominal, cas avec incertitudes associées aux dispersions et aux
+méconnaissances) ; ― domaine extrême ; ― cas non nominaux (pannes). Lesdites
+justifications doivent couvrir : ― l'ensemble des phases de vie du système ; ―
+l'ensemble des phases stabilisées et transitoires rencontrées. 3. Les
+justifications doivent porter sur : a) La caractérisation de l'enveloppe des
+évolutions nominales et extrêmes du véhicule de lancement (libre évolution à
+six degrés de liberté du véhicule de lancement) ; b) La démonstration de la
+fiabilité du lanceur dans cette enveloppe, en particulier : ― la justification
+de sa tenue mécanique (systèmes propulsifs, structures principales et sous-
+système) ; ― la justification de la performance des systèmes propulsifs et
+pyrotechniques ; ― la justification de la performance des chaînes de conduite
+du vol (notamment systèmes électriques, hydrauliques, logiciels) ; ― s'il est
+requis, la fiabilité du dispositif bord de neutralisation et son effet sur les
+zones de retombée. c) La caractérisation mécanique spécifique aux études de
+rupture du lanceur : ― la détermination de la valeur minimale en termes
+d'incidence et de pression dynamique garantissant la rupture structurale ; ―
+la détermination de la fragmentation (nombre de débris, géométrie, masse,
+caractéristiques matériaux) de tout ou partie du véhicule de lancement en
+fonction de l'origine des scénarios de destruction, mécanique ou thermique. d)
+Les analyses suivantes en ce qui concerne la mise en œuvre au sol : ―
+l'analyse de la chronologie de l'opération de lancement, démontrant l'atteinte
+de l'état attendu à l'instant irréversible ; ― l'analyse de l'innocuité des
+opérations de préparation sur la fiabilité du véhicule de lancement pendant
+l'opération de lancement, à partir de l'analyse de tous les processus
+d'opérations de fabrication, d'intégration et de contrôle réalisés directement
+par intervention humaine, ou à distance via un système de contrôle-commande.
+Article 17 En savoir plus sur cet article... Analyse spécifique de mission. En
+complément des justifications prévues à l'article 16 du présent arrêté, liées
+à la justification générique du système de lancement pour une famille de
+mission donnée, l'opérateur de lancement doit apporter les éléments suivants
+inhérents à l'opération envisagée : 1° La démonstration du respect du domaine
+d'utilisation du véhicule de lancement ; 2° La démonstration de la
+compatibilité des objets destinés à être mis en orbite avec les ambiances
+véhicule de lancement (géométrique, mécanique, dynamique, thermique,
+électromagnétique et radioélectrique) ; 3° La détermination des niveaux de
+charges du véhicule de lancement, incluant les objets spatiaux destinés à être
+lancés (charges dynamiques et thermiques) ; 4° La démonstration que les
+caractéristiques réelles du spécimen de lanceur utilisé pour la mission sont
+conformes à la définition théorique présentée conformément à l'article 16 du
+présent arrêté ; 5° Le cas échéant, la justification que les écarts (anomalie,
+évolutions) par rapport à la configuration ayant fait l'objet d'une licence,
+conformément aux dispositions de l'article 16 du présent arrêté (définition,
+processus de production, mise en œuvre) et ceux issus de l'exploitation des
+paramètres enregistrés en vol sont analysés et rendus techniquement
+acceptables ; 6° La justification de la trajectoire spécifique à la mission
+optimisée au regard des risques encourus ; 7° La définition du couloir de vol
+autour de la trajectoire nominale, jusqu'à l'injection en orbite ; 8° Le
+dimensionnement et position des taches de retombée pour les éléments non mis
+en orbite, y compris pour l'information relative à la circulation aérienne et
+maritime ; 9° La définition des choix de fin de vie pour les éléments mis en
+orbite conformément aux dispositions de l'article 20 et des quatrième,
+cinquième, sixième et septième alinéas de l'article 21 du présent arrêté et,
+le cas échéant, la détermination des zones de retombée ; 10° La validation des
+paramètres d'habillage du contrôle de vol et du logiciel de vol adaptés à la
+mission permettant de justifier le bon fonctionnement du logiciel de vol ; 11°
+Concernant les moyens automatiques embarqués de neutralisation du véhicule de
+lancement, le cas échéant : ― la définition des réglages à partir de l'analyse
+des trajectoires simulées des cas non nominaux ; ― le dimensionnement et la
+position des taches de retombée faisant suite à la neutralisation ; ― la
+validation des seuils des algorithmes spécifiques du logiciel de vol
+permettant de neutraliser le véhicule de lancement, afin d'en démontrer le bon
+fonctionnement. Article 18 En savoir plus sur cet article... Moyens embarqués
+de neutralisation. Pour la phase de lancement : Une étude exhaustive des cas
+de pannes à l'origine des situations anormales conduisant le véhicule de
+lancement à devenir dangereux doit être menée par l'opérateur de lancement,
+notamment dans les cas suivants : ― sortie du couloir de vol prédéfini ; ―
+retombée dangereuse des éléments prévus de se détacher ; ― comportement non
+nominal du contrôle de vol ; ― non-placement en orbite du composite supérieur.
+Cette étude doit justifier de manière qualitative et quantitative de la
+nécessité ou non de moyens automatiques embarqués permettant de neutraliser le
+véhicule de lancement avant l'instant où la tache d'impact est tangente aux
+eaux territoriales du premier Etat rencontré le long de la trajectoire
+nominale. Dans le cas où de tels moyens sont nécessaires, cette étude doit
+présenter leur définition ainsi que les éléments demandés au titre de
+l'article 17 du présent arrêté. Pour la rentrée contrôlée : Une étude
+exhaustive des cas de pannes à l'origine des situations anormales conduisant
+l'élément propulsif du lanceur mis en orbite à devenir dangereux doit être
+menée par l'opérateur de lancement, notamment dans le cas de non-maîtrise du
+niveau ou de la direction de la poussée. Cette étude doit présenter les moyens
+automatiques embarqués permettant d'effectuer la rentrée contrôlée de
+l'élément propulsif mis en orbite. Article 19 En savoir plus sur cet
+article... Suivi du volet retour d'expérience associé. Les paramètres de
+fonctionnement du véhicule de lancement, incluant les positions et vitesses de
+ce dernier, ayant un impact sur la maîtrise des risques résultant des études
+mentionnés aux articles 7 et 8 du présent arrêté doivent être acquis,
+retransmis au sol, enregistrés et exploités par l'opérateur de lancement.
+Toute déviation de ces paramètres par rapport à l'état de référence attendu
+constitue un fait technique dont une analyse doit être menée a posteriori pour
+tout système de lancement récurrent. SECTION 2 : OBJECTIFS QUANTITATIFS POUR
+LA SECURITE DES PERSONNES Article 20 En savoir plus sur cet article...
+Objectifs quantitatifs pour la sécurité des personnes. 1. Pour la somme des
+risques de dommages catastrophiques, l'opérateur de lancement doit respecter
+les objectifs quantitatifs suivants, exprimés en probabilité maximale
+admissible de faire au moins une victime (risque collectif) : a) Risque au
+lancement : 2*10―5 pour l'ensemble de la phase de lancement, comprenant la
+prise en compte des cas dégradés du système de lancement et incluant la
+retombée des éléments prévus de se détacher du lanceur sans être mis en orbite
+; 10―7 par retombée nominale d'élément pour les éléments prévus de se détacher
+du lanceur sans être mis en orbite, conformément au premier alinéa de
+l'article 23 du présent arrêté. b) Risque à la rentrée : 2*10―5 pour la phase
+de retour de chaque élément du lanceur mis en orbite dans le cadre d'une
+rentrée atmosphérique contrôlée, incluant, conformément au premier alinéa de
+l'article 23 du présent arrêté, une allocation spécifique de 10―7 pour le
+retour nominal de l'élément. L'opérateur de lancement met en œuvre cette
+rentrée contrôlée conformément aux 1 et 5 de l'article 21 du présent arrêté.
+En cas d'impossibilité dûment justifiée de procéder à une rentrée
+atmosphérique contrôlée telle que prévue ci-dessus, l'opérateur de lancement
+doit faire ses meilleurs efforts pour respecter un objectif quantitatif de
+10―4 pour la phase de retour de chaque élément du lanceur mis en orbite. Dans
+ce cas, les choix d'architecture et des matériaux des éléments mis en orbite
+faisant l'objet d'une rentrée non contrôlée doivent être justifiés vis-à-vis
+de l'objectif de limiter le nombre et l'énergie (cinétique et explosible) des
+fragments susceptibles d'atteindre le sol. 2. Les exigences mentionnées au
+premier alinéa ci-dessus doivent être évaluées avec une méthode de calcul
+prenant en compte : ― l'ensemble des phénomènes conduisant à générer un risque
+de dommage catastrophique (phase de montée, retombée d'étage après séparation,
+rentrée atmosphérique d'un étage mis en orbite) ; ― les trajectoires avant
+fragmentation (atmosphérique ou extra-atmosphérique), en fonction des instants
+de vol et des pannes considérées ; ― les scénarios de fragmentation et de
+génération des débris correspondants, à la rentrée ou à la neutralisation du
+véhicule de lancement ; ― la dispersion au sol des débris et l'évaluation de
+leurs effets ; ― la fiabilité du lanceur pour la phase de lancement ; ― la
+fiabilité de la manœuvre de désorbitation de l'élément propulsif du lanceur
+mis en orbite, dans le cas de la rentrée contrôlée. 3. Des allocations
+quantitatives spécifiques pour un risque de dommage catastrophique particulier
+peuvent être prescrites, dans le respect des objectifs mentionnés au 1 du
+présent article, conformément à l'article 5 du décret du 9 juin 2009 susvisé.
+SECTION 3 : LIMITATION DES DEBRIS SPATIAUX ET PREVENTION DES RISQUES DE
+COLLISION Article 21 En savoir plus sur cet article... Limitation des débris
+spatiaux. Le système de lancement mis en œuvre par l'opérateur de lancement
+doit être conçu, produit et mis en œuvre de façon à respecter les dispositions
+suivantes pour les éléments évoluant dans l'espace extra-atmosphérique : 1. Le
+lanceur doit être conçu, produit et mis en œuvre de manière à limiter au
+maximum la production de débris au cours des opérations nominales, y compris
+au-delà de la fin de vie du lanceur ainsi que de ses éléments constitutifs.
+L'opérateur de lancement met notamment en œuvre, à ce titre, les dispositions
+suivantes : ― dans le cadre du lancement d'un objet spatial unique, un seul
+élément (par exemple, un étage) du lanceur peut être placé en orbite ; ― dans
+le cadre du lancement de plusieurs objets spatiaux, au maximum deux éléments
+(par exemple, un étage ou la structure d'adaptation) du lanceur peuvent être
+placés en orbite. Les dispositions ci-dessus ne sont pas applicables : ― aux
+systèmes pyrotechniques. Ceux-ci ne doivent toutefois pas générer de produits
+de taille supérieure ou égale à 1 mm dans leur plus grande dimension ; ― aux
+propulseurs à poudre. Ceux-ci ne doivent toutefois pas générer de débris de
+combustion de taille supérieure ou égale à 1 mm dans la région protégée B.
+S'agissant de la conception et de l'utilisation des propulseurs à poudre,
+l'opérateur de lancement met en œuvre des méthodes permettant d'éviter de
+mettre durablement en orbite des produits de combustion solide qui pourraient
+contaminer la région protégée A. 2. Le lanceur doit être conçu, produit et mis
+en œuvre de façon à ce que les débris produits dans le respect des
+dispositions du 1 ci-dessus qui parviennent à atteindre la surface de la Terre
+ne présentent pas de risque excessif pour les personnes, les biens, la santé
+publique ou l'environnement, notamment du fait d'une pollution de
+l'environnement par des substances dangereuses. 3. La probabilité d'occurrence
+d'une désintégration accidentelle doit être inférieure à 10³ jusqu'à la fin de
+vie de l'objet spatial ; son calcul doit inclure les modes de pannes des
+systèmes de propulsion et de puissance, les mécanismes et les structures, mais
+ne prend pas en compte les impacts extérieurs. Les fragmentations volontaires
+d'éléments du lanceur sont interdites. 4. Le lanceur doit être conçu, produit
+et mis en œuvre de façon à ce que, à l'issue de la phase de retrait de service
+: ― toutes les réserves d'énergie à bord soient épuisées de façon permanente,
+ou placées dans un état tel que l'épuisement des réserves d'énergie à bord
+soit inéluctable, ou dans un état tel qu'elles ne présentent pas de risque de
+générer des débris ; ― tous les moyens de production d'énergie à bord soient
+désactivés de façon permanente. 5. Le lanceur doit être conçu, produit et mis
+en œuvre de façon à ce que, après la fin de la phase de lancement, ses
+éléments constitutifs mis sur des orbites traversant la région protégée A
+soient désorbités dans le cadre d'une rentrée atmosphérique contrôlée. En cas
+d'impossibilité, dûment justifiée, à respecter cette disposition, il doit être
+conçu, produit et mis en œuvre de façon à ce que ses éléments constitutifs ne
+soient plus présents dans la région protégée A, vingt-cinq ans après la fin de
+la phase de lancement. Ce résultat est obtenu de préférence par une rentrée
+atmosphérique non contrôlée ou, à défaut, par la mise sur une orbite dont le
+périgée reste, dans les cent ans qui suivent la fin de l'opération, au-dessus
+de la région protégée A. 6. Le lanceur doit être conçu, produit et mis en
+œuvre de façon à ce que, après la fin de la phase de lancement, ses éléments
+constitutifs mis sur une orbite incluse dans ou traversant la région protégée
+B soient mis sur une orbite n'interférant pas avec cette région au-delà d'une
+année. Cette orbite doit être telle que, sous l'effet des perturbations
+naturelles, le lanceur ou ses éléments constitutifs ne reviennent pas dans la
+région protégée B dans les cent ans qui suivent la fin de l'opération. 7. La
+probabilité de pouvoir réaliser avec succès les manœuvres de retrait de
+service mentionnées aux quatrième, cinquième et soxième alinéas ci-dessus doit
+être au moins de 0,9. Cette probabilité est évaluée sur la durée totale de
+l'opération ; son calcul, effectué avant le début de l'opération spatiale,
+doit prendre en compte tous les systèmes, sous-systèmes et équipements
+utilisables pour ces manœuvres, leurs niveaux de redondance éventuels et leur
+fiabilité, en tenant compte des effets du vieillissement atteint au moment où
+il est prévu que ces manœuvres seront exécutées, ainsi que la disponibilité
+des moyens et ressources en énergie nécessaires pour ces manœuvres. Article 22
+En savoir plus sur cet article... Prévention des risques de collision. Les
+systèmes doivent être conçus, produits et mis en œuvre et leur mission définie
+de façon à limiter, pendant l'opération spatiale et les trois jours qui
+suivent la fin de la phase de retrait de service, les risques de collision
+accidentelle avec des objets habités dont les paramètres orbitaux sont connus
+avec précision et disponibles. SECTION 4 : EXIGENCES LIEES A LA RETOMBEE SUR
+TERRE Article 23 En savoir plus sur cet article... Prévention des risques
+induits par la retombée du lanceur ou de ses fragments. 1. Dans le cas où le
+lanceur comporte des éléments prévus pour s'en détacher en phase de lancement
+ou s'agissant de l'élément propulsif mis en orbite dans le cadre d'une rentrée
+atmosphérique contrôlée, la zone de retombée sur Terre doit être maîtrisée par
+l'opérateur de lancement. La zone de retombée, associée à une probabilité de
+99,999 %, ne doit pas interférer avec le territoire, y compris les eaux
+territoriales, de tout Etat, sauf accord de ce dernier. A cet effet,
+l'opérateur de lancement met en œuvre les dispositions suivantes : ― prise en
+compte des trajectoires avant fragmentation (atmosphérique ou extra-
+atmosphérique), en fonction des instants de séparation des étages et prenant
+en compte les dispersions de fonctionnement des sous-systèmes du véhicule de
+lancement ; ― modélisation des scénarios de fragmentation et de génération des
+débris correspondants ; ― analyse de la dispersion des débris arrivant en mer.
+2. Dans l'hypothèse où une zone de retombée se situe dans une région
+caractérisée par un fort trafic maritime (rail maritime essentiellement) ou
+par la présence de plates-formes pétrolières fixes et occupées, une analyse
+particulière doit être menée dans le cadre de l'étude des dangers prévue à
+l'article 7 du présent arrêté. 3. L'organisation et les moyens mis en place
+par l'opérateur de lancement doivent permettre au président du Centre national
+d'études spatiales : ― d'informer les autorités compétentes en charge du
+contrôle aérien et maritime des zones de retombées en cas nominal, en
+précisant les taches à 99 % de ces retombées ; ― en situation non nominale, de
+transmettre, sans délai, aux autorités compétentes les informations relatives
+à la zone de retombée d'éléments permettant d'avertir au plus tôt les
+autorités des Etats concernés ; ― de fournir toutes informations utiles en vue
+de l'établissement et de la mise en œuvre des plans d'intervention nécessaires
+par les autorités compétentes. Article 24 En savoir plus sur cet article...
+Epaves et récupération d'éléments du lanceur. 1. Tout lanceur doit être conçu,
+produit et mis en œuvre de telle sorte que ses étages propulsifs prévus pour
+retomber sur Terre ne présentent pas de risque technique consécutif à la
+création d'une épave maritime. Les épaves ne doivent pas constituer, ni
+menacer de constituer, un obstacle ou un danger pour la navigation, la pêche
+ou l'environnement, ni un écueil ou un obstacle dans un port, une passe
+d'accès ou une rade. 2. Lorsque des étages doivent être récupérés, leur
+dispositif de neutralisation doit être inhibé en cas de séparation nominale,
+mais doit fonctionner en cas de séparation intempestive ou de rupture d'étage.
+Ce dispositif doit pouvoir être remis en sécurité avant toute manutention de
+récupération. SECTION 5 : RISQUES PARTICULIERS Article 25 En savoir plus sur
+cet article... Sûreté nucléaire. Tout opérateur de lancement ayant l'intention
+de transporter des matières radioactives à bord du véhicule de lancement se
+conforme à la réglementation applicable en vigueur et justifie de son
+application dans le plan de sûreté nucléaire prévu au II (2°, d) de l'article
+1er du décret du 9 juin 2009 susvisé. Article 26 En savoir plus sur cet
+article... Protection planétaire. Tout opérateur de lancement procédant à un
+lancement vers un autre corps céleste, incluant ou non un retour de matière
+extraterrestre, se conforme à la norme internationale « Politique de
+protection planétaire » publiée par le Committee on Space Research (COSPAR)
+pour l'application de l'article IX du Traité sur les principes régissant les
+activités des Etats en matière d'exploration et d'utilisation de l'espace
+extra-atmosphérique, y compris la Lune et les autres corps célestes et
+justifie de son application dans le plan de protection planétaire prévu au II
+(2°, d) de l'article 1er du décret du 9 juin 2009 susvisé. CHAPITRE IV :
+EXIGENCES TECHNIQUES LIEES AU SITE DE LANCEMENT Article 27 En savoir plus sur
+cet article... 1\. S'agissant d'une opération conduite depuis le Centre
+spatial guyanais, le lanceur doit être conçu et produit de façon à être
+compatible avec les systèmes et procédures issus de l'arrêté portant
+réglementation de l'exploitation des installations du Centre spatial guyanais
+édicté par le président du Centre national d'études spatiales. 2. S'agissant
+d'une opération conduite depuis un autre site de lancement et sous réserve des
+dispenses accordées au titre de l'article 4.4 de la loi du 3 juin 2008
+susvisé, l'opérateur : ― justifie de l'existence de systèmes et procédures
+propres audit site, notamment en matière de localisation, de neutralisation et
+de télémesure, visant lors du déroulement de l'opération à la protection des
+personnes, des biens, de la santé publique et de l'environnement ; ― justifie
+de la compatibilité des systèmes et procédures susmentionnés avec les
+dispositions du présent arrêté ; ― démontre que le lanceur est conçu et
+produit de façon à être compatible avec les systèmes et procédures
+susmentionnés. TROISIEME PARTIE : MAITRISE ET RETOUR SUR TERRE D'UN OBJET
+SPATIAL TITRE IER : CHAMP D'APPLICATION Article 28 En savoir plus sur cet
+article... Les dispositions de la présente partie ne s'appliquent pas à la
+maîtrise et au retour des étages et des éléments de lanceur auxquels
+s'appliquent les dispositions de la deuxième partie du présent arrêté. TITRE
+II : DOSSIER TECHNIQUE CHAPITRE IER : DOCUMENTATION A FOURNIR Article 29 En
+savoir plus sur cet article... Description de l'opération spatiale et des
+systèmes et procédures. La description de l'opération spatiale et des systèmes
+et procédures mis en œuvre, mentionnée au II (1°) de l'article 1er du décret
+du 9 juin 2009 susvisé, présente le système spatial utilisé pour l'opération
+envisagée, constitué du segment sol et de l'objet spatial. Cette description
+présente également les divers sous-systèmes dudit objet. S'agissant d'un objet
+spatial devant effectuer une rentrée en fin de vie, la description présente
+les constituants de la plate-forme et de la charge utile, ainsi que leurs
+équipements, susceptibles d'atteindre le sol, en indiquant les dimensions, les
+masses et les matériaux utilisés. Cette description comprend une analyse de
+mission présentant l'orbite de référence, les moyens pour y accéder
+(injection, mise à poste) et pour s'y maintenir (maintien à poste) avec les
+repères espace et temps associés, les mesures pour restituer l'orbite avec la
+précision prévue, la capacité de contrôler l'objet (existence et visibilité
+des stations sol ou des satellites relais, du centre de contrôle ou d'une
+autonomie bord) ainsi que la stratégie de retrait de service. Elle indique les
+modèles relatifs aux systèmes spatiaux utilisés pour mener cette analyse de
+mission. Cette description comprend la capacité de maîtrise prévue à l'article
+39 du présent arrêté. Article 30 En savoir plus sur cet article... Notice
+générale de conformité. 1. L'opérateur établit, conformément au II (2°, a) de
+l'article 1er du décret du 9 juin 2009 susvisé, une notice générale de
+conformité à la présente réglementation technique. 2. Cette notice générale de
+conformité : ― identifie les documents fournis au titre des articles 31 à 34
+ainsi que 47 et 48 du présent arrêté ; ― établit l'état de conformité en
+résultant. Article 31 En savoir plus sur cet article... Normes internes et
+dispositions de gestion de la qualité. L'opérateur établit conformément au II
+(2°, b) de l'article 1er du décret du 9 juin 2009 susvisé, les documents
+justifiant du respect des dispositions du chapitre II du présent titre.
+Article 32 En savoir plus sur cet article... Etude des dangers. L'opérateur
+réalise, conformément au II (2°, c) de l'article 1er du décret du 9 juin 2009
+susvisé, une étude exposant les dangers que peut présenter l'opération
+spatiale envisagée pour les personnes, les biens, la santé publique et
+l'environnement, notamment les dangers liés à la génération de débris
+spatiaux. Cette étude comprend une description de l'ensemble des dangers liés
+à l'opération dans les cas de fonctionnement nominal et accidentels, que leur
+cause soit d'origine interne ou externe, et en précise la nature et l'étendue
+des conséquences. Cette étude doit traiter notamment des événements suivants,
+dans les conditions prévues aux chapitres III et IV du présent titre : ―
+dommages aux personnes à l'occasion d'une rentrée sur Terre ; ― production de
+débris spatiaux à la suite d'une explosion ; ― collision avec un objet spatial
+habité ; ― mise en orbite dégradée conduisant à une rentrée prématurée ; ―
+collision avec un satellite en orbite géostationnaire, dont les paramètres
+orbitaux sont connus avec précision et disponibles, lors des manœuvres de mise
+à poste, de changement de localisation ou de retrait de service ; ― dispersion
+de matière radioactive ; ― contamination planétaire. Le contenu de l'étude des
+dangers doit être en relation avec la gravité et la probabilité d'occurrence
+des événements redoutés susceptibles d'être engendrés par l'opération
+envisagée. Article 33 En savoir plus sur cet article... Etude d'impact.
+L'opérateur réalise, conformément au II (2°, d) de l'article 1er du décret du
+9 juin 2009 susvisé, l'étude d'impact de l'opération envisagée sur
+l'environnement terrestre ainsi que l'impact en matière de génération de
+débris spatiaux conformément aux dispositions de l'article 40 du présent
+arrêté. Cette étude d'impact identifie et évalue, lors du fonctionnement
+nominal, les impacts sur l'environnement de l'opération et les mesures prises
+modérant les impacts négatifs. Cette étude d'impact identifie, en particulier,
+les débris créés ou susceptibles d'être créés par la mise en œuvre de l'objet
+spatial. Le contenu de cette étude d'impact doit être en relation avec les
+incidences prévisibles et les effets directs ou indirects temporaires et
+permanents de l'opération envisagée sur l'environnement. Article 34 En savoir
+plus sur cet article... Mesures de maîtrise des risques. L'opérateur établit
+et met en œuvre, conformément au II (2°, e) de l'article 1er du décret du 9
+juin 2009 susvisé, à partir des conclusions des études de danger et d'impact
+mentionnées aux articles 32 et 33 ci-dessus, les plans de maîtrise des risques
+suivants : ― le plan de limitation des débris spatiaux, qui démontre le
+respect des dispositions de l'article 40 du présent arrêté ; ― le plan de
+prévention des dommages environnementaux, qui démontre que les matériaux et
+les sources d'énergie choisis pour l'objet spatial ne sont pas de nature à
+créer des dommages environnementaux, ainsi que le respect du deuxième alinéa
+de l'article 45 du présent arrêté ; ― le plan de prévention des risques
+induits par la retombée de l'objet spatial ou de ses fragments, qui démontre
+le respect des dispositions des articles 44 à 46 du présent arrêté ; ― le plan
+de prévention des risques de collision, qui démontre le respect des
+dispositions de l'article 41 du présent arrêté ; ― le cas échéant, le plan de
+sûreté nucléaire, qui démontre le respect des dispositions de l'article 42 du
+présent arrêté ; ― le cas échéant, le plan de protection planétaire, qui
+démontre le respect des dispositions de l'article 43 du présent arrêté.
+CHAPITRE II : EXIGENCES SYSTEME QUALITE Article 35 En savoir plus sur cet
+article... Compétence, moyens, organisation et installations. 1. L'opérateur
+doit mettre en œuvre et gérer, pour la conduite de l'opération spatiale, un
+système de management de la qualité ainsi que des normes internes et
+dispositions de gestion de la qualité, conformément à l'article 1er du décret
+du 9 juin 2009 susvisé. Ce système de management doit traiter de l'assurance
+qualité, de la sûreté de fonctionnement, de la gestion de configuration et de
+la conduite des travaux. 2. Il doit disposer des compétences, des moyens et de
+l'organisation nécessaires pour préparer et mettre en œuvre l'opération
+envisagée : ― installations et organisation appropriées ; ― équipements,
+outils et matériels adaptés à l'opération envisagée ; ― documentation relative
+aux tâches et aux procédures ; ― accès aux données utiles à la préparation de
+l'opération envisagée ; ― enregistrement, exploitation et archivage des
+données techniques ; ― postes clés et processus de formation associé. 3. La
+description et la justification des constituants de l'objet spatial critiques
+vis-à-vis de la protection des personnes, des biens, de la santé publique et
+de l'environnement, notamment en ce qui concerne la production de débris
+spatiaux, ainsi que la définition des matériaux utilisés doivent être
+conservés jusqu'à la fin de l'opération spatiale concernée. Après les
+manœuvres de retrait de service, ces éléments sont transmis au Centre national
+d'études spatiales avec la description de l'état atteint. Article 36 En savoir
+plus sur cet article... Faits techniques et d'organisation. L'opérateur doit
+mettre en place une organisation lui permettant : ― de connaître et de
+traiter, pendant la préparation et la conduite de l'opération spatiale, tous
+les faits techniques et d'organisation susceptibles d'affecter les conditions
+de l'opération spatiale telle qu'elle a été autorisée, notamment la stratégie
+de retrait de service ; ― d'informer, sans délai, au titre de l'article 7 du
+décret du 9 juin 2009 susvisé, le Centre national d'études spatiales de tous
+ces faits techniques et d'organisation. Article 37 En savoir plus sur cet
+article... Revues techniques. Des points clés visant à la vérification de la
+mise en œuvre des dispositions du présent arrêté doivent être planifiés par
+l'opérateur. L'opérateur doit informer le Centre national d'études spatiales
+des points clés préalables au lancement et à l'engagement des manœuvres de
+retrait de service de l'objet spatial. Article 38 En savoir plus sur cet
+article... Cocontractants et sous-traitants. 1. L'opérateur doit faire
+appliquer, par ses cocontractants et sous-traitants, toutes dispositions
+nécessaires à l'établissement et au maintien de la conformité à la présente
+réglementation technique. 2. L'opérateur doit faire appliquer, par les
+personnes visées ci-dessus, des dispositions liées à l'organisation,
+l'assurance qualité et l'ingénierie conformes à des normes et pratiques
+reconnues par la profession. CHAPITRE III : EXIGENCES TECHNIQUES SPECIFIQUES
+COMMUNES A LA MAITRISE EN ORBITE ET AU RETOUR SUR TERRE D'UN OBJET SPATIAL
+Article 39 En savoir plus sur cet article... Capacité de maîtrise de l'objet
+spatial. L'objet doit être conçu, produit et mis en œuvre de façon à permettre
+à l'opérateur, pendant toute la durée de l'opération, de recevoir des
+informations sur son état et de lui envoyer des commandes nécessaires
+notamment à l'application des articles 47 et 48 du présent arrêté. Article 40
+En savoir plus sur cet article... Limitation des débris spatiaux. Les systèmes
+mis en œuvre par l'opérateur doivent être conçus, produits et mis en œuvre de
+façon à respecter les dispositions suivantes : 1. Les systèmes doivent être
+conçus, produits et mis en œuvre de façon à ne pas générer de débris au cours
+des opérations nominales de l'objet spatial. La disposition ci-dessus n'est
+pas applicable : ― aux systèmes pyrotechniques. Ceux-ci ne doivent toutefois
+pas générer des produits de taille supérieure ou égale à 1 mm dans leur plus
+grande dimension ; ― aux propulseurs à poudre. Ceux-ci ne doivent toutefois
+pas générer de débris de combustion de taille supérieure ou égale à 1 mm dans
+la région protégée B. S'agissant de la conception et de l'utilisation des
+propulseurs à poudre, l'opérateur met en œuvre des méthodes permettant
+d'éviter de mettre durablement en orbite des produits de combustion solide qui
+pourraient contaminer la région protégée A. 2. La probabilité d'occurrence
+d'une désintégration accidentelle doit être inférieure à 10―³ jusqu'à la fin
+de vie de l'objet spatial ; son calcul doit inclure les modes de pannes des
+systèmes de propulsion et de puissance, les mécanismes et les structures, mais
+ne prend pas en compte les impacts extérieurs. En cas de détection d'une
+situation entraînant une telle défaillance, l'opérateur doit pouvoir planifier
+et mettre en œuvre des mesures correctives afin d'éviter toute désintégration.
+3. Les systèmes doivent être conçus, produits et mis en œuvre de façon à ce
+que, à l'issue de la phase de retrait de service : ― toutes les réserves
+d'énergie à bord soient épuisées de façon permanente ou placées dans un état
+tel qu'elles ne présentent pas de risque de générer des débris ; ― tous les
+moyens de production d'énergie à bord soient désactivés de façon permanente.
+4. Les systèmes doivent être conçus, produits et mis en œuvre de façon à ce
+que l'objet spatial ayant achevé sa phase opérationnelle sur une orbite
+traversant la région protégée A soit désorbité avec rentrée atmosphérique, de
+manière contrôlée. En cas d'impossibilité, dûment justifiée, à respecter cette
+disposition, il doit être conçu, produit et mis en œuvre de façon à ce qu'il
+ne soit plus présent dans la région protégée A, vingt-cinq ans après la fin de
+la phase opérationnelle. Ce résultat est obtenu, de préférence, par une
+rentrée atmosphérique non contrôlée ou, à défaut, par la mise sur une orbite
+stable dont le périgée reste, dans les cent ans qui suivent la fin de
+l'opération, au-dessus de la région protégée A. 5. L'objet spatial doit être
+conçu, produit et mis en œuvre de façon à ce que, lorsqu'il a achevé sa phase
+opérationnelle sur une orbite incluse dans ou traversant la région protégée B,
+il soit mis sur une orbite n'interférant pas avec cette région. Cette orbite
+doit être telle que, sous l'effet des perturbations naturelles, dans les cent
+ans qui suivent la fin de l'opération, l'objet ne revienne pas dans la région
+protégée B. 6. La probabilité de pouvoir disposer des ressources en énergie
+nécessaires pour réaliser avec succès les manœuvres de retrait de service
+mentionnées aux 3, 4 et 5 ci-dessus doit être au moins de 0,9. 7. L'opérateur
+doit évaluer la probabilité de pouvoir réaliser avec succès les manœuvres de
+retrait de service mentionnées aux 3, 4 et 5 ci-dessus. Cette évaluation, qui
+n'inclut pas la disponibilité des ressources en énergie, doit être effectuée
+par l'opérateur sur la durée totale de l'opération et prend en compte tous les
+systèmes, sous-systèmes et équipements utilisables pour ces manœuvres, leurs
+niveaux de redondance éventuels et leur fiabilité, en tenant compte des effets
+du vieillissement atteint au moment où il est prévu que ces manœuvres seront
+exécutées. Article 41 En savoir plus sur cet article... Prévention des risques
+de collision. Les systèmes doivent être conçus, produits et mis en œuvre et
+leur mission définie de façon à limiter, pendant l'opération spatiale et les
+trois jours qui suivent la fin de l'opération, les risques de collision
+accidentelle avec les objets habités et les satellites en orbite
+géostationnaire dont les paramètres orbitaux sont connus avec précision et
+disponibles. Article 42 En savoir plus sur cet article... Sûreté nucléaire.
+Tout opérateur ayant l'intention de mettre en œuvre des matières radioactives
+à bord de l'objet spatial se conforme à la réglementation applicable en
+vigueur et justifie de son application dans le plan de sûreté nucléaire prévu
+à l'article 1er du décret du 9 juin 2009 susvisé. Article 43 En savoir plus
+sur cet article... Protection planétaire. Tout opérateur ayant l'intention de
+conduire une mission vers un autre corps céleste, incluant ou non un retour de
+matière extraterrestre, se conforme à la norme internationale « Politique de
+protection planétaire » publiée par le Committee on Space Research (COSPAR)
+pour l'application de l'article IX du Traité sur les principes régissant les
+activités des Etats en matière d'exploration et d'utilisation de l'espace
+extra-atmosphérique, y compris la Lune et les autres corps célestes.
+L'opérateur justifie de son application dans le plan de protection planétaire
+prévu à l'article 1er du décret du 9 juin 2009 susvisé. CHAPITRE IV :
+EXIGENCES TECHNIQUES SPECIFIQUES POUR LE RETOUR D'UN OBJET SPATIAL Article 44
+En savoir plus sur cet article... Objectifs quantitatifs pour la sécurité des
+personnes pour le retour sur Terre d'un objet spatial. 1. S'agissant du retour
+d'un objet spatial, les objectifs quantitatifs de sauvegarde, exprimés en
+probabilité maximale admissible de faire au moins une victime (risque
+collectif), sont définis comme suit : 2*10―5 pour un retour intègre ; 2*10―5
+pour une rentrée atmosphérique contrôlée avec destruction de l'objet spatial.
+En cas d'impossibilité dûment justifiée de procéder à une rentrée
+atmosphérique contrôlée avec destruction de l'objet spatial telle que
+mentionnée ci-dessus, l'opérateur doit faire ses meilleurs efforts pour
+respecter un objectif quantitatif de 10―4 pour une rentrée non contrôlée avec
+destruction de l'objet spatial. 2. Les dispositions mentionnées au premier
+alinéa ci-dessus doivent être évaluées avec une méthode de calcul reposant sur
+: ― la prise en compte de l'ensemble des phénomènes conduisant à générer un
+risque de dommage catastrophique ; ― la prise en compte des trajectoires avant
+fragmentation ; ― la modélisation des scénarios de fragmentation et de
+génération des débris correspondants à la rentrée ; ― la dispersion au sol des
+débris et l'évaluation de leurs effets ; ― la prise en compte de la fiabilité
+de l'objet spatial. 3. Ces objectifs comprennent le risque associé au retour
+nominal de l'objet ou de ses fragments ainsi que celui associé aux cas non
+nominaux. Ces objectifs sont sans préjudice des dispositions des articles 42
+et 45 du présent arrêté. Article 45 En savoir plus sur cet article...
+Exigences liées à la rentrée non contrôlée de l'objet spatial prévue en fin de
+vie. 1. Les choix d'architecture et des matériaux des objets spatiaux faisant
+l'objet d'une rentrée non contrôlée doivent être justifiés vis-à-vis de
+l'objectif de limiter le nombre et l'énergie (cinétique et explosible) des
+fragments susceptibles d'atteindre le sol. 2. Les systèmes doivent être
+conçus, produits et mis en œuvre de façon à ce que les éléments qui
+parviennent à atteindre la surface de la Terre ne présentent pas de risque
+inacceptable pour les personnes, les biens, la santé publique ou
+l'environnement, notamment du fait d'une pollution de l'environnement par des
+substances dangereuses. Article 46 En savoir plus sur cet article...
+Prévention des risques induits par la retombée de l'objet spatial ou de ses
+fragments lors d'une rentrée contrôlée. 1. L'opérateur détermine les zones de
+retombée de l'objet spatial et de ses fragments pour toute rentrée
+atmosphérique contrôlée sur Terre, associées respectivement à une probabilité
+de 99 % et de 99,999 %. Ces zones de retombée doivent prendre en compte les
+incertitudes associées aux paramètres de rentrée. 2. La zone de retombée
+associée à une probabilité de 99,999 % ne doit pas interférer avec le
+territoire, y compris les eaux territoriales, de tout Etat, sauf accord de ce
+dernier. Dans l'hypothèse où une zone de retombée se situe dans une région
+caractérisée par un fort trafic maritime (rail maritime essentiellement) ou
+par la présence de plates-formes pétrolières fixes et occupées, une analyse
+particulière doit être menée, dans le cadre de l'étude des dangers mentionnée
+à l'article 32 du présent arrêté. 3. L'organisation et les moyens mis en place
+par l'opérateur doit permettre au président du Centre national d'études
+spatiales : ― d'informer les autorités compétentes en charge du contrôle
+aérien et maritime des zones de retombées en cas nominal, en précisant les
+taches à 99 % de ces retombées ; ― de transmettre aux autorités compétentes
+les informations relatives à la zone de retombée d'éléments permettant
+d'avertir au plus tôt les autorités des Etats concernés, en situation dégradée
+; ― de fournir toutes informations utiles en vue de l'établissement et de la
+mise en œuvre des plans d'intervention nécessaires par les autorités
+compétentes. TITRE III : OBLIGATIONS LIEES A LA CONDUITE DE L'OPERATION
+SPATIALE Article 47 En savoir plus sur cet article... Rentrées non nominales.
+Dans le cas d'une rentrée prématurée ou accidentelle, l'opérateur met
+prioritairement en œuvre toutes mesures permettant de réduire le risque au
+sol. Article 48 En savoir plus sur cet article... Etat de l'objet spatial. 1.
+L'opérateur tient à jour un état justifiant de la capacité de l'objet spatial
+à accomplir les manœuvres de retrait de service visées aux 3, 4 et 5 de
+l'article 40 du présent arrêté et notamment de la disponibilité des ressources
+en énergie nécessaires à cette manœuvre. Cet état est transmis au Centre
+national d'études spatiales chaque fois que survient un événement affectant
+cette capacité. 2. L'état de l'objet spatial obtenu à l'issue des opérations
+de retrait de service sera transmis au Centre national d'études spatiales.
+Article 49 En savoir plus sur cet article... Destruction intentionnelle. 1.
+L'opérateur doit éviter la destruction intentionnelle de tout objet spatial en
+orbite. 2. Lorsque l'opérateur entend procéder à une destruction
+intentionnelle, il fait état de sa nécessité auprès du président du Centre
+national d'études spatiales. Ces destructions ne peuvent avoir lieu qu'à des
+altitudes suffisamment basses pour limiter la durée de vie en orbite des
+fragments produits. QUATRIEME PARTIE : CONFORMITE PRELIMINAIRE A LA
+REGLEMENTATION TECHNIQUE TITRE IER : CHAMP D'APPLICATION Article 50 En savoir
+plus sur cet article... Au titre de l'article 11 du décret du 9 juin 2009
+susvisé, les systèmes et sous-systèmes critiques suivants peuvent être soumis
+au Centre national d'études spatiales : ― le système spatial ; ― l'objet
+spatial ; ― la plate-forme d'un objet spatial, le cas échéant associée à un
+système de commande et de contrôle ; ― le sous-système propulsif d'un objet
+spatial ; ― les installations de lancement d'un objet spatial. Article 51 En
+savoir plus sur cet article... Le dossier prévu au premier alinéa de l'article
+11 du décret du 9 juin 2009 susvisé est constitué conformément aux
+dispositions de l'article 50 du présent arrêté. Il est soumis au Centre
+national d'études spatiales pendant le développement du système ou du sous-
+système concerné, au plus tôt à l'issue de la phase de conception
+préliminaire. Le document attestant la conformité préliminaire à la présente
+règlementation technique peut être délivré par le Centre national d'études
+spatiales à l'issue des étapes de la conception et du développement du système
+ou du sous-système suivantes : ― conception préliminaire ; ― conception
+détaillée ; ― production et essais au sol destinés à vérifier le respect des
+dispositions du présent arrêté pour le système ou sous-système concerné ; ―
+qualification. TITRE II : PROCEDURE DE DELIVRANCE DU DOCUMENT ATTESTANT
+CONFORMITE Article 52 En savoir plus sur cet article... Pièces à fournir. 1.
+Pour un système de lancement, le soumissionnaire fournit tout ou partie, selon
+le système concerné, des documents prévus aux articles 4 à 10 du présent
+arrêté. Pour un sous-système propulsif d'un système de lancement, le Centre
+national d'études spatiales établit la liste des documents à fournir et le
+calendrier associé après fourniture du plan de développement prévu au premier
+alinéa de l'article 11 du décret du 9 juin 2009 susvisé. 2. Pour un système
+spatial autre qu'un système de lancement, le soumissionnaire fournit tout ou
+partie, selon le système concerné, des documents prévus aux articles 29 à 34
+du présent arrêté. Article 53 En savoir plus sur cet article... Contrôles,
+essais et analyses. Sur la base des pièces fournies au titre de l'article 52
+du présent arrêté, le Centre national d'études spatiales prescrit tous
+contrôles, essais et analyses tels que prévus au deuxième alinéa de l'article
+11 du décret du 9 juin 2009 susvisé. S'agissant d'un système de lancement, ces
+demandes peuvent également être relatives à la compatibilité avec les systèmes
+et procédures du site depuis lequel l'opération spatiale est conduite.
+CINQUIEME PARTIE : GUIDE DES BONNES PRATIQUES TITRE UNIQUE Article 54 En
+savoir plus sur cet article... 1\. Un guide des bonnes pratiques est établi
+par le Centre national d'études spatiales, en concertation avec la profession
+dans le cadre d'un groupe de travail représentatif des opérateurs et des
+industriels concernés afin de caractériser certaines pratiques en vigueur qui
+permettent de contribuer à démontrer le respect de la présente réglementation
+technique. Ce guide repose sur des pratiques validées par l'expérience acquise
+dans le développement, l'exploitation et le contrôle des systèmes spatiaux. Il
+s'appuie notamment sur des normes, des spécifications techniques à vocation
+normative ainsi que des standards reconnus par la profession, se rapportant à
+la sécurité des biens, des personnes, de la santé publique et de
+l'environnement dans le cadre de la conduite d'opérations spatiales. Le
+contenu de ce guide respecte les dispositions applicables en matière de la
+protection de la propriété intellectuelle ainsi que du patrimoine industriel
+et scientifique. 2. La conformité à tout ou partie des dispositions de la
+présente réglementation technique est présumée acquise dans le cas où
+l'opérateur démontre le respect des recommandations afférentes de ce guide.
+L'utilisation du guide des bonnes pratiques ne saurait présenter un caractère
+obligatoire ou exclusif. SIXIEME PARTIE : DISPOSITIONS TRANSITOIRES ET FINALES
+Article 55 En savoir plus sur cet article... Dispositions transitoires. 1.
+S'agissant des opérations de lancement d'un objet spatial, il est fait
+application des dispositions transitoires suivantes : a) Les dossiers de
+demande d'autorisation pour les opérations de lancement qui utilisent un
+système de lancement dont la première opération a eu lieu depuis le territoire
+français avant le 4 juin 2008 peuvent faire référence aux dossiers techniques
+déjà instruits par le Centre national d'études spatiales notamment dans le
+cadre des accords internationaux existants, en particulier ceux conclus avec
+ou dans le cadre de l'Agence spatiale européenne. Dans ce cas, les
+dispositions du sixième alinéa de l'article 21 du présent arrêté ne sont pas
+applicables. En cas d'impossibilité dûment justifiée d'appliquer les
+dispositions du cinquième alinéa de l'article 21 du présent arrêté,
+l'opérateur de lancement fait ses meilleurs efforts pour se rapprocher des
+seuils mentionnés. b) Pour les systèmes dont le premier lancement depuis le
+territoire français a lieu entre le 4 juin 2008 et le 31 décembre 2011, les
+dispositions du sixième alinéa de l'article 21 du présent arrêté ne sont pas
+applicables ; c) Pour les systèmes dont le premier lancement depuis le
+territoire français a lieu postérieurement au 31 décembre 2011, les
+dispositions du présent arrêté sont pleinement applicables. 2. S'agissant des
+opérations de maîtrise et de retour d'un objet spatial, il est fait
+application des dispositions transitoires suivantes : a) Pour les objets
+spatiaux lancés avant le 10 décembre 2010 : ― s'agissant des dispositions des
+articles 32 et 33, les études ne traiteront que des dangers et impacts
+associés aux procédures mises en œuvre postérieurement au 10 décembre 2010 ; ―
+les dispositions de l'article 38, celles des 1, 2, 6 et 7 de l'article 40
+ainsi que celles de l'article 45 ne sont pas applicables ; ― s'agissant des
+dispositions des 3, 4 et 5 de l'article 40 ainsi que celles de l'article 41,
+l'opérateur doit mettre en œuvre la meilleure stratégie possible compte tenu
+de la définition de l'objet spatial ; ― s'agissant des dispositions de
+l'article 44, l'opérateur doit mettre en œuvre la meilleure stratégie possible
+compte tenu de la définition de l'objet spatial et procéder à une estimation
+du risque. b) Pour les objets spatiaux dont le lancement intervient entre le
+10 décembre 2010 et le 31 décembre 2020 : ― les dispositions des 1 à 2 de
+l'article 40 ainsi que celles de l'article 45 ne sont pas applicables ; ―
+s'agissant des dispositions des 3 à 6 de l'article 40 ainsi que celles de
+l'article 41, l'opérateur doit mettre en œuvre la meilleure stratégie possible
+compte tenu de la définition de l'objet spatial ; ― s'agissant des
+dispositions de l'article 44, l'opérateur doit mettre en œuvre la meilleure
+stratégie possible compte tenu de la définition de l'objet spatial et procéder
+à une estimation du risque. Article 56 En savoir plus sur cet article... Le
+président du Centre national d'études spatiales est chargé de l'exécution du
+présent arrêté, qui sera publié au Journal officiel de la République
+française. Fait le 31 mars 2011. Pour la ministre et par délégation : Le
+directeur général pour la recherche et l'innovation, R. Stephan Télécharger le
+document en RTF (poids < 1Mo) Extrait du Journal officiel électronique
+authentifié (format: pdf, poids : 0.54 Mo) Télécharger le document en RDF
+(format: rdf, poids < 1 Mo) Masquer le panneau de navigation Imprimer À propos
+de l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

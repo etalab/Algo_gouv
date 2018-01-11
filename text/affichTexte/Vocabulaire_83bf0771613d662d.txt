@@ -1,0 +1,139 @@
+Vocabulaire de l'informatique et de l'internet (liste de termes, expressions
+et définitions adoptés) | Legifrance Legifrance - Le service public de l'accès
+au droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Vocabulaire de l'informatique et
+de l'internet (liste de termes, expressions et définitions adoptés)
+Vocabulaire de l'informatique et de l'internet (liste de termes, expressions
+et définitions adoptés) Masquer le panneau de navigation Imprimer Navigation
+Vocabulaire du Version initiale Informations sur ce texte JORF n°0001 du 1
+janvier 2013 page 288 texte n° 114 Vocabulaire de l'informatique et de
+l'internet (liste de termes, expressions et définitions adoptés) NOR:
+CTNX1242099K ELI: Non disponible I. ― Termes et définitions brouillage, n.m.
+Domaine : Informatique. Définition : Transformation du code source d'un
+programme destinée à le rendre incompréhensible. Note : Le brouillage permet
+notamment de protéger un programme d'une réutilisation abusive. Équivalent
+étranger : obfuscation.cédérom autonome Domaine : Informatique. Définition :
+Cédérom comportant un système d'exploitation qui fonctionne sans installation
+préalable. Voir aussi : cédérom. Équivalent étranger : live CD.charge utile
+Domaine : Informatique/Internet. Définition : Partie d'un élément transmis,
+tel qu'un message électronique, un flux de données ou un programme
+d'installation, qui correspond au contenu à transmettre et non aux données
+d'acheminement. Équivalent étranger : payload.collecteur, n.m. Domaine :
+Informatique/Internet. Définition : Programme qui parcourt la toile pour en
+extraire des éléments de repérage de contenus, destinés à être utilisés par un
+moteur de recherche. Équivalent étranger : crawler.enregistreur de frappe
+Domaine : Informatique/Internet. Définition : Dispositif conçu pour
+enregistrer la succession des frappes effectuées par un utilisateur sur un
+clavier. Note : L'enregistreur de frappe peut être un programme malveillant,
+qui opère à l'insu de l'utilisateur et permet, par exemple, de connaître son
+mot de passe. Équivalent étranger : keylogger.explorateur de modèle Domaine :
+Informatique. Définition : Dispositif permettant l'exploration d'un modèle.
+Voir aussi : exploration de modèle. Équivalent étranger : model-
+checker.exploration de modèle Domaine : Informatique. Définition : Méthode de
+vérification algorithmique, qui permet de déterminer avec efficacité si un
+système représenté par un modèle satisfait à un ensemble de spécifications
+formelles et qui, si une des spécifications n'est pas vérifiée, fournit des
+contre-exemples servant à identifier la source des erreurs. Note :
+L'exploration de modèle trouve de nombreuses applications dans les industries
+du logiciel et du matériel, la vérification de puces, les protocoles de
+communication, les logiciels pilotes de périphériques, les systèmes critiques
+embarqués et les algorithmes de sécurité. Voir aussi : explorateur de modèle.
+Équivalent étranger : model checking.flux de dépêches Domaine :
+Informatique/Internet. Définition : Suite de données générées automatiquement
+par un site de la toile pour permettre l'accès aux nouveautés de ce site. Note
+: Certains sites proposent, sur leur page d'accueil, un bouton qui donne la
+possibilité de s'abonner au flux de dépêches. Voir aussi : syndication.
+Équivalent étranger : really simple syndication (RSS), RSS feed.impression en
+ligne Domaine : Informatique/Internet. Définition : Service en ligne qui
+permet de faire réaliser tout type d'impression et de façonnage. Équivalent
+étranger : e-printing, web2print, web-to-print. Attention : Cette publication
+annule et remplace celle du Journal officiel du 26 octobre 2006.infrastructure
+à la demande Domaine : Informatique. Définition : Prestation de service qui
+propose à un client l'utilisation à distance d'une infrastructure comprenant
+du matériel et des logiciels, et dont le coût correspond à leur usage
+effectif. Note : On trouve aussi, dans le langage professionnel, le terme «
+infrastructure sous forme de service ». Voir aussi : informatique en nuage,
+logiciel à la demande, matériel à la demande. Équivalent étranger :
+infrastructure as a service (IaaS).ingénierie inverse Domaine : Informatique-
+Industrie. Voir : rétro-ingénierie.logiciel à la demande Domaine :
+Informatique. Définition : Prestation de service proposant à un client
+l'utilisation à distance d'un logiciel et dont le coût correspond à son usage
+effectif. Note : On trouve aussi, dans le langage professionnel, le terme «
+logiciel sous forme de service ». Voir aussi : informatique en nuage,
+infrastructure à la demande, matériel à la demande. Équivalent étranger :
+software as a service (SaaS).matériel à la demande Domaine : Informatique.
+Définition : Prestation de service proposant à un client l'utilisation à
+distance d'un matériel et dont le coût correspond à son usage effectif. Note :
+On trouve aussi, dans le langage professionnel, le terme « matériel sous forme
+de service ». Voir aussi : informatique en nuage, infrastructure à la demande,
+logiciel à la demande. Équivalent étranger : hardware as a service
+(HaaS).rétro-ingénierie, n.f. Domaine : Informatique-Industrie. Synonyme :
+ingénierie inverse. Définition : Ensemble des opérations d'analyse d'un
+logiciel ou d'un matériel destinées à retrouver le processus de sa conception
+et de sa fabrication, ainsi que les modalités de son fonctionnement.
+Équivalent étranger : reverse engineering.test captcha (langage professionnel)
+Forme abrégée : captcha, n.m. (langage professionnel). Domaine :
+Informatique/Internet. Synonyme : test de reconnaissance humaine. Définition :
+Test invitant l'utilisateur d'un site ou d'une application informatique à
+saisir correctement une suite de caractères présentés à l'écran d'une manière
+déformée, qui permet de s'assurer que la demande d'accès émane bien d'une
+personne et non d'un automate. Équivalent étranger : captcha, captcha test,
+completely automated public Turing test to tell computers and humans
+apart.test de reconnaissance humaine Domaine : Informatique/Internet. Voir :
+test captcha.usurpation d'adresse électronique Domaine :
+Informatique/Internet. Définition : Pratique consistant à utiliser
+frauduleusement une adresse de courrier électronique appartenant à une autre
+personne. Note : L'usurpation d'adresse électronique est le plus souvent
+utilisée pour envoyer en grand nombre des courriels indésirables. Équivalent
+étranger : e-mail spoofing. II. - Table d'équivalenceA. ― Termes étrangers
+TERME ÉTRANGER (1) DOMAINE/SOUS-DOMAINE ÉQUIVALENT FRANÇAIS (2) captcha,
+captcha test, completely automated public Turing test to tell computers and
+humans apart. Informatique/Internet. test captcha (langage professionnel),
+captcha, n.m. (langage professionnel), test de reconnaissance humaine.
+crawler. Informatique/Internet. collecteur, n.m. e-mail spoofing.
+Informatique/Internet. usurpation d'adresse électronique. e-printing,
+web2print, web-to-print. Informatique/Internet. impression en ligne. hardware
+as a service (HaaS). Informatique. matériel à la demande. infrastructure as a
+service (IaaS). Informatique. infrastructure à la demande. keylogger.
+Informatique/Internet. enregistreur de frappe. live CD. Informatique. cédérom
+autonome. model-checker. Informatique. explorateur de modèle. model checking.
+Informatique. exploration de modèle. obfuscation. Informatique. brouillage,
+n.m. payload. Informatique/Internet. charge utile. really simple syndication
+(RSS), RSS feed. Informatique/Internet. flux de dépêches. reverse engineering.
+Informatique-Industrie. rétro-ingénierie, n.f., ingénierie inverse. RSS feed,
+really simple syndication (RSS). Informatique/Internet. flux de dépêches.
+software as a service (SaaS). Informatique. logiciel à la demande. web2print,
+e-printing, web-to-print. Informatique/Internet. impression en ligne. (1) Il
+s'agit de termes anglais, sauf mention contraire.(2) Les termes en caractères
+gras se trouvent dans la partie I (Termes et définitions). B. ― Termes
+français TERME FRANÇAIS (1) DOMAINE/SOUS-DOMAINE ÉQUIVALENT ÉTRANGER (2)
+brouillage, n.m. Informatique. obfuscation. captcha, n.m. (langage
+professionnel), test captcha (langage professionnel), test de reconnaissance
+humaine. Informatique/Internet. captcha, captcha test, completely automated
+public Turing test to tell computers and humans apart. cédérom autonome.
+Informatique. live CD. charge utile. Informatique/Internet. payload.
+collecteur, n.m. Informatique/Internet. crawler. enregistreur de frappe.
+Informatique/Internet. keylogger. explorateur de modèle. Informatique. model-
+checker. exploration de modèle. Informatique. model checking. flux de
+dépêches. Informatique/Internet. really simple syndication (RSS), RSS feed.
+impression en ligne. Informatique/Internet. e-printing, web2print, web-to-
+print. infrastructure à la demande. Informatique. infrastructure as a service
+(IaaS). ingénierie inverse, rétro-ingénierie, n.f. Informatique-Industrie.
+reverse engineering. logiciel à la demande. Informatique. software as a
+service (SaaS). matériel à la demande. Informatique. hardware as a service
+(HaaS). rétro-ingénierie, n.f., ingénierie inverse. Informatique-Industrie.
+reverse engineering. test captcha (langage professionnel), captcha, n.m.
+(langage professionnel), test de reconnaissance humaine.
+Informatique/Internet. captcha, captcha test, completely automated public
+Turing test to tell computers and humans apart. usurpation d'adresse
+électronique. Informatique/Internet. e-mail spoofing. (1) Les termes en
+caractères gras se trouvent dans la partie I (Termes et définitions).(2) Il
+s'agit d'équivalents anglais, sauf mention contraire. Télécharger le document
+en RTF (poids < 1Mo) Extrait du Journal officiel électronique authentifié
+(format: pdf, poids : 0.25 Mo) Masquer le panneau de navigation Imprimer À
+propos de l'ordre juridique français Licences Quoi de neuf sur le site ? À
+propos du site Plan du site Accessibilité Aide générale Nous écrire Établir un
+lien
+

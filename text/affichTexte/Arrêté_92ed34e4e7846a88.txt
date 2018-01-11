@@ -1,0 +1,430 @@
+Arrêté du 27 avril 2016 fixant le cahier des charges prévu à l'article L.
+221-7 du code de la route | Legifrance Legifrance - Le service public de
+l'accès au droit Aller au contenu Aller à la navigation générale mardi 4
+juillet 2017 Informations de mise à jour Accueil Droit français Droit européen
+Droit international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Arrêté du 27 avril 2016 fixant le
+cahier des charges prévu à l'article L. 221-7 du code de la route Arrêté du 27
+avril 2016 fixant le cahier des charges prévu à l'article L. 221-7 du code de
+la route Masquer le panneau de navigation Imprimer Navigation Arrêté du 27
+avril 2016 Version initiale Version en vigueur au 4 juillet 2017 Version
+consolidée à la date du ... Jour 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+19 20 21 22 23 24 25 26 27 28 29 30 31 Mois Janvier Février Mars Avril Mai
+Juin Juillet Août Septembre Octobre Novembre Décembre Année Ex: 2017 Sommaire
+Article 1 Article 2 Annexe Article Annexe Article Annexe Article Informations
+sur ce texte JORF n°0102 du 30 avril 2016 texte n° 21 Arrêté du 27 avril 2016
+fixant le cahier des charges prévu à l'article L. 221-7 du code de la route
+NOR: INTS1611203A ELI:
+https://www.legifrance.gouv.fr/eli/arrete/2016/4/27/INTS1611203A/jo/texte Le
+ministre de l'intérieur,Vu le code de la route, notamment ses articles L.
+221-7 et R. 221-3-4,Arrête : Article 1 En savoir plus sur cet article... Le
+cahier des charges pour l'organisation de l'épreuve théorique générale du
+permis de conduire par un organisateur agréé, prévu à l'article L. 221-7 du
+code de la route, est annexé au présent arrêté. Article 2 En savoir plus sur
+cet article... Le délégué à la sécurité et à la circulation routières est
+chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel
+de la République française. Annexe ANNEXEMINISTÈRE DE L'INTÉRIEURDÉLÉGATION À
+LA SÉCURITÉ ET À LA CIRCULATION ROUTIÈRESSOUS-DIRECTION DE L'ÉDUCATION
+ROUTIÈRE ET DU PERMIS DE CONDUIRECAHIER DES CHARGES RELATIF À L'ORGANISATION
+DE L'ÉPREUVE THÉORIQUE GÉNÉRALE ASSURÉE PAR DES ORGANISMES AGRÉÉSSommaire 1\.
+Contexte et objet de l'agrément1.1. La réforme du permis de conduire1.2.
+Réferences légales et réglementaires1.3. Objet de l'agrément2. Références2.1.
+Principaux sigles et abréviations2.2. Glossaire2.3. Conventions2.3.1.
+Convention de rédaction2.3.2. Convention sur les délais3. Dossier de demande
+d'agrément3.1. Transmission du dossier3.2. Contenu du dossier3.3. Délivrance
+de l'agrément4. Caractéristiques des mesures de sécurisation du SI OA en
+support du service de gestion de l'épreuve théorique générale du permis de
+conduire4.1. Les échanges avec le service WEB unifié de gestion des épreuves
+théoriques générales du permis de conduire4.2. Sécurité des études &
+développements4.3. Controle des accès logiques4.4. Cloisonnement du réseau
+support du SI OA4.5. Sécurité des serveurs4.6. Sécurité des postes
+candidats4.7. Sécurité de l'exploitation4.8. Recyclage/mise au rebut de
+supports d'informations sensibles4.9. Protection des horodatages5. Exigences
+relatives aux organismes agrées pour l'organisation de l'epreuve théorique
+générale du permis de conduire5.1. Les postes candidats5.2. Règles générales
+relatives au déroulement des épreuves5.3. Les examinateurs de l'OA5.4. Les
+autres personnels de l'OA5.5. Inscription à l'examen et communication des
+résultats5.6. Protection des données à caractere personnelAnnexe 1 : Service
+web unifié de gestion des épreuves théoriques généralesAnnexe 2 : Règlement de
+l'examen théorique général (ETG) du permis de conduire 1\. Contexte et objet
+de l'agrément1.1. La réforme du permis de conduire Le permis de conduire est
+un élément essentiel de l'insertion sociale et professionnelle, en particulier
+pour les jeunes. Pour beaucoup d'entre eux, un permis de conduire est aussi un
+passeport indispensable pour l'emploi. Pourtant, le système français du permis
+de conduire s'est longtemps caractérisé par des délais trop longs pour obtenir
+une place, délais qui entraînaient des surcoûts et des inégalités
+territoriales qui ne sont pas acceptables : le délai d'attente moyen entre
+deux présentations à l'examen a culminé à près de 100 jours en 2013 en moyenne
+nationale, et plus de quatre mois en région parisienne et Rhône-Alpes.Ainsi,
+après plusieurs mois de concertation, le ministre de l'intérieur a présenté le
+13 juin 2014 une réforme du permis de conduire. Elle prévoit un ensemble de
+mesures simples et efficaces qui bénéficient aux 800 000 nouveaux candidats
+qui se présentent à l'examen du permis B chaque année en France.Pour atteindre
+l'objectif fixé par la loi à 45 jours (moyenne européenne constatée), il a été
+décidé de confier la surveillance de l'examen du code à des prestataires
+agréés par l'Etat pour décharger les inspecteurs du permis de conduire et de
+la sécurité routière de la surveillance de l'épreuve théorique qui ne
+nécessite pas leur niveau de qualification. 1.2. Références légales et
+réglementaires Article L. 221-4 du code de la route.Article L. 221-6 du code
+de la route.Article L. 221-7 du code de la route.Article L. 221-8 du code de
+la route.Article L. 221-9 du code de la route.Article L. 221-10 du code de la
+route. Articles R. 221-3-4 à R. 221-3-17 du code de la route.Arrêté du 20
+avril 2012 fixant les conditions d'établissement, de délivrance et de validité
+du permis de conduire.Arrêté du 19 janvier 2012 fixant la liste des titres
+permettant aux candidats aux examens du permis de conduire de justifier de
+leur identité.Arrêté pris pour l'application des articles D. 221-3-4 et R.
+221-3-5 du code de la route. 1.3. Objet de l'agrément L'objet du présent
+agrément est l'organisation et la surveillance de l'épreuve théorique générale
+du permis de conduire pour une durée de dix ans renouvelable. 2\.
+Références2.1. Principaux sigles et abréviations MI Ministère de l'intérieur
+DSCR Délégation à la sécurité et à l'éducation routières DSIC Direction des
+systèmes d'information et de communication ANSSI Agence nationale de la
+sécurité des systèmes d'information SNPC Système national du permis de
+conduire OA Organisme agréé EECSR Etablissement d'enseignement de la conduite
+et de la sécurité routière ETG Epreuve théorique générale RGS Référentiel
+général de sécuritéDisponible par voie électronique sur le site internet de
+l'Agence nationale de la sécurité des systèmes d'information (
+www.ssi.gouv.fr/rgs) et sur le site internet du secrétariat général à la
+modernisation de l'action publique (www.references.modernisation.gouv.fr) NEPH
+Numéro d'enregistrement préfectoral harmonisé WS-ETG Web Service ETG : service
+web unifié de gestion des épreuves théoriques générales du permis de conduire
+CC Cahier des charges SSI Sécurité des systèmes d'information SI OA Systèmes
+d'information de l'organisme agréé LAN Local Area Network (réseau informatique
+local) RSSI Responsable sécurité des systèmes et réseaux d'information et de
+communication MCO Maintien en condition opérationnelle 2.2. Glossaire Ce
+glossaire est contractuel, ce qui signifie qu'en cas de doute ou d'ambiguïté
+sur l'emploi d'un mot ou d'une expression, c'est la définition donnée ci-
+dessous qui prévaut, même si elle n'est pas conforme aux acceptions usuelles.
+MOT OU EXPRESSION DÉFINITION Examinateur Personne qui supervise l'ETG et
+présente les garanties mentionnées aux articles L. 221-8 et R. 221-3-10 du
+code de la route Organisme agréé (OA) Personne agréée qui organise l'ETG au
+sens de l'article L. 221-4. candidat Personne dont l'éligibilité au passage de
+l'ETG a été validée par le MI Session Période fractionnée d'une journée
+pendant laquelle des examens ETG ont lieu Site individuel Site d'examen conçu
+et prévu pour le passage d'un seul candidat par session Site collectif Site
+d'examen conçu et prévu pour le passage de plusieurs candidats par session
+Poste candidat Poste individuel d'examen du candidat (micro-ordinateurs,
+tablettes). 2.3. Conventions2.3.1. Convention de rédaction Le présent CC est
+rédigé en respectant les règles de rédaction suivantes : \- une exigence peut
+être :- d'ordre technique : ce qui est attendu du système ;- d'ordre
+managérial : ce qui est attendu du titulaire de l'agrément ;- toute exigence
+possède une référence ;- la référence a le format suivant :- un crochet
+ouvrant « [ » pour délimiter le début de la référence ;- une lettre pour
+indiquer la nature de l'exigence : T pour Technique, M pour Management,- un
+tiret « - » ;- un numéro ;- un crochet fermant « ] » pour délimiter la fin de
+la référence. 2.3.2. Convention sur les délais Les délais exprimés en jours
+dans le CC s'entendent sauf indication contraire en jours ouvrés. 3\. Dossier
+de demande d'agrément3.1. Transmission du dossier L'organisme demandeur
+transmet par voie électronique un dossier de demande d'agrément au ministre de
+l'intérieur aux adresses suivantes : \- sous-direction de l'éducation routière
+et du permis de conduire de la DSCR : erpc-dscr@interieur.gouv.fr ;- la DSIC :
+secretariat-dire.dsic@interieur.gouv.fr ;- pôle SSI de la DSIC : dsic-
+polessi@interieur.gouv.fr. Le ministre de l'intérieur (erpc-
+dscr@interieur.gouv.fr) accuse réception du dossier de demande d'agrément
+auprès de l'organisme demandeur, sans que cet accusé de réception ne
+sanctionne la complétude du dossier ou le résultat de l'examen de celui-ci.
+Les résultats de l'examen du dossier sont communiqués par le ministre de
+l'intérieur à l'organisme demandeur dans un délai de quatre mois à compter de
+la date de réception du dossier, faute de quoi, la demande est réputée
+acceptée. 3.2. Contenu du dossier Le dossier de demande d'agrément est
+constitué des éléments suivants : \- une demande d'agrément sur document à en-
+tête ;- un justificatif d'existence légale de moins de trois mois s'il s'agit
+d'une personne morale ou la copie d'une pièce d'identité s'il s'agit d'une
+personne physique ;- le statut juridique ;- un document décrivant la réponse
+apportée à chacune des mesures décrites dans la suite du présent CC ;- un
+document indiquant les procédures d'audit et de contrôle internes des sites
+d'examens, des techniciens et des développeurs du SI OA, et des examinateurs
+sous contrat avec l'OA ;- une attestation d'engagement du demandeur à :-
+respecter le CC ainsi que ses modifications ultérieures ;- garantir son
+indépendance au sens du II de l'article 19 de l'ordonnance n° 2015-899 du 23
+juillet 2015 relative aux marchés publics vis-à-vis des établissements
+d'enseignement de la conduite et de la sécurité routière et des entreprises
+commercialisant des produits pédagogiques dans le domaine de l'enseignement de
+la conduite et de la sécurité routière ;- établir tout document, à la demande
+du MI, se rapportant à son activité dans le domaine de l'organisation de l'ETG
+;- faciliter la mission des agents désignés par le ministre de l'intérieur
+pour effectuer la surveillance et le suivi de la réalisation des examens de
+l'ETG ;- réaliser à sa charge, à la demande du MI, un audit/contrôle SSI (sur
+site) par un prestataire d'audit de la sécurité des systèmes d'information
+qualifié par l'ANSSI, intégrant notamment la vérification des mesures de
+protection des données à caractère personnel et de l'architecture d'horodatage
+;- informer le MI dans les plus brefs délais en cas d'incident SSI sur ses
+infrastructures et à coopérer à la gestion de l'incident. 3.3. Délivrance de
+l'agrément La décision d'agrément est notifiée à l'organisme demandeur par le
+ministre de l'intérieur. Elle précise la date de début de validité pour une
+durée de dix ans renouvelable. 4\. Caractéristiques des mesures de
+sécurisation du SI OA en support du service de gestion de l'épreuve théorique
+générale du permis de conduire4.1. Les échanges avec le service web unifié de
+gestion des épreuves théoriques générales du permis de conduire [T-1]
+L'acquisition d'un certificat client SSL, conforme à l'annexe A4 du RGS, est à
+la charge de l'OA pour accéder au WS-ETG (Le contrat d'interface du WS-ETG est
+délivré au candidat à l'agrément lors du dépôt de la demande).[T-2] Le SI OA
+doit prendre en compte et respecter les spécifications détaillées du WS-ETG
+présentées en annexe 1 du présent document. 4.2. Sécurité des études &
+développements [T-3] Les objectifs Méthode de conduite de projet
+formelle.[T-4] Séparation effective des rôles relatifs au développement, à la
+recette, à la livraison.[T-5] Organisation/Environnement de développement « à
+l'état de l'art », notamment : \- gestion des versions ;- grocédures formelles
+de développement, dans le respect des meilleures pratiques de qualité -
+Recours à un outillage de contrôle qualité ;- grocédures formelles de codage
+sécurisé, dans le respect des meilleures pratiques. [T-6] Procédure formelle
+de recette technique et fonctionnelle des composants logiciels entrant dans le
+périmètre du SI OA.[T-7] Mise en œuvre d'une revue de code finale en phase de
+recette, intégrant les problématiques de sécurité informatique.[T-8] Procédure
+formelle de livraison des composants logiciels entrant dans le périmètre du SI
+OA incluant un contrôle de conformité/intégrité avant déploiement. 4.3.
+Contrôle des accès logiques [T-9] Accès aux comptes d'administration du SI OA
+par authentification forte ; à défaut : \- sensibilisation du personnel OA à
+la protection des mots de passe ;- politique de mots de passe relative aux
+comptes à privilège (robustesse, renouvellement, « time out », etc.) à l'état
+de l'art ;- procédures formelles de gestion
+(création/renouvellement/communication) des mots de passe, notamment ceux
+associés à des privilèges élevés, en garantissant la confidentialité et
+l'intégrité ;- pestriction des accès réseaux aux uniques administrateurs
+(filtrage). [T-10] Traçabilité de l'ensemble des accès/actions
+d'administration des ressources logicielles et matérielles permettant de
+délivrer les services OA.[T-11] Rapatriement temps réel des traces
+d'administration des ressources logicielles et matérielles permettant de
+délivrer les services OA sur un dispositif centralisé administré de manière
+spécifique.[T-12] Procédure formelle (a minima hebdomadaire) d'exploitation
+des traces d'administration des ressources logicielles et matérielles
+permettant de délivrer les services OA (main courante attestant de la mise en
+œuvre de la procédure tenue à disposition du ministère de l'intérieur). 4.4.
+Cloisonnement du réseau support du SI OA [T-13] Existence d'une politique de
+sécurisation des réseaux de l'organisme agréé conforme aux meilleures
+pratiques et régulièrement réactualisée, notamment en matière : \- de
+sécurisation des flux d'échange avec internet ;- de cloisonnement et de
+filtrage du LAN utilisateur ;- de cloisonnement et de filtrage des LANs
+serveurs afin de limiter l'exposition de services à des populations ou
+serveurs non souhaités ;- de cloisonnement et de filtrage des accès
+d'administration aux serveurs. [T-14] Mise en place d'une architecture de
+contrôle/filtrage des flux de communication entre le réseau interne de l'OA et
+celui support des services délivrés dans le cadre du projet WS ETG-OA, basée
+sur une analyse des risques potentiels.[T-15] Existence d'un processus de
+maintien en condition de sécurité des dispositifs entrant dans l'architecture
+de contrôle/filtrage des flux de communication faisant l'objet d'une
+évaluation régulière.[T-16] Contrôle périodique, via des audits techniques, du
+niveau de sécurité des dispositifs de contrôle/filtrage des flux de
+communication. 4.5. Sécurité des serveurs [T-17] Existence d'une politique de
+sécurisation des systèmes d'exploitation conforme aux meilleures pratiques et
+régulièrement réactualisée, notamment en matière de réduction de la surface
+d'exposition.[T-18] Existence de guides de durcissement (ou guides de
+configuration sécurisée) formels et régulièrement actualisés.[T-19] Existence
+d'un processus de maintien en condition de sécurité des systèmes
+d'exploitation faisant l'objet d'une évaluation régulière.[T-20] Chiffrement
+intégral des disques stockant les fichiers de diapositives, utilisant des
+algorithmes conforme aux annexes B1, B2, B3 du RGS. 4.6. Sécurité des postes
+candidats [T-21] Inventaire tenu à jour des équipements ayant stocké des
+diapositives (serveurs, micro-ordinateurs, tablettes, supports
+amovibles…).[T-22] Contrôle des accès aux locaux contenant des équipements
+(micro-ordinateurs, tablettes, supports amovibles…) stockant des fichiers de
+diapositives.[T-23] Stockage des équipements (micro-ordinateurs, tablettes,
+supports amovibles…) stockant des fichiers de diapositives dans des armoires
+fermant à clé.[T-24] Procédure formelle de gestion des clés des armoires
+entreposant des équipements (micro-ordinateurs, tablettes, supports
+amovibles…) stockant des fichiers de diapositives.[T-25] Durcissement des
+configurations des équipements (micro-ordinateurs, tablettes…) utilisés par
+les candidats, notamment : \- désactivation des ports et services inutiles ;-
+interdiction de la prise de main à distance, sauf dans le cadre éventuel de
+l'administration du poste (dans ce cas, obligation de tracer les actions
+réalisées et de les sécuriser conformément aux règles énoncées pour la
+thématique « contrôle des accès logiques » ci-dessus) ;- création de comptes
+utilisateurs sans droit d'administration ni privilège pour les candidats ;-
+mots de passe au démarrage de l'équipement ;- chiffrement intégral du disque
+dur ;- désactivation des ports USB ou, à défaut, interdiction des clés USB ;-
+mise à jour automatique des socles (OS, logiciels et progiciels) ;- le «
+bureau » candidat est réduit au minimum, seule une icône donne accès au
+portail de l'examen ;- pas d'accès à internet : seule l'application d'examen
+doit être accessible. 4.7. Sécurité de l'exploitation [T-26] Procédures
+formelles d'administration des ressources logicielles et matérielles
+permettant de délivrer les services OA.[T-27] Supervision/surveillance des
+ressources logicielles et matérielles permettant de délivrer les services
+OA.[T-28] Procédure formelle de réaction aux alertes générées par la
+supervision/surveillance des ressources logicielles et matérielles permettant
+de délivrer les services OA en cas de panne/dysfonctionnement d'un composant.
+4.8. Recyclage/mise au rebut de supports d'informations sensibles [T-29]
+Inventaire tenu à jour des équipements ayant stocké des diapositives
+(serveurs, micro-ordinateurs, tablettes, supports amovibles…).[T-30] Procédure
+formelle de recyclage/mise au rebut des équipements ayant stocké des
+diapositives (serveurs, micro-ordinateurs, tablettes, supports
+amovibles…).[T-31] Contrôle des accès aux locaux contenant des équipements
+(serveurs, micro-ordinateurs, tablettes, supports amovibles…) ayant stocké des
+fichiers de diapositives en attente de recyclage/mise au rebut.[T-32] Stockage
+des équipements (serveurs, micro-ordinateurs, tablettes, supports amovibles…)
+ayant stocké des fichiers de diapositives en attente de recyclage/mise au
+rebut dans des armoires fermant à clé.[T-33] Procédure formelle de gestion des
+clés des armoires entreposant des équipements (serveurs, micro-ordinateurs,
+tablettes, supports amovibles…) ayant stocké des fichiers de diapositives en
+attente de recyclage/mise au rebut.[T-34] Procédure formelle d'effacement
+sécurisée des équipements (serveurs, micro-ordinateurs, tablettes, supports
+amovibles…) ayant stocké des fichiers de diapositives lors de leur
+recyclage/mise au rebut.[T-35] Procédure formelle de maintenance sécurisée des
+équipements (serveurs, micro-ordinateurs, tablettes…) stockant des fichiers de
+diapositives. 4.9. Protection des horodatages [T-36] Mise en œuvre d'une
+source de temps fiable ainsi que d'un dispositif de génération des horodatages
+non manipulable.[T-37] Traçabilité de l'ensemble des accès au dispositif
+d'horodatage et des actions réalisées par les acteurs autorisés.[T-38]
+Rapatriement temps réel des traces d'administration du dispositif d'horodatage
+sur un dispositif centralisé administré de manière spécifique.[T-39] Procédure
+formelle (a minima hebdomadaire) d'exploitation des traces d'administration du
+dispositif d'horodatage (main courante attestant de la mise en œuvre de la
+procédure tenue à disposition du ministère de l'intérieur).[T-40] Notifier
+sans délai au ministère de l'intérieur tout incident touchant à la fonction
+d'horodatage ;[T-41] Garantir le maintien des ressources suffisantes
+permettant l'assurance d'une pérennité du service d'horodatage. 5\. Exigences
+relatives aux organismes agréés pour l'organisation de l'épreuve théorique
+générale du permis de conduire5.1. Les postes candidats [M-1] Taille minimale
+de l'écran du poste candidat de 9 pouces.[M-2] Résolution minimale de l'écran
+du poste candidat de 1 024 × 768 pixels. 5.2. Règles générales relatives au
+déroulement des épreuves [M-3] Au début de chaque épreuve, les examinateurs
+vérifient l'identité de chaque candidat au moyen de la convocation et d'une
+pièce d'identité conforme aux instructions en vigueur.[M-4] A défaut de
+production d'une pièce d'identité conforme aux instructions en vigueur,
+l'examinateur n'autorise pas le candidat à passer l'examen.[M-5] La salle
+d'examen en site collectif est agencée de façon à installer les candidats en
+position espacée ou cloisonnée.[M-6] En site collectif chaque poste candidat
+est équipé d'un casque d'écoute avec volume réglable.[M-7] En site collectif
+le poste de travail de l'examinateur est situé de façon à assurer une
+surveillance aisée et permanente.[M-8] En site collectif, la présence de
+l'examinateur n'est pas obligatoire dans la salle d'examen si un système de
+vidéosurveillance lui permet d'assurer le contrôle de la salle d'examen de
+façon aisée et permanente.[M-9] En site individuel, la présence de
+l'examinateur n'est pas obligatoire dans la salle d'examen si les mesures de
+sécurité prises apportent la garantie que le candidat est seul et n'a aucun
+moyen de communication avec l'extérieur.[M-10] Au moment de l'examen, seuls le
+ou les candidat(s), l'examinateur et éventuellement l'autorité administrative
+sont présents dans la salle à l'exclusion de toute autre personne.[M-11] Les
+téléphones portables et autres appareils électroniques sont interdits dans les
+salles d'examen des sites individuels.[M-12] Les téléphones portables et
+autres appareils électroniques doivent être en mode « Arrêt » et rangés dans
+les affaires personnelles des candidats dans les salles d'examen des sites
+collectifs.[M-13] Pendant l'examen, le port d'oreillettes ou d'écouteurs,
+autres que ceux fournis par l'OA, à l'exception des appareils électroniques
+correcteurs de surdité, est interdit dans toutes les salles d'examen.[M-14] Il
+est strictement interdit aux candidats de communiquer entre eux sous quelque
+forme que ce soit et/ou d'utiliser des documents durant les épreuves.[M-15]
+Tout manquement d'un candidat aux consignes générales fixées au règlement de
+l'examen théorique général du permis de conduire établi à l'annexe 3 du
+présent document entraîne l'exclusion immédiate par l'examinateur.[M-16]
+Obligation de rappeler avant l'épreuve, soit par affichage, soit par tout
+autre moyen de communication, le règlement de l'examen théorique général du
+permis de conduire (modèle en annexe 3). 5.3. Les examinateurs de l'OA [M-17]
+Veiller au recrutement (si nécessaire), à la formation, à l'habilitation, au
+maintien de l'habilitation et à l'évaluation des examinateurs.[M-18] Le
+titulaire de l'agrément assure des sessions de formation destinées aux
+examinateurs.[M-19] La formation permet : \- une connaissance approfondie des
+conditions réglementaires de passage de l'ETG qui s'imposent aux candidats ;-
+l'utilisation autonome du système de réalisation des examens par les
+examinateurs, et notamment la capacité à gérer les incidents ;- la
+connaissance des règles déontologiques. [M-20] Le plan de formation (durée,
+programme et contenu) est livré en annexe du dossier de demande d'agrément.
+Les supports de formation seront fournis dans l'année qui suit l'obtention de
+l'agrément.[M-21] Le titulaire de l'agrément assure la mise à jour de la
+réglementation relative aux conditions de passage qui s'imposent aux candidats
+à l'ETG ainsi que sa diffusion auprès des examinateurs. 5.4. Les autres
+personnels de l'OA [M-22] Référence à une charte administrateur annexée au
+dossier de demande d'agrément.[M-23] Niveau élevé de formation et de
+sensibilisation des personnels de développement.[M-24] Maîtrise élevée des
+environnements technologiques support du SI OA par les personnels
+d'administration/exploitation. 5.5. Inscription à l'examen et communication
+des résultats [M-25] L'inscription à l'examen est assurée par l'OA de telle
+façon que l'accès aux épreuves qu'il organise est égal pour l'ensemble des
+candidats, indépendamment des conditions dans lesquelles ces derniers ont été
+formés et des établissements dans le cadre desquels cette formation a été
+délivrée.[M-26] L'inscription à l'examen est soit individuelle, soit multiple,
+notamment pour permettre aux EECSR de réserver les places pour leurs
+candidats.[M-27] Le résultat est communiqué au candidat par voie électronique
+ou, en cas d'impossibilité par cette voie, par voie postale, l'envoi devant
+intervenir dans les deux jours ouvrés qui suivent le jour de l'épreuve.[M-28]
+Le résultat d'un candidat référencé auprès d'un EECSR au moment de son
+inscription à l'examen doit pouvoir être également communiqué par voie
+électronique à son EECSR de référence.[M-29] Le résultat d'un candidat
+comprend obligatoirement les éléments suivants : NEPH, nom, date de naissance,
+résultat sous la forme « Favorable » ou « Défavorable », le nombre de réponses
+justes sur quarante, les thèmes pédagogiques correspondant aux erreurs
+réalisées.[M-30] Les données suivantes relatives aux candidats inscrits par
+les EECSR sont communiquées à la DSCR : nombre de candidats examinés et nombre
+de candidats reçus mensuellement pour chaque EECSR. 5.6. Protection des
+données à caractère personnel [M-31] Le titulaire de l'agrément se conforme
+aux législations et réglementations françaises et européennes relatives à la
+protection des données à caractère personnel.[M-32] Le titulaire de l'agrément
+respecte la législation et la réglementation françaises en cas de transfert de
+données à caractère personnel hors Union européenne. Annexe Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Annexe Vous
+pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte
+nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016,
+texte nº 21 Vous pouvez consulter l'image dans le fac-similé du JOnº 0102 du
+30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le fac-similé du
+JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter l'image dans le
+fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez consulter
+l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21 Vous pouvez
+consulter l'image dans le fac-similé du JOnº 0102 du 30/04/2016, texte nº 21
+Fait le 27 avril 2016. Pour le ministre et par délégation : Le délégué à la
+sécurité et à la circulation routières, E. Barbe Télécharger le document en
+RTF (poids < 1Mo) Extrait du Journal officiel électronique authentifié
+(format: pdf, poids : 14.26 Mo) Télécharger le document en RDF (format: rdf,
+poids < 1 Mo) Masquer le panneau de navigation Imprimer À propos de l'ordre
+juridique français Licences Quoi de neuf sur le site ? À propos du site Plan
+du site Accessibilité Aide générale Nous écrire Établir un lien
+

@@ -1,0 +1,390 @@
+Délibération n° 2013-221 du 18 juillet 2013 portant avis sur un projet de
+décret en Conseil d'Etat portant création d'un traitement de données à
+caractère personnel dénommé « Etude du devenir global à long terme des
+survivants d'une tumeur solide de l'enfant diagnostiquée avant 2000 en France
+(FCCSS) » (demande d'avis n° 13019242) | Legifrance Legifrance - Le service
+public de l'accès au droit Aller au contenu Aller à la navigation générale
+mardi 4 juillet 2017 Informations de mise à jour Accueil Droit français Droit
+européen Droit international Traductions Bases de données Vous êtes dans :
+Accueil> Les autres textes législatifs et réglementaires> Délibération n°
+2013-221 du 18 juillet 2013 portant avis sur un projet de décret en Conseil
+d'Etat portant création d'un traitement de données à caractère personnel
+dénommé « Etude du devenir global à long terme des survivants d'une tumeur
+solide de l'enfant diagnostiquée avant 2000 en France (FCCSS) » (demande
+d'avis n° 13019242) Délibération n° 2013-221 du 18 juillet 2013 portant avis
+sur un projet de décret en Conseil d'Etat portant création d'un traitement de
+données à caractère personnel dénommé « Etude du devenir global à long terme
+des survivants d'une tumeur solide de l'enfant diagnostiquée avant 2000 en
+France (FCCSS) » (demande d'avis n° 13019242) Masquer le panneau de navigation
+Imprimer Informations sur ce texte JORF n°0030 du 5 février 2014 texte n° 58
+Délibération n° 2013-221 du 18 juillet 2013 portant avis sur un projet de
+décret en Conseil d'Etat portant création d'un traitement de données à
+caractère personnel dénommé « Etude du devenir global à long terme des
+survivants d'une tumeur solide de l'enfant diagnostiquée avant 2000 en France
+(FCCSS) » (demande d'avis n° 13019242) NOR: CNIX1402883X ELI: Non disponible
+La Commission nationale de l'informatique et des libertés, Saisie par le
+ministère des affaires sociales et de la santé d'une demande d'avis concernant
+un projet de décret en Conseil d'Etat portant création d'un traitement de
+données à caractère personnel dénommé « Etude du devenir global à long terme
+des survivants d'une tumeur solide de l'enfant diagnostiquée avant 2000 en
+France (FCCSS) » ; Vu la convention n° 108 du Conseil de l'Europe pour la
+protection des personnes à l'égard du traitement automatisé des données à
+caractère personnel ; Vu la directive 95/46/CE du Parlement européen et du
+Conseil du 24 octobre 1995 relative à la protection des personnes physiques à
+l'égard du traitement de données à caractère personnel et à la libre
+circulation de ces données ; Vu la loi n° 78-17 du 6 janvier 1978 modifiée
+relative à l'informatique, aux fichiers et aux libertés, notamment son article
+27-1 (1°) ; Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour
+l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés ; Vu le décret n° 2007-960 du 15 mai 2007 relatif
+à la confidentialité des informations médicales ; Vu l'arrêté du 1er février
+2013 relatif à l'utilisation par l'équipe d'épidémiologie des radiations de
+l'unité 1018 de l'Institut national de la santé et de la recherche médicale du
+répertoire national interrégimes des bénéficiaires de l'assurance maladie ; Vu
+la délibération n° 2013-030 du 17 janvier 2013 sur un projet d'arrêté du
+ministère des affaires sociales et de la santé relatif à l'utilisation par
+l'équipe d'épidémiologie des radiations de l'unité 1018 de l'Institut national
+de santé et de la recherche médicale du répertoire national interrégimes des
+bénéficiaires de l'assurance maladie ; Vu l'avis favorable du comité
+consultatif sur le traitement de l'information en matière de recherche dans le
+domaine de la santé rendu le 11 juillet 2012 ; Après avoir entendu Mme Marie-
+Hélène MITJAVILE, commissaire, en son rapport, et M. Jean-Alexandre SILVY,
+commissaire du Gouvernement, en ses observations, Emet l'avis suivant : Le
+ministère des affaires sociales et de la santé a saisi la CNIL pour avis d'un
+projet de décret en Conseil d'Etat portant création d'un traitement automatisé
+de données à caractère personnel mis en œuvre par l'Institut national de la
+santé et de la recherche médicale (INSERM), dans le cadre d'une étude relative
+au devenir global à long terme des survivants d'une tumeur solide de l'enfant
+diagnostiquée avant 2000 en France, dénommée « FCCSS ». Ce traitement portant
+sur des données parmi lesquelles figure le numéro d'inscription des personnes
+au répertoire national d'identification des personnes physiques (RNIPP), ou «
+NIR », traité par la Caisse nationale de l'assurance maladie des travailleurs
+salariés (CNAMTS) à des fins de recherche, relève à ce titre d'un décret en
+Conseil d'Etat, pris après avis motivé et publié de la CNIL, en application
+des dispositions de l'article 27-1-1° de la loi du 6 janvier 1978 modifiée. La
+CNIL a également été saisie à l'appui du projet de décret d'un dossier
+technique portant notamment sur les modalités d'organisation de l'étude et la
+collecte des données individuelles des personnes concernées par l'étude,
+issues du système national d'information interrégimes de l'assurance maladie
+(SNIIRAM) par la CNAMTS, via l'utilisation du NIR. Présentation et conditions
+de mise en œuvre de l'étude L'étude « FCCSS » (« French Childhood Cancer
+Survivor Study ») est une étude observationnelle multicentrique nationale
+relative au devenir global des survivants d'un cancer solide de l'enfant
+diagnostiqué avant 2000 en France, qui a pour objectifs : d'identifier les
+risques et les agents iatrogènes, de préciser les relations dose-effet,
+d'avertir la population cible des risques encourus et de mettre en place des
+consultations de suivi spécialisées et des actions de prévention. Cette
+cohorte nationale comptera entre quinze et trente mille personnes, âgées de
+moins de vingt et un ans à la date de diagnostic d'un cancer de l'enfant et de
+l'adolescent, posé avant l'année 2000. La commission relève que le comité
+consultatif pour le traitement de l'information en matière de recherche dans
+le domaine de la santé a rendu un avis favorable à l'enquête objet de la
+présente demande. Sur la dénomination et la finalité du traitement Aux termes
+de l'article 1er du projet de décret, celui-ci a vocation à autoriser
+l'Institut national de la santé et de la recherche médicale à mettre en œuvre
+un traitement de données à caractère personnel relatif à l'étude dénommée «
+FCCSS » qui porte sur le devenir global à long terme des survivants d'une
+tumeur solide de l'enfant diagnostiquée avant l'an 2000 en France. La
+commission considère que, eu égard à l'intérêt de santé publique que présente
+cette étude, la création de ce traitement et les finalités ainsi poursuivies
+sont déterminées et légitimes. Sur la nature des données traitées L'article 2
+du projet de décret énumère les données collectées au sein des bases de
+données existantes, d'une part, et celles collectées directement auprès des
+personnes participant à l'étude. Ces données concernent : ― (I de l'article 2)
+l'identification des personnes (nom, prénom, date et lieu de naissance, sexe,
+adresse postale et électronique, numéro de téléphone), leur statut vital, leur
+situation sociale et sociodémographique liées aux conséquences de la maladie,
+à leurs modalités de prise en charge et à leur qualité de vie (couverture
+sociale, composition du ménage, caractéristiques du lieu de résidence,
+activités de loisirs, recours aux soins, formation(s), diplôme(s), accès aux
+assurances et aux prêts, réseaux de sociabilité ; ― (II de l'article 2) la
+santé des personnes (données cliniques correspondant aux caractéristiques et à
+l'extension des cancers, données relatives aux traitements reçus, le cas
+échéant, données relatives aux pathologies iatrogènes déjà identifiées et aux
+consultations spécialisées de suivi, données médicales sur l'état de santé
+actuel des personnes auprès des professionnels de santé participant à leur
+prise en charge, leur statut vital et, le cas échéant, les causes de décès) ;
+― (III de l'article 2) les données pertinentes pour la réalisation de l'étude
+au sein des bases de données préexistantes et du SNIIRAM, à savoir : ― les
+données relatives aux consommations de soins des personnes en établissement de
+santé (dates des soins et des remboursements, motif médical d'hospitalisation,
+actes pratiqués, durée de séjour, mode de sortie, codes des pathologies et des
+diagnostics principaux, associés et reliés, des actes techniques pratiqués
+tels que les examens biologiques, dispositifs médicaux et médicaments) ; ― les
+données relatives à la consommation de soins en ville (actes médicaux, de
+biologies, dispositifs médicaux et médicaments) ; ― les données relatives à la
+situation sociale en relation avec la prise en charge de la maladie
+(indication de la couverture sociale, de l'affiliation éventuelle à la
+couverture sociale universelle, diagnostic éventuel d'affections longue
+durée). La commission observe qu'en vertu de la loi du 6 janvier 1978 modifiée
+ne peuvent être collectées que les données pertinentes pour la réalisation de
+l'étude et considère que tel est bien le cas pour chacune des catégories de
+données mentionnées à l'article 2 du projet de décret. Elle relève qu'il est
+précisé, au III de l'article 2, que seront collectées les données pertinentes
+au regard de la finalité du traitement, à savoir la réalisation de l'étude «
+FCCSS ». En outre, la commission relève que les questionnaires « Enquête de
+suivi et de qualité de vie » renseignés tous les cinq ans (pendant vingt ans)
+par les personnes ayant consenti à participer à l'étude « FCCSS » portent
+mention de l'identification des professionnels de santé précités. Elle prend
+acte qu'à sa demande l'article 2 du projet de décret sera modifié pour en
+tenir compte. Sur les modalités de collecte des données L'étude « FCCSS »
+comprenant un volet rétrospectif et un volet prospectif, les données précitées
+seront collectées selon différentes modalités. Concernant le volet
+rétrospectif, les données seront issues : ― d'extractions de données de bases
+préexistantes, qui constitueront la base de données de la cohorte « FCCSS »,
+au nombre des bases préexistantes comptent les cohortes, les essais cliniques
+préexistants, les données issues des registres cancers généraux et spécialisés
+; ― des dossiers médicaux des patients, tenus par les services d'oncologie
+pédiatrique, des établissements de santé participant à l'étude, alimenteront,
+sauf opposition des personnes répondant aux critères d'inclusion au sein de
+l'étude « FCCSS » ; ― du répertoire national interrégimes des bénéficiaires de
+l'assurance maladie, conformément aux dispositions de l'article R. 161-37 du
+code de la sécurité sociale, et ce pour les adresses postales et le statut
+vital des personnes ; ― du répertoire national d'identification des personnes
+physiques (RNIPP) et de la base du centre d'épidémiologie sur les causes
+médicales de décès (CépiDC), respectivement pour le statut vital et, le cas
+échéant, les causes de décès ; et ― du SNIIRAM pour les données de
+consommation de soins des personnes incluses dans la cohorte « FCCSS ».
+Concernant spécifiquement la collecte de données issues du SNIIRAM, l'article
+3 du projet de décret autorise la CNAMTS à utiliser le NIR des personnes
+participant à l'étude « FCCSS » « en vue d'effectuer un appariement avec les
+données concernant ces personnes enregistrées dans le système national
+d'information interrégime de l'assurance maladie ». Dès lors que l'identifiant
+utilisé dans le SNIIRAM, permettant de réidentifier les consommations de soins
+individuelles, est issu du résultat d'une double fonction de hachage du NIR,
+la CNAMTS, grâce au NIR des personnes incluses dans la cohorte « FCCSS »,
+pourra extraire les données pertinentes et permettre à l'INSERM de relier les
+consommations de soins précitées aux données collectées dans le cadre de la
+cohorte. Pour ce faire, l'INSERM transmettra à la Caisse nationale d'assurance
+maladie des travailleurs salariés (CNAMTS), chargée de fournir à la Caisse
+nationale d'assurance vieillesse des travailleurs salariés (CNAVTS), un
+fichier chiffré, comprenant : ― le numéro identifiant (NFCCSS) ; ― le nom
+patronymique ; ― les prénoms ; ― le lieu et la date de naissance ; et ― le
+sexe des personnes concernées par l'étude « FCCSS ». Ces éléments permettront
+à la CNAVTS, gestionnaire du RNIAM qui comprend le NIR, de retrouver les NIR
+individuels des personnes participant à l'étude. Les NIR ainsi identifiés
+permettront à la CNAMTS, grâce au double procédé de hachage par la fonction
+d'occultation des informations nominatives (FOIN), permettant d'obtenir un
+numéro « FOIN1 » de collecter les données individuelles du SNIIRAM concernant
+les personnes incluses dans la cohorte « FCCSS », qui associées aux
+identifiants NFCCSS seront transmises à l'INSERM. L'équipe INSERM pourra ainsi
+apparier, grâce à l'identifiant NFCCSS, les données de la cohorte avec celles
+issues du SNIIRAM. La commission relève que le projet de décret qui lui a été
+soumis, d'une part, n'explicite pas cette procédure et, d'autre part, semble
+indiquer que les appariements seront effectués par la CNAMTS. Elle prend acte
+qu'à sa demande l'article 3 sera modifié et précisera la procédure
+d'extraction des données du SNIIRAM par la CNAMTS. La commission souhaite
+également que ledit article soit complété afin de mettre en évidence que
+l'appariement des données sera réalisé par l'INSERM et que les transferts de
+données seront sécurisés, notamment par la mise en place d'une procédure de
+chiffrement des données. Concernant le volet prospectif, les données seront
+issues : ― des formulaires de recueil de consentement, renseignés par les
+personnes incluses pour ce qui est de leur numéro de téléphone et le cas
+échéant leur adresse électronique ; ― des questionnaires « Fiche Clinique
+FCCSS » renseignés par les attachés de recherche clinique, agissant sous la
+responsabilité du professionnel de santé prenant en charge le patient (et
+après obtention de son accord écrit) ; ― des questionnaires « Enquête de suivi
+et de qualité de vie », transmis tous les quatre à six ans, qui comprendront
+notamment des données de santé, des données relatives à la situation sociale
+en relation avec la prise en charge de la maladie et des données
+d'identification des professionnels de santé les prenant, ou les ayant pris en
+charge. Concernant la collecte du numéro de téléphone des personnes, la
+commission relève une incohérence entre le projet de décret et le protocole de
+recherche versé à l'appui du projet de décret. En effet, le projet de décret
+précise que le numéro de téléphone des personnes sera collecté au sein du
+formulaire de recueil de consentement complété par le patient et au sein du
+protocole de recherche il est précisé que les services de la Poste seront
+sollicités afin de collecter les adresses actuelles des personnes et leurs
+coordonnées. La commission souhaite que les deux documents soient mis en
+conformité l'un avec l'autre et, le cas échéant, qu'une mention supplémentaire
+soit portée au sein de l'article 2 du projet de décret afin de préciser le
+rôle des services de la poste, et ce dans le cas où les personnes ne se
+seraient pas opposées au traitement de leurs données à caractère personnel.
+Elle prend acte que l'article 2 du projet de décret sera modifié afin
+d'expliciter la collecte des adresses actualisées et coordonnées des personnes
+incluses dans la cohorte auprès des services de la poste. Sur la durée de
+conservation des données L'article 6 du projet de décret indique que les
+données composant la cohorte « FCCSS » seront collectées pendant vingt ans
+puis archivées pendant vingt ans. Eu égard aux finalités poursuivies par la
+cohorte « FCCSS », ces durées de conservation n'appellent pas d'observation de
+la part de la commission. Toutefois, elle estime que le projet de décret
+devrait préciser que les données seront rendues totalement anonymes à l'issue
+de la durée de conservation. Par ailleurs, la commission souhaite, d'une part,
+que le projet de décret soit complété afin de prendre acte de la stricte
+séparation physique et logique des données d'identification des personnes
+incluses dans la cohorte des données de santé et des données collectées
+(notamment via les questionnaires « qualité de vie ») auprès des personnes et,
+d'autre part, afin de préciser le sort des données à l'issue de la période
+d'archivage. Sur le respect des droits des personnes concernées L'article 7 du
+projet de décret relatif à « l'information, les droits d'accès et de
+rectification » ne traite pas des modalités d'informations des personnes
+composant la cohorte « FCCSS » et de recueil de leur opposition ou de leur
+consentement. L'information individuelle et le recueil du consentement Le
+projet de décret précise que le consentement des personnes est recueilli afin
+de permettre : ― l'accès aux données du SNIIRAM (art. 2-1, 3°, b, du projet de
+décret) ; ― l'accès aux données de santé des personnes incluses dans la
+cohorte « FCCSS » collectées auprès des professionnels de santé participant à
+leur prise en charge (art. 2-II, 2°, du projet de décret). Or, le formulaire
+de recueil du consentement proposé aux personnes leur permet de distinguer
+clairement et d'accepter ou de refuser, grâce à un système de cases cocher, de
+: ― participer à l'étude et de répondre aux questionnaires « Qualité de vie »
+; ― communiquer leurs coordonnées aux professionnels de santé les ayant
+traités dans l'enfance ; ― contacter les médecins, dont elles auront
+préalablement renseigné les coordonnées (dans les questionnaires précités) ;
+et ― consentir à ce que soient collectées, via la CNAMTS, leurs données de
+consommation de soins. Par ailleurs, il résulte du dossier fourni à l'appui du
+projet de décret qu'afin de garantir le caractère éclairé du consentement
+recueilli, les personnes seront informées par le biais d'une notice
+d'information écrite transmise par courrier à leur domicile. Cette brochure
+comprendra des informations relatives à l'identité du responsable du
+traitement, aux objectifs et aux modalités de mise en œuvre de l'étude et aux
+conditions d'exercice des droits des personnes, conformément aux dispositions
+de l'article 57 de la loi du 6 janvier 1978 modifiée. Les personnes y seront
+clairement informées du caractère volontaire et facultatif de leur
+participation l'étude et de l'absence de conséquence d'un refus d'y
+participer. Elles y seront également informées de la possibilité de mettre fin
+à leur participation à tout moment. Elles seront informées, enfin, des
+modalités pratiques d'exercice des droits ouverts au titre de la loi du 6
+janvier 1978 modifiée et, notamment, de leur droit d'accès et de rectification
+aux données nominatives qui les concernent, prévus aux articles 39 et 40 de la
+loi du 6 janvier 1978 modifiée. La dérogation à l'obligation d'information
+individuelleet le droit d'opposition des personnes Le protocole de recherche,
+transmis à l'appui du projet de décret, prévoit pour certaines personnes
+incluses dans la cohorte « FCCSS » la possibilité, le cas échéant, de
+s'opposer à leur inclusion et à la collecte de leurs données. En effet, un
+certain nombre de personnes, dont les données sont collectées dans des bases
+de données préexistantes (telles que, par exemple, les bases constituées par
+les registres de cancer, les études menées depuis 2000 et terminées), ne
+pourront pas être recontactées par courrier ou par téléphone. Une information
+relative à la constitution de la cohorte « FCCSS » sera délivrée par voie
+d'affichage dans les services d'oncologie pédiatrique des établissements de
+santé participant à l'étude « FCCSS ». Dès lors, la commission souhaite que
+l'article 7 du projet de décret soit complété afin de préciser les cas dans
+lesquels : ― le consentement des personnes sera recherché et recueilli ; ― les
+personnes auront la possibilité de faire connaître leur opposition à la
+transmission de leurs données et à leur inclusion dans la cohorte « FCCSS » ;
+― il serait dérogé à l'obligation d'information, conformément aux dispositions
+de l'article 57 de la loi du 6 janvier 1978 modifiée. Enfin, et dès lors que
+les données traitées pour les besoins de l'étude « FCCSS » seront collectées
+pendant vingt ans, et conservées pendant vingt ans supplémentaires, et afin de
+permettre aux participants à l'étude de comprendre clairement la portée de
+l'accord qu'ils donnent, la commission estime qu'il convient de leur délivrer
+une information exacte et précise sur la période considérée qui doit être
+pertinente au regard de la finalité de l'étude. La commission prend acte que
+les droits d'accès et de rectification des personnes, issus des articles 39 et
+40 de la loi du 6 janvier 1978 modifiée, s'exerceront auprès du président
+directeur général de l'INSERM. Concernant les modalités d'information, de
+recueil de consentement et d'exercice de leurs droits, la commission estime
+que ces modalités d'information, de recueil du consentement des personnes et
+d'exercice de leurs droits d'accès et de rectification sont de nature à
+garantir l'exercice effectif des droits des personnes, sous réserve que le
+projet de décret, en son article 7, se conforme aux éléments précédemment
+exposés. Sur la sécurité des données L'article 5 du projet de décret relatif à
+la sécurité prévoit que l'INSERM « assure la conservation des données dans des
+conditions garantissant leur sécurité ainsi que la traçabilité des actions
+effectuées sur ces données ». Sur les modalités d'accès aux données Les
+compléments, fournis en appui de la demande d'avis, précisent les modalités
+d'accès aux données par les administrateurs système et base de données
+habilités. Ces accès seront effectués par l'utilisation d'identifiants et de
+mots de passe personnels. Les mots de passe devront comporter un minimum de
+dix caractères et être composés de trois types de caractères distincts. Le
+personnel interne pourra quant à lui accéder aux données par l'utilisation
+d'un mot de passe composé au minimum de huit caractères et comportant trois
+types de caractères distincts. Les catégories de personnes habilitées
+précitées devront modifier leur mot de passe dès la première connexion, puis
+régulièrement avec une fréquence ne dépassant pas une année. En outre, les
+mots de passe ne seront pas conservés en clair dans une base de données ou un
+fichier. Les attachés de recherche clinique (ARC) collecteront, dans les
+dossiers médiaux des patients, les données via le renseignement d'un cahier
+d'observation papier. Ceux-ci informatiseront ensuite les données, par
+l'utilisation d'un logiciel accessible par les personnes habilitées,
+uniquement dans l'établissement de santé concerné. Les accès sont sécurisés
+par l'utilisation d'un identifiant et d'un mot de passe composé de huit
+caractères alphanumériques, modifié tous les six mois. Afin de collecter le
+statut vital ainsi que les causes de décès, l'équipe INSERM en charge de
+l'étude « FCCSS » transmettra à l'équipe en charge du CépiDC les données
+suivantes : ― numéro identifiant au sein de la cohorte (NFCCSS) ; ― le nom ; ―
+les prénoms ; ― le sexe, la date et le lieu de naissance. Cette dernière
+interrogera ensuite le RNIPP (tenu par l'INSEE) afin de connaître le statut
+vital des personnes. L'équipe INSERM en charge du CépiDC transmettra alors les
+causes de décès préalablement chiffrées par courriel à l'équipe en charge de
+la cohorte. Le statut vital sera quant à lui mis à disposition par l'INSEE sur
+une plate-forme dénommée « Linshare », accessible par l'utilisation d'un mot
+de passe temporaire comportant douze caractères alphanumériques (parmi les
+minuscules, les majuscules et les chiffres). Une application informatique sera
+développée ultérieurement pour permettre à chaque service d'oncologie
+pédiatrique participant d'accéder exclusivement aux données concernant ses
+propres patients. Ces accès seront effectués par l'utilisation de la carte de
+professionnel de santé (carte CPS) des professionnels assurant la prise en
+charge du patient. La commission prend acte qu'à sa demande l'article 4 du
+projet de décret sera modifié afin de préciser que les professionnels de santé
+accéderont à l'application précitée au moyen de leur carte CPS. En effet,
+conformément aux dispositions de l'article R. 1110-3 du code de la santé
+publique, « en cas d'accès par des professionnels de santé aux informations
+médicales à caractère personnel conservées sur support informatique ou de leur
+transmission par voie électronique, l'utilisation de la carte de professionnel
+de santé mentionnée au dernier alinéa de l'article L. 161-33 du code de la
+sécurité sociale est obligatoire ». Elle souhaite que ledit article soit
+complété afin que soit précisé que les accès aux données par les équipes
+INSERM seront sécurisés, notamment en précisant que les modalités pratiques
+d'accès à ces données seront conformes aux dispositions de l'article 34 de la
+loi du 6 janvier 1978 modifiée. Sur la traçabilité L'article 5 du projet de
+décret précité précise que les actions effectuées seront tracées. Les
+documents fournis à l'appui du projet de décret précisent que ces données
+seront conservées pendant cinq ans. La commission estime que les traces des
+actions devraient être conservées pendant une durée ne dépassant pas une
+année. En outre, une analyse de ces traces devrait être effectuée
+préalablement à leur suppression afin de vérifier que des comportements
+anormaux n'ont pas eu lieu. Dès lors que les accès aux données, par les
+personnes habilitées, seront tracés, la commission souhaite que ces personnes
+en soient informées. Sur les transferts de données L'intégralité des
+transferts de données sont sécurisés par le chiffrement des données transmises
+soit par l'utilisation de protocoles sécurisés (HTTPS), soit par un algorithme
+asymétrique, dont la clé privée est détenue uniquement par l'organisme
+destinataire des données. Toutefois, le projet de décret ne précise pas que
+les transferts de données seront sécurisés. La commission demande à ce que le
+décret soit complété en ce sens. Sur la conservation des données La base de
+données identifiantes est chiffrée par l'utilisation de l'algorithme AES-256.
+Elle prend acte qu'à sa demande le projet de décret précisera que des mesures
+seront prises mettre en place une stricte séparation physique et logique des
+données d'identification des personnes incluses dans la cohorte des données de
+santé et des données collectées (notamment via les questionnaires « qualité de
+vie ») auprès des personnes. Par ailleurs, la commission souhaite que le texte
+précise qu'à l'issue de la durée de conservation des données, celles-ci seront
+rendues anonymes à des fins d'archivage. Sur les questionnaires papier
+S'agissant des questionnaires papier, l'annexe technique fournie en appui de
+la demande d'avis précise que ceux-ci seront informatisés par lecture optique.
+Ce procédé sera effectué par l'équipe INSERM en charge de la cohorte et les
+données ne seront ainsi accessibles qu'à cette équipe. Les questionnaires
+papier seront ensuite conservés dans une armoire blindée fermée à clé. Dans
+ces conditions, la commission estime que l'ensemble des mesures de sécurité
+mises en œuvre sont de nature à garantir un risque d'atteinte limité aux
+données. La commission rappelle toutefois que l'obligation de sécurité, prévue
+à l'article 34 de la loi du 6 janvier 1978 modifie, nécessite la mise à jour
+des mesures de sécurité au regard de la réévaluation régulière des risques.
+Sur les destinataires des données Aux termes de l'article 4 du projet de
+décret, les chercheurs de l'INSERM, leurs étudiants ainsi que les
+collaborateurs de recherche auront accès aux données anonymisées, dans la
+stricte mesure où elles sont nécessaires aux travaux de recherche menés.
+Seules les personnes précitées, nommément désignées et habilitées à cet effet
+par le président-directeur général de l'INSERM seront autorisés à accéder aux
+données dans la stricte mesure où elles sont nécessaires à l'exercice des
+missions qui leur ont confiées. Par ailleurs, seuls des médecins, ou
+d'attachés de recherche cliniques placés directement sous leur responsabilité,
+pourront accéder aux données couvertes par secret médical. La commission prend
+acte de l'ensemble de ces mesures. Par ailleurs, l'article 4 du projet de
+décret prévoit un accès à la base de données « FCCSS » pour les professionnels
+de santé des services d'oncologie pédiatrique des établissements de santé
+participant à l'étude, et ce exclusivement pour leurs patients. En effet, la
+cohorte « FCCSS » permettant éventuellement d'identifier de nouvelles
+interactions et risques de pathologies, il est nécessaire que les médecins en
+charge du suivi des patients puissent, le cas échéant, se rapprocher de leurs
+patients afin d'envisager des mesures thérapeutiques ou préventives à mettre
+en place. Les autres points du projet de décret n'appellent pas, en l'état et
+au regard de la loi du 6 janvier 1978 modifiée, d'autres observations de la
+commission. La présidente, I. Falque-Pierrotin Télécharger le document en RTF
+(poids < 1Mo) Extrait du Journal officiel électronique authentifié (format:
+pdf, poids : 0.25 Mo) Masquer le panneau de navigation Imprimer À propos de
+l'ordre juridique français Licences Quoi de neuf sur le site ? À propos du
+site Plan du site Accessibilité Aide générale Nous écrire Établir un lien
+

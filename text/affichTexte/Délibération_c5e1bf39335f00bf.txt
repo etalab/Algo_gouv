@@ -1,0 +1,447 @@
+Délibération n° 2009-211 du 30 avril 2009 portant avis sur un projet de décret
+en Conseil d'Etat relatif au Répertoire national commun de la protection
+sociale (RNCPS) | Legifrance Legifrance - Le service public de l'accès au
+droit Aller au contenu Aller à la navigation générale mardi 4 juillet 2017
+Informations de mise à jour Accueil Droit français Droit européen Droit
+international Traductions Bases de données Vous êtes dans : Accueil> Les
+autres textes législatifs et réglementaires> Délibération n° 2009-211 du 30
+avril 2009 portant avis sur un projet de décret en Conseil d'Etat relatif au
+Répertoire national commun de la protection sociale (RNCPS) Délibération n°
+2009-211 du 30 avril 2009 portant avis sur un projet de décret en Conseil
+d'Etat relatif au Répertoire national commun de la protection sociale (RNCPS)
+Masquer le panneau de navigation Imprimer Informations sur ce texte JORF
+n°0293 du 18 décembre 2009 texte n° 92 Délibération n° 2009-211 du 30 avril
+2009 portant avis sur un projet de décret en Conseil d'Etat relatif au
+Répertoire national commun de la protection sociale (RNCPS) NOR: CNIX0928405X
+ELI: Non disponible (Saisine n° 08030953) La Commission nationale de
+l'informatique et des libertés, Saisie pour avis par le ministère de la santé,
+de la jeunesse, des sports et de la vie associative le 24 décembre 2008 d'un
+projet de décret en Conseil d'Etat relatif au Répertoire national commun de la
+protection sociale (RNCPS) accompagné du dossier technique associé ; Vu la
+Convention n° 108 du Conseil de l'Europe pour la protection des personnes à
+l'égard du traitement automatisé des données à caractère personnel ; Vu la
+directive 95 / 46 / CE du Parlement européen et du Conseil du 24 octobre 1995
+relative à la protection des personnes physiques à l'égard du traitement de
+données à caractère personnel et la libre circulation de ces données ; Vu la
+loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés, modifiée par la loi n° 2004-801 du 6 août 2004 relative à la
+protection des personnes physiques à l'égard des traitements de données à
+caractère personnel, et notamment son article 27-1 ; Vu le décret n° 2005-1309
+du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par le
+décret n° 2007-401 du 25 mars 2007 ; Vu le code de la sécurité sociale,
+notamment son article L. 114-12-1 ; Après avoir entendu, le 12 mars 2009, M.
+le député Pierre Morange, M. Dominique Libault, directeur de la sécurité
+sociale, et M. Benoît Parlos, délégué national à la lutte contre la fraude ;
+Après avoir entendu M. Jean Massot et M. Philippe Gosselin, commissaires, en
+leur rapport, et Mme Pascale Compagnie, commissaire du Gouvernement, en ses
+observations, Emet l'avis suivant : La commission a été saisie par le
+ministère de la santé, de la jeunesse, des sports et de la vie associative du
+projet de décret en Conseil d'Etat relatif au Répertoire national commun de la
+protection sociale (RNCPS) prévu par l'article L. 114-12-1 du code de la
+sécurité sociale ainsi que d'un dossier technique précisant notamment le
+fonctionnement du répertoire, le détail des catégories de données traitées, et
+les mesures de sécurité envisagées.L'article L. 114-12-1 du code de la
+sécurité sociale prévoit la création d'un « répertoire national commun aux
+organismes chargés de la gestion d'un régime obligatoire de sécurité sociale,
+aux caisses assurant le service des congés payés, à l'institution mentionnée à
+l'article L. 311-7 (1) du code du travail, relatif aux bénéficiaires des
+prestations et avantages de toute nature qu'ils servent ». Ont également accès
+au répertoire les organismes de la branche recouvrement, les collectivités
+territoriales pour les procédures d'attribution d'aides sociales et, depuis la
+modification apportée par la loi de financement de la sécurité sociale pour
+2008, les centres communaux et intercommunaux d'action sociale. Le répertoire
+contient « les données communes d'identification des individus, informations
+relatives à leur affiliation aux différents régimes concernés, à leur
+rattachement à l'organisme qui leur sert les prestations, leur nature,
+l'adresse déclarée aux organismes pour les percevoir ».L'identifiant utilisé
+par le répertoire est le numéro d'inscription au répertoire national
+d'identification des personnes physiques (NIR), la loi renvoyant au décret
+d'application le soin de déterminer les conditions d'identification des
+personnes n'en disposant pas ainsi que le contenu et les modalités de gestion
+et d'utilisation de ce répertoire. Le projet de décret soumis à la commission
+insère dix articles après l'article R. 114-18 du code de la sécurité sociale
+(R. 114-19 à R. 114-28). Il autorise la création, par le ministère chargé de
+la sécurité sociale (direction de la sécurité sociale), d'un traitement de
+données à caractère personnel dénommé : « Répertoire national commun de la
+protection sociale (RNCPS) » mis en œuvre par la Caisse nationale d'assurance
+vieillesse des travailleurs salariés. La commission constate toutefois que la
+loi fixe d'ores et déjà la nature des données contenues dans le répertoire,
+les destinataires des données et le principe de l'utilisation du NIR comme
+identifiant du répertoire, ce sur quoi le décret ne saurait revenir. Elle
+estime par conséquent que l'article R. 114-19 résultant du projet de décret
+devrait faire explicitement référence à l'article L. 114-12-1 du code de la
+sécurité sociale dans un souci de transparence. Elle prend acte de
+l'engagement du Gouvernement de modifier en ce sens le projet de décret. La
+commission observe que le répertoire est susceptible de permettre l'accès à
+des données à caractère personnel concernant l'ensemble de la population
+française et les personnes résidant de façon stable sur le territoire
+français. En effet, dès lors qu'une personne a des droits ouverts (maladie,
+chômage, retraite...) ou bénéficie d'une prestation de sécurité sociale ou
+d'aide sociale, elle figure comme telle dans le répertoire. Elle relève
+également que le nombre d'agents pouvant accéder au répertoire est susceptible
+d'être particulièrement élevé. Dès lors, elle considère que la création d'un
+nouveau traitement de données à caractère personnel d'ampleur nationale,
+comportant l'identité, le NIR, l'adresse et des données relatives à la nature
+des droits et prestations des bénéficiaires doit être assortie de garanties
+toutes particulières notamment en termes de sécurité et de confidentialité.
+Sur les finalités : Le RNCPS a une finalité globale de contrôle et de lutte
+contre la fraude, que le projet de décret décompose en quatre finalités : 1°
+La simplification des démarches des bénéficiaires de droits et prestations par
+la mise en commun, entre les organismes, d'informations dont la fiabilité est
+garantie ; 2° L'optimisation des conditions d'ouverture, de gestion et de
+contrôle des droits et prestations des bénéficiaires de la protection sociale,
+notamment par : l'identification des bénéficiaires, l'information des
+organismes sur l'ensemble de leurs rattachements, droits et prestations, et
+l'aide à la détection de droits et prestations manquants ainsi que des
+anomalies et des fraudes ; 3° La rationalisation et la fiabilisation des
+échanges de données entre organismes de la protection sociale et les
+administrations fiscales mentionnés notamment aux articles L. 114-12 et L.
+114-14 du code de la sécurité sociale, ainsi que ceux prévus avec les
+administrations fiscales par ce même code ; 4° La production de statistiques
+anonymes à des fins de contrôle de la qualité des procédures ou de
+dénombrements relatifs à l'ensemble des informations contenues dans le RNCPS.
+Selon les indications apportées par le ministère, les agents chargés
+d'instruire les dossiers peuvent procéder, en tant que de besoin, à des
+vérifications dans le RNCPS dès lors qu'ils sont dûment habilités. Ainsi, lors
+de l'instruction d'une demande nécessitant la prise en compte de droits
+ouverts par d'autres organismes, l'agent peut vérifier qu'il n'y a pas eu
+d'oublis ou d'anomalies. La commission relève que le RNCPS comporte un module
+d'aide à la décision permettant de détecter « des droits et prestations
+manquants ainsi que des anomalies et des fraudes ». La commission prend acte :
+― que la consultation du RNCPS ne constitue qu'une aide venant en complément
+de l'examen de la situation effectuée au cas par cas par un agent ; aucune
+décision produisant des effets juridiques à l'égard d'une personne ne peut
+être prise sur le seul fondement du RNCPS conformément à l'article 10 de la
+loi du 6 janvier 1978 modifiée ; ― qu'elle permet uniquement de détecter les
+anomalies concernant le cumul de prestations et les droits et prestations
+manquants ; ― que les résultats obtenus n'entraînent aucune mise à jour
+automatique des données du répertoire ou du système d'information des
+organismes concernés.L'identification fiable des bénéficiaires et
+ressortissants est également l'une des finalités du RNCPS. Le dispositif
+d'identification doit permettre aux organismes d'acquérir des éléments leur
+permettant de s'assurer de l'identification de la personne concernée afin de
+ne pas omettre la prise en compte de droits ou prestations dont elle pourrait
+bénéficier ou de ne pas verser de prestations indues du fait d'une erreur
+d'identification. Cette préoccupation vaut autant dans le cadre de la
+consultation du répertoire que dans le cadre des échanges effectués grâce au
+service proposé par le répertoire. Au sein du RNCPS, le Système national de
+gestion des identifiants (SNGI) détenu par la CNAVTS sera utilisé pour
+certifier le NIR des personnes et vérifier leur identité.A chaque consultation
+du répertoire, les données d'identification d'un individu détenues par un
+organisme seront vérifiées à partir de son NIR par le SNGI afin de s'assurer
+qu'il s'agit bien de la bonne personne. La commission considère que la
+certification des NIR des bénéficiaires, bien que ne constituant pas une
+finalité en soi, devrait être mentionnée expressément à l'article R. 114-19
+(2°) du projet de décret. Sur les données enregistrées : Les articles R.
+114-20 et R. 114-21 résultant du projet de décret déterminent respectivement
+les catégories de données personnelles accessibles via le RNCPS et les
+modalités de collecte de ces données. Le projet de décret distingue trois
+grandes catégories de données à caractère personnel qui proviennent de
+plusieurs traitements de données à caractère personnel : ― les données
+communes d'identification comportant notamment les noms et prénoms, le sexe,
+les dates et lieux de naissance, le cas échéant la mention du décès, et le
+NIR. Ces données sont transmises par le SNGI géré par la CNAVTS en liaison
+avec l'INSEE à l'occasion de chaque consultation du RNCPS ; ― les données
+centralisées de rattachement comportant les identifiants des organismes
+auxquels un individu est ou a été rattaché dans les cinq dernières années et,
+le cas échéant, les domaines de risques afférents aux prestations gérées par
+ces organismes, les dates de début et de fin de rattachement ainsi que les
+motifs de fin de rattachement. Ces données sont transmises par chacun des
+organismes concernés et mises à jour sous leur responsabilité ; ― les données
+complémentaires de prestations comportant pour chacun des droits ou
+prestations : ― la nature des droits ou prestations ainsi que leur date
+d'effet ; ― la qualité du bénéficiaire au regard de chacun de ces droits ou
+prestations ; ― l'état de chacun des droits ou prestations, ainsi que la date
+d'effet et le motif de cet état ; ― l'adresse déclarée pour l'ouverture du
+droit ou le versement de la prestation, la mention d'incidents sur cette
+adresse si l'organisme en a connaissance, et s'ils ont été fournis par le
+bénéficiaire, les numéros de téléphone et adresses électroniques. La
+commission relève que les données complémentaires de prestation demeurent
+localisées dans les systèmes d'information des organismes chargés d'alimenter
+le RNCPS et sont transmises en temps réel au RNCPS à chaque consultation. Elle
+constate que le répertoire ne comporte aucune donnée sensible, au sens de
+l'article 8 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004 et
+prend acte que l'état de chacun des droits ou prestations, ainsi que le motif
+de cet état, ne font pas apparaître de mention de fraude. Sur le NIR : La
+commission relève que l'ensemble des organismes de protection sociale sont
+autorisés à utiliser le NIR dans le cadre de leurs missions conformément aux
+articles R. 115-1 et suivants du code de la sécurité sociale. Les Assédic et
+l'ANPE et aujourd'hui Pôle emploi peuvent aussi utiliser ce numéro en toute
+légalité depuis un décret du 17 décembre 1987 pris après avis favorable de la
+commission.S'agissant des collectivités territoriales, elle rappelle que
+celles-ci ne sont autorisées à utiliser le NIR que dans le cadre des missions
+dévolues en matière d'aide sociale encadrée par la loi ou les règlements et
+autorisant la collecte du NIR (par exemple : RMI, aide sociale aux personnes
+âgées ou handicapées). Toutefois, s'agissant de l'aide « facultative » (non
+encadrée par des textes), la commission s'est toujours montrée réticente à la
+généralisation de l'usage du NIR. La commission prend acte du fait que le
+législateur a entendu imposer l'utilisation du NIR comme identifiant du RNCPS
+pour les collectivités territoriales et les CCAS. Néanmoins, la commission
+estime que cette utilisation du NIR dans le cadre du RNCPS ne doit pas
+conduire à la collecte systématique de ce numéro, en particulier lorsqu'aucun
+texte ne le justifie ou que sa collecte n'est pas pertinente. Sur le NIA
+(Numéro identifiant d'attente) : Afin de permettre l'identification, au sein
+du RNCPS, des personnes dans l'attente de l'attribution d'un NIR, il est prévu
+de modifier le SNGI pour permettre une gestion centralisée des numéros
+identifiants d'attente (NIA) et des dossiers d'identification afférents. Dans
+la perspective de cette très importante évolution fonctionnelle, il est d'ores
+et déjà prévu d'inclure dans le RNCPS les données relatives aux prestations
+des bénéficiaires identifiés avec un NIA. La commission prend acte qu'elle
+sera saisie par la CNAVTS d'un dossier de formalités dans un délai d'un an.
+Sur l'adresse, le numéro de téléphone et l'adresse électronique : Aux termes
+de l'article R. 114-20 (3°, d) résultant du projet de décret, pour chacun des
+droits ou prestations d'un individu, il est collecté « l'adresse déclarée pour
+l'ouverture du droit ou le versement de la prestation, la date d'effet de
+cette adresse et la mention d'incidents sur cette adresse si l'organisme en a
+connaissance, ainsi que, s'ils ont été fournis par le bénéficiaire, les
+numéros de téléphone et adresses électroniques ».S'il n'appartient pas à la
+commission de se prononcer sur la pertinence de la collecte de l'adresse qui
+est expressément prévue par la loi, elle doit néanmoins donner un avis sur ses
+modalités de collecte et de conservation telles que décrites dans le projet de
+décret en Conseil d'Etat. La commission relève que les adresses ne sont pas
+enregistrées dans une base centralisée et demeurent conservées dans les
+systèmes d'information de chacun des organismes contributeurs. En outre, il
+n'existe aucun historique de ces adresses (seule la dernière adresse déclarée
+est transmise via le RNCPS). Ainsi, lorsqu'un agent interroge le RNCPS, il ne
+peut obtenir pour un individu donné que la dernière adresse déclarée par cette
+personne aux organismes qui lui servent des droits ou prestations au moment de
+la consultation.S'agissant du numéro de téléphone et de l'adresse
+électronique, le projet de décret précise que ces données sont transmises au
+RNCPS si elles sont fournies par le bénéficiaire à l'organisme concerné.
+Toutefois, la commission constate qu'aucune information spécifique des assurés
+n'est envisagée s'agissant de la transmission de leurs coordonnées à d'autres
+organismes de protection sociale et aux collectivités territoriales ainsi que
+s'agissant de la finalité de cette transmission. La commission prend acte de
+ce que le Gouvernement s'est engagé à informer clairement les personnes sur le
+fait que la communication de leur numéro de téléphone et de leur adresse
+électronique est facultative et qu'en cas de communication de ces données à un
+organisme de sécurité sociale celles-ci seront consultables par l'ensemble des
+partenaires du RNCPS. Elle souhaite que cette information soit générale et
+concerne notamment les personnes ayant déjà communiqué leur adresse
+électronique et leur numéro de téléphone. Sur la liste des risques, droits et
+prestations ainsi que des organismes qui les gèrent, entrant dans le champ du
+décret : L'article L. 114-28 résultant du projet de décret renvoie à un arrêté
+le soin de fixer « la liste des risques, droits et prestations ainsi que des
+organismes qui les gèrent, entrant dans le champ du décret ». La commission
+observe qu'il n'est pas envisagé que cet arrêté lui soit soumis pour avis. Le
+ministère propose en effet de publier ces listes sur le portail officiel «
+sécurité-sociale. fr » dans la mesure où celles-ci évoluent dans le temps.
+Elle précise qu'en tout état de cause il ne peut s'agir que d'organismes ou de
+prestations entrant dans le champ de la loi. La commission estime néanmoins
+que cet arrêté devrait lui être soumis pour avis afin de donner son plein
+effet au dernier alinéa de l'article L. 114-12-1 du code de la sécurité
+sociale qui dispose que c'est le décret pris après avis de la CNIL qui fixe le
+contenu du répertoire. Elle note que le Gouvernement s'est seulement engagé à
+lui adresser le projet d'arrêté. Sur les durées de conservation : Les données
+communes d'identification transmises au RNCPS par le SNGI ne sont conservées
+que le temps de la consultation. Elles ne sont transmises que dès lors qu'un
+individu est au moins rattaché à l'un des organismes partenaires du RNCPS.
+Dans le cas contraire, l'individu ne figure pas au RNCPS et aucune donnée du
+SNGI n'est alors transmise. Les données centralisées de rattachement sont
+conservées pendant cinq années civiles suivant la date de fin de rattachement.
+Cette durée est justifiée par des délais de prescription généralement
+applicables, en matière de prestations de sécurité sociale, à l'ensemble des
+organismes. En principe, les données complémentaires de prestations sont
+enregistrées temporairement le temps de la consultation. Par exception,
+lorsqu'un organisme contributeur n'est pas en capacité de transmettre ces
+données en temps réel, il peut opter pour l'hébergement des données par la
+CNAVTS. La durée de conservation des données et les modalités de mise à jour
+sont déterminées par une convention conclue entre l'organisme concerné et la
+CNAVTS. La périodicité des mises à jour des données complémentaires de
+prestation ne peut excéder un mois. La commission constate que la plupart des
+organismes nationaux se sont engagés à transmettre leurs données « en temps
+réel ». Elle relève cependant que l'article R. 114-22 résultant du projet de
+décret prévoit que « le contenu des consultations, mises à jour et échanges de
+même que les traces de ces opérations sont conservées dans un journal pendant
+un an à compter de ces opérations ». Ces journaux sont enregistrés et
+conservés par la CNAVTS. Le ministère avait précisé que le journal relatif aux
+consultations aurait permis de retracer l'intégralité des données transmises
+par le RNCPS lors d'une consultation par un agent. Auraient été notamment
+enregistrées : l'identité de la personne consultée, les données relatives aux
+prestations et à l'analyse correspondante (détection des anomalies et des
+droits manquants) et les traces de connexions (origine de la requête, date et
+heure, opérations effectuées, etc.). Interrogée sur la finalité de cette
+conservation, le ministère avait indiqué que ce journal aurait permis de
+faciliter la détection d'erreurs. Dans l'application et de repérer des
+utilisations anormales du RNCPS. Ces données seront également conservées pour
+répondre, le cas échéant, à des demandes émanant des autorités judiciaires. La
+commission prend acte de ce que le Gouvernement a finalement renoncé à stocker
+le contenu des consultations et s'est engagé à modifier en conséquence
+l'article R. 114-22 du projet de décret. Sur les destinataires : L'article R.
+114-23 résultant du projet de décret distingue deux catégories de
+destinataires des données : 1. Les agents individuellement désignés et dûment
+habilités des organismes chargés de la gestion d'un régime obligatoire de
+sécurité sociale, des caisses assurant le service des congés payés, de
+l'institution visée à l'article L. 5312-1 du code du travail (Pôle emploi),
+des organismes de la branche recouvrement du régime général. Les organismes de
+la branche recouvrement du régime général ne contribuent pas à l'alimentation
+du répertoire mais peuvent le consulter. 2. Les agents des collectivités
+territoriales et des centres communaux d'action sociale, individuellement
+désignés et dûment habilités par le représentant de la collectivité ou du
+centre communal pour les procédures d'attribution d'une forme quelconque
+d'aide sociale. Ainsi, les collectivités territoriales et les CCAS peuvent
+uniquement consulter le répertoire « pour l'attribution d'une forme quelconque
+d'aide sociale ». La commission estime que le projet de décret devrait
+préciser la nature des aides sociales concernées et en particulier si l'aide
+sociale dite facultative est incluse. La commission considère, en outre, que
+le projet de décret en Conseil d'Etat devrait préciser les cas dans lesquels
+les collectivités territoriales et les CCAS pourront consulter le RNCPS dans
+le cadre de leurs missions d'aide sociale. Sur les modalités de consultation
+du RNCPS et le dispositif d'échange de données : Les modalités de consultation
+du répertoire sont fixées à l'article R. 114-24 résultant du projet de décret.
+Elles varient selon le profil des agents habilités et selon les organismes
+concernés. La consultation en temps réel (à partir d'un NIR ou un NIA) peut
+être effectuée par tous les organismes partenaires du RNCPS à l'exception de
+l'administration fiscale qui ne peut pas consulter le répertoire. Par
+ailleurs, outre le NIR et pour sécuriser la consultation, il a été retenu que
+l'agent devrait en plus du NIR saisir le nom de la personne (ou le prénom si
+la personne est sans nom). Une concordance avec les données extraites du SNGI
+sera opérée, qui devra être parfaite sur les premières lettres, jusqu'à la l5e
+le cas échéant. La commission estime que la saisie du NIR complété du nom de
+la personne constitue une garantie importante en termes de sécurité de la
+consultation et de confidentialité des données. Elle considère dès lors que
+cette garantie devrait figurer expressément à l'article R. 114-24 du code de
+la sécurité sociale. La consultation du RNCPS à partir d'une liste de NIR ou
+de NIA ou à partir de requêtes préétablie peut uniquement être réalisée par
+des agents individuellement désignés et dûment habilités des organismes
+chargés de la gestion d'un régime obligatoire de sécurité sociale, des caisses
+assurant le service des congés payés et de Pôle emploi. Les consultations ne
+peuvent porter que sur la population gérée par l'organisme concerné. Lorsque
+la consultation se fait à partir d'une liste de NIR (ou de NIR d'attente), il
+est également nécessaire de renseigner le nom ainsi que le prénom des assurés.
+Une concordance avec les données extraites du SNGI sera opérée. La commission
+estime que le projet de décret devrait également mentionner expressément cette
+garantie. La consultation sur d'autres critères que le NIR se fera via un
+catalogue de requêtes préétablies par la maîtrise d'ouvrage, Il n'est pas
+prévu que ce catalogue de requêtes préétablies soit soumis pour avis à la
+commission. La commission estime néanmoins que la liste des requêtes devrait
+lui être communiquée dans le cadre d'un bilan annuel. Le RNCPS permet
+également aux organismes d'échanger des données entre eux qui peuvent être
+distinctes des données du répertoire. Ce dispositif permet de réaliser les
+échanges entre organismes de sécurité sociale et l'administration fiscale
+prévus aux articles L. 114-12 et L. 114-14 et suivants du code de la sécurité
+sociale. La commission prend acte que ce dispositif n'est pas accessible par
+les collectivités territoriales et les CCAS. Elle relève également que le NIR
+n'est pas transmis aux administrations fiscales dans le cadre de ces échanges.
+Le dispositif peut être utilisé soit pour des échanges déjà autorisés par la
+commission, soit pour des nouveaux échanges comportant notamment de nouvelles
+données ou ayant une finalité nouvelle. Dans ce dernier cas, il a été indiqué
+par le ministère que la commission sera alors saisie d'un dossier de
+formalités. La commission estime que l'article R. 114-25 devrait rappeler que
+les nouveaux échanges entre organismes et administrations fiscales seront
+préalablement soumis à la commission conformément aux dispositions des
+articles 22 à 27 de la loi du 6 janvier 1978 modifiée. Elle prend acte de ce
+que le Gouvernement s'est engagé à soumettre les nouveaux échanges à la
+commission conformément au chapitre IV de la loi du 6 janvier 1978 modifiée.
+Sur les sécurités : Il ressort des éléments transmis par le ministère que la
+protection physique des locaux de CNAVTS (DSINDS à Tours) présente des
+garanties en termes de sécurité qui apparaissent conformes à l'état de l'art.
+Toutefois, au sein de la CNAVTS, les données ne sont pas chiffrées. Compte
+tenu de l'ampleur du RNCPS et de l'évolution des technologies, la commission
+considère qu'un chiffrement de l'annuaire du RNCPS devrait être mis en œuvre
+dans les meilleurs délais. Ce chiffrement devrait être précédé d'une étude de
+faisabilité sur le plan technique et financier qui devrait être communiquée à
+la commission. Les sauvegardes de l'annuaire centralisé ne font pas l'objet
+d'un chiffrement alors qu'elles sont stockées sur un site distant dont le lieu
+est gardé confidentiel. Dès lors, la commission estime que ces sauvegardes
+devraient aussi faire l'objet d'un chiffrement au moyen d'un algorithme réputé
+fort pour éviter un accès à des tiers non autorisés en cas de perte ou vol. La
+commission prend acte que la sécurité des interconnexions entre organismes
+partenaires repose sur la mise en œuvre d'un protocole sécurisé dénommé
+INTEROPS. Elle estime que ce protocole garantit l'authenticité de l'émetteur
+et permet également de garantir la confidentialité des échanges en chiffrant
+les communications entre la CNAVTS et chaque organisme (chiffrement SSL 128
+bits). Compte tenu du nombre très important d'agents susceptibles d'accéder au
+RNCPS, la commission considère que le suivi et le contrôle des habilitations
+constituent un point essentiel pour garantir la sécurité et de confidentialité
+des données. La commission prend acte que l'ensemble des habilitations sont
+centralisées par la CNAVTS conformément à ce qui est décrit dans le dossier
+technique. Elle relève toutefois qu'il est prévu à terme que l'accès au RNCPS
+ne se fasse plus par l'intermédiaire d'un portail (PARN et e-Service) mais
+soit directement intégré dans les applications métier de chaque organisme.
+Dans ces cas, la CNAVTS ne contrôlerait plus aucune habilitation. Elle prend
+également acte du fait qu'un nouveau dossier technique lui sera adressé en cas
+de modification du système de gestion des habilitations. Elle estime qu'elle
+devrait être informée dans le cadre d'un bilan annuel sur le RNCPS des
+procédures d'habilitation mises en place, du nombre d'agents habilités par
+organisme, ainsi que de la nature précise de leurs profils d'utilisation. La
+commission relève, en outre, que la trace des consultations est enregistrée
+dans un journal pour une durée d'un an, notamment pour permettre un suivi
+automatique des interrogations et permettre de détecter d'éventuels abus de
+consultation ainsi que des détournements d'usage du RNCPS par la remontée
+d'alertes aux techniciens habilités de la CNAVTS. Le cas échéant, ces journaux
+seraient transmis aux autorités judiciaires compétentes. Elle considère que
+l'accès à ces journaux qui comportent l'ensemble des informations liées à une
+consultation (identité de l'agent qui a consulté, date et heure de la
+consultation) revêt un caractère sensible et estime par conséquent qu'il est
+nécessaire d'apporter des mesures de sécurité appropriées, notamment des
+habilitations d'accès restreintes. Enfin, s'agissant du service de gestion des
+échanges, la commission constate que les données transmises ne sont pas
+chiffrées, ce qui signifie qu'elles transitent en clair sur l'infrastructure
+du prestataire de télécommunications. La commission considère que des mesures
+de sécurité appropriées devraient être prises telles que le chiffrement des
+données échangées par un algorithme réputé fort afin de garantir la
+confidentialité des échanges conformément à l'article R. 114-25 du projet de
+décret. Sur le droit d'accès et de rectification des données : Le projet de
+décret soumis à la commission précise que : ― le droit d'accès prévu à
+l'article 39 de la loi du 6 janvier 1978 modifiée s'exerce auprès de la CNAVTS
+; ― le droit de rectification prévu à l'article 40 de la loi du 6 janvier 1978
+modifiée s'exerce pour les données communes d'identification, auprès de la
+CNAVTS et pour les données centralisées de rattachement et les données
+complémentaires de prestations, auprès de l'organisme servant la prestation
+concernée ; ― le droit d'opposition ne s'applique pas au présent traitement,
+conformément au troisième alinéa de l'article 38 de la loi du 6 janvier 1978
+modifiée. La DSS a précisé qu'il n'était pas prévu que les personnes puissent
+accéder aux journaux contenant les données de consultation et en particulier
+les résultats des analyses propres à un bénéficiaire. La commission rappelle
+qu'aux termes de l'article 39 (5°) de la loi du 6 janvier 1978 modifiée, toute
+personne physique justifiant de son identité a le droit d'interroger le
+responsable d'un traitement en vue d'obtenir « les informations permettant de
+connaître et de contester la logique qui sous-tend le traitement automatisé en
+cas de décision prise sur le fondement de celui-ci et produisant des effets
+juridiques à l'égard de l'intéressé. Toutefois, les informations communiquées
+à la personne concernée ne doivent pas porter atteinte au droit d'auteur au
+sens des dispositions du livre Ier et du titre IV du livre III du code de la
+propriété intellectuelle ». Si la décision de suspendre un droit (ou d'ouvrir
+un droit) ne saurait découler automatiquement de la consultation du RNCPS,
+cette consultation associée à une analyse des prestations peut néanmoins
+conduire un agent à prendre une décision produisant des effets juridiques à
+l'égard d'un bénéficiaire sur le fondement d'informations transmises par le
+RNCPS. La commission souligne à cet égard que tout bénéficiaire qui se verrait
+opposé une telle décision doit pouvoir accéder à l'ensemble des informations
+recueillies par l'agent pour prendre cette décision, conformément à l'article
+39 de la loi du 6 janvier 1978. Sur l'information des personnes : Le ministère
+envisage d'informer les personnes de plusieurs manières : ― par une mention
+figurant sur le site internet des organismes contributeurs ; ― par une
+adaptation des différents formulaires en tant que de besoin à l'occasion d'une
+prochaine modification de ceux-ci ; ― par une information affichée dans les
+lieux d'accueil du public. La commission prend acte de ces engagements. Elle
+estime néanmoins que compte tenu de l'ampleur du traitement ces mesures sont
+insuffisantes et peu appropriées pour les personnes en grande difficulté
+sociale. Elle considère qu'il serait nécessaire de renforcer l'information des
+personnes par d'autres mesures comme par exemple : ― la publication de
+documents d'information sur le RNCPS mis à la disposition dans les lieux
+d'accueil du public ; ― une information systématique par les organismes à
+l'occasion de l'envoi de courriers aux assurés. Sur la mise en place d'un
+bilan annuel du RNCPS : La commission estime que le ministère devrait établir
+un bilan annuel sur le RNCPS en partenariat avec la CNAVTS. Ce bilan,
+communiqué à la commission, devrait notamment faire apparaître : ― les
+améliorations réalisées et prévues en termes de simplification des démarches
+pour les assurés ; ― les résultats obtenus en matière de contrôle et de lutte
+contre la fraude ; ― les statistiques d'utilisation du RNCPS ; ― un descriptif
+des procédures d'habilitations au sein des organismes partenaires et le nombre
+d'agents habilités à consulter le RNCPS ; ― un descriptif des requêtes
+préétablies mises en place et à venir ; ― les améliorations techniques
+réalisées ou à venir notamment pour garantir la sécurité et suivre les
+évolutions technologiques et l'état de l'art ; ― un tableau récapitulant les
+échanges réalisés entre organismes ; ― les actions menées pour informer les
+personnes de leurs droits ; ― les actions menées pour sensibiliser et former
+les utilisateurs du RNCPS à la loi du 6 janvier 1978 modifiée. Le président,
+A. Türk (1) Devenu l'article L. 5312-1 depuis la refonte du code du travail de
+2007. Télécharger le document en RTF (poids < 1Mo) Extrait du Journal officiel
+électronique authentifié (format: pdf, poids : 0.31 Mo) Masquer le panneau de
+navigation Imprimer À propos de l'ordre juridique français Licences Quoi de
+neuf sur le site ? À propos du site Plan du site Accessibilité Aide générale
+Nous écrire Établir un lien
+

@@ -1,0 +1,941 @@
+Arrêté du 18 janvier 2007 relatif aux normes techniques applicables au service
+de sauvetage et de lutte contre l'incendie des aéronefs sur les aérodromes |
+Legifrance Legifrance - Le service public de l'accès au droit Aller au contenu
+Aller à la navigation générale mardi 4 juillet 2017 Informations de mise à
+jour Accueil Droit français Droit européen Droit international Traductions
+Bases de données Vous êtes dans : Accueil> Les autres textes législatifs et
+réglementaires> Arrêté du 18 janvier 2007 relatif aux normes techniques
+applicables au service de sauvetage et de lutte contre l'incendie des aéronefs
+sur les aérodromes Arrêté du 18 janvier 2007 relatif aux normes techniques
+applicables au service de sauvetage et de lutte contre l'incendie des aéronefs
+sur les aérodromes Masquer le panneau de navigation Imprimer Navigation Arrêté
+du 18 janvier 2007 (Dernière modification : 12 mai 2017) Version initiale
+Version en vigueur au 4 juillet 2017 Version consolidée à la date du ... Jour
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+30 31 Mois Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre
+Novembre Décembre Année Ex: 2017 Sommaire Article 1 TITRE Ier : DÉFINITION DES
+MOYENS Section 1 : Définition du niveau de protection Article 2 Section 2 :
+Dotations Paragraphe 1 : Personnels, produits extincteurs et véhicules Article
+3 Article 4 Paragraphe 2 : Infrastructures Article 5 TITRE II : ORGANISATION
+DU SERVICE Section 1 : Agréments des personnels chargés du SSLIA Paragraphe 1
+: Agrément du responsable du service Article 6 Article 7 Article 8 Paragraphe
+2 : Agrément de chef de manoeuvre Article 9 Paragraphe 3 : Agrément de pompier
+d'aérodrome Article 10 Article 10 bis (abrogé le 1 janvier 2016) Article 10
+ter Article 10 quater Paragraphe 4 : Dispositions communes aux agréments de
+chef de manoeuvre et de pompier d'aérodrome Article 11 Article 12 Article 13
+Article 14 Section 2 : Règles et prescriptions techniques relatives aux
+matériels et aux postes d'incendie du SSLIA Article 15 (abrogé le 1 septembre
+2016) Article 16 (abrogé le 1 septembre 2016) Article 17 TITRE III : RÈGLES
+D'INTERVENTION Section 1 : Cadre général d'intervention du SSLIA Article 18
+Section 2 : Définition de la zone d'aérodrome (ZA) et de la zone voisine
+d'aérodrome (ZVA) Article 19 Section 3 : Objectif opérationnel du SSLIA
+Article 20 Section 4 : Types d'intervention Article 21 Article 22 Article 23
+Article 24 Section 5 : Cas d'indisponibilité du SSLIA Article 25 Section 6 :
+Activité des personnels Article 26 Article 27 Section 7 : Entretien des
+produits extincteurs, véhicules, équipements et infrastructures Article 28
+Article 29 Section 8 : Comptes rendus d'intervention Article 30 Section 9 :
+Consignes opérationnelles Article 31 TITRE IV : DISPOSITIONS FINALES Article
+32 Article 33 Article 33-1 Article 34 Annexes Annexe I Annexe II Annexe III
+Annexe IV Annexe V Version consolidée résultant des modifications suivantes :
+Arrêté du 3 mai 2017 Arrêté du 18 novembre 2009 Arrêté du 3 août 2016 Arrêté
+du 22 décembre 2015 Décret n°2014-132 du 17 février 2014 Arrêté du 18 janvier
+2007 relatif aux normes techniques applicables au service de sauvetage et de
+lutte contre l'incendie des aéronefs sur les aérodromes NOR: EQUA0700113A
+Version consolidée au 04 juillet 2017 Le ministre d'Etat, ministre de
+l'intérieur et de l'aménagement du territoire, et le ministre des transports,
+de l'équipement, du tourisme et de la mer, Vu la convention relative à
+l'aviation civile internationale du 7 décembre 1944, publiée par le décret n°
+47-974 du 31 mai 1947, ensemble les protocoles qui l'ont modifiée, notamment
+le protocole du 24 septembre 1968 concernant le texte authentique trilingue de
+ladite convention publiée par le décret n° 69-1158 du 18 décembre 1969 ; Vu le
+code de l'aviation civile, notamment ses articles L. 211-2, L. 213-2, L. 213-3
+et D. 213-1 à D. 213-1-12 ; Vu le code général des collectivités
+territoriales, notamment ses articles L. 1424-1 à L. 1424-5 et R. 1424-1 à R.
+1424-55 ; Vu le code du travail, notamment son article L. 920-4 ; Vu la loi n°
+2004-811 du 13 août 2004 relative à la modernisation de la sécurité civile ;
+Vu le décret n° 99-1039 du 10 décembre 1999 modifié relatif aux sapeurs-
+pompiers volontaires ; Vu le décret n° 2000-825 du 28 août 2000 modifié
+relatif à la formation des jeunes sapeurs-pompiers et portant organisation du
+brevet national de jeunes sapeurs-pompiers ; Vu l'arrêté du 6 mai 2000 modifié
+fixant les conditions d'aptitude médicale des sapeurs-pompiers professionnels
+et volontaires et les conditions d'exercice de la médecine professionnelle et
+préventive au sein des services départementaux d'incendie et de secours ; Vu
+l'arrêté du 28 août 2003 relatif aux conditions d'homologation et aux
+procédures d'exploitation des aérodromes ; Vu l'arrêté du 4 janvier 2006
+relatif au schéma national des emplois, des activités et des formations des
+sapeurs-pompiers professionnels et volontaires ; Vu l'arrêté du 5 janvier 2006
+relatif aux formations de tronc commun des sapeurs-pompiers volontaires,
+Arrêtent : Article 1 En savoir plus sur cet article... Le présent arrêté fixe,
+sur les aérodromes visés aux articles R. 221-1 et D. 232-1 du code de
+l'aviation civile où le préfet exerce le pouvoir de police, les modalités
+d'application des articles D. 213-1 à D. 213-1-12 du même code relatifs au
+service de sauvetage et de lutte contre l'incendie des aéronefs (SSLIA). TITRE
+Ier : DÉFINITION DES MOYENS Section 1 : Définition du niveau de protection
+Article 2 En savoir plus sur cet article... I.-Les classes d'avions visées à
+l'article D. 213-1-2 du code de l'aviation civile s'établissent de la façon
+suivante, le terme avion étant entendu au sens de la définition donnée à
+l'article D. 213-1-1 : CLASSE LONGUEUR HORS-TOUT de l'avion LARGEUR MAXIMALE
+du fuselage 1 0 à 9 m non inclus 2 m 2 9 à 12 m non inclus 2 m 3 12 à 18 m non
+inclus 3 m 4 18 à 24 m non inclus 4 m 5 24 à 28 m non inclus 4 m 6 28 à 39 m
+non inclus 5 m 7 39 à 49 m non inclus 5 m 8 49 à 61 m non inclus 7 m 9 61 à 76
+m non inclus 7 m 10 76 à 90 m non inclus 8 m Pour déterminer la longueur hors-
+tout et la largeur du fuselage de chaque avion, seules les valeurs figurant
+dans la documentation associée au certificat de navigabilité sont prises en
+considération. II.-Si, après avoir établi la classe correspondant à la
+longueur hors-tout d'un avion, il apparaît que la largeur de son fuselage est
+supérieure à la largeur maximale indiquée pour cette classe, l'avion est
+classé dans la classe immédiatement supérieure. III.-Est rangé dans la classe
+d'avions qui correspond à sa longueur hors-tout divisée par trois tout avion
+effectuant un mouvement dans le cadre de l'une des opérations aériennes
+suivantes : -transport de fret ou de courrier exclusivement ; -vols d'essais
+ou vols de réceptions au sens de l'article R. 421-1 du code de l'aviation
+civile ; -vols de travail aérien, vols d'entraînement et de mise en place.
+Section 2 : Dotations Paragraphe 1 : Personnels, produits extincteurs et
+véhicules Article 3 En savoir plus sur cet article... Modifié par Arrêté du 3
+août 2016 - art. 1 I.-Les moyens en personnels, produits extincteurs et
+véhicules dont sont dotés les aérodromes en application de l'article D.
+213-1-3 du code de l'aviation civile figurent à l'annexe I au présent
+arrêté.II.-Les aérodromes dont le niveau de protection au sens de l'article D.
+213-1-1 est supérieur ou égal à 3 sont dotés d'un appareil respiratoire
+isolant (ARI) par chef de manoeuvre et pompier d'aérodrome en service. Cette
+dotation est augmentée d'une réserve de tels appareils égale à au moins 50 %.
+Chaque appareil est doté d'un jeu de bouteilles de rechange en réserve.
+III.-Sur les aérodromes dont le niveau de protection est supérieur ou égal à 4
+et où tout ou partie des arrivées et des départs d'aéronefs s'effectuent au-
+dessus d'une étendue d'eau, dans une limite de 1 200 mètres à compter des
+seuils de pistes et lorsque l'étendue est contiguë ou à l'intérieur de
+l'emprise de l'aérodrome (aérodromes dits côtiers ), les moyens suivants sont
+mis en place : 1. Une embarcation à déplacement rapide et d'un tirant d'eau
+adapté aux lieux ; 2. Des plates-formes propres à recueillir les passagers
+d'un aéronef et en nombre suffisant pour offrir une capacité totale de : 60
+places, sur les aérodromes de niveau de protection 4 et 5 ; 120 places, sur
+les aérodromes de niveau de protection 6 ; 180 places, sur les aérodromes de
+niveau de protection 7 ; 240 places, sur les aérodromes de niveau de
+protection supérieur ou égal à 8. Le préfet peut adapter ces exigences en
+fonction du contexte local. IV.-Une réserve d'agent complémentaire et d'agent
+de propulsion égale à 200 % des quantités requises à l'annexe I (tableau I) du
+présent arrêté doit être conservée sur l'aérodrome, ainsi qu'une réserve
+d'agents moussants correspondant à 4 pleines charges d'eau des véhicules
+requis pour atteindre les quantités définies à l'annexe I (tableau I). Article
+4 En savoir plus sur cet article... Si, sur un aérodrome, les avions relevant
+de la classe d'avions la plus élevée ou d'une classe supérieure non retenue,
+tels que définis par l'article D. 213-1-1 du code de l'aviation civile,
+n'effectuent leurs mouvements qu'à certaines périodes précises, journalières,
+hebdomadaires ou saisonnières, les moyens en personnels, produits extincteurs,
+véhicules et matériels requis en application de l'annexe I du présent arrêté
+peuvent être réduits en dehors de ces périodes, sans toutefois être inférieurs
+au niveau de protection correspondant à la classe d'avions la plus élevée
+utilisant l'aérodrome en période réduite. Paragraphe 2 : Infrastructures
+Article 5 En savoir plus sur cet article... Modifié par Arrêté du 3 mai 2017 -
+art. 1 Les infrastructures visées à l'article D. 213-1-3 du code de l'aviation
+civile se composent sur chaque aérodrome dont le niveau de protection est
+supérieur ou égal à 2 : 1\. De postes d'incendie dont le nombre et
+l'implantation sont fonction de l'objectif opérationnel prévu à l'article 20
+du présent arrêté ; 2\. De routes d'accès d'urgence, destinées à assurer
+l'objectif opérationnel prévu à l'article 20 dans toutes les parties de
+l'aérodrome ; si les conditions topographiques ne permettent pas un
+aménagement suffisant, les aires d'approche doivent être dotées en priorité de
+telles routes, au minimum jusqu'aux limites de l'emprise domaniale de
+l'aérodrome et de manière coordonnée avec le dispositif ORSEC aérodrome ;
+3.D'une zone permettant l'entraînement des personnels. Les aérodromes dits "
+côtiers " au sens du III de l'article 3 doivent être dotés en outre
+d'appontements ou de dispositifs de mise à l'eau appropriés aux embarcations
+détenues. Pour ces aérodromes, le préfet peut adapter ces exigences
+supplémentaires en fonction du contexte local. TITRE II : ORGANISATION DU
+SERVICE Section 1 : Agréments des personnels chargés du SSLIA Paragraphe 1 :
+Agrément du responsable du service Article 6 En savoir plus sur cet article...
+I.-Sous réserve des dispositions prévues à l'article 8 du présent arrêté,
+l'agrément prévu à l'article D. 213-1-6 du code de l'aviation civile en vue
+d'exercer la fonction de responsable du SSLIA est délivré à toute personne
+ayant passé avec succès un examen théorique de présélection, suivi d'un
+entretien d'évaluation devant une commission d'aptitude chargée de donner un
+avis au préfet. II.-L'examen théorique de présélection a pour objet de
+vérifier si le candidat dispose :-des connaissances nécessaires pour assurer
+l'instruction des personnels placés sous ses ordres ;-d'un niveau général
+d'études équivalant à deux années après le baccalauréat. Les modalités de cet
+examen sont définies dans l'annexe V du présent arrêté. III.-L'entretien
+d'évaluation se déroule devant une commission d'aptitude composée en nombre
+égal de membres représentant l'administration de l'aviation civile,
+l'administration de la sécurité civile et l'exploitant de l'aérodrome pour
+lequel l'agrément est sollicité. Les membres de cette commission sont choisis,
+pour une ou plusieurs sessions d'examens, par le préfet.L'entretien a
+notamment pour objet de vérifier les connaissances générales du candidat en
+matière de sécurité-incendie et d'apprécier son aptitude à l'encadrement.
+Article 7 En savoir plus sur cet article... Modifié par Arrêté du 3 mai 2017 -
+art. 2 L'agrément prévu à l'article 6 est délivré par le préfet pour une
+année. Durant l'année suivant l'obtention de son premier agrément, le
+bénéficiaire doit suivre, parallèlement à l'exercice de sa fonction de
+responsable, une formation professionnelle, sanctionnée par un examen, dont
+les modalités sont précisées à l'annexe V au présent arrêté. L'agrément prévu
+à l'article 6 est automatiquement reconduit dès lors que l'exploitant de
+l'aérodrome atteste auprès du préfet que l'intéressé n'a pas présenté
+d'insuffisance notoire dans l'exercice de sa fonction. Tout responsable du
+SSLIA ayant déjà exercé sur un aérodrome peut bénéficier automatiquement d'un
+agrément pour un autre aérodrome, à condition que l'exploitant atteste que
+l'intéressé a reçu une formation spécifique concernant les particularités de
+cet aérodrome et qu'il n'a pas perdu son précédent agrément pour insuffisance
+notoire dans l'exercice de sa fonction. Article 8 En savoir plus sur cet
+article... Les responsables du SSLIA embauchés à la date de publication du
+présent arrêté bénéficient de l'agrément prévu à l'article D. 213-1-6 du code
+de l'aviation civile dans les conditions prévues à l'article 7 du présent
+arrêté. Paragraphe 2 : Agrément de chef de manoeuvre Article 9 En savoir plus
+sur cet article... Modifié par Arrêté du 3 mai 2017 - art. 3 I.-Sous réserve
+des dispositions prévues à l'article 11, l'agrément prévu à l'article D.
+213-1-6 du code de l'aviation civile en vue d'exercer la fonction de chef de
+manoeuvre du SSLIA est délivré sur proposition de l'exploitant, au terme d'une
+période probatoire, à toute personne répondant à l'une des deux conditions
+suivantes : -avoir été, depuis moins de deux ans, officier ou sous-officier de
+sapeurs-pompiers professionnels ou volontaires dans un service d'incendie et
+de secours ou dans une unité militaire chargée de la lutte contre les
+incendies ou investie à titre permanent de missions de sécurité civile ;
+-posséder, depuis au moins deux ans, l'agrément de pompier sur un aérodrome de
+niveau de protection supérieur ou égal à 6, et détenir un certificat médical
+tel que prévu à l'article 13 du présent arrêté ainsi que le ou les permis
+requis pour la conduite des catégories de véhicules incendie. Cette période
+probatoire est sanctionnée par l'attestation de l'exploitant de l'aérodrome,
+indiquant que l'intéressé satisfait aux exigences opérationnelles de chef de
+manoeuvre sur l'aérodrome. Par dérogation au premier alinéa du présent
+article, les pompiers qui exercent sur un aérodrome de niveau de protection 5
+évoluant vers un niveau supérieur ou égal à 6, et qui possèdent l'agrément de
+pompier depuis au moins deux ans, peuvent également se voir délivrer
+l'agrément en vue d'exercer la fonction de chef de manoeuvre sur le même
+aérodrome. II.-Durant la période probatoire, l'intéressé doit d'abord valider
+une formation initiale dont le programme et les modalités d'examen figurent au
+titre II-A de l'annexe II du présent arrêté puis une formation spécifique
+relative à la sécurité aéroportuaire figurant au titre II-B de l'annexe II du
+présent arrêté. Toute formation initiale ne peut rester valide plus de trois
+ans, qu'avec une formation de recyclage de moins de trois ans. III.-Sous
+réserve des dispositions prévues à l'article 12 du présent arrêté, l'agrément
+est délivré par le préfet dès lors que celui-ci a reçu de l'exploitant
+l'attestation mentionnée au présent article, pour l'intéressé. Tout chef de
+manoeuvre ayant déjà exercé sur un aérodrome bénéficie automatiquement d'un
+agrément pour un autre aérodrome, à condition que l'exploitant atteste que
+l'intéressé a reçu une formation spécifique concernant les particularités de
+cet aérodrome. Paragraphe 3 : Agrément de pompier d'aérodrome Article 10 En
+savoir plus sur cet article... Modifié par Arrêté du 3 mai 2017 - art. 4 I. -
+Sous réserve des dispositions prévues à l'article 11 du présent arrêté,
+l'agrément prévu à l'article D. 213-1-6 du code de l'aviation civile en vue
+d'exercer la fonction de pompier d'aérodrome au sein du SSLIA, sur un
+aérodrome déterminé, est délivré à toute personne répondant à l'ensemble des
+conditions suivantes : \- elle a obtenu la validation du tronc commun dont le
+programme et les modalités de validation, définis par le ministre chargé de
+l'aviation civile, figurent au point 1 du titre Ier de l'annexe II au présent
+arrêté ainsi que des modules incendie et secours à personnes organisés dans
+les conditions prévues à l'article 14 du présent arrêté ; \- elle détient une
+attestation de l'exploitant d'aérodrome certifiant qu'elle a reçu la formation
+locale concernant les particularités de l'aérodrome, dont le programme, défini
+par le ministre chargé de l'aviation civile, figure au point 2 du titre Ier de
+l'annexe II au présent arrêté ; \- elle est titulaire du ou des permis, en
+cours de validité, requis pour la conduite des catégories de véhicules du
+SSLIA et, le cas échéant, des embarcations dont est doté l'aérodrome si elle
+est amenée à les conduire ; \- elle possède le certificat médical prévu à
+l'article 13 du présent arrêté. Peuvent toutefois bénéficier, sur proposition
+de l'exploitant d'aérodrome, d'une décision de validation par le préfet de
+tout ou partie de leur formation antérieure, les agents répondant à l'une des
+conditions ci-après : \- être titulaire de la mention complémentaire “
+sécurité civile et d'entreprise ” ; \- avoir, depuis moins de deux ans : \-
+servi dans un service d'incendie et de secours en tant que sapeur-pompier
+professionnel ou volontaire ; \- ou exercé dans une unité militaire chargée de
+la lutte contre les incendies ou investie à titre permanent de missions de
+sécurité civile et justifier d'une formation spécifique à cet effet ; \- ou
+reçu une formation de volontaire en service civique des sapeurs-pompiers ; \-
+ou obtenu le brevet national de jeunes sapeurs-pompiers. II. - A. - Par
+dérogation au paragraphe I, toute personne ayant reçu une formation
+réglementée de pompier d'aérodrome dans un autre Etat membre de l'Union
+européenne ou un autre Etat partie à l'accord sur l'Espace économique
+européen, ou dont la formation reçue dans un pays tiers a été reconnue par
+l'un de ces Etats, peut obtenir un agrément pour exercer la fonction de
+pompier d'aérodrome au sein d'un SSLIA, sur un aérodrome déterminé, à
+condition : \- d'avoir obtenu la reconnaissance de ses compétences au regard
+des formations citées aux deuxième et troisième alinéas du I ; \- de détenir
+une attestation de l'exploitant d'aérodrome certifiant qu'elle a reçu la
+formation locale concernant les particularités de l'aérodrome, dont le
+programme, défini par le ministre chargé de l'aviation civile, figure au point
+2 du titre Ier de l'annexe II au présent arrêté ; \- de posséder le certificat
+médical prévu à l'article 13 du présent arrêté ; \- d'être titulaire du ou des
+permis, en cours de validité, requis pour la conduite des catégories de
+véhicules du SSLIA et, le cas échéant, des embarcations dont est doté
+l'aérodrome si elle est amenée à les conduire. B. - Par dérogation au
+paragraphe I, toute personne peut obtenir un agrément pour exercer la fonction
+de pompier d'aérodrome sur un aérodrome déterminé si elle remplit l'ensemble
+des conditions suivantes : \- elle a exercé la profession de pompier
+d'aérodrome à temps plein pendant une année ou à temps partiel pendant une
+durée totale équivalente au cours des dix années précédentes dans un ou
+plusieurs Etats membres qui ne réglementent pas cette profession ; \- elle
+possède une ou plusieurs attestations de compétences ou preuves de titre de
+formation délivrées dans un autre Etat membre qui ne réglemente pas cette
+profession ; \- elle détient une attestation de l'exploitant d'aérodrome
+certifiant qu'elle a reçu la formation locale concernant les particularités de
+l'aérodrome, dont le programme, défini par le ministre chargé de l'aviation
+civile, figure au point 2 du titre Ier de l'annexe II au présent arrêté ; \-
+elle possède le certificat médical prévu à l'article 13 du présent arrêté ; \-
+elle est titulaire du ou des permis, en cours de validité, requis pour la
+conduite des catégories de véhicules du SSLIA et, le cas échéant, des
+embarcations dont est doté l'aérodrome si elle est amenée à les conduire.
+L'expérience professionnelle d'un an ne peut cependant pas être requise si le
+titre de formation que possède la personne certifie une profession
+réglementée. C. - Lorsque les connaissances, aptitudes et compétences acquises
+par la formation, l'expérience professionnelle et l'apprentissage tout au long
+de la vie au sens de l'article 3 (l) de la directive susvisée sont
+substantiellement différentes en terme de contenu de celles acquises par la
+formation permettant d'exercer la fonction de pompier d'aérodrome en France,
+le préfet peut prendre la décision, dûment justifiée, d'imposer à la personne
+un stage d'adaptation ou une épreuve d'aptitude. Le choix entre le stage
+d'adaptation et l'épreuve d'aptitude est laissé à la personne. Le stage
+d'adaptation, qui fait l'objet d'une évaluation, est accompagné éventuellement
+d'une formation complémentaire. L'épreuve d'aptitude a pour but d'apprécier
+l'aptitude de la personne à exercer la profession de pompier d'aérodrome. Le
+préfet veille à ce que la personne ait la possibilité de présenter l'épreuve
+d'aptitude dans un délai maximal de six mois à compter de la décision initiale
+imposant une épreuve d'aptitude à la personne. D. - L'accès partiel au sens de
+la directive peut être autorisé par le préfet au cas par cas, lorsque les
+conditions suivantes sont remplies : \- le demandeur est pleinement qualifié
+pour exercer dans l'Etat membre d'origine l'activité pour laquelle un accès
+partiel est sollicité ; \- les différences entre l'activité professionnelle
+exercée dans l'Etat membre d'origine et la France sont telles que
+l'application de mesures de compensation reviendrait à imposer au demandeur de
+suivre un programme complet d'enseignement et de formation pour avoir
+pleinement accès à la profession en France ; \- l'activité professionnelle
+peut être séparée d'autres activités relevant de la profession réglementée
+dans l'Etat membre d'accueil ; \- l'activité professionnelle peut être exercée
+de manière autonome dans l'Etat membre d'origine. L'accès partiel peut être
+refusé si ce refus est justifié par des raisons de sécurité. E. - S'il existe
+un doute sérieux et concret sur le niveau suffisant des connaissances
+linguistiques de la personne bénéficiant de la reconnaissance de ses
+qualifications professionnelles au regard des activités de pompier
+d'aérodrome, le préfet peut imposer un contrôle des connaissances
+linguistiques. Ce contrôle est proportionné à l'activité à exercer. Article 10
+bis (abrogé) En savoir plus sur cet article... Créé par Arrêté du 18 novembre
+2009 - art. 3 Abrogé par Arrêté du 22 décembre 2015 - art. 3 Article 10 ter En
+savoir plus sur cet article... Modifié par Arrêté du 22 décembre 2015 - art. 4
+Libre prestation de services. A.-Toute personne légalement établie dans un
+autre Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen peut obtenir un agrément pour
+exercer l'activité de pompier d'aérodrome de façon temporaire et occasionnelle
+sur un aérodrome déterminé du territoire national si : 1° Elle a obtenu la
+reconnaissance de ses compétences lorsque la profession est réglementée dans
+son Etat d'établissement ; 2° Elle a exercé la profession de pompier
+d'aérodrome dans un ou plusieurs Etats membres pendant au moins une année à
+temps plein ou à temps partiel pendant une durée équivalente au cours des dix
+années qui précèdent la prestation lorsque la profession n'est pas réglementée
+dans son Etat d'établissement. La condition exigeant l'exercice de la
+profession pendant une année n'est pas d'application si la profession ou la
+formation conduisant à la profession est réglementée ; 3° Elle détient une
+attestation de l'exploitant d'aérodrome certifiant qu'elle a reçu la formation
+locale concernant les particularités de l'aérodrome, dont le programme, défini
+par le ministre chargé de l'aviation civile, figure au point 2 du titre Ier de
+l'annexe II au présent arrêté ; 4° Elle possède le certificat médical prévu à
+l'article 13 du présent arrêté ; 5° Elle est titulaire du ou des permis, en
+cours de validité, requis pour la conduite des catégories de véhicules du
+SSLIA et, le cas échéant, des embarcations dont est doté l'aérodrome si elle
+est amenée à les conduire. B.-Tout prestataire souhaitant exercer une
+prestation de service en tant que pompier d'aérodrome de façon temporaire et
+occasionnelle sur un aérodrome du territoire national en informe au préalable
+le préfet exerçant les pouvoirs de police sur l'aérodrome, par une déclaration
+écrite qui peut donner lieu à une vérification de ses compétences
+professionnelles. Le prestataire peut fournir cette déclaration par tout
+moyen. Lors de la première prestation de services ou en cas de changement de
+situation, la déclaration est accompagnée des documents attestant que le
+prestataire remplit les conditions fixées au A du présent article. La
+vérification a pour objectif d'éviter des dommages graves pour la sécurité des
+destinataires du service, du fait du manque de qualification professionnelle
+du prestataire. Au plus tard un mois à compter de la réception de la
+déclaration et des documents joints, le préfet informe le prestataire de sa
+décision : -de permettre la prestation de services sans vérifier ses
+qualifications professionnelles ; -ayant vérifié ses qualifications
+professionnelles : -de lui imposer une épreuve d'aptitude ; ou -de permettre
+la prestation de service. En cas de difficulté susceptible de provoquer un
+retard dans la prise de décision prévue au paragraphe précédent, et notamment
+quand un complément d'information est nécessaire, le préfet informe le
+prestataire dans le même délai des raisons du retard. La difficulté est
+résolue dans le mois qui suit cette information et la décision est prise dans
+un délai de deux mois suivant la résolution ce cette difficulté. C.-En cas de
+différence substantielle entre les compétences professionnelles du prestataire
+et celles acquises par la formation permettant d'exercer la fonction de
+pompier d'aérodrome sur le territoire français, dans la mesure où cette
+différence est de nature à nuire au bon fonctionnement du SSLIA, et où elle ne
+peut être compensée par l'expérience professionnelle du prestataire ou par les
+connaissances, aptitudes et compétences acquises lors d'un apprentissage tout
+au long de la vie au sens de l'article 3 (l) de la directive susvisée ayant
+fait l'objet, à cette fin, d'une validation en bonne et due forme, il est
+offert au prestataire la possibilité de démontrer qu'il a les connaissances,
+aptitudes ou compétences manquantes, par une épreuve d'aptitude. La décision
+est prise, sur cette base, d'autoriser ou non la prestation de services. La
+prestation de service doit pouvoir intervenir dans le mois qui suit la
+décision imposant l'épreuve d'aptitude. D.-L'accès partiel au sens de la
+directive peut être autorisé par le préfet au cas par cas, lorsque les
+conditions suivantes sont remplies : -le demandeur est pleinement qualifié
+pour exercer dans l'Etat membre d'origine l'activité pour laquelle un accès
+partiel est sollicité ; -les différences entre l'activité professionnelle
+exercée dans l'Etat membre d'origine et la France sont telles que
+l'application de mesures de compensation reviendrait à imposer au demandeur de
+suivre un programme complet d'enseignement et de formation pour avoir
+pleinement accès à la profession en France ; -l'activité professionnelle peut
+être séparée d'autres activités relevant de la profession réglementée dans
+l'Etat membre d'accueil ; -l'activité professionnelle peut être exercée de
+manière autonome dans l'Etat membre d'origine. L'accès partiel peut être
+refusé si ce refus est justifié par des raisons de sécurité. E.-S'il existe un
+doute sérieux et concret sur le niveau suffisant des connaissances
+linguistiques de la personne bénéficiant de la reconnaissance de ses
+qualifications professionnelles au regard des activités de pompier
+d'aérodrome, le préfet peut imposer un contrôle des connaissances
+linguistiques. Ce contrôle est proportionné à l'activité à exercer. Article 10
+quater En savoir plus sur cet article... Modifié par Arrêté du 22 décembre
+2015 - art. 5 Un pompier d'aérodrome ne peut exercer ses fonctions sur un
+aérodrome autre que celui au titre duquel l'agrément initial lui a été
+délivré, qu'après attestation de l'exploitant d'aérodrome indiquant que
+l'intéressé a reçu la formation locale concernant les particularités de cet
+aérodrome. Paragraphe 4 : Dispositions communes aux agréments de chef de
+manoeuvre et de pompier d'aérodrome Article 11 En savoir plus sur cet
+article... I.-Les chefs de manoeuvre et les pompiers d'aérodrome embauchés à
+la date de publication du présent arrêté et agréés définitivement au titre des
+réglementations précédentes, pour l'exercice des fonctions correspondantes,
+bénéficient de plein droit de l'agrément prévu à l'article D. 213-1-6 du code
+de l'aviation civile. Sous réserve des dispositions prévues à l'article 12 du
+présent arrêté, l'agrément est délivré par le préfet pour la durée d'activité
+du bénéficiaire sur l'aérodrome. II.-Les chefs de manoeuvre et les pompiers
+d'aérodrome embauchés à la date de publication du présent arrêté et agréés
+provisoirement au titre de l'arrêté du 5 septembre 1979 relatif à
+l'organisation et au fonctionnement du SSLIA, pour l'exercice des fonctions
+correspondantes, bénéficient de l'agrément prévu à l'article D. 213-1-6 du
+code de l'aviation civile après avoir rempli les conditions requises pour la
+délivrance de l'agrément définitif prévu au titre des réglementations
+précédentes. Sous réserve des dispositions prévues à l'article 12 du présent
+arrêté et de l'alinéa ci-dessous, l'agrément est délivré par le préfet pour la
+durée d'activité du bénéficiaire sur l'aérodrome. Toutefois, dans un délai de
+six mois à compter de l'obtention de l'agrément, le bénéficiaire doit valider
+l'ensemble des modules de formations définies par le ministre chargé de
+l'aviation civile et figurant au titre III-A de l'annexe II du présent arrêté.
+A défaut, l'agrément est retiré. Article 12 En savoir plus sur cet article...
+Le maintien pour la durée d'activité du bénéficiaire sur l'aérodrome des
+agréments visés aux articles 9, 10 et 11 du présent arrêté est subordonné pour
+le bénéficiaire : - à l'accomplissement de séances d'entraînements théoriques
+et pratiques à la lutte contre les incendies d'aéronefs et au sauvetage dont
+la périodicité, les programmes et les modalités d'examens sont définis par le
+ministre chargé de l'aviation civile et figurant au titre III-B de l'annexe II
+du présent arrêté ; - à la possession du certificat médical prévu à l'article
+13 du présent arrêté ; - à l'accomplissement de stages de formation continue
+dont la périodicité, les programmes, les modalités d'évaluation et de
+validation sont définis par le ministre chargé de l'aviation civile et
+figurant au titre III-A de l'annexe II du présent arrêté ; - à l'exécution,
+par période de trois mois, d'au moins 144 heures de service avec l'alternative
+d'au moins 24 vacations pour les aérodromes de niveau de protection inférieur
+à 6, sauf si le responsable du SSLIA agréé atteste auprès du préfet que le
+pompier ou le chef de manoeuvre, après une absence inférieure à six mois a
+effectué une formation locale de remise à niveau dont le programme a été
+préalablement transmis au préfet. L'agrément est immédiatement suspendu dès
+lors que son bénéficiaire ne respecte plus l'une des conditions prévues dans
+les deux premiers tirets ci-dessus. En revanche, l'agrément est retiré lorsque
+le bénéficiaire ne respecte plus l'une des conditions prévues dans les deux
+derniers tirets visés ci-dessus et si, au terme d'une période maximale de six
+mois suivant la survenance de l'événement en cause, l'intéressé n'a pas validé
+l'ensemble des modules de formations figurant au III-A de l'annexe II du
+présent arrêté. En toute hypothèse, le bénéficiaire ne peut exercer de
+fonctions opérationnelles au sein du service tant que celui-ci n'a pas validé
+les modules de formation correspondant aux exercices pratiques d'application.
+Article 13 En savoir plus sur cet article... Le certificat médical prévu par
+les articles 10 et 12 du présent arrêté est délivré pour un an à la suite d'un
+examen pratiqué par un médecin du service médical de la direction générale de
+l'aviation civile, un médecin du service de santé et de secours médical du
+service départemental d'incendie et de secours ou un médecin agréé par l'un de
+ces services ou par le préfet. Toute personne s'étant vu refuser la délivrance
+du certificat médical par l'une des autorités précitées peut faire appel de
+cette décision auprès d'une commission, présidée par le médecin-chef du
+service de l'inspection médicale du travail et de la main-d'oeuvre des
+transports et comprenant un médecin du service médical de la direction
+générale de l'aviation civile, et un médecin du service de santé et de secours
+médical du service départemental d'incendie et de secours du lieu du domicile
+du demandeur. Le médecin ayant refusé la délivrance du certificat ne peut être
+membre de la commission. La personne faisant appel peut, si elle le sollicite,
+obtenir communication de son dossier, être entendue par la commission avant
+que celle-ci se prononce et se faire représenter ou assister par la personne
+de son choix. La décision de la commission est notifiée à la personne et peut
+faire l'objet d'un recours de pleine juridiction. Le secrétariat de la
+commission est assuré par les services de l'inspection médicale du travail et
+de la main-d'oeuvre des transports. Les modalités d'organisation de l'examen
+médical et les conditions d'aptitude médicale exigées pour la délivrance du
+certificat médical sont celles définies par le ministre chargé de la sécurité
+civile pour les sapeurs-pompiers professionnels et volontaires, dans le cadre
+des missions d'incendie et de secours à personnes. Le médecin chargé du
+contrôle de l'aptitude est informé de tout arrêt de travail supérieur à vingt
+et un jours pour cause de maladie ou accident et peut décider d'une visite
+préalable à la reprise de toute activité opérationnelle. En cas de grossesse,
+cette visite est obligatoire. Article 14 En savoir plus sur cet article...
+Modifié par Arrêté du 3 mai 2017 - art. 5 I.-Les modules incendie et secours à
+personnes visés à l'article 10 du présent arrêté, dont le programme correspond
+aux modules applicables aux sapeurs-pompiers professionnels et volontaires et
+pompiers militaires, ainsi que la formation initiale visée à l'article 9 du
+présent arrêté, sont organisés par des services d'incendie et de secours ou
+des unités militaires chargées de la lutte contre les incendies ou investies à
+titre permanent de missions de sécurité civile ayant conventionné avec
+l'aérodrome. Ces conventions établies entre les différentes parties
+déterminent notamment les conditions pédagogiques de chaque formation ainsi
+que les modalités administratives et financières. II.-Les formations des
+agents exerçant les activités du SSLIA, figurant aux titres Ier-1, II-B,
+premier et troisième tiret, et III-A de l'annexe II au présent arrêté, peuvent
+être dispensées par tout organisme de formation professionnelle disposant de
+personnels qualifiés ou expérimentés dans le domaine. III.-Les responsables du
+SSLIA organisent pour leurs agents les formations figurant aux titres Ier-2 et
+II-B, deuxième tiret, de l'annexe II au présent arrêté. Section 2 : Règles et
+prescriptions techniques relatives aux matériels et aux postes d'incendie du
+SSLIA Article 15 (abrogé) En savoir plus sur cet article... Modifié par Décret
+n°2014-132 du 17 février 2014 - art. 19 Abrogé par Arrêté du 3 août 2016 -
+art. 2 Article 16 (abrogé) En savoir plus sur cet article... Modifié par
+Décret n°2014-132 du 17 février 2014 - art. 19 Abrogé par Arrêté du 3 août
+2016 - art. 2 Article 17 En savoir plus sur cet article... Chaque poste
+d'incendie comporte en toute hypothèse : - des moyens spécialisés d'alerte ; -
+des moyens spécialisés de communication ; - des bâtiments de protection et de
+petit entretien pour les véhicules et le matériel ; - des moyens de stockage
+et de remplissage rapide des véhicules en eau et agents extincteurs ; - des
+moyens d'alimentation en énergie électrique des véhicules permettant de garder
+à température les moteurs et l'eau des cuves, d'assurer leur démarrage et de
+garder une pression suffisante pour le système de freinage ; - des moyens
+d'hébergement du personnel et des équipes de permanence. Le préfet peut, sur
+demande de l'exploitant et suivant le contexte local, adapter les moyens
+précités. TITRE III : RÈGLES D'INTERVENTION Section 1 : Cadre général
+d'intervention du SSLIA Article 18 En savoir plus sur cet article... I.-Les
+fonctions imparties au SSLIA par l'article D. 213-1 du code de l'aviation
+civile s'exercent dans la zone d'aérodrome (ZA) et la zone voisine d'aérodrome
+(ZVA) définies à l'article 19 du présent arrêté. Toutefois, s'il est doté des
+moyens adéquats, le service participe également à la recherche des aéronefs
+dont la balise de détresse est activée. II.-Dans le cadre des dispositions
+législatives et réglementaires relatives à la protection des personnes et des
+biens, le SSLIA participe, dans les zones prévues au I ci-dessus, aux
+opérations de secours n'impliquant pas un aéronef. Le SSLIA est tenu
+d'intervenir dès qu'il est informé d'un incident majeur nécessitant une action
+immédiate de sa part dans l'attente de l'arrivée des moyens de secours publics
+et privés, et dans la limite des moyens disponibles à cet instant. Durant ces
+diverses interventions, sont mises en oeuvre les dispositions prévues à
+l'article 25. Section 2 : Définition de la zone d'aérodrome (ZA) et de la zone
+voisine d'aérodrome (ZVA) Article 19 En savoir plus sur cet article... I. - La
+zone d'aérodrome (ZA) comprend les éléments de l'emprise domaniale de
+l'aérodrome ainsi que les aires d'approches finales, jusqu'à une distance de 1
+200 mètres au maximum du seuil des pistes. II. - La zone voisine d'aérodrome
+(ZVA) comprend les éléments situés hors de la zone d'aérodrome, mais à une
+distance telle que l'action des moyens d'intervention aéroportuaires peut
+utilement être envisagée compte tenu des voies d'accès et des performances de
+ces moyens. Cette zone est définie conformément aux dispositions relatives au
+plan de secours spécialisé de l'aérodrome. III. - L'exploitant d'aérodrome
+établit et tient à jour une carte à quadrillage de la ZA et de la ZVA
+précisant les issues et cheminements à utiliser par les moyens de secours du
+service et ceux des centres de secours voisins. Cette carte et ses mises à
+jour sont approuvées par le préfet, qui les intègre dans le plan de secours
+spécialisé de l'aérodrome. La carte en vigueur doit être immédiatement
+disponible dans la tour de contrôle, les postes d'incendie et les véhicules du
+SSLIA. Section 3 : Objectif opérationnel du SSLIA Article 20 En savoir plus
+sur cet article... L'objectif opérationnel du SSLIA consiste à pouvoir
+atteindre, dans des conditions optimales de roulement des véhicules, chaque
+extrémité de piste et être en mesure d'y projeter, sans discontinuité : - dans
+un délai de trois minutes après le déclenchement de l'alerte, un débit de
+solution moussante égale à 50 % au moins du débit prévu à l'annexe I, pendant
+au moins une minute ou, pour les aérodromes de niveau de protection égal à 2,
+être en mesure d'y projeter l'agent complémentaire ; - au plus tard quatre
+minutes après le déclenchement de l'alerte, la totalité du débit de solution
+moussante et d'agent complémentaire prévus à l'annexe I. Il n'y a pas
+d'objectif de délai pour les aérodromes de niveau de protection égal à 1.
+Section 4 : Types d'intervention Article 21 En savoir plus sur cet article...
+Selon les circonstances en présence, le SSLIA est placé en : - état de veille
+; - état d'alerte ; - état d'accident. Article 22 En savoir plus sur cet
+article... L'état de veille est déclenché dans l'un ou l'autre des cas
+suivants : - si un pilote a signalé ou si l'on soupçonne des défaillances à
+bord de l'aéronef sans que celles-ci soient de nature à entraîner normalement
+des difficultés graves à l'atterrissage ; - si les procédures d'exploitation
+par faible visibilité (LVP) sont en vigueur. Durant cette période, les
+personnels nécessaires sont à bord ou à proximité immédiate des véhicules du
+SSLIA et prêts à intervenir. Article 23 En savoir plus sur cet article...
+L'état d'alerte est déclenché dans l'un ou l'autre des cas suivants : - si un
+pilote a signalé ou si l'on soupçonne qu'un aéronef a subi, ou risque de
+subir, une défaillance de nature à entraîner un risque d'accident ; - si les
+conditions de visibilité et de plafond deviennent inférieures aux seuils fixés
+par la réglementation relative aux conditions d'homologation et aux procédures
+d'exploitation des aérodromes. Les consignes opérationnelles précisent la
+manière dont les véhicules du SSLIA sont déployés durant cette période, sur
+des emplacements prédéterminés. Article 24 En savoir plus sur cet article...
+L'état d'accident est déclenché lorsque s'est produit ou va inévitablement se
+produire un accident d'aéronefs sur l'aérodrome ou à ses abords. Dans cette
+hypothèse, les moyens du service de secours doivent être mobilisés pour
+circonscrire en un minimum de temps l'accident et le préfet est informé de la
+situation. Section 5 : Cas d'indisponibilité du SSLIA Article 25 En savoir
+plus sur cet article... I. - L'état d'indisponibilité totale ou partielle du
+SSLIA est déclenché lorsque les moyens requis sur un aérodrome en application
+des titres Ier et II de l'annexe I du présent arrêté sont momentanément
+indisponibles dans leur emploi, sans que cette indisponibilité excède deux
+mois à compter de sa survenance. Dans cette hypothèse, l'exploitant
+d'aérodrome est tenu d'informer les organismes chargés de la circulation
+aérienne de façon à ce que ces derniers en avisent les usagers de l'aérodrome.
+En cas d'indisponibilité prévisible, toutes dispositions sont prises pour une
+publication préalable d'un avis aux navigateurs aériens (NOTAM). II. - Durant
+cette période, les mesures suivantes sont prises : A. - Pendant les douze
+premières heures d'indisponibilité, deux cas sont à prévoir : 1.
+L'indisponibilité paraît devoir être de courte durée et il semble possible d'y
+remédier avant la fin du délai de douze heures : toutes les dispositions sont
+prises en vue d'y remédier aussi rapidement que possible. Les usagers de
+l'aérodrome sont informés de cette situation par les organismes chargés de la
+circulation aérienne. 2. L'indisponibilité a de très fortes probabilités de
+dépasser le délai de douze heures : a) Toutes les dispositions sont prises en
+vue de remédier aussi rapidement que possible à cette situation ; b) Les
+usagers de l'aérodrome sont informés par les organismes de la circulation
+aérienne de la réduction temporaire du niveau de protection tant que
+l'information n'est pas disponible par voie d'avis aux navigateurs aériens
+(NOTAM) ; c) L'organisme de la circulation aérienne demande la publication
+d'un avis aux navigateurs aériens (NOTAM). B. - Si les moyens requis par le
+niveau de protection de l'aérodrome demeurent indisponibles au-delà de douze
+heures à compter de leur survenance, les navigateurs aériens et les
+entreprises de transport aérien public sont informés de la réduction
+temporaire du niveau de protection par NOTAM. Si l'indisponibilité des moyens
+se prolonge plus de deux mois, le ministre chargé de l'aviation civile fixe un
+nouveau niveau de protection à l'aérodrome correspondant aux moyens
+effectivement disponibles sur la plate-forme. Le trafic accueilli sur
+l'aérodrome doit être adapté en conséquence. Section 6 : Activité des
+personnels Article 26 En savoir plus sur cet article... L'équipe de permanence
+dûment composée en application des dispositions prévues à l'annexe I du
+présent arrêté doit être disponible lors des mouvements d'aéronefs sur
+l'aérodrome. Cette disponibilité est assurée : - pour un décollage, avant la
+mise en route des moteurs et jusqu'à quinze minutes après celui-ci ; - pour un
+atterrissage, au moins dix minutes avant celui-ci et jusqu'à quinze minutes
+après l'arrêt complet des moteurs. Article 27 En savoir plus sur cet
+article... Sur les aérodromes ayant un niveau de protection inférieur à 6, les
+personnels visés aux articles D. 213-1-4 et D. 213-1-5 du code de l'aviation
+civile peuvent exercer durant leurs vacations, isolément ou simultanément, une
+autre activité que celle afférente au SSLIA dès lors que les consignes
+opérationnelles de l'aérodrome déterminent les conditions de leur
+compatibilité avec le respect de l'objectif opérationnel prévu à l'article 20
+du présent arrêté. Sur les aérodromes ayant un niveau de protection égal ou
+supérieur à 6, les personnels précités peuvent uniquement exercer durant leurs
+vacations, isolément ou simultanément, des activités de prévention contre le
+péril animalier, des inspections de l'aire de mouvement et des mesures
+opérationnelles d'adhérence de piste, dès lors que les consignes
+opérationnelles de l'aérodrome déterminent les conditions de leur
+compatibilité avec le respect de l'objectif opérationnel prévu à l'article 20
+du présent arrêté. Section 7 : Entretien des produits extincteurs, véhicules,
+équipements et infrastructures Article 28 En savoir plus sur cet article...
+Modifié par Arrêté du 3 août 2016 - art. 3 L'exploitant d'aérodrome s'assure
+que les produits extincteurs, les véhicules et les équipements affectés au
+SSLIA sont entretenus conformément au carnet d'entretien des constructeurs et
+fabricants et, pour les véhicules, aux règles générales du code de la route et
+aux directives de la direction régionale de l'environnement, de l'aménagement
+et du logement. L'exploitant d'aérodrome conserve aux produits extincteurs et
+équipements des caractéristiques leur permettant de répondre à l'usage prévu
+lors de leur mise en service. Article 29 En savoir plus sur cet article... Les
+routes d'accès d'urgence prévues à l'article 5 du présent arrêté sont
+entretenues par l'exploitant d'aérodrome de manière à ce qu'elles conviennent
+en permanence à l'usage auquel elles sont destinées. Section 8 : Comptes
+rendus d'intervention Article 30 En savoir plus sur cet article...
+L'exploitant d'aérodrome établit les comptes rendus visés aux articles D.
+213-1-9 et D. 213-1-10 du code de l'aviation civile, suivant les principes
+définis à l'annexe III du présent arrêté. Ces comptes rendus sont transmis au
+préfet par l'exploitant d'aérodrome, même si celui-ci a confié le SSLIA à un
+organisme extérieur. En outre, un compte rendu annuel est établi en vue de
+recenser mois par mois l'ensemble des activités du service, de récapituler les
+différentes interventions effectuées au cours de l'année et de présenter les
+essais effectués durant l'année sur les véhicules en exploitation et en
+réserve. Section 9 : Consignes opérationnelles Article 31 En savoir plus sur
+cet article... Les consignes opérationnelles sont établies par l'exploitant
+d'aérodrome suivant le modèle figurant à l'annexe IV du présent arrêté et dans
+le respect des dispositions du titre III du présent arrêté. TITRE IV :
+DISPOSITIONS FINALES Article 32 En savoir plus sur cet article... Les
+dispositions du présent arrêté entrent en vigueur le premier jour du sixième
+mois à compter de sa publication. Article 33 En savoir plus sur cet article...
+L'arrêté du 9 janvier 2001 modifié relatif aux normes techniques applicables
+au SSLIA et l'arrêté du 14 mai 2001 relatif aux conditions d'agrément du
+responsable du SSLIA sont abrogés dès l'entrée en vigueur des dispositions du
+présent arrêté. Article 33-1 En savoir plus sur cet article... Modifié par
+Arrêté du 3 août 2016 - art. 4 Les dispositions du présent arrêté sont
+applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna sans préjudice des dispositions locales applicables en
+matière de droit du travail, et sous réserve des adaptations suivantes : 1\.
+Les pouvoirs conférés au préfet sont exercés par le représentant de l'Etat.
+2\. La référence aux règles générales du code de la route est remplacée par la
+référence aux dispositions applicables localement ayant le même objet pour la
+Nouvelle-Calédonie, la Polynésie française et les îles Wallis et Futuna. 3\.
+La référence à la direction régionale de l'environnement, de l'aménagement et
+du logement est remplacée par la référence à la direction de l'environnement,
+de l'aménagement et du logement en Guadeloupe, en Guyane, en Martinique, à
+Mayotte, à la Réunion ; par la référence à la direction des territoires, de
+l'alimentation et de la mer à Saint-Pierre-et-Miquelon ; par la référence au
+pôle territoire, mer, développement durable à Saint-Martin et Saint-
+Barthélemy, et par la référence aux services compétents en Nouvelle-Calédonie,
+en Polynésie française et dans les îles Wallis et Futuna. Article 34 En savoir
+plus sur cet article... Le directeur général de l'aviation civile et le
+directeur de la défense et de la sécurité civiles sont chargés, chacun en ce
+qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal
+officiel de la République française. Annexes Annexe I En savoir plus sur cet
+article... Modifié par Arrêté du 3 août 2016 - art. I.-Quantités minimales
+d'agents extincteurs principal et complémentaire requises en application de
+l'article D. 213-1-3 du code de l'aviation civile (art. 3) : Le Manuel des
+services d'aéroport (doc 9137, 1re partie), publié par l'Organisation de
+l'aviation civile internationale, contient des renseignements sur les
+propriétés physiques et le pouvoir d'extinction qu'une mousse doit avoir pour
+satisfaire à un niveau de performance acceptable A, B ou C. MOUSSE
+SATISFAISANT au niveau A de performance MOUSSE SATISFAISANT au niveau B de
+performance MOUSSE SATISFAISANT au niveau C de performance AGENTS
+COMPLÉMENTAIRES Niveau de protection de l'aérodrome Eau (L) Débit solution de
+mousse L/ minute Eau (L) Débit solution de mousse L/ minute Eau (L) Débit
+solution de mousse L/ minute Poudres chimiques (kg) Débit (kg/ sec) 1 50 2 250
+3 1 800 1 300 1 200 900 820 630 135 2.25 4 3 600 2 600 2 400 1 800 1 700 1 100
+135 2.25 5 8 100 4 500 5 400 3 000 3 900 2 200 180 2.25 6 11800 6 000 7 900 4
+000 5 800 2 900 225 2.25 7 18200 7 900 12100 5 300 8 800 3 800 225 2.25 8
+27300 10 800 18200 7 200 12800 5 100 450 4.5 9 36400 13 500 24300 9 000 17100
+6 300 450 4.5 10 48200 16 600 32300 11 200 22800 7 900 450 4.5 1\. Les
+quantités d'agent extincteur principal figurant dans le tableau ci-dessus sont
+exprimées en quantités d'eau disponibles pour la production de mousse. Le
+débit d'agent extincteur principal est exprimé en débit de solution moussante
+projeté par le moyen d'action principal du véhicule. 2\. La quantité d'agent
+moussant disponible sur un véhicule est suffisante pour assurer une production
+de mousse correspondant à deux pleines charges au moins de cette quantité
+d'eau. 3\. L'agent complémentaire est une poudre extinctrice de type BC.
+II.-Nombre minimal de véhicules et de personnels requis en application de
+l'article D. 213-1-3 du code de l'aviation civile (art. 3) : NIVEAU DE
+PROTECTION de l'aérodrome NOMBRE DE VÉHICULES SSLIA NOMBRE DE PERSONNELS 10 3
+6 pompiers d'aérodrome + 1 chef de manœuvre 9 3 6 pompiers d'aérodrome + 1
+chef de manœuvre 8 3 6 pompiers d'aérodrome + 1 chef de manœuvre 7 2 4
+pompiers d'aérodrome + 1 chef de manœuvre 6 2 4 pompiers d'aérodrome + 1 chef
+de manœuvre 5 1 2 pompiers d'aérodrome 4 1 2 pompiers d'aérodrome 3 1 2
+pompiers d'aérodrome 2 1 véhicule léger 1 pompier d'aérodrome 1 1\. La
+dotation en personnels et véhicules est déterminée de façon à atteindre
+l'objectif opérationnel prévu à l'article 20 du présent arrêté. 2\. Lorsqu'une
+configuration particulière de l'aérodrome ou une répartition des agents
+extincteurs sur les véhicules conduit, pour atteindre la dotation
+réglementaire en agents extincteurs, à mettre en œuvre un nombre de véhicules
+supérieur au nombre minimal requis pour la catégorie, le nombre de postes de
+pompiers correspondants est déterminé, en plus du poste de chef de manœuvre
+lorsqu'il est requis, par le nombre de postes nécessaires pour utiliser les
+véhicules. 3\. Sur les aérodromes de niveau de protection supérieur à 2,
+chacun des véhicules SSLIA composant la dotation ci-dessus est doté de l'agent
+extincteur principal. Annexe II En savoir plus sur cet article... Modifié par
+Arrêté du 3 mai 2017 - art. FORMATIONS ET ENTRAÎNEMENTS DES CHEFS DE MANŒUVRE
+ET POMPIERS D'AÉRODROME I.-La formation initiale des pompiers d'aérodrome
+(art. 10) Le programme de formation initiale de pompier d'aérodrome se compose
+de deux parties successives : -un tronc commun comportant des enseignements
+théoriques et des exercices pratiques d'application ; -une formation locale
+entièrement axée sur la connaissance de l'aérodrome sur lequel le pompier va
+exercer son activité, de son matériel et de ses procédures propres. 1\. Le
+tronc commun MODULES CONTENU Connaissances aéronautiques générales Structure
+d'un aérodrome (pistes, axes de circulation, parking, etc.) Balisage piste,
+voies de circulation, rampe d'approche Réglementation de la circulation
+aérienne (y compris circulation au sol) Phraséologie aéronautique Météorologie
+Aides radioélectriques Règles d'exploitation en zone de sûreté à accès
+réglementé Connaissance des aéronefs Structure des aéronefs Moteurs types
+(pistons, turbopropulseurs, réacteurs) Moyens d'évacuation Zones d'effractions
+et zones à risques Protection incendie embarquée Identification Objectifs du
+SSLIA Zone critique et pratique Taux d'application Classements des aéronefs
+Classement des SSLIA (personnels, matériels) Agents extincteurs utilisés
+Extinction Eau Mousse et émulseurs, CO2 et poudre Extincteurs Véhicules SSLIA
+Spécificités VIM VIM P VIP Avitaillement des aéronefs Réglementation de
+sécurité Protection des personnels EPI Tactiques de lutte contre l'incendie
+des aéronefs et techniques d'interventions spécifiques Caractéristiques
+communes Refroidissement de trains d'atterrissages Feux de turbopropulseurs
+Feux réacteurs APU Feux de soutes et de cabines Feux de cellules Feux d'ailes
+et de trains Techniques d'interventions sur accidents d'aéronefs majeurs
+Techniques d'interventions avec ARI Techniques d'évacuations Techniques
+d'interventions diverses Risques spéciaux Feux de camions avitailleurs Feux
+d'engins spéciaux sur aires de trafic Avions d'armes Risques chimiques
+(notions de base) Instruction IATA (marchandises dangereuses) Identification
+des marchandises dangereuses Procédures d'interventions sur marchandises
+dangereuses Radioactivité (notions de base) Procédures d'intervention sur
+marchandises radioactives Protection du personnel dans interventions à risques
+spéciaux Le suivi des modules ci-dessus est sanctionné par un examen écrit et
+par une épreuve pratique portant sur les matières abordées au cours du stage.
+2\. La formation locale MODULES CONTENU Connaissance du SSLIA de l'aérodrome
+(théorie et entraînements pratiques) Présentation des moyens Utilisation des
+matériels Entretien des matériels Organisation du poste incendie Connaissance
+de l'aérodrome (théorie et reconnaissance du terrain) Présentation du plan de
+masse Reconnaissance de la plate-forme, y compris des bâtiments Reconnaissance
+des abords (ZVA) Règles de déplacement sur les aires Phraséologie Principaux
+avions fréquentant le site Règles d'intervention du SSLIA de l'aérodrome
+(théorie) Recueil de consignes opérationnelles Le dispositif ORSEC aérodrome
+Plans départementaux (SATER, SAMAR …) Procédures de recherche balise
+Quadrillage ZA/ ZVA II.-Formation initiale des chefs de manœuvre (art. 9-II)
+A.-Formation initiale (examen de validation défini par le ministre chargé de
+la sécurité civile) (86 heures environ) hors temps de déplacement MODULES OU
+UNITÉS de valeur de formation CONTENU DURÉE Management Motivation Management
+Cheminement de l'information Distribution d'une mission Notion de travail
+collectif Notion de pédagogie Evaluation 26 heures environ Techniques
+opérationnelles Gestion d'une opération de secours à personnes Situations
+spécifiques Hygiène et entretien du matériel Mise en application des
+connaissances Evaluation 17 heures environ Incendie Généralités sur la lutte
+contre les incendies Reconnaissances Direction d'un sauvetage Alimentation de
+l'engin pompe et établissements Méthodes et techniques d'attaque Protection
+des biens, déblai, surveillance Evaluation 43 heures environ B.-Formation
+spécifique Le programme de formation initiale de chef de manœuvre se compose
+de trois parties successives : -le tronc commun prévu au titre Ier de la
+présente annexe, que doivent suivre les sapeurs-pompiers professionnels ou
+volontaires ou militaires des unités chargées de la lutte contre les incendies
+ou investies à titre permanent de missions de sécurité civile sollicitant
+l'agrément prévu à l'article 9 ; -la formation locale prévue au titre Ier de
+la présente annexe, que doivent suivre les personnes précitées ainsi que
+celles n'ayant pas exercé les fonctions de pompiers d'aérodrome pendant au
+moins deux ans sur le même aérodrome que celui pour lequel elles sollicitent
+l'agrément ; -la formation spécifique chef de manœuvre, que doit suivre toute
+personne sollicitant l'agrément précité et comprenant des enseignements
+théoriques et des exercices pratiques d'application, portant sur la gestion
+opérationnelle et le commandement, les techniques d'intervention (rappels et
+approfondissements) et les notions de base sur l'entraînement et la formation.
+Les parties tronc commun et formation locale sont sanctionnées suivant les
+mêmes conditions que celles prévues au titre Ier de la présente annexe. La
+partie formation spécifique chef de manœuvre est sanctionnée par un examen
+écrit et par une épreuve pratique portant sur les matières abordées au cours
+de la formation. III.-Formation continue et entraînement des chefs de manœuvre
+et pompiers d'aérodrome (art. 12) A.-Formation continue 1\. Programme a) Chefs
+de manœuvre : La formation continue des chefs de manœuvre consiste en stages
+de recyclage comportant des enseignements théoriques et des exercices
+pratiques d'application, et comprend une révision générale de la formation
+spécialisée aux fonctions de chef de manœuvre et une présentation des
+principales évolutions technologiques et réglementaires. b) Pompiers
+d'aérodrome : La formation continue des pompiers d'aérodrome consiste en
+stages de recyclage comportant des enseignements théoriques et des exercices
+pratiques d'application, et comprend une révision générale du tronc commun et
+une présentation des principales évolutions technologiques et réglementaires.
+2\. Modalités d'évaluation et périodicité a) Modalités d'évaluation : La
+formation continue des chefs de manœuvre et des pompiers d'aérodrome donne
+lieu, par l'organisme formateur, à une évaluation formative des acquis et des
+compétences mis en œuvre afin de lui permettre de vérifier que les objectifs
+de formation sont atteints par les stagiaires. Cette évaluation peut être
+répartie tout au long de la formation. b) Périodicité : Les chefs de manœuvre
+et les pompiers d'aérodrome suivent les stages de formation continue suivant
+une périodicité de trois ans. B.-Entraînements 1\. Programme a) Culture
+physique : L'entraînement comportera la pratique d'un sport ou de la culture
+physique dans le cadre des heures de service. b) Connaissance de l'aérodrome :
+Reconnaissance de l'aérodrome (y compris bâtiments) et de ses abords (ZVA), de
+jour comme de nuit, par toutes conditions météorologiques. c) Véhicules et
+embarcations : Entraînement à la conduite des véhicules et embarcations, de
+jour comme de nuit. Peut être mené simultanément avec l'entraînement
+précédent. d) Equipements de protection individuelle et extincteurs :
+Entraînement pratique à l'utilisation, sur feux pour les extincteurs. e)
+Partie théorique : Cours sur un sujet théorique ou pratique. Les sujets
+traités peuvent être un rappel sur les consignes intérieures, sur
+l'utilisation du matériel et sa mise en œuvre dans des situations normales
+d'utilisation ou en situation dégradée, un rappel sur les techniques
+d'interventions, ou tout autre thème intéressant la fonction SSLIA. Sur les
+aérodromes d'un niveau de protection égal ou supérieur à 6, cette formation
+théorique est réalisée par les chefs de manœuvre à l'attention des pompiers
+d'aérodrome, et par le responsable du service (ou une personne de
+qualification équivalente par lui désigné) à l'attention des chefs de
+manœuvre. Le choix des sujets et leur programmation est une des tâches du
+responsable du service. Sur les aérodromes d'un niveau de protection inférieur
+ou égal à 5, cette formation théorique peut être une autoformation. 2\.
+Périodicité des entraînements La périodicité des entraînements par agent est
+au minimum la suivante : a) Culture physique : Deux heures par semaine. b)
+Connaissance de l'aérodrome : Aire de mouvement : toutes les deux semaines ;
+Ensemble de l'aérodrome : une fois par mois ; Abords de l'aérodrome : tous les
+trois mois. c) Véhicules et embarcations : Toutes les deux semaines. d)
+Equipements de protection individuelle et extincteurs : Equipements : tous les
+trois mois ; Extincteurs : à chaque obligation de procéder au renouvellement
+du produit extincteur et notamment : -poudre et eau pulvérisée : une fois par
+an ; -poudre pour feux de métaux : tous les cinq ans ; -CO2 : une fois par an.
+e) Partie théorique : Pompiers d'aérodrome : une heure à chaque prise de garde
+; Chefs de manœuvre : deux heures deux fois par mois. Annexe III COMPTES
+RENDUS D'INTERVENTION (ART. 30) Les comptes rendus ont pour but de recenser
+les éléments d'information permettant d'étudier les améliorations à apporter
+dans les domaines du coût et de l'efficacité des services de sauvetage et de
+lutte contre l'incendie des aéronefs sur les aérodromes. A cette fin, il
+importe que les renseignements soient fournis systématiquement et d'une
+manière homogène par tous. 1\. Compte rendu analytique d'intervention sur
+aéronef A établir après toute intervention sur aéronef, lorsqu'un moyen
+d'extinction a été effectivement utilisé, ou au cours de laquelle une
+assistance a été portée à une (ou plusieurs) personne(s) en danger. A adresser
+dans le mois qui suit l'intervention. 2\. Compte rendu analytique
+d'intervention hors aéronef A établir après toute intervention au cours de
+laquelle des personnes et des biens ont été sauvés en dehors des aéronefs. A
+adresser dans le mois qui suit l'intervention. 3\. Compte rendu d'avarie sur
+véhicule A établir pour toute avarie sur un véhicule de sauvetage et de lutte
+contre l'incendie des aéronefs ayant entraîné une indisponibilité du matériel
+ou une altération significative de ses caractéristiques. Un compte rendu par
+avarie est à adresser dans le mois qui suit l'avarie. Annexe IV MODÈLE DE
+CONSIGNES OPÉRATIONNELLES (ART. 31) Le recueil de consignes opérationnelles du
+SSLIA doit au minimum comprendre les items énumérés dans la table des matières
+ci-après : Section 0 Présentation.Préambule (le présent document précise les
+conditions de fonctionnement et d'exploitation du SSLIA de l'aérodrome
+de...).Amendements (toute modification de l'exploitation du SSLIA fera l'objet
+d'un amendement diffusé aux destinataires du présent manuel). Section 1Objet
+Le présent manuel a pour objet de planifier l'activité du SSLIA et des
+installations sur l'aérodrome de...Il décrit les matériels mis en oeuvre,
+détaille le rôle des différents intervenants et expose les actions menées en
+fonction des différentes situations d'alerte.Il rappelle les stratégies
+d'intervention à adopter en opération ainsi que les règles de sécurité à
+observer sur l'aérodrome. Section 2Moyens A. - Véhicules et embarcations
+(description du parc véhicules terrestres et embarcations maritimes et
+fluviales).B. - Personnels (effectif, composition, encadrement).C. - Bâtiments
+(description, position par rapport au plan de masse).D. - Equipements divers
+(ARI, groupes d'éclairage, accessoires).E. - Moyens d'alerte (différents
+systèmes, procédure de secours).F. - Types d'alerte (définition, rôle des
+autres intervenants, rôle du service pour chacun des types d'alerte). Section
+3Niveaux de protection(y compris règles de modulation)Section 4Organisation du
+service 4.1. Fonctions (responsable du service/chef de
+manoeuvre/pompiers).4.2. Formation et entraînement (conformes à la
+réglementation et adaptés à l'aérodrome). Section 5Communications 5.1.
+Circulation sur l'aérodrome (connaissance des règles et des autorisations de
+circulation).5.2. Phraséologie (expressions conventionnelles,
+signification/signaux visuels). Section 6Matériels 6.1. Contrôle des véhicules
+(opérations journalières, hebdomadaires et périodiques d'entretien).6.2.
+Contrôle des matériels et tâches de servitudes (opérations hebdomadaires).
+Section 7Interventions sur aéronef 7.1. Zone d'intervention (plan quadrillé
+ZA/ZVA parties terrestre et maritime).7.2. Déclenchement de l'alarme
+(matériels d'alarme/procédure d'alarme).7.3. Interventions du service
+(consignes en cas de situation de veille, d'alerte ou d'accident).7.4. Feux
+particuliers (consignes en cas de feu de moteur, de train d'atterrissage, de
+soute, de matière radioactive..). Section 8Interventions hors aéronef 8.1.
+Principes (mission secondaire, intervention sur feu dans l'aérogare, au dépôt
+pétrolier...).8.2. Modalités d'intervention du service (consignes pour chacun
+de ces cas). Section 9Interventions à l'extérieur 9.1. ZA (hors emprise
+domaniale).9.2. ZVA (procédure de mise en oeuvre/définition des capacités
+d'intervention/consignes sur le niveau résiduel). Section 10Autres
+activités(consignes à respecter au cas où surviendrait un état de
+veille,d'alerte ou d'accident durant l'exécution d'autres activités)
+L'exécution d'autres activités par les personnels lors de leur service de
+garde est subordonnée aux conditions ci-après :- les personnels doivent être
+en tenue ;- ils doivent demeurer dans les limites de la ZA ;- ils doivent être
+en liaison bilatérale permanente avec le poste incendie ;- ils doivent
+disposer d'un véhicule SSLIA en état opérationnel et complètement équipé et
+rester à proximité immédiate de celui-ci ;- les tâches en cours doivent
+pouvoir être abandonnées sans aucun délai ;- au cas où surviendrait un état de
+veille, les agents doivent immédiatement cesser l'exécution de ces tâches,
+prendre place à bord ou à proximité immédiate du ou des véhicules et se
+préparer à une intervention ;- au cas où surviendrait un état d'alerte, les
+agents doivent immédiatement cesser l'exécution de ces tâches, prendre place à
+bord du ou des véhicules et appliquer la procédure de déploiement aux
+emplacements prédéterminés ;- au cas où surviendrait un état d'accident, les
+agents doivent immédiatement cesser l'exécution de ces tâches et prendre leurs
+instructions auprès du chef de manoeuvre, ou, en l'absence de chef de
+manoeuvre, appliquer la procédure d'intervention sur accident ;- consignes
+locales supplémentaires. Annexe V En savoir plus sur cet article... Modifié
+par Arrêté du 3 mai 2017 - art. 7 FORMATION DU RESPONSABLE DU SSLIA (ART. 6 ET
+7) I. - Modalités de l'examen théorique de présélection L'examen théorique de
+présélection du responsable du SSLIA sur les aérodromes de niveau de
+protection supérieur ou égal à 6 est organisé par le préfet à la demande de
+l'exploitant de l'aérodrome ou de l'organisme auquel il a confié le service,
+pour le ou les candidats qu'il propose. La commission d'aptitude constitue le
+jury de cet examen qui comporte une épreuve orale de culture générale et une
+épreuve de conversation en anglais. L'épreuve orale de culture générale, d'une
+durée de 20 minutes, est destinée à apprécier les connaissances générales du
+candidat ainsi que ses capacités à exposer et à argumenter sur un sujet donné.
+Elle porte sur un texte tiré au sort par le candidat concernant les grandes
+évolutions techniques, économiques ou sociales de la France depuis le début du
+xxe siècle. Après un temps de préparation de 20 minutes, le candidat fait un
+commentaire de textes de 10 à 12 minutes devant le jury, qui l'interroge
+ensuite sur le thème du texte, sur l'une des matières principales de ses
+études ou sur son expérience professionnelle. L'épreuve de conversation en
+anglais, de 10 minutes, est destinée à vérifier la capacité de compréhension
+du candidat d'une conversation courante susceptible de se dérouler sur un
+aérodrome. Un article de presse en anglais ou un texte en anglais ayant trait
+aux techniques aéronautiques peut servir de support à la conversation. Le jury
+donne son avis au préfet sur le ou les candidats présentés. II.-Modalités de
+la formation professionnelle Le responsable du SSLIA suit une formation
+professionnelle. Celle-ci est définie par l'exploitant ou l'organisme auquel
+il a confié le service. Le programme de cette formation est défini en liaison
+avec le responsable nouvellement agréé en fonction de ses besoins particuliers
+de perfectionnement pour l'exercice de sa mission dans les domaines suivants :
+\- les missions dévolues au chef de manœuvre au sein du SSLIA sur un aérodrome
+; \- la gestion des ressources humaines ; \- les techniques aéronautiques et
+d'exploitation et l'économie des aéroports. Le plan de formation ainsi établi
+est transmis à la commission d'aptitude. Fait à Paris, le 18 janvier 2007. Le
+ministre des transports, de l'équipement, du tourisme et de la mer, Pour le
+ministre et par délégation : Le directeur des affaires stratégiques et
+techniques, P. Schwach Le ministre d'Etat, ministre de l'intérieur et de
+l'aménagement du territoire, Pour le ministre et par délégation : Le directeur
+de la défense et de la sécurité civiles, haut fonctionnaire de défense, H.
+Masse Télécharger le document en RTF (poids < 1Mo) Masquer le panneau de
+navigation Imprimer À propos de l'ordre juridique français Licences Quoi de
+neuf sur le site ? À propos du site Plan du site Accessibilité Aide générale
+Nous écrire Établir un lien
+
